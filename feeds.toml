@@ -13,6 +13,7 @@ url = "https://news.hada.io/show"
 entrySelector = "td.topictitle"
 titleSelector = "h1"
 linkSelector = "a"
+contentSelector = "span.topicurl"
 waitUntil = "networkidle"
 
 [ask]
