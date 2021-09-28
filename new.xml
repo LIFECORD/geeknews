@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://news.hada.io/new</id>
+    <title>GeekNews ─ 최신글</title>
+    <updated>2021-09-28T01:34:46.608Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tidy Viewer (tv) - CSV를 깔끔하게 보는 CLI]]></title>
+        <id>https://github.com/alexhallam/tv</id>
+        <link href="https://github.com/alexhallam/tv"/>
+        <updated>2021-09-28T01:34:33.857Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bain의 기술 보고서 2021 [92p PDF]]]></title>
+        <id>https://www.bain.com/insights/topics/technology-report/</id>
+        <link href="https://www.bain.com/insights/topics/technology-report/"/>
+        <updated>2021-09-28T01:34:33.858Z</updated>
+        <content type="html"><![CDATA[(bain.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로그래머를 위한 이름 짓는 원리]]></title>
+        <id>https://green-labs.github.io/programmers-naming</id>
+        <link href="https://green-labs.github.io/programmers-naming"/>
+        <updated>2021-09-28T01:34:33.859Z</updated>
+        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시계열DB를 밑바닥부터 만들어보기]]></title>
+        <id>https://nakabonne.dev/posts/write-tsdb-from-scratch/</id>
+        <link href="https://nakabonne.dev/posts/write-tsdb-from-scratch/"/>
+        <updated>2021-09-28T01:34:33.861Z</updated>
+        <content type="html"><![CDATA[(nakabonne.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파일을 보관하는 방식과 세대 차이]]></title>
+        <id>https://newspeppermint.com/2021/09/24/googlegenerationcomputer</id>
+        <link href="https://newspeppermint.com/2021/09/24/googlegenerationcomputer"/>
+        <updated>2021-09-28T01:34:33.861Z</updated>
+        <content type="html"><![CDATA[(newspeppermint.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 낸내 - 라이선스 걱정 없는 한글 폰트]]></title>
+        <id>https://news.hada.io/topic?id=5091</id>
+        <link href="https://news.hada.io/topic?id=5091"/>
+        <updated>2021-09-28T01:34:33.867Z</updated>
+        <content type="html"><![CDATA[(naen-nae.shj.rip)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 오픈 소스 프로젝트가 사용자로부터 자금을 조달한 방법!]]></title>
+        <id>https://dev.to/o1lab/how-my-open-source-project-got-angel-investment-from-its-user-12dp</id>
+        <link href="https://dev.to/o1lab/how-my-open-source-project-got-angel-investment-from-its-user-12dp"/>
+        <updated>2021-09-28T01:34:33.867Z</updated>
+        <content type="html"><![CDATA[(dev.to)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['구글 for 스타트업 액셀러레이터: 한국' 접수 시작]]></title>
+        <id>https://startup.google.com/accelerator/korean/</id>
+        <link href="https://startup.google.com/accelerator/korean/"/>
+        <updated>2021-09-28T01:34:33.872Z</updated>
+        <content type="html"><![CDATA[(startup.google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust로 라즈베리 Pi용 임베디드OS 만들어보기]]></title>
+        <id>https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials</id>
+        <link href="https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials"/>
+        <updated>2021-09-28T01:34:33.873Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2년만에 8조원 가치가 된 스타트업에서 배운 것]]></title>
+        <id>https://entrepreneurshandbook.co/hyperscaling-hopin-fc457e48886f</id>
+        <link href="https://entrepreneurshandbook.co/hyperscaling-hopin-fc457e48886f"/>
+        <updated>2021-09-28T01:34:33.874Z</updated>
+        <content type="html"><![CDATA[(entrepreneurshandbook.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chezmoi - 여러 머신의 dotfile 통합 관리]]></title>
+        <id>https://github.com/twpayne/chezmoi</id>
+        <link href="https://github.com/twpayne/chezmoi"/>
+        <updated>2021-09-28T01:34:33.878Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Hotkey 1.5 라이브러리]]></title>
+        <id>https://github.com/github/hotkey</id>
+        <link href="https://github.com/github/hotkey"/>
+        <updated>2021-09-28T01:34:33.879Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[nginx playground]]></title>
+        <id>https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/</id>
+        <link href="https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/"/>
+        <updated>2021-09-28T01:34:33.880Z</updated>
+        <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: NocoDB : 오픈 소스 Airtable을 소개합니다.]]></title>
+        <id>https://news.hada.io/topic?id=5083</id>
+        <link href="https://news.hada.io/topic?id=5083"/>
+        <updated>2021-09-28T01:34:33.881Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이직할 때 어떻게 회사를 고르시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5082</id>
+        <link href="https://news.hada.io/topic?id=5082"/>
+        <updated>2021-09-28T01:34:33.882Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elk - 임베디드 시스템을 위한 초소형 JS엔진]]></title>
+        <id>https://github.com/cesanta/elk</id>
+        <link href="https://github.com/cesanta/elk"/>
+        <updated>2021-09-28T01:34:33.883Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replay - 웹 개발용 시간여행 디버거]]></title>
+        <id>https://www.replay.io/</id>
+        <link href="https://www.replay.io/"/>
+        <updated>2021-09-28T01:34:33.884Z</updated>
+        <content type="html"><![CDATA[(replay.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bespoke Synth 1.0 - 오픈소스 모듈러 Synthesizer]]></title>
+        <id>https://www.bespokesynth.com/</id>
+        <link href="https://www.bespokesynth.com/"/>
+        <updated>2021-09-28T01:34:33.885Z</updated>
+        <content type="html"><![CDATA[(bespokesynth.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이폰 13 프로 카메라 리뷰]]></title>
+        <id>https://austinmann.com/trek/iphone-13-pro-camera-review-tanzania</id>
+        <link href="https://austinmann.com/trek/iphone-13-pro-camera-review-tanzania"/>
+        <updated>2021-09-28T01:34:33.886Z</updated>
+        <content type="html"><![CDATA[(austinmann.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delphi / C++ Builder / RAD Studio 11 릴리즈]]></title>
+        <id>https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-11-alexandria/</id>
+        <link href="https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-11-alexandria/"/>
+        <updated>2021-09-28T01:34:33.887Z</updated>
+        <content type="html"><![CDATA[(blogs.embarcadero.com)]]></content>
+    </entry>
+</feed>
