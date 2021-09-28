@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-28T01:34:46.640Z</updated>
+    <updated>2021-09-28T01:46:07.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Tidy Viewer (tv) - CSV를 깔끔하게 보는 CLI (GeekNews ─ 최신글)]]></title>
@@ -147,14 +147,14 @@
         <title type="html"><![CDATA[Show GN: 낸내 - 라이선스 걱정 없는 한글 폰트 (GeekNews Show)]]></title>
         <id>https://news.hada.io/topic?id=5091</id>
         <link href="https://news.hada.io/topic?id=5091"/>
-        <updated>2021-09-28T01:34:39.737Z</updated>
+        <updated>2021-09-28T01:34:33.867Z</updated>
         <content type="html"><![CDATA[<a href="topic?id=5091" rel="nofollow" id="tr1"><h1>Show GN: 낸내 - 라이선스 걱정 없는 한글 폰트</h1></a> <span class="topicurl">(naen-nae.shj.rip)</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: NocoDB : 오픈 소스 Airtable을 소개합니다. (GeekNews Show)]]></title>
         <id>https://news.hada.io/topic?id=5083</id>
         <link href="https://news.hada.io/topic?id=5083"/>
-        <updated>2021-09-28T01:34:39.738Z</updated>
+        <updated>2021-09-28T01:34:33.881Z</updated>
         <content type="html"><![CDATA[<a href="topic?id=5083" rel="nofollow" id="tr2"><h1>Show GN: NocoDB : 오픈 소스 Airtable을 소개합니다.</h1></a> <span class="topicurl">(github.com)</span>]]></content>
     </entry>
     <entry>
@@ -280,7 +280,7 @@
         <title type="html"><![CDATA[Ask GN: 이직할 때 어떻게 회사를 고르시나요? (GeekNews Ask)]]></title>
         <id>https://news.hada.io/topic?id=5082</id>
         <link href="https://news.hada.io/topic?id=5082"/>
-        <updated>2021-09-28T01:34:45.867Z</updated>
+        <updated>2021-09-28T01:34:33.882Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 코더에서 CEO가 되는 것에 대한 리소스가 뭐가 있을까요? (GeekNews Ask)]]></title>
