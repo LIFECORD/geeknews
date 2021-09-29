@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-29T00:35:21.373Z</updated>
+    <updated>2021-09-29T01:50:25.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[CloudFlare R2 Object Storage 공개 (GeekNews ─ 최신글)]]></title>
+        <id>https://blog.cloudflare.com/introducing-r2-object-storage/</id>
+        <link href="https://blog.cloudflare.com/introducing-r2-object-storage/"/>
+        <updated>2021-09-29T01:50:12.290Z</updated>
+        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2.5년간 1주에 40-50시간 업무용으로 VR을 사용한 사람의 후기 (GeekNews ─ 최신글)]]></title>
+        <id>https://blog.immersed.team/working-from-orbit-39bf95a6d385</id>
+        <link href="https://blog.immersed.team/working-from-orbit-39bf95a6d385"/>
+        <updated>2021-09-29T01:50:12.290Z</updated>
+        <content type="html"><![CDATA[(blog.immersed.team)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사람의 피드백과 함께 재귀적으로 책 요약하기 (GeekNews ─ 최신글)]]></title>
         <id>https://openai.com/blog/summarizing-books/</id>
@@ -128,20 +142,6 @@
         <link href="https://github.com/cesanta/elk"/>
         <updated>2021-09-28T01:34:33.883Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replay - 웹 개발용 시간여행 디버거 (GeekNews ─ 최신글)]]></title>
-        <id>https://www.replay.io/</id>
-        <link href="https://www.replay.io/"/>
-        <updated>2021-09-28T01:34:33.884Z</updated>
-        <content type="html"><![CDATA[(replay.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bespoke Synth 1.0 - 오픈소스 모듈러 Synthesizer (GeekNews ─ 최신글)]]></title>
-        <id>https://www.bespokesynth.com/</id>
-        <link href="https://www.bespokesynth.com/"/>
-        <updated>2021-09-28T01:34:33.885Z</updated>
-        <content type="html"><![CDATA[(bespokesynth.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 낸내 - 라이선스 걱정 없는 한글 폰트 (GeekNews Show)]]></title>
