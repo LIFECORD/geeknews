@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-09-29T01:50:25.561Z</updated>
+    <updated>2021-09-29T02:20:36.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -120,9 +120,9 @@
         <updated>2021-09-28T01:34:45.904Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 요즘 어떤 회사가 가장 맘에 드시나요?]]></title>
-        <id>https://news.hada.io/topic?id=4902</id>
-        <link href="https://news.hada.io/topic?id=4902"/>
-        <updated>2021-09-28T01:34:45.905Z</updated>
+        <title type="html"><![CDATA[Ask GN: 개인 할 일 관리 서비스로 어떤 서비스 쓰고 계신가요?]]></title>
+        <id>https://news.hada.io/topic?id=4711</id>
+        <link href="https://news.hada.io/topic?id=4711"/>
+        <updated>2021-09-29T02:20:36.109Z</updated>
     </entry>
 </feed>
