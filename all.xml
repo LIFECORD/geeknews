@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-29T03:13:05.910Z</updated>
+    <updated>2021-09-29T04:14:12.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Vintage Apple (GeekNews ─ 최신글)]]></title>
+        <id>https://vintageapple.org/</id>
+        <link href="https://vintageapple.org/"/>
+        <updated>2021-09-29T04:13:59.988Z</updated>
+        <content type="html"><![CDATA[(vintageapple.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 엔지니어링 매니저는 하루종일 뭘 할까? (GeekNews ─ 최신글)]]></title>
+        <id>https://parkjoon.medium.com/what-does-my-engineering-manager-do-all-day-ebdc37c45d8</id>
+        <link href="https://parkjoon.medium.com/what-does-my-engineering-manager-do-all-day-ebdc37c45d8"/>
+        <updated>2021-09-29T04:13:59.989Z</updated>
+        <content type="html"><![CDATA[(parkjoon.medium.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub의 RDB 파티셔닝 후기 (GeekNews ─ 최신글)]]></title>
         <id>https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/</id>
@@ -129,19 +143,6 @@
         <link href="https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/"/>
         <updated>2021-09-28T01:34:33.880Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: NocoDB : 오픈 소스 Airtable을 소개합니다. (GeekNews ─ 최신글)]]></title>
-        <id>https://news.hada.io/topic?id=5083</id>
-        <link href="https://news.hada.io/topic?id=5083"/>
-        <updated>2021-09-28T01:34:33.881Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이직할 때 어떻게 회사를 고르시나요? (GeekNews ─ 최신글)]]></title>
-        <id>https://news.hada.io/topic?id=5082</id>
-        <link href="https://news.hada.io/topic?id=5082"/>
-        <updated>2021-09-28T01:34:33.882Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 낸내 - 라이선스 걱정 없는 한글 폰트 (GeekNews Show)]]></title>
