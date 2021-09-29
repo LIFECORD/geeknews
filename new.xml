@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-09-29T02:20:36.769Z</updated>
+    <updated>2021-09-29T03:13:05.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GitHub의 RDB 파티셔닝 후기]]></title>
+        <id>https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/</id>
+        <link href="https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/"/>
+        <updated>2021-09-29T03:12:50.686Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CloudFlare R2 Object Storage 공개]]></title>
         <id>https://blog.cloudflare.com/introducing-r2-object-storage/</id>
@@ -136,12 +143,5 @@
         <id>https://news.hada.io/topic?id=5082</id>
         <link href="https://news.hada.io/topic?id=5082"/>
         <updated>2021-09-28T01:34:33.882Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elk - 임베디드 시스템을 위한 초소형 JS엔진]]></title>
-        <id>https://github.com/cesanta/elk</id>
-        <link href="https://github.com/cesanta/elk"/>
-        <updated>2021-09-28T01:34:33.883Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
