@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-09-28T23:11:06.464Z</updated>
+    <updated>2021-09-29T00:35:21.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사람의 피드백과 함께 재귀적으로 책 요약하기]]></title>
+        <id>https://openai.com/blog/summarizing-books/</id>
+        <link href="https://openai.com/blog/summarizing-books/"/>
+        <updated>2021-09-29T00:35:08.930Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021년, 엔터테인먼트 업의 본질은 무엇일까요? (번역)]]></title>
         <id>https://ebadak.news/2021/09/27/what-is-an-entertainment-company/</id>
@@ -136,12 +143,5 @@
         <link href="https://www.bespokesynth.com/"/>
         <updated>2021-09-28T01:34:33.885Z</updated>
         <content type="html"><![CDATA[(bespokesynth.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이폰 13 프로 카메라 리뷰]]></title>
-        <id>https://austinmann.com/trek/iphone-13-pro-camera-review-tanzania</id>
-        <link href="https://austinmann.com/trek/iphone-13-pro-camera-review-tanzania"/>
-        <updated>2021-09-28T01:34:33.886Z</updated>
-        <content type="html"><![CDATA[(austinmann.com)]]></content>
     </entry>
 </feed>
