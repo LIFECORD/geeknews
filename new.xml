@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-09-29T13:18:25.545Z</updated>
+    <updated>2021-09-29T14:11:12.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 가장 사랑스러운 전자기기 / 가장 돈 아까운 전자기기 하나씩만 꼽아주세요!]]></title>
+        <id>https://news.hada.io/topic?id=5104</id>
+        <link href="https://news.hada.io/topic?id=5104"/>
+        <updated>2021-09-29T14:11:00.334Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vintage Apple]]></title>
         <id>https://vintageapple.org/</id>
@@ -137,12 +143,5 @@
         <link href="https://github.com/github/hotkey"/>
         <updated>2021-09-28T01:34:33.879Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nginx playground]]></title>
-        <id>https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/</id>
-        <link href="https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/"/>
-        <updated>2021-09-28T01:34:33.880Z</updated>
-        <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
 </feed>
