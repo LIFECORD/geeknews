@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-09-29T23:11:23.517Z</updated>
+    <updated>2021-09-30T00:41:12.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[VSCode의 Bracket Pair 색상화를 1만배 빠르게 만들기]]></title>
+        <id>https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization</id>
+        <link href="https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization"/>
+        <updated>2021-09-30T00:40:58.250Z</updated>
+        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 가장 사랑스러운 전자기기 / 가장 돈 아까운 전자기기 하나씩만 꼽아주세요!]]></title>
         <id>https://news.hada.io/topic?id=5104</id>
@@ -135,13 +142,6 @@
         <id>https://github.com/twpayne/chezmoi</id>
         <link href="https://github.com/twpayne/chezmoi"/>
         <updated>2021-09-28T01:34:33.878Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Hotkey 1.5 라이브러리]]></title>
-        <id>https://github.com/github/hotkey</id>
-        <link href="https://github.com/github/hotkey"/>
-        <updated>2021-09-28T01:34:33.879Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
