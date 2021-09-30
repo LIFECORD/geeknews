@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-09-30T00:41:12.032Z</updated>
+    <updated>2021-09-30T02:02:55.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hacktoberfest 2021 시작]]></title>
+        <id>https://hacktoberfest.digitalocean.com/</id>
+        <link href="https://hacktoberfest.digitalocean.com/"/>
+        <updated>2021-09-30T02:02:41.820Z</updated>
+        <content type="html"><![CDATA[(hacktoberfest.digitalocean.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marked 3.0 - 빠른 마크다운 파서 & 컴파일러]]></title>
+        <id>https://github.com/markedjs/marked</id>
+        <link href="https://github.com/markedjs/marked"/>
+        <updated>2021-09-30T02:02:41.821Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simula One - Linux기반 사무실용 VR 기기]]></title>
+        <id>https://simulavr.com/</id>
+        <link href="https://simulavr.com/"/>
+        <updated>2021-09-30T02:02:41.826Z</updated>
+        <content type="html"><![CDATA[(simulavr.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VSCode의 Bracket Pair 색상화를 1만배 빠르게 만들기]]></title>
         <id>https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization</id>
@@ -122,26 +143,5 @@
         <link href="https://startup.google.com/accelerator/korean/"/>
         <updated>2021-09-28T01:34:33.872Z</updated>
         <content type="html"><![CDATA[(startup.google.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust로 라즈베리 Pi용 임베디드OS 만들어보기]]></title>
-        <id>https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials</id>
-        <link href="https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials"/>
-        <updated>2021-09-28T01:34:33.873Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2년만에 8조원 가치가 된 스타트업에서 배운 것]]></title>
-        <id>https://entrepreneurshandbook.co/hyperscaling-hopin-fc457e48886f</id>
-        <link href="https://entrepreneurshandbook.co/hyperscaling-hopin-fc457e48886f"/>
-        <updated>2021-09-28T01:34:33.874Z</updated>
-        <content type="html"><![CDATA[(entrepreneurshandbook.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chezmoi - 여러 머신의 dotfile 통합 관리]]></title>
-        <id>https://github.com/twpayne/chezmoi</id>
-        <link href="https://github.com/twpayne/chezmoi"/>
-        <updated>2021-09-28T01:34:33.878Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
