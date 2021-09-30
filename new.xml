@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-09-30T02:02:55.072Z</updated>
+    <updated>2021-09-30T03:11:52.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Amazon 2021.9월 하드웨어 발표 총정리]]></title>
+        <id>https://www.engadget.com/amazon-2021-hardware-event-roundup-195702185.html</id>
+        <link href="https://www.engadget.com/amazon-2021-hardware-event-roundup-195702185.html"/>
+        <updated>2021-09-30T03:11:39.678Z</updated>
+        <content type="html"><![CDATA[(engadget.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hacktoberfest 2021 시작]]></title>
         <id>https://hacktoberfest.digitalocean.com/</id>
@@ -136,12 +143,5 @@
         <link href="https://dev.to/o1lab/how-my-open-source-project-got-angel-investment-from-its-user-12dp"/>
         <updated>2021-09-28T01:34:33.867Z</updated>
         <content type="html"><![CDATA[(dev.to)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['구글 for 스타트업 액셀러레이터: 한국' 접수 시작]]></title>
-        <id>https://startup.google.com/accelerator/korean/</id>
-        <link href="https://startup.google.com/accelerator/korean/"/>
-        <updated>2021-09-28T01:34:33.872Z</updated>
-        <content type="html"><![CDATA[(startup.google.com)]]></content>
     </entry>
 </feed>
