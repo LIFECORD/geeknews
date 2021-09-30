@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-09-30T05:10:05.883Z</updated>
+    <updated>2021-09-30T06:13:19.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요?]]></title>
+        <id>https://news.hada.io/topic?id=5110</id>
+        <link href="https://news.hada.io/topic?id=5110"/>
+        <updated>2021-09-30T06:13:07.503Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon 2021.9월 하드웨어 발표 총정리]]></title>
         <id>https://www.engadget.com/amazon-2021-hardware-event-roundup-195702185.html</id>
@@ -136,12 +142,5 @@
         <link href="https://news.hada.io/topic?id=5091"/>
         <updated>2021-09-28T01:34:33.867Z</updated>
         <content type="html"><![CDATA[(naen-nae.shj.rip)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 오픈 소스 프로젝트가 사용자로부터 자금을 조달한 방법!]]></title>
-        <id>https://dev.to/o1lab/how-my-open-source-project-got-angel-investment-from-its-user-12dp</id>
-        <link href="https://dev.to/o1lab/how-my-open-source-project-got-angel-investment-from-its-user-12dp"/>
-        <updated>2021-09-28T01:34:33.867Z</updated>
-        <content type="html"><![CDATA[(dev.to)]]></content>
     </entry>
 </feed>
