@@ -2,8 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-30T15:12:04.152Z</updated>
+    <updated>2021-09-30T16:15:53.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 정보를 어떻게 골라서 취식하시나요? (GeekNews ─ 최신글)]]></title>
+        <id>https://news.hada.io/topic?id=5111</id>
+        <link href="https://news.hada.io/topic?id=5111"/>
+        <updated>2021-09-30T16:15:40.375Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요? (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=5110</id>
@@ -134,13 +140,6 @@
         <link href="https://newspeppermint.com/2021/09/24/googlegenerationcomputer"/>
         <updated>2021-09-28T01:34:33.861Z</updated>
         <content type="html"><![CDATA[(newspeppermint.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 낸내 - 라이선스 걱정 없는 한글 폰트 (GeekNews ─ 최신글)]]></title>
-        <id>https://news.hada.io/topic?id=5091</id>
-        <link href="https://news.hada.io/topic?id=5091"/>
-        <updated>2021-09-28T01:34:33.867Z</updated>
-        <content type="html"><![CDATA[(naen-nae.shj.rip)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 낸내 - 라이선스 걱정 없는 한글 폰트 (GeekNews Show)]]></title>
@@ -276,6 +275,12 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 정보를 어떻게 골라서 취식하시나요? (GeekNews Ask)]]></title>
+        <id>https://news.hada.io/topic?id=5111</id>
+        <link href="https://news.hada.io/topic?id=5111"/>
+        <updated>2021-09-30T16:15:52.641Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요? (GeekNews Ask)]]></title>
         <id>https://news.hada.io/topic?id=5110</id>
         <link href="https://news.hada.io/topic?id=5110"/>
@@ -388,11 +393,5 @@
         <id>https://news.hada.io/topic?id=4730</id>
         <link href="https://news.hada.io/topic?id=4730"/>
         <updated>2021-09-28T01:34:45.896Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 개인적으로 생각하시는 개발자 필독서가 있으신가요? (GeekNews Ask)]]></title>
-        <id>https://news.hada.io/topic?id=4656</id>
-        <link href="https://news.hada.io/topic?id=4656"/>
-        <updated>2021-09-28T01:34:45.904Z</updated>
     </entry>
 </feed>
