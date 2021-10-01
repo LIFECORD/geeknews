@@ -2,8 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-01T03:11:49.624Z</updated>
+    <updated>2021-10-01T04:14:21.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews ─ 최신글)]]></title>
+        <id>https://news.hada.io/topic?id=5117</id>
+        <link href="https://news.hada.io/topic?id=5117"/>
+        <updated>2021-10-01T04:14:08.527Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Youki - Rust로 작성된 컨테이너 런타임 (GeekNews ─ 최신글)]]></title>
         <id>https://github.com/containers/youki</id>
@@ -133,13 +139,6 @@
         <link href="https://openai.com/blog/summarizing-books/"/>
         <updated>2021-09-29T00:35:08.930Z</updated>
         <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년, 엔터테인먼트 업의 본질은 무엇일까요? (번역) (GeekNews ─ 최신글)]]></title>
-        <id>https://ebadak.news/2021/09/27/what-is-an-entertainment-company/</id>
-        <link href="https://ebadak.news/2021/09/27/what-is-an-entertainment-company/"/>
-        <updated>2021-09-28T02:25:28.921Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 낸내 - 라이선스 걱정 없는 한글 폰트 (GeekNews Show)]]></title>
@@ -275,6 +274,12 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews Ask)]]></title>
+        <id>https://news.hada.io/topic?id=5117</id>
+        <link href="https://news.hada.io/topic?id=5117"/>
+        <updated>2021-10-01T04:14:20.967Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 정보를 어떻게 골라서 취식하시나요? (GeekNews Ask)]]></title>
         <id>https://news.hada.io/topic?id=5111</id>
         <link href="https://news.hada.io/topic?id=5111"/>
@@ -387,11 +392,5 @@
         <id>https://news.hada.io/topic?id=4792</id>
         <link href="https://news.hada.io/topic?id=4792"/>
         <updated>2021-09-28T01:34:45.895Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분이 쓰는 노트 앱은 무엇인가요? (GeekNews Ask)]]></title>
-        <id>https://news.hada.io/topic?id=4730</id>
-        <link href="https://news.hada.io/topic?id=4730"/>
-        <updated>2021-09-28T01:34:45.896Z</updated>
     </entry>
 </feed>
