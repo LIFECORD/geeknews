@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-09-30T23:11:39.458Z</updated>
+    <updated>2021-10-01T00:39:26.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요?]]></title>
+        <id>https://news.hada.io/topic?id=5110</id>
+        <link href="https://news.hada.io/topic?id=5110"/>
+        <updated>2021-09-30T06:13:18.786Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 정보를 어떻게 골라서 취식하시나요?]]></title>
         <id>https://news.hada.io/topic?id=5111</id>
@@ -16,12 +22,6 @@
         <id>https://news.hada.io/topic?id=5104</id>
         <link href="https://news.hada.io/topic?id=5104"/>
         <updated>2021-09-29T14:11:12.015Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요?]]></title>
-        <id>https://news.hada.io/topic?id=5110</id>
-        <link href="https://news.hada.io/topic?id=5110"/>
-        <updated>2021-09-30T06:13:18.786Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이직할 때 어떻게 회사를 고르시나요?]]></title>
