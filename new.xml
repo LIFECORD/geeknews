@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-01T02:01:52.803Z</updated>
+    <updated>2021-10-01T03:11:49.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Youki - Rust로 작성된 컨테이너 런타임]]></title>
+        <id>https://github.com/containers/youki</id>
+        <link href="https://github.com/containers/youki"/>
+        <updated>2021-10-01T03:11:33.563Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ampie - 현재 웹사이트 관련 HN/트위터 링크를 보여주는 브라우저 확장]]></title>
         <id>https://ampie.app/</id>
@@ -134,12 +141,5 @@
         <link href="https://ebadak.news/2021/09/27/what-is-an-entertainment-company/"/>
         <updated>2021-09-28T02:25:28.921Z</updated>
         <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tidy Viewer (tv) - CSV를 깔끔하게 보는 CLI]]></title>
-        <id>https://github.com/alexhallam/tv</id>
-        <link href="https://github.com/alexhallam/tv"/>
-        <updated>2021-09-28T01:34:33.857Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
