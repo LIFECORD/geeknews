@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-01T22:11:15.354Z</updated>
+    <updated>2021-10-01T23:11:28.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Windows 11 WSL2 Ubuntu 성능 벤치마크 - 베어메탈에 설치된 Ubuntu와 견줄만한 성능 (GeekNews ─ 최신글)]]></title>
@@ -382,15 +382,15 @@
         <updated>2021-09-28T01:34:45.892Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews Ask)]]></title>
-        <id>https://news.hada.io/topic?id=4898</id>
-        <link href="https://news.hada.io/topic?id=4898"/>
-        <updated>2021-09-28T01:34:45.894Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 어떤 유료 구독 서비스를 이용하고 계신가요? (GeekNews Ask)]]></title>
         <id>https://news.hada.io/topic?id=4792</id>
         <link href="https://news.hada.io/topic?id=4792"/>
         <updated>2021-09-28T01:34:45.895Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews Ask)]]></title>
+        <id>https://news.hada.io/topic?id=4898</id>
+        <link href="https://news.hada.io/topic?id=4898"/>
+        <updated>2021-09-28T01:34:45.894Z</updated>
     </entry>
 </feed>
