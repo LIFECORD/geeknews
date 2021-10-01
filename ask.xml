@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-10-01T09:11:23.557Z</updated>
+    <updated>2021-10-01T10:12:14.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -96,16 +96,16 @@
         <updated>2021-09-28T01:34:45.889Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=4941</id>
-        <link href="https://news.hada.io/topic?id=4941"/>
-        <updated>2021-09-28T01:34:45.888Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 매일 방문하는 웹사이트가 있으신가요 ?]]></title>
         <id>https://news.hada.io/topic?id=4635</id>
         <link href="https://news.hada.io/topic?id=4635"/>
         <updated>2021-09-28T01:34:45.891Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=4941</id>
+        <link href="https://news.hada.io/topic?id=4941"/>
+        <updated>2021-09-28T01:34:45.888Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 근처 사람들은 잘 안 쓰는데, 유용하게 쓰고 계신 유틸러티가 있으신가요?]]></title>
