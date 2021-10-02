@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-02T00:35:54.532Z</updated>
+    <updated>2021-10-02T01:54:00.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앱 비즈니스 성장을 위한 가이드북 by 구글 [26p PDF]]]></title>
+        <id>https://www.thinkwithgoogle.com/intl/ko-kr/marketing-strategies/app-and-mobile/app-growth-advertising-best-practices-kr/</id>
+        <link href="https://www.thinkwithgoogle.com/intl/ko-kr/marketing-strategies/app-and-mobile/app-growth-advertising-best-practices-kr/"/>
+        <updated>2021-10-02T01:53:47.542Z</updated>
+        <content type="html"><![CDATA[(thinkwithgoogle.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[500줄의 코드로 셀프파킹 자동차 만들기]]></title>
         <id>https://trekhleb.dev/blog/2021/self-parking-car-evolution/</id>
@@ -133,12 +140,5 @@
         <link href="https://parkjoon.medium.com/what-does-my-engineering-manager-do-all-day-ebdc37c45d8"/>
         <updated>2021-09-29T04:13:59.989Z</updated>
         <content type="html"><![CDATA[(parkjoon.medium.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub의 RDB 파티셔닝 후기]]></title>
-        <id>https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/</id>
-        <link href="https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/"/>
-        <updated>2021-09-29T03:12:50.686Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
 </feed>
