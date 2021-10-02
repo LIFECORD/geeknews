@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-01T23:11:28.842Z</updated>
+    <updated>2021-10-02T00:35:54.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[500줄의 코드로 셀프파킹 자동차 만들기]]></title>
+        <id>https://trekhleb.dev/blog/2021/self-parking-car-evolution/</id>
+        <link href="https://trekhleb.dev/blog/2021/self-parking-car-evolution/"/>
+        <updated>2021-10-02T00:35:43.244Z</updated>
+        <content type="html"><![CDATA[(trekhleb.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딥러닝 가속기가 이끄는 반도체 시장의 미래]]></title>
+        <id>https://www.facebook.com/100001843848045/posts/6109775809093820/?d=n</id>
+        <link href="https://www.facebook.com/100001843848045/posts/6109775809093820/?d=n"/>
+        <updated>2021-10-02T00:35:43.246Z</updated>
+        <content type="html"><![CDATA[(facebook.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 WSL2 Ubuntu 성능 벤치마크 - 베어메탈에 설치된 Ubuntu와 견줄만한 성능]]></title>
         <id>https://www.phoronix.com/scan.php?page=article&amp;item=windows11-wsl2-good&amp;num=1</id>
@@ -126,19 +140,5 @@
         <link href="https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/"/>
         <updated>2021-09-29T03:12:50.686Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CloudFlare R2 Object Storage 공개]]></title>
-        <id>https://blog.cloudflare.com/introducing-r2-object-storage/</id>
-        <link href="https://blog.cloudflare.com/introducing-r2-object-storage/"/>
-        <updated>2021-09-29T01:50:12.290Z</updated>
-        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2.5년간 1주에 40-50시간 업무용으로 VR을 사용한 사람의 후기]]></title>
-        <id>https://blog.immersed.team/working-from-orbit-39bf95a6d385</id>
-        <link href="https://blog.immersed.team/working-from-orbit-39bf95a6d385"/>
-        <updated>2021-09-29T01:50:12.290Z</updated>
-        <content type="html"><![CDATA[(blog.immersed.team)]]></content>
     </entry>
 </feed>
