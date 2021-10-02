@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-02T07:11:05.418Z</updated>
+    <updated>2021-10-02T08:12:47.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Frost - Flask 기반의 여러 Built-In 기능이 있는 REST API 서버 템플릿]]></title>
+        <id>https://news.hada.io/topic?id=5125</id>
+        <link href="https://news.hada.io/topic?id=5125"/>
+        <updated>2021-10-02T08:12:33.855Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice 탄생 11주년]]></title>
+        <id>https://blog.documentfoundation.org/blog/2021/09/28/libreoffice-11th-anniversary/</id>
+        <link href="https://blog.documentfoundation.org/blog/2021/09/28/libreoffice-11th-anniversary/"/>
+        <updated>2021-10-02T08:12:33.868Z</updated>
+        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앱 비즈니스 성장을 위한 가이드북 by 구글 [26p PDF]]]></title>
         <id>https://www.thinkwithgoogle.com/intl/ko-kr/marketing-strategies/app-and-mobile/app-growth-advertising-best-practices-kr/</id>
@@ -126,19 +140,5 @@
         <id>https://news.hada.io/topic?id=5104</id>
         <link href="https://news.hada.io/topic?id=5104"/>
         <updated>2021-09-29T14:11:00.334Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vintage Apple]]></title>
-        <id>https://vintageapple.org/</id>
-        <link href="https://vintageapple.org/"/>
-        <updated>2021-09-29T04:13:59.988Z</updated>
-        <content type="html"><![CDATA[(vintageapple.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 엔지니어링 매니저는 하루종일 뭘 할까?]]></title>
-        <id>https://parkjoon.medium.com/what-does-my-engineering-manager-do-all-day-ebdc37c45d8</id>
-        <link href="https://parkjoon.medium.com/what-does-my-engineering-manager-do-all-day-ebdc37c45d8"/>
-        <updated>2021-09-29T04:13:59.989Z</updated>
-        <content type="html"><![CDATA[(parkjoon.medium.com)]]></content>
     </entry>
 </feed>
