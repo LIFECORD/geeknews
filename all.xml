@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-02T19:16:18.977Z</updated>
+    <updated>2021-10-02T20:10:53.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Show GN: Frost - Flask 기반의 여러 Built-In 기능이 있는 REST API 서버 템플릿 (GeekNews ─ 최신글)]]></title>
@@ -287,6 +287,12 @@
         <updated>2021-09-30T16:15:40.375Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 이직할 때 어떻게 회사를 고르시나요? (GeekNews Ask)]]></title>
+        <id>https://news.hada.io/topic?id=5082</id>
+        <link href="https://news.hada.io/topic?id=5082"/>
+        <updated>2021-09-28T01:34:33.882Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요? (GeekNews Ask)]]></title>
         <id>https://news.hada.io/topic?id=5110</id>
         <link href="https://news.hada.io/topic?id=5110"/>
@@ -297,12 +303,6 @@
         <id>https://news.hada.io/topic?id=5117</id>
         <link href="https://news.hada.io/topic?id=5117"/>
         <updated>2021-10-01T04:14:08.527Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이직할 때 어떻게 회사를 고르시나요? (GeekNews Ask)]]></title>
-        <id>https://news.hada.io/topic?id=5082</id>
-        <link href="https://news.hada.io/topic?id=5082"/>
-        <updated>2021-09-28T01:34:33.882Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 가장 사랑스러운 전자기기 / 가장 돈 아까운 전자기기 하나씩만 꼽아주세요! (GeekNews Ask)]]></title>
