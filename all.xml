@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-03T14:09:53.576Z</updated>
+    <updated>2021-10-03T15:11:12.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Sorrygle - 소리글. MIDI로 컴파일되는 작곡용 프로그래밍 언어 (GeekNews ─ 최신글)]]></title>
@@ -288,16 +288,16 @@
         <updated>2021-09-30T16:15:40.375Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews Ask)]]></title>
-        <id>https://news.hada.io/topic?id=5117</id>
-        <link href="https://news.hada.io/topic?id=5117"/>
-        <updated>2021-10-01T04:14:08.527Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 이직할 때 어떻게 회사를 고르시나요? (GeekNews Ask)]]></title>
         <id>https://news.hada.io/topic?id=5082</id>
         <link href="https://news.hada.io/topic?id=5082"/>
         <updated>2021-09-28T01:34:33.882Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews Ask)]]></title>
+        <id>https://news.hada.io/topic?id=5117</id>
+        <link href="https://news.hada.io/topic?id=5117"/>
+        <updated>2021-10-01T04:14:08.527Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요? (GeekNews Ask)]]></title>
