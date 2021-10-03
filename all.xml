@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-03T05:09:49.512Z</updated>
+    <updated>2021-10-03T06:13:02.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Ct.css - <head>의 성능 분석용 CSS Snippet (GeekNews ─ 최신글)]]></title>
@@ -300,16 +300,16 @@
         <updated>2021-09-30T06:13:07.503Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews Ask)]]></title>
-        <id>https://news.hada.io/topic?id=5117</id>
-        <link href="https://news.hada.io/topic?id=5117"/>
-        <updated>2021-10-01T04:14:08.527Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 가장 사랑스러운 전자기기 / 가장 돈 아까운 전자기기 하나씩만 꼽아주세요! (GeekNews Ask)]]></title>
         <id>https://news.hada.io/topic?id=5104</id>
         <link href="https://news.hada.io/topic?id=5104"/>
         <updated>2021-09-29T14:11:00.334Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews Ask)]]></title>
+        <id>https://news.hada.io/topic?id=5117</id>
+        <link href="https://news.hada.io/topic?id=5117"/>
+        <updated>2021-10-01T04:14:08.527Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 코더에서 CEO가 되는 것에 대한 리소스가 뭐가 있을까요? (GeekNews Ask)]]></title>
