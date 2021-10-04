@@ -2,9 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-03T23:11:23.007Z</updated>
+    <updated>2021-10-04T00:41:19.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SpiceDB - 분산 관계기반 권한 시스템 오픈소스]]></title>
+        <id>https://github.com/authzed/spicedb</id>
+        <link href="https://github.com/authzed/spicedb"/>
+        <updated>2021-10-04T00:41:05.549Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
+        <id>https://news.hada.io/topic?id=5131</id>
+        <link href="https://news.hada.io/topic?id=5131"/>
+        <updated>2021-10-04T00:41:05.566Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Always-On Processor의 마법: 아이폰 전원이 꺼져도 찾기가 가능한 이유]]></title>
+        <id>https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html</id>
+        <link href="https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html"/>
+        <updated>2021-10-04T00:41:05.566Z</updated>
+        <content type="html"><![CDATA[(naehrdine.blogspot.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sorrygle - 소리글. MIDI로 컴파일되는 작곡용 프로그래밍 언어]]></title>
         <id>https://github.com/JJoriping/Sorrygle</id>
@@ -121,25 +141,5 @@
         <id>https://news.hada.io/topic?id=5111</id>
         <link href="https://news.hada.io/topic?id=5111"/>
         <updated>2021-09-30T16:15:40.375Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요?]]></title>
-        <id>https://news.hada.io/topic?id=5110</id>
-        <link href="https://news.hada.io/topic?id=5110"/>
-        <updated>2021-09-30T06:13:07.503Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon 2021.9월 하드웨어 발표 총정리]]></title>
-        <id>https://www.engadget.com/amazon-2021-hardware-event-roundup-195702185.html</id>
-        <link href="https://www.engadget.com/amazon-2021-hardware-event-roundup-195702185.html"/>
-        <updated>2021-09-30T03:11:39.678Z</updated>
-        <content type="html"><![CDATA[(engadget.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacktoberfest 2021 시작]]></title>
-        <id>https://hacktoberfest.digitalocean.com/</id>
-        <link href="https://hacktoberfest.digitalocean.com/"/>
-        <updated>2021-09-30T02:02:41.820Z</updated>
-        <content type="html"><![CDATA[(hacktoberfest.digitalocean.com)]]></content>
     </entry>
 </feed>

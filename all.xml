@@ -2,8 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-03T23:11:23.009Z</updated>
+    <updated>2021-10-04T00:41:19.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[SpiceDB - 분산 관계기반 권한 시스템 오픈소스 (GeekNews ─ 최신글)]]></title>
+        <id>https://github.com/authzed/spicedb</id>
+        <link href="https://github.com/authzed/spicedb"/>
+        <updated>2021-10-04T00:41:05.549Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ? (GeekNews ─ 최신글)]]></title>
+        <id>https://news.hada.io/topic?id=5131</id>
+        <link href="https://news.hada.io/topic?id=5131"/>
+        <updated>2021-10-04T00:41:05.566Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Always-On Processor의 마법: 아이폰 전원이 꺼져도 찾기가 가능한 이유 (GeekNews ─ 최신글)]]></title>
+        <id>https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html</id>
+        <link href="https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html"/>
+        <updated>2021-10-04T00:41:05.566Z</updated>
+        <content type="html"><![CDATA[(naehrdine.blogspot.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sorrygle - 소리글. MIDI로 컴파일되는 작곡용 프로그래밍 언어 (GeekNews ─ 최신글)]]></title>
         <id>https://github.com/JJoriping/Sorrygle</id>
@@ -122,26 +142,6 @@
         <updated>2021-09-30T16:15:40.375Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요? (GeekNews ─ 최신글)]]></title>
-        <id>https://news.hada.io/topic?id=5110</id>
-        <link href="https://news.hada.io/topic?id=5110"/>
-        <updated>2021-09-30T06:13:07.503Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon 2021.9월 하드웨어 발표 총정리 (GeekNews ─ 최신글)]]></title>
-        <id>https://www.engadget.com/amazon-2021-hardware-event-roundup-195702185.html</id>
-        <link href="https://www.engadget.com/amazon-2021-hardware-event-roundup-195702185.html"/>
-        <updated>2021-09-30T03:11:39.678Z</updated>
-        <content type="html"><![CDATA[(engadget.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacktoberfest 2021 시작 (GeekNews ─ 최신글)]]></title>
-        <id>https://hacktoberfest.digitalocean.com/</id>
-        <link href="https://hacktoberfest.digitalocean.com/"/>
-        <updated>2021-09-30T02:02:41.820Z</updated>
-        <content type="html"><![CDATA[(hacktoberfest.digitalocean.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Frost - Flask 기반의 여러 Built-In 기능이 있는 REST API 서버 템플릿 (GeekNews Show)]]></title>
         <id>https://news.hada.io/topic?id=5125</id>
         <link href="https://news.hada.io/topic?id=5125"/>
@@ -247,18 +247,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Focusli- 긴장을 풀고 집중할 수 있는 LOFI 음악 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=4901</id>
-        <link href="https://news.hada.io/topic?id=4901"/>
-        <updated>2021-09-28T01:34:39.765Z</updated>
-        <content type="html"><![CDATA[(focusli.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 드로우비트 - 기업 경품 이벤트 모음 (GeekNews Show)]]></title>
         <id>https://news.hada.io/topic?id=4858</id>
         <link href="https://news.hada.io/topic?id=4858"/>
         <updated>2021-09-28T01:34:39.766Z</updated>
         <content type="html"><![CDATA[(drawbeat.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Focusli- 긴장을 풀고 집중할 수 있는 LOFI 음악 (GeekNews Show)]]></title>
+        <id>https://news.hada.io/topic?id=4901</id>
+        <link href="https://news.hada.io/topic?id=4901"/>
+        <updated>2021-09-28T01:34:39.765Z</updated>
+        <content type="html"><![CDATA[(focusli.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: prisma-schema-import 라이브러리 (GeekNews Show)]]></title>
@@ -280,6 +280,12 @@
         <link href="https://news.hada.io/topic?id=4836"/>
         <updated>2021-09-28T01:34:39.769Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ? (GeekNews Ask)]]></title>
+        <id>https://news.hada.io/topic?id=5131</id>
+        <link href="https://news.hada.io/topic?id=5131"/>
+        <updated>2021-10-04T00:41:18.318Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 정보를 어떻게 골라서 취식하시나요? (GeekNews Ask)]]></title>
@@ -394,11 +400,5 @@
         <id>https://news.hada.io/topic?id=4792</id>
         <link href="https://news.hada.io/topic?id=4792"/>
         <updated>2021-09-28T01:34:45.895Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews Ask)]]></title>
-        <id>https://news.hada.io/topic?id=4898</id>
-        <link href="https://news.hada.io/topic?id=4898"/>
-        <updated>2021-09-28T01:34:45.894Z</updated>
     </entry>
 </feed>
