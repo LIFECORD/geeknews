@@ -24,3 +24,12 @@ titleSelector = "td.topictitle a h1"
 linkSelector = "td.topictitle a"
 contentSelector = "span.topicurl"
 waitUntil = "networkidle"
+
+[weekly]
+title = "GeekNews Weekly"
+url = "https://news.hada.io/weekly"
+entrySelector = "table tbody tr.title"
+titleSelector = "a.u.keepall"
+linkSelector = "tr.title td a"
+contentSelector = "tr.title"
+waitUntil = "networkidle"
