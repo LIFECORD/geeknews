@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-04T00:41:19.004Z</updated>
+    <updated>2021-10-04T01:55:40.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최신 트렌드 : 초소형 사모펀드(Micro PE)]]></title>
+        <id>https://trends.vc/trends-0069-micro-private-equity/</id>
+        <link href="https://trends.vc/trends-0069-micro-private-equity/"/>
+        <updated>2021-10-04T01:55:22.707Z</updated>
+        <content type="html"><![CDATA[(trends.vc)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gollum 5.0 - Git-Based Wiki]]></title>
+        <id>https://github.com/gollum/gollum</id>
+        <link href="https://github.com/gollum/gollum"/>
+        <updated>2021-10-04T01:55:22.708Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윈도우 11 리뷰 : 윈도우 10의 불필요한 대체품]]></title>
+        <id>https://www.pcworld.com/article/539183/windows-11-review-an-unnecessary-replacement-for-windows-10.html</id>
+        <link href="https://www.pcworld.com/article/539183/windows-11-review-an-unnecessary-replacement-for-windows-10.html"/>
+        <updated>2021-10-04T01:55:22.708Z</updated>
+        <content type="html"><![CDATA[(pcworld.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SpiceDB - 분산 관계기반 권한 시스템 오픈소스]]></title>
         <id>https://github.com/authzed/spicedb</id>
@@ -121,25 +142,5 @@
         <link href="https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/"/>
         <updated>2021-10-01T02:01:40.542Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgreSQL 14 릴리즈]]></title>
-        <id>https://www.postgresql.org/about/news/postgresql-14-released-2318/</id>
-        <link href="https://www.postgresql.org/about/news/postgresql-14-released-2318/"/>
-        <updated>2021-10-01T02:01:40.543Z</updated>
-        <content type="html"><![CDATA[(postgresql.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS 미디어 쿼리는 가고 컨테이너 쿼리가 온다]]></title>
-        <id>https://tomquinonero.com/blog/a-guide-to-css-container-queries/</id>
-        <link href="https://tomquinonero.com/blog/a-guide-to-css-container-queries/"/>
-        <updated>2021-10-01T00:39:14.013Z</updated>
-        <content type="html"><![CDATA[(tomquinonero.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 정보를 어떻게 골라서 취식하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5111</id>
-        <link href="https://news.hada.io/topic?id=5111"/>
-        <updated>2021-09-30T16:15:40.375Z</updated>
     </entry>
 </feed>
