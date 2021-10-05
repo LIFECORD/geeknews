@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-05T09:11:19.903Z</updated>
+    <updated>2021-10-05T10:12:24.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[하드웨어와 알고리즘 발전중 어느쪽이 더 빠를까? (GeekNews ─ 최신글)]]></title>
+        <id>https://pseudorandomstring.wordpress.com/2020/08/10/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EB%B0%9C%EC%A0%84-%EC%A4%91-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B9%A0%EB%A5%BC%EA%B9%8C/</id>
+        <link href="https://pseudorandomstring.wordpress.com/2020/08/10/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EB%B0%9C%EC%A0%84-%EC%A4%91-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B9%A0%EB%A5%BC%EA%B9%8C/"/>
+        <updated>2021-10-05T10:12:03.382Z</updated>
+        <content type="html"><![CDATA[(pseudorandomstring.wordpress.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 화상회의/녹화/AI받아쓰기 한 번에 브라우저에서 ATEND (GeekNews ─ 최신글)]]></title>
         <id>https://news.hada.io/topic?id=5141</id>
@@ -135,13 +142,6 @@
         <link href="https://www.thinkwithgoogle.com/intl/ko-kr/marketing-strategies/app-and-mobile/app-growth-advertising-best-practices-kr/"/>
         <updated>2021-10-02T01:53:47.542Z</updated>
         <content type="html"><![CDATA[(thinkwithgoogle.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500줄의 코드로 셀프파킹 자동차 만들기 (GeekNews ─ 최신글)]]></title>
-        <id>https://trekhleb.dev/blog/2021/self-parking-car-evolution/</id>
-        <link href="https://trekhleb.dev/blog/2021/self-parking-car-evolution/"/>
-        <updated>2021-10-02T00:35:43.244Z</updated>
-        <content type="html"><![CDATA[(trekhleb.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 화상회의/녹화/AI받아쓰기 한 번에 브라우저에서 ATEND (GeekNews Show)]]></title>
