@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-04T23:09:44.411Z</updated>
+    <updated>2021-10-05T00:37:21.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021년 웹 스크래핑 현황]]></title>
+        <id>https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/</id>
+        <link href="https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/"/>
+        <updated>2021-10-05T00:37:00.924Z</updated>
+        <content type="html"><![CDATA[(mihaisplace.blog)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최신 트렌드 : 초소형 사모펀드(Micro PE)]]></title>
         <id>https://trends.vc/trends-0069-micro-private-equity/</id>
@@ -135,12 +142,5 @@
         <link href="https://ampie.app/"/>
         <updated>2021-10-01T02:01:40.540Z</updated>
         <content type="html"><![CDATA[(ampie.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS, ARM기반 Lambda 공개]]></title>
-        <id>https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/"/>
-        <updated>2021-10-01T02:01:40.542Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
 </feed>
