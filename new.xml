@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-06T09:11:45.328Z</updated>
+    <updated>2021-10-06T10:12:11.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[120GB가 넘는 Twitch 데이터 유출 (소스 코드, 암호화된 비밀번호, 스트리머 정산액 등)]]></title>
+        <id>https://www.reddit.com/r/Twitch/comments/q2gcq2/over_120gb_of_twitch_website_data_has_been_leaked/</id>
+        <link href="https://www.reddit.com/r/Twitch/comments/q2gcq2/over_120gb_of_twitch_website_data_has_been_leaked/"/>
+        <updated>2021-10-06T10:11:51.703Z</updated>
+        <content type="html"><![CDATA[(reddit.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android 12가 AOSP에 Live]]></title>
         <id>https://android-developers.googleblog.com/2021/10/android-12-is-live-in-aosp.html</id>
@@ -136,12 +143,5 @@
         <link href="https://naehrdine.blogspot.com/2021/09/always-on-processor-magic-how-find-my.html"/>
         <updated>2021-10-04T00:41:05.566Z</updated>
         <content type="html"><![CDATA[(naehrdine.blogspot.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sorrygle - 소리글. MIDI로 컴파일되는 작곡용 프로그래밍 언어]]></title>
-        <id>https://github.com/JJoriping/Sorrygle</id>
-        <link href="https://github.com/JJoriping/Sorrygle"/>
-        <updated>2021-10-03T13:15:18.845Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>

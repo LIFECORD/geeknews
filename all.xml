@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-06T09:11:45.331Z</updated>
+    <updated>2021-10-06T10:12:11.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[120GB가 넘는 Twitch 데이터 유출 (소스 코드, 암호화된 비밀번호, 스트리머 정산액 등) (GeekNews ─ 최신글)]]></title>
+        <id>https://www.reddit.com/r/Twitch/comments/q2gcq2/over_120gb_of_twitch_website_data_has_been_leaked/</id>
+        <link href="https://www.reddit.com/r/Twitch/comments/q2gcq2/over_120gb_of_twitch_website_data_has_been_leaked/"/>
+        <updated>2021-10-06T10:11:51.703Z</updated>
+        <content type="html"><![CDATA[(reddit.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android 12가 AOSP에 Live (GeekNews ─ 최신글)]]></title>
         <id>https://android-developers.googleblog.com/2021/10/android-12-is-live-in-aosp.html</id>
@@ -137,13 +144,6 @@
         <content type="html"><![CDATA[(naehrdine.blogspot.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sorrygle - 소리글. MIDI로 컴파일되는 작곡용 프로그래밍 언어 (GeekNews ─ 최신글)]]></title>
-        <id>https://github.com/JJoriping/Sorrygle</id>
-        <link href="https://github.com/JJoriping/Sorrygle"/>
-        <updated>2021-10-03T13:15:18.845Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 화상회의/녹화/AI받아쓰기 한 번에 브라우저에서 ATEND (GeekNews Show)]]></title>
         <id>https://news.hada.io/topic?id=5141</id>
         <link href="https://news.hada.io/topic?id=5141"/>
@@ -270,17 +270,17 @@
         <content type="html"><![CDATA[(focusli.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: prisma-schema-import 라이브러리 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=4904</id>
-        <link href="https://news.hada.io/topic?id=4904"/>
-        <updated>2021-09-28T01:34:39.767Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Prepull - k8s 전체 노드에 미리 이미지를 다운로드 받는 helm chart (GeekNews Show)]]></title>
         <id>https://news.hada.io/topic?id=4835</id>
         <link href="https://news.hada.io/topic?id=4835"/>
         <updated>2021-09-28T01:34:39.768Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: prisma-schema-import 라이브러리 (GeekNews Show)]]></title>
+        <id>https://news.hada.io/topic?id=4904</id>
+        <link href="https://news.hada.io/topic?id=4904"/>
+        <updated>2021-09-28T01:34:39.767Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
