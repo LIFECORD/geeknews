@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-06T00:39:37.494Z</updated>
+    <updated>2021-10-06T01:57:00.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로그인 기능 없이 제품을 런칭 해야하는 이유]]></title>
+        <id>https://casparwre.de/blog/launching-a-product-without-a-login/</id>
+        <link href="https://casparwre.de/blog/launching-a-product-without-a-login/"/>
+        <updated>2021-10-06T01:56:41.040Z</updated>
+        <content type="html"><![CDATA[(casparwre.de)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steve를 기리며 (Apple 공홈)]]></title>
+        <id>https://www.apple.com/kr/</id>
+        <link href="https://www.apple.com/kr/"/>
+        <updated>2021-10-06T01:56:41.040Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하드웨어와 알고리즘 발전중 어느쪽이 더 빠를까?]]></title>
         <id>https://pseudorandomstring.wordpress.com/2020/08/10/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EB%B0%9C%EC%A0%84-%EC%A4%91-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B9%A0%EB%A5%BC%EA%B9%8C/</id>
@@ -129,19 +143,5 @@
         <link href="https://news.hada.io/topic?id=5125"/>
         <updated>2021-10-02T08:12:33.855Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice 탄생 11주년]]></title>
-        <id>https://blog.documentfoundation.org/blog/2021/09/28/libreoffice-11th-anniversary/</id>
-        <link href="https://blog.documentfoundation.org/blog/2021/09/28/libreoffice-11th-anniversary/"/>
-        <updated>2021-10-02T08:12:33.868Z</updated>
-        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앱 비즈니스 성장을 위한 가이드북 by 구글 [26p PDF]]]></title>
-        <id>https://www.thinkwithgoogle.com/intl/ko-kr/marketing-strategies/app-and-mobile/app-growth-advertising-best-practices-kr/</id>
-        <link href="https://www.thinkwithgoogle.com/intl/ko-kr/marketing-strategies/app-and-mobile/app-growth-advertising-best-practices-kr/"/>
-        <updated>2021-10-02T01:53:47.542Z</updated>
-        <content type="html"><![CDATA[(thinkwithgoogle.com)]]></content>
     </entry>
 </feed>
