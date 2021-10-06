@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-06T01:57:00.279Z</updated>
+    <updated>2021-10-06T02:26:23.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10/4일에 페이스북이 어떻게 사라졌는지 이해하기]]></title>
+        <id>https://blog.cloudflare.com/october-2021-facebook-outage/</id>
+        <link href="https://blog.cloudflare.com/october-2021-facebook-outage/"/>
+        <updated>2021-10-06T02:26:03.992Z</updated>
+        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로그인 기능 없이 제품을 런칭 해야하는 이유]]></title>
         <id>https://casparwre.de/blog/launching-a-product-without-a-login/</id>
@@ -136,12 +143,5 @@
         <link href="https://maily.so/mail/posts/cbe3b6"/>
         <updated>2021-10-03T00:39:30.973Z</updated>
         <content type="html"><![CDATA[(maily.so)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Frost - Flask 기반의 여러 Built-In 기능이 있는 REST API 서버 템플릿]]></title>
-        <id>https://news.hada.io/topic?id=5125</id>
-        <link href="https://news.hada.io/topic?id=5125"/>
-        <updated>2021-10-02T08:12:33.855Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
