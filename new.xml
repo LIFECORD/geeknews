@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-06T02:26:23.403Z</updated>
+    <updated>2021-10-06T03:11:45.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Firefox 93 릴리즈]]></title>
+        <id>https://www.mozilla.org/en-US/firefox/93.0/releasenotes/</id>
+        <link href="https://www.mozilla.org/en-US/firefox/93.0/releasenotes/"/>
+        <updated>2021-10-06T03:11:26.671Z</updated>
+        <content type="html"><![CDATA[(mozilla.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10/4일에 페이스북이 어떻게 사라졌는지 이해하기]]></title>
         <id>https://blog.cloudflare.com/october-2021-facebook-outage/</id>
@@ -136,12 +143,5 @@
         <link href="https://naver.github.io/fixture-monkey/"/>
         <updated>2021-10-03T01:58:35.818Z</updated>
         <content type="html"><![CDATA[(naver.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트라이프 한국 시장 진출 준비중?]]></title>
-        <id>https://maily.so/mail/posts/cbe3b6</id>
-        <link href="https://maily.so/mail/posts/cbe3b6"/>
-        <updated>2021-10-03T00:39:30.973Z</updated>
-        <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
 </feed>
