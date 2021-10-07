@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-07T02:00:38.394Z</updated>
+    <updated>2021-10-07T02:34:34.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지문 인증으로 동작하는 FIDO키, Yubico Bio 시리즈 공개]]></title>
+        <id>https://arstechnica.com/gadgets/2021/10/new-yubico-security-keys-let-you-use-fingerprints-instead-of-passwords/</id>
+        <link href="https://arstechnica.com/gadgets/2021/10/new-yubico-security-keys-let-you-use-fingerprints-instead-of-passwords/"/>
+        <updated>2021-10-07T02:34:17.166Z</updated>
+        <content type="html"><![CDATA[(arstechnica.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQLime - 온라인 SQLite Playground]]></title>
         <id>https://sqlime.org/</id>
@@ -137,12 +144,5 @@
         <link href="https://trends.vc/trends-0069-micro-private-equity/"/>
         <updated>2021-10-04T01:55:22.707Z</updated>
         <content type="html"><![CDATA[(trends.vc)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gollum 5.0 - Git-Based Wiki]]></title>
-        <id>https://github.com/gollum/gollum</id>
-        <link href="https://github.com/gollum/gollum"/>
-        <updated>2021-10-04T01:55:22.708Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
