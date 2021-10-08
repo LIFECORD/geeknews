@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-07T23:11:18.273Z</updated>
+    <updated>2021-10-08T00:39:31.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Firefox Suggest, 주소바 추천 창에 광고 도입]]></title>
+        <id>https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest</id>
+        <link href="https://support.mozilla.org/en-US/kb/navigate-web-faster-firefox-suggest"/>
+        <updated>2021-10-08T00:39:12.065Z</updated>
+        <content type="html"><![CDATA[(support.mozilla.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 내년 1월 31일부터 앱 내 계정 삭제 기능 필수]]></title>
+        <id>https://developer.apple.com/kr/news/?id=mdkbobfo</id>
+        <link href="https://developer.apple.com/kr/news/?id=mdkbobfo"/>
+        <updated>2021-10-08T00:39:12.067Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지문 인증으로 동작하는 FIDO키, Yubico Bio 시리즈 공개]]></title>
         <id>https://arstechnica.com/gadgets/2021/10/new-yubico-security-keys-let-you-use-fingerprints-instead-of-passwords/</id>
@@ -130,19 +144,5 @@
         <link href="https://github.com/speedyg0nz/MagInkCal"/>
         <updated>2021-10-05T01:55:39.777Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 웹 스크래핑 현황]]></title>
-        <id>https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/</id>
-        <link href="https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/"/>
-        <updated>2021-10-05T00:37:00.924Z</updated>
-        <content type="html"><![CDATA[(mihaisplace.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최신 트렌드 : 초소형 사모펀드(Micro PE)]]></title>
-        <id>https://trends.vc/trends-0069-micro-private-equity/</id>
-        <link href="https://trends.vc/trends-0069-micro-private-equity/"/>
-        <updated>2021-10-04T01:55:22.707Z</updated>
-        <content type="html"><![CDATA[(trends.vc)]]></content>
     </entry>
 </feed>
