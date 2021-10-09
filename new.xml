@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-09T00:35:24.401Z</updated>
+    <updated>2021-10-09T01:52:08.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tech Worker Handbook - 기술 노동자 핸드북]]></title>
+        <id>https://techworkerhandbook.org/</id>
+        <link href="https://techworkerhandbook.org/"/>
+        <updated>2021-10-09T01:51:48.533Z</updated>
+        <content type="html"><![CDATA[(techworkerhandbook.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot 의 Intellij 플러그인 Preview 시작됨]]></title>
+        <id>https://github.co/intellij</id>
+        <link href="https://github.co/intellij"/>
+        <updated>2021-10-09T01:51:48.535Z</updated>
+        <content type="html"><![CDATA[(github.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xterm.js - 브라우저에서 터미널 UI 만들기]]></title>
+        <id>https://xtermjs.org/</id>
+        <link href="https://xtermjs.org/"/>
+        <updated>2021-10-09T01:51:48.545Z</updated>
+        <content type="html"><![CDATA[(xtermjs.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quickemu - 윈/맥/리눅스 VM을 빠르게 생성 및 실행하는 리눅스용 툴]]></title>
         <id>https://github.com/wimpysworld/quickemu</id>
@@ -122,26 +143,5 @@
         <link href="https://blog.cloudflare.com/october-2021-facebook-outage/"/>
         <updated>2021-10-06T02:26:03.992Z</updated>
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로그인 기능 없이 제품을 런칭 해야하는 이유]]></title>
-        <id>https://casparwre.de/blog/launching-a-product-without-a-login/</id>
-        <link href="https://casparwre.de/blog/launching-a-product-without-a-login/"/>
-        <updated>2021-10-06T01:56:41.040Z</updated>
-        <content type="html"><![CDATA[(casparwre.de)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve를 기리며 (Apple 공홈)]]></title>
-        <id>https://www.apple.com/kr/</id>
-        <link href="https://www.apple.com/kr/"/>
-        <updated>2021-10-06T01:56:41.040Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하드웨어와 알고리즘 발전중 어느쪽이 더 빠를까?]]></title>
-        <id>https://pseudorandomstring.wordpress.com/2020/08/10/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EB%B0%9C%EC%A0%84-%EC%A4%91-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B9%A0%EB%A5%BC%EA%B9%8C/</id>
-        <link href="https://pseudorandomstring.wordpress.com/2020/08/10/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EB%B0%9C%EC%A0%84-%EC%A4%91-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B9%A0%EB%A5%BC%EA%B9%8C/"/>
-        <updated>2021-10-05T10:12:03.382Z</updated>
-        <content type="html"><![CDATA[(pseudorandomstring.wordpress.com)]]></content>
     </entry>
 </feed>
