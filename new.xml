@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-09T04:13:55.401Z</updated>
+    <updated>2021-10-09T05:09:56.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 한·중·일 전산학 용어 대조]]></title>
+        <id>https://news.hada.io/topic?id=5165</id>
+        <link href="https://news.hada.io/topic?id=5165"/>
+        <updated>2021-10-09T05:09:37.464Z</updated>
+        <content type="html"><![CDATA[(cjk-compsci-terms.netlify.app)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tech Worker Handbook - 기술 노동자 핸드북]]></title>
         <id>https://techworkerhandbook.org/</id>
@@ -136,12 +143,5 @@
         <link href="https://www.mozilla.org/en-US/firefox/93.0/releasenotes/"/>
         <updated>2021-10-06T03:11:26.671Z</updated>
         <content type="html"><![CDATA[(mozilla.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10/4일에 페이스북이 어떻게 사라졌는지 이해하기]]></title>
-        <id>https://blog.cloudflare.com/october-2021-facebook-outage/</id>
-        <link href="https://blog.cloudflare.com/october-2021-facebook-outage/"/>
-        <updated>2021-10-06T02:26:03.992Z</updated>
-        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
 </feed>
