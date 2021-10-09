@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-09T21:09:53.103Z</updated>
+    <updated>2021-10-09T22:10:37.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[코드와 어셈블리를 비교 (GeekNews ─ 최신글)]]></title>
@@ -207,18 +207,18 @@
         <content type="html"><![CDATA[(saas.relate.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 소쿠리캣 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=4960</id>
-        <link href="https://news.hada.io/topic?id=4960"/>
-        <updated>2021-09-28T01:34:39.745Z</updated>
-        <content type="html"><![CDATA[(sokuricat.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: GeekNews Show 공개 (GeekNews Show)]]></title>
         <id>https://news.hada.io/topic?id=4828</id>
         <link href="https://news.hada.io/topic?id=4828"/>
         <updated>2021-09-28T01:34:39.748Z</updated>
         <content type="html"><![CDATA[(news.hada.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 소쿠리캣 (GeekNews Show)]]></title>
+        <id>https://news.hada.io/topic?id=4960</id>
+        <link href="https://news.hada.io/topic?id=4960"/>
+        <updated>2021-09-28T01:34:39.745Z</updated>
+        <content type="html"><![CDATA[(sokuricat.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Roadroller - 자바스크립트 데모용 코드 패커 (GeekNews Show)]]></title>
