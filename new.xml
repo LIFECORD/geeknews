@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-10T02:25:43.533Z</updated>
+    <updated>2021-10-10T03:11:27.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 유튜브에서 얻은 정보를 어떻게 저장하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5172</id>
+        <link href="https://news.hada.io/topic?id=5172"/>
+        <updated>2021-10-10T03:11:09.389Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MaryJane - 30줄의 파이썬코드로 작성된 MJPEG 서버]]></title>
         <id>https://github.com/bootrino/maryjane</id>
@@ -136,12 +142,5 @@
         <link href="https://techcompanies.kr/"/>
         <updated>2021-10-07T02:00:21.155Z</updated>
         <content type="html"><![CDATA[(techcompanies.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nios V - 인텔의 RISC-V 프로세서]]></title>
-        <id>https://www.intel.com/content/www/us/en/products/details/fpga/nios-processor/v.html</id>
-        <link href="https://www.intel.com/content/www/us/en/products/details/fpga/nios-processor/v.html"/>
-        <updated>2021-10-07T00:39:04.213Z</updated>
-        <content type="html"><![CDATA[(intel.com)]]></content>
     </entry>
 </feed>
