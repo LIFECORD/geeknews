@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-10T00:38:37.591Z</updated>
+    <updated>2021-10-10T01:56:06.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MaryJane - 30줄의 파이썬코드로 작성된 MJPEG 서버]]></title>
+        <id>https://github.com/bootrino/maryjane</id>
+        <link href="https://github.com/bootrino/maryjane"/>
+        <updated>2021-10-10T01:55:49.202Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ATMO - WASM을 이용한 클라우드 어플리케이션 개발]]></title>
         <id>https://github.com/suborbital/atmo</id>
@@ -136,12 +143,5 @@
         <link href="https://www.intel.com/content/www/us/en/products/details/fpga/nios-processor/v.html"/>
         <updated>2021-10-07T00:39:04.213Z</updated>
         <content type="html"><![CDATA[(intel.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChessCoach - 자연어로 조언해주는 신경망 기반 체스 엔진]]></title>
-        <id>https://chrisbutner.github.io/ChessCoach/</id>
-        <link href="https://chrisbutner.github.io/ChessCoach/"/>
-        <updated>2021-10-07T00:39:04.221Z</updated>
-        <content type="html"><![CDATA[(chrisbutner.github.io)]]></content>
     </entry>
 </feed>
