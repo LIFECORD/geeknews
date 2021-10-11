@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-10T23:11:34.811Z</updated>
+    <updated>2021-10-11T00:38:12.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello IPv6 : IPv4 사용자를 위한 최소한의 자습서]]></title>
+        <id>https://metebalci.com/blog/hello-ipv6/</id>
+        <link href="https://metebalci.com/blog/hello-ipv6/"/>
+        <updated>2021-10-11T00:37:53.972Z</updated>
+        <content type="html"><![CDATA[(metebalci.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 회사는 dbt(data build tool) 를 써야 할까?]]></title>
         <id>https://medium.com/visiodeibc/%EC%9A%B0%EB%A6%AC-%ED%9A%8C%EC%82%AC%EB%8A%94-dbt-data-build-tool-%EB%A5%BC-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C-5893ec7fbd85</id>
@@ -135,12 +142,5 @@
         <link href="https://arstechnica.com/gadgets/2021/10/new-yubico-security-keys-let-you-use-fingerprints-instead-of-passwords/"/>
         <updated>2021-10-07T02:34:17.166Z</updated>
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLime - 온라인 SQLite Playground]]></title>
-        <id>https://sqlime.org/</id>
-        <link href="https://sqlime.org/"/>
-        <updated>2021-10-07T02:00:21.148Z</updated>
-        <content type="html"><![CDATA[(sqlime.org)]]></content>
     </entry>
 </feed>
