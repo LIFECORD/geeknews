@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-13T03:12:13.375Z</updated>
+    <updated>2021-10-13T04:14:36.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인스타그램을 스핀오프할 때인가?]]></title>
+        <id>https://www.businessbrief.xyz/p/is-it-time-to-spin-off-instagram</id>
+        <link href="https://www.businessbrief.xyz/p/is-it-time-to-spin-off-instagram"/>
+        <updated>2021-10-13T04:14:05.956Z</updated>
+        <content type="html"><![CDATA[(businessbrief.xyz)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발자들이 알면 좋은 크롬의 숨겨진 기능들]]></title>
         <id>https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30</id>
@@ -136,12 +143,5 @@
         <link href="https://github.com/suborbital/atmo"/>
         <updated>2021-10-10T00:38:18.618Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google의 iOS용 앱들이 iOS 디자인을 따르기로]]></title>
-        <id>https://sixcolors.com/link/2021/10/googles-apps-to-embrace-ios-on-ios/</id>
-        <link href="https://sixcolors.com/link/2021/10/googles-apps-to-embrace-ios-on-ios/"/>
-        <updated>2021-10-10T00:38:18.623Z</updated>
-        <content type="html"><![CDATA[(sixcolors.com)]]></content>
     </entry>
 </feed>
