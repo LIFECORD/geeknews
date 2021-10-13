@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-13T00:37:28.767Z</updated>
+    <updated>2021-10-13T02:00:54.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[개발자들이 알면 좋은 크롬의 숨겨진 기능들 (GeekNews ─ 최신글)]]></title>
+        <id>https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30</id>
+        <link href="https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30"/>
+        <updated>2021-10-13T02:00:34.478Z</updated>
+        <content type="html"><![CDATA[(blog.bitsrc.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS와 Nvidia가 세계 최대규모 언어 모델 MT-NLG 530B를 발표 (GeekNews ─ 최신글)]]></title>
+        <id>https://developer.nvidia.com/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/</id>
+        <link href="https://developer.nvidia.com/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/"/>
+        <updated>2021-10-13T02:00:34.478Z</updated>
+        <content type="html"><![CDATA[(developer.nvidia.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브라우저와 HTML을 어뷰징 하기 (GeekNews ─ 최신글)]]></title>
+        <id>https://matthewrayfield.com/</id>
+        <link href="https://matthewrayfield.com/"/>
+        <updated>2021-10-13T02:00:34.478Z</updated>
+        <content type="html"><![CDATA[(matthewrayfield.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오픈소스 Ecology - 농업/제조 관련 기계들을 오픈소스로 만들기 (GeekNews ─ 최신글)]]></title>
         <id>https://opensourceecology.dozuki.com/</id>
@@ -121,27 +142,6 @@
         <link href="https://sixcolors.com/link/2021/10/googles-apps-to-embrace-ios-on-ios/"/>
         <updated>2021-10-10T00:38:18.623Z</updated>
         <content type="html"><![CDATA[(sixcolors.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코드와 어셈블리를 비교 (GeekNews ─ 최신글)]]></title>
-        <id>https://godbolt.org/</id>
-        <link href="https://godbolt.org/"/>
-        <updated>2021-10-09T15:10:59.779Z</updated>
-        <content type="html"><![CDATA[(godbolt.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAssembly는 어떻게 JavaScript를 빠르게 실행할 수 있는가 (GeekNews ─ 최신글)]]></title>
-        <id>https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly</id>
-        <link href="https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly"/>
-        <updated>2021-10-09T15:10:59.779Z</updated>
-        <content type="html"><![CDATA[(bytecodealliance.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 한·중·일 전산학 용어 대조 (GeekNews ─ 최신글)]]></title>
-        <id>https://news.hada.io/topic?id=5165</id>
-        <link href="https://news.hada.io/topic?id=5165"/>
-        <updated>2021-10-09T05:09:37.464Z</updated>
-        <content type="html"><![CDATA[(cjk-compsci-terms.netlify.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 한·중·일 전산학 용어 대조 (GeekNews Show)]]></title>
