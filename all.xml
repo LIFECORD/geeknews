@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-12T23:11:25.367Z</updated>
+    <updated>2021-10-13T00:37:28.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[오픈소스 Ecology - 농업/제조 관련 기계들을 오픈소스로 만들기 (GeekNews ─ 최신글)]]></title>
+        <id>https://opensourceecology.dozuki.com/</id>
+        <link href="https://opensourceecology.dozuki.com/"/>
+        <updated>2021-10-13T00:37:05.870Z</updated>
+        <content type="html"><![CDATA[(opensourceecology.dozuki.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YoHa - 실용적인 핸드 트래킹 엔진 (GeekNews ─ 최신글)]]></title>
+        <id>https://handtracking.io/</id>
+        <link href="https://handtracking.io/"/>
+        <updated>2021-10-13T00:37:05.884Z</updated>
+        <content type="html"><![CDATA[(handtracking.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어떤 버전의 JDK를 써야 할까? (GeekNews ─ 최신글)]]></title>
         <id>http://whichjdk.com/</id>
@@ -128,20 +142,6 @@
         <link href="https://news.hada.io/topic?id=5165"/>
         <updated>2021-10-09T05:09:37.464Z</updated>
         <content type="html"><![CDATA[(cjk-compsci-terms.netlify.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech Worker Handbook - 기술 노동자 핸드북 (GeekNews ─ 최신글)]]></title>
-        <id>https://techworkerhandbook.org/</id>
-        <link href="https://techworkerhandbook.org/"/>
-        <updated>2021-10-09T01:51:48.533Z</updated>
-        <content type="html"><![CDATA[(techworkerhandbook.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot 의 Intellij 플러그인 Preview 시작됨 (GeekNews ─ 최신글)]]></title>
-        <id>https://github.co/intellij</id>
-        <link href="https://github.co/intellij"/>
-        <updated>2021-10-09T01:51:48.535Z</updated>
-        <content type="html"><![CDATA[(github.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 한·중·일 전산학 용어 대조 (GeekNews Show)]]></title>
@@ -326,16 +326,16 @@
         <updated>2021-09-30T06:13:07.503Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 가장 사랑스러운 전자기기 / 가장 돈 아까운 전자기기 하나씩만 꼽아주세요! (GeekNews Ask)]]></title>
-        <id>https://news.hada.io/topic?id=5104</id>
-        <link href="https://news.hada.io/topic?id=5104"/>
-        <updated>2021-09-29T14:11:00.334Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 서울을 벗어난 삶에대해 어떻게 생각하시나요? (GeekNews Ask)]]></title>
         <id>https://news.hada.io/topic?id=5067</id>
         <link href="https://news.hada.io/topic?id=5067"/>
         <updated>2021-09-28T01:34:45.881Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 가장 사랑스러운 전자기기 / 가장 돈 아까운 전자기기 하나씩만 꼽아주세요! (GeekNews Ask)]]></title>
+        <id>https://news.hada.io/topic?id=5104</id>
+        <link href="https://news.hada.io/topic?id=5104"/>
+        <updated>2021-09-29T14:11:00.334Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews Ask)]]></title>
