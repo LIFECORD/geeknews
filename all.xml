@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-15T08:13:54.409Z</updated>
+    <updated>2021-10-15T09:11:18.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews ─ 최신글)]]></title>
@@ -356,16 +356,16 @@
         <updated>2021-09-28T01:34:45.882Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 다들 어떤 의자 사용하시나요? (GeekNews Ask)]]></title>
-        <id>https://news.hada.io/topic?id=5073</id>
-        <link href="https://news.hada.io/topic?id=5073"/>
-        <updated>2021-09-28T01:34:45.883Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말/연휴에 뭐 하시나요? (GeekNews Ask)]]></title>
         <id>https://news.hada.io/topic?id=5027</id>
         <link href="https://news.hada.io/topic?id=5027"/>
         <updated>2021-09-28T01:34:45.884Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 다들 어떤 의자 사용하시나요? (GeekNews Ask)]]></title>
+        <id>https://news.hada.io/topic?id=5073</id>
+        <link href="https://news.hada.io/topic?id=5073"/>
+        <updated>2021-09-28T01:34:45.883Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 요즘 어떤 것에 끌리고 계시나요? (GeekNews Ask)]]></title>
