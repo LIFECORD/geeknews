@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-14T23:11:33.978Z</updated>
+    <updated>2021-10-15T00:38:54.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[APT가 터미널에서 멋진 프로그레스바를 표시한 방법 (GeekNews ─ 최신글)]]></title>
+        <id>https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html</id>
+        <link href="https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html"/>
+        <updated>2021-10-15T00:38:36.160Z</updated>
+        <content type="html"><![CDATA[(mdk.fr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SixtyFPS - 유연한 GUI 개발 툴킷 (GeekNews ─ 최신글)]]></title>
+        <id>https://sixtyfps.io/</id>
+        <link href="https://sixtyfps.io/"/>
+        <updated>2021-10-15T00:38:36.160Z</updated>
+        <content type="html"><![CDATA[(sixtyfps.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모듈형 노트북 Framework 마켓플레이스 공개 (GeekNews ─ 최신글)]]></title>
+        <id>https://frame.work/marketplace</id>
+        <link href="https://frame.work/marketplace"/>
+        <updated>2021-10-15T00:38:36.161Z</updated>
+        <content type="html"><![CDATA[(frame.work)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 광부가 해외로 이동함에 따라 미국은 Bitcoin 광업의 1 위 국가가되었습니다. (GeekNews ─ 최신글)]]></title>
         <id>https://www.businessbrief.xyz/p/usa-1st-in-bitcoin-mining-as-china</id>
@@ -122,27 +143,6 @@
         <link href="https://www.pipersandler.com/1col.aspx?id=6217"/>
         <updated>2021-10-12T00:39:35.018Z</updated>
         <content type="html"><![CDATA[(pipersandler.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타트업 부트스트래핑 가이드 (GeekNews ─ 최신글)]]></title>
-        <id>https://www.jotform.com/10million/story/</id>
-        <link href="https://www.jotform.com/10million/story/"/>
-        <updated>2021-10-11T02:33:28.731Z</updated>
-        <content type="html"><![CDATA[(jotform.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScummVM 20주년 (GeekNews ─ 최신글)]]></title>
-        <id>https://www.scummvm.org/news/20211009/</id>
-        <link href="https://www.scummvm.org/news/20211009/"/>
-        <updated>2021-10-11T02:00:02.087Z</updated>
-        <content type="html"><![CDATA[(scummvm.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Fluff - 사람을 위한 SQL Linter (GeekNews ─ 최신글)]]></title>
-        <id>https://www.sqlfluff.com/</id>
-        <link href="https://www.sqlfluff.com/"/>
-        <updated>2021-10-11T02:00:02.087Z</updated>
-        <content type="html"><![CDATA[(sqlfluff.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 한·중·일 전산학 용어 대조 (GeekNews Show)]]></title>
@@ -321,16 +321,16 @@
         <updated>2021-10-04T00:41:05.566Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요? (GeekNews Ask)]]></title>
-        <id>https://news.hada.io/topic?id=5110</id>
-        <link href="https://news.hada.io/topic?id=5110"/>
-        <updated>2021-09-30T06:13:07.503Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 서울을 벗어난 삶에대해 어떻게 생각하시나요? (GeekNews Ask)]]></title>
         <id>https://news.hada.io/topic?id=5067</id>
         <link href="https://news.hada.io/topic?id=5067"/>
         <updated>2021-09-28T01:34:45.881Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요? (GeekNews Ask)]]></title>
+        <id>https://news.hada.io/topic?id=5110</id>
+        <link href="https://news.hada.io/topic?id=5110"/>
+        <updated>2021-09-30T06:13:07.503Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 가장 사랑스러운 전자기기 / 가장 돈 아까운 전자기기 하나씩만 꼽아주세요! (GeekNews Ask)]]></title>
