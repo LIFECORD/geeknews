@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-15T13:18:53.157Z</updated>
+    <updated>2021-10-15T14:10:44.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GBM API를 지원하는 NVIDIA 베타 드라이버 v495.29.05 출시]]></title>
+        <id>https://www.nvidia.com/download/driverResults.aspx/181159/en-us</id>
+        <link href="https://www.nvidia.com/download/driverResults.aspx/181159/en-us"/>
+        <updated>2021-10-15T14:10:24.839Z</updated>
+        <content type="html"><![CDATA[(nvidia.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
         <id>https://news.hada.io/topic?id=5201</id>
@@ -136,12 +143,5 @@
         <link href="http://whichjdk.com/"/>
         <updated>2021-10-12T02:31:46.536Z</updated>
         <content type="html"><![CDATA[(whichjdk.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[48번째 메르센 소수 M(57885161) 검증 완료]]></title>
-        <id>https://www.mersenne.org/</id>
-        <link href="https://www.mersenne.org/"/>
-        <updated>2021-10-12T01:59:43.741Z</updated>
-        <content type="html"><![CDATA[(mersenne.org)]]></content>
     </entry>
 </feed>
