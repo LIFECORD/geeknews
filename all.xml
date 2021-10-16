@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-15T23:12:23.369Z</updated>
+    <updated>2021-10-16T00:40:03.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Call Of Duty, Anti-Cheat 용 커널 레벨 드라이버 추가 (GeekNews ─ 최신글)]]></title>
+        <id>https://www.callofduty.com/blog/2021/10/ricochet-anti-cheat-initiative-for-call-of-duty</id>
+        <link href="https://www.callofduty.com/blog/2021/10/ricochet-anti-cheat-initiative-for-call-of-duty"/>
+        <updated>2021-10-16T00:39:45.665Z</updated>
+        <content type="html"><![CDATA[(callofduty.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parcel v2 릴리즈 (GeekNews ─ 최신글)]]></title>
+        <id>https://parceljs.org/blog/v2/</id>
+        <link href="https://parceljs.org/blog/v2/"/>
+        <updated>2021-10-16T00:39:45.669Z</updated>
+        <content type="html"><![CDATA[(parceljs.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GBM API를 지원하는 NVIDIA 베타 드라이버 v495.29.05 출시 (GeekNews ─ 최신글)]]></title>
         <id>https://www.nvidia.com/download/driverResults.aspx/181159/en-us</id>
@@ -128,20 +142,6 @@
         <link href="https://opensourceecology.dozuki.com/"/>
         <updated>2021-10-13T00:37:05.870Z</updated>
         <content type="html"><![CDATA[(opensourceecology.dozuki.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YoHa - 실용적인 핸드 트래킹 엔진 (GeekNews ─ 최신글)]]></title>
-        <id>https://handtracking.io/</id>
-        <link href="https://handtracking.io/"/>
-        <updated>2021-10-13T00:37:05.884Z</updated>
-        <content type="html"><![CDATA[(handtracking.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떤 버전의 JDK를 써야 할까? (GeekNews ─ 최신글)]]></title>
-        <id>http://whichjdk.com/</id>
-        <link href="http://whichjdk.com/"/>
-        <updated>2021-10-12T02:31:46.536Z</updated>
-        <content type="html"><![CDATA[(whichjdk.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 한·중·일 전산학 용어 대조 (GeekNews Show)]]></title>
