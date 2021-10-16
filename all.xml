@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-16T10:12:00.829Z</updated>
+    <updated>2021-10-16T11:09:46.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[IT 외국계 대기업들은 국내에서 Engineer들을 어떻게 뽑을까? (GeekNews ─ 최신글)]]></title>
+        <id>https://medium.com/visiodeibc/it-%EC%99%B8%EA%B5%AD%EA%B3%84-%EB%8C%80%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%80-%EA%B5%AD%EB%82%B4%EC%97%90%EC%84%9C-engineer%EB%93%A4%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%BD%91%EC%9D%84%EA%B9%8C-de75393f1193</id>
+        <link href="https://medium.com/visiodeibc/it-%EC%99%B8%EA%B5%AD%EA%B3%84-%EB%8C%80%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%80-%EA%B5%AD%EB%82%B4%EC%97%90%EC%84%9C-engineer%EB%93%A4%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%BD%91%EC%9D%84%EA%B9%8C-de75393f1193"/>
+        <updated>2021-10-16T11:09:27.510Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go+ - 엔지니어링, STEM 교육, 데이터 사이언스를 위한 언어 (GeekNews ─ 최신글)]]></title>
         <id>https://goplus.org/</id>
@@ -135,13 +142,6 @@
         <link href="https://developer.nvidia.com/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/"/>
         <updated>2021-10-13T02:00:34.478Z</updated>
         <content type="html"><![CDATA[(developer.nvidia.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브라우저와 HTML을 어뷰징 하기 (GeekNews ─ 최신글)]]></title>
-        <id>https://matthewrayfield.com/</id>
-        <link href="https://matthewrayfield.com/"/>
-        <updated>2021-10-13T02:00:34.478Z</updated>
-        <content type="html"><![CDATA[(matthewrayfield.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 한·중·일 전산학 용어 대조 (GeekNews Show)]]></title>
