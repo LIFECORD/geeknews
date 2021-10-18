@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-18T02:04:04.113Z</updated>
+    <updated>2021-10-18T03:12:43.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 미니앱을 만들 수 있는 잼킷을 소개합니다.]]></title>
+        <id>https://news.hada.io/topic?id=5217</id>
+        <link href="https://news.hada.io/topic?id=5217"/>
+        <updated>2021-10-18T03:12:22.318Z</updated>
+        <content type="html"><![CDATA[(opentutorials.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notion이 Postgres 샤딩하면서 배운 것들]]></title>
         <id>https://www.notion.so/blog/sharding-postgres-at-notion</id>
@@ -136,12 +143,5 @@
         <link href="https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html"/>
         <updated>2021-10-15T00:38:36.160Z</updated>
         <content type="html"><![CDATA[(mdk.fr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SixtyFPS - 유연한 GUI 개발 툴킷]]></title>
-        <id>https://sixtyfps.io/</id>
-        <link href="https://sixtyfps.io/"/>
-        <updated>2021-10-15T00:38:36.160Z</updated>
-        <content type="html"><![CDATA[(sixtyfps.io)]]></content>
     </entry>
 </feed>
