@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews Weekly</title>
-    <updated>2021-10-17T23:11:24.758Z</updated>
+    <updated>2021-10-18T00:43:24.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스타트업 부트스트래핑 가이드]]></title>
+        <id>https://news.hada.io/weekly/202142</id>
+        <link href="https://news.hada.io/weekly/202142"/>
+        <updated>2021-10-18T00:43:23.364Z</updated>
+        <content type="html"><![CDATA[<td class="fitwidth keepall">119. </td><td class="fitwidth">202142</td><td width="*">&nbsp;<a href="/weekly/202142" class="u keepall"> 스타트업 부트스트래핑 가이드</a></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초소형 사모펀드(Micro PE)의 등장]]></title>
         <id>https://news.hada.io/weekly/202141</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/weekly/202123"/>
         <updated>2021-10-04T01:59:29.702Z</updated>
         <content type="html"><![CDATA[<td class="fitwidth keepall">100. </td><td class="fitwidth">202123</td><td width="*">&nbsp;<a href="/weekly/202123" class="u keepall"> Developer Advocacy 핸드북과 CNBC Disruptor 50</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재미로 만든 작은 인터넷 프로젝트 팔기]]></title>
-        <id>https://news.hada.io/weekly/202122</id>
-        <link href="https://news.hada.io/weekly/202122"/>
-        <updated>2021-10-04T01:59:29.703Z</updated>
-        <content type="html"><![CDATA[<td class="fitwidth keepall">99. </td><td class="fitwidth">202122</td><td width="*">&nbsp;<a href="/weekly/202122" class="u keepall"> 재미로 만든 작은 인터넷 프로젝트 팔기</a></td>]]></content>
     </entry>
 </feed>
