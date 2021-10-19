@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-19T01:59:22.221Z</updated>
+    <updated>2021-10-19T02:31:09.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 포브 - 매일 아침 7시에 동기부여를 줄 수 있는 글귀를 이메일로 전송해주는 서비스 (GeekNews ─ 최신글)]]></title>
+        <id>https://news.hada.io/topic?id=5223</id>
+        <link href="https://news.hada.io/topic?id=5223"/>
+        <updated>2021-10-19T02:30:52.013Z</updated>
+        <content type="html"><![CDATA[(web.povv.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플, ATT도입 후 6개월간 광고시장 점유율 3배 증가 (GeekNews ─ 최신글)]]></title>
         <id>https://www.iphoneincanada.ca/news/apples-ad-business-surges-after-new-privacy-changes-on-rivals-report/</id>
@@ -138,11 +145,11 @@
         <content type="html"><![CDATA[(callofduty.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parcel v2 릴리즈 (GeekNews ─ 최신글)]]></title>
-        <id>https://parceljs.org/blog/v2/</id>
-        <link href="https://parceljs.org/blog/v2/"/>
-        <updated>2021-10-16T00:39:45.669Z</updated>
-        <content type="html"><![CDATA[(parceljs.org)]]></content>
+        <title type="html"><![CDATA[Show GN: 포브 - 매일 아침 7시에 동기부여를 줄 수 있는 글귀를 이메일로 전송해주는 서비스 (GeekNews Show)]]></title>
+        <id>https://news.hada.io/topic?id=5223</id>
+        <link href="https://news.hada.io/topic?id=5223"/>
+        <updated>2021-10-19T02:30:57.371Z</updated>
+        <content type="html"><![CDATA[(web.povv.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 미니앱을 만들 수 있는 잼킷을 소개합니다. (GeekNews Show)]]></title>
@@ -276,13 +283,6 @@
         <link href="https://news.hada.io/topic?id=4858"/>
         <updated>2021-09-28T01:34:39.766Z</updated>
         <content type="html"><![CDATA[(drawbeat.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Focusli- 긴장을 풀고 집중할 수 있는 LOFI 음악 (GeekNews Show)]]></title>
-        <id>https://news.hada.io/topic?id=4901</id>
-        <link href="https://news.hada.io/topic?id=4901"/>
-        <updated>2021-09-28T01:34:39.765Z</updated>
-        <content type="html"><![CDATA[(focusli.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews Ask)]]></title>
