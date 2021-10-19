@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-18T23:12:21.774Z</updated>
+    <updated>2021-10-19T00:38:20.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TypeScript를 배울 때 알았으면 좋을 트릭들]]></title>
+        <id>https://www.cstrnt.dev/blog/three-typescript-tricks</id>
+        <link href="https://www.cstrnt.dev/blog/three-typescript-tricks"/>
+        <updated>2021-10-19T00:38:00.259Z</updated>
+        <content type="html"><![CDATA[(cstrnt.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canon, 복합기에 잉크가 없으면 스캐너 동작을 못하게 막아서 소송 당함]]></title>
+        <id>https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/</id>
+        <link href="https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/"/>
+        <updated>2021-10-19T00:38:00.260Z</updated>
+        <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배민쇼핑라이브를 만드는 기술: 채팅 편]]></title>
+        <id>https://techblog.woowahan.com/5268/</id>
+        <link href="https://techblog.woowahan.com/5268/"/>
+        <updated>2021-10-19T00:38:00.262Z</updated>
+        <content type="html"><![CDATA[(techblog.woowahan.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, M1 Pro 와 M1 Max 도입한 MacBook Pro 14/16인치 공개]]></title>
+        <id>https://www.apple.com/kr/newsroom/2021/10/apple-unveils-game-changing-macbook-pro/</id>
+        <link href="https://www.apple.com/kr/newsroom/2021/10/apple-unveils-game-changing-macbook-pro/"/>
+        <updated>2021-10-19T00:38:00.264Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 미니앱을 만들 수 있는 잼킷을 소개합니다.]]></title>
         <id>https://news.hada.io/topic?id=5217</id>
@@ -116,32 +144,5 @@
         <link href="https://www.nvidia.com/download/driverResults.aspx/181159/en-us"/>
         <updated>2021-10-15T14:10:24.839Z</updated>
         <content type="html"><![CDATA[(nvidia.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5201</id>
-        <link href="https://news.hada.io/topic?id=5201"/>
-        <updated>2021-10-15T01:58:33.275Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비디오 마케팅 가이드 2021]]></title>
-        <id>https://backlinko.com/video-marketing-guide</id>
-        <link href="https://backlinko.com/video-marketing-guide"/>
-        <updated>2021-10-15T01:58:33.275Z</updated>
-        <content type="html"><![CDATA[(backlinko.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBSD 7.0 릴리즈]]></title>
-        <id>https://www.openbsd.org/70.html</id>
-        <link href="https://www.openbsd.org/70.html"/>
-        <updated>2021-10-15T01:58:33.276Z</updated>
-        <content type="html"><![CDATA[(openbsd.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APT가 터미널에서 멋진 프로그레스바를 표시한 방법]]></title>
-        <id>https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html</id>
-        <link href="https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html"/>
-        <updated>2021-10-15T00:38:36.160Z</updated>
-        <content type="html"><![CDATA[(mdk.fr)]]></content>
     </entry>
 </feed>
