@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-19T14:10:50.558Z</updated>
+    <updated>2021-10-19T15:12:13.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Show GN: 포브 - 매일 아침 7시에 동기부여를 줄 수 있는 글귀를 이메일로 전송해주는 서비스 (GeekNews ─ 최신글)]]></title>
@@ -381,12 +381,6 @@
         <updated>2021-09-28T01:34:45.885Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 근처 사람들은 잘 안 쓰는데, 유용하게 쓰고 계신 유틸러티가 있으신가요? (GeekNews Ask)]]></title>
-        <id>https://news.hada.io/topic?id=4701</id>
-        <link href="https://news.hada.io/topic?id=4701"/>
-        <updated>2021-09-28T01:34:45.892Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 최근 1년간 산 5만원 이하의 물건 중 최고의 제품은? (GeekNews Ask)]]></title>
         <id>https://news.hada.io/topic?id=4849</id>
         <link href="https://news.hada.io/topic?id=4849"/>
@@ -403,6 +397,12 @@
         <id>https://news.hada.io/topic?id=4989</id>
         <link href="https://news.hada.io/topic?id=4989"/>
         <updated>2021-09-28T01:34:45.886Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews Ask)]]></title>
+        <id>https://news.hada.io/topic?id=4941</id>
+        <link href="https://news.hada.io/topic?id=4941"/>
+        <updated>2021-10-19T15:12:06.882Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트업 부트스트래핑 가이드 (GeekNews Weekly)]]></title>
