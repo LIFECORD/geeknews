@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-22T00:42:20.824Z</updated>
+    <updated>2021-10-22T02:10:21.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크롬 95 새 기능]]></title>
+        <id>https://developer.chrome.com/blog/new-in-chrome-95/</id>
+        <link href="https://developer.chrome.com/blog/new-in-chrome-95/"/>
+        <updated>2021-10-22T02:09:54.823Z</updated>
+        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.56.0 및 Rust 2021 발표]]></title>
+        <id>https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html</id>
+        <link href="https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html"/>
+        <updated>2021-10-22T02:09:54.824Z</updated>
+        <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 플레이, 2022/1/1 부터 구독 수수료를 30%에서 15%로 인하]]></title>
+        <id>https://android-developers.googleblog.com/2021/10/evolving-business-model.html</id>
+        <link href="https://android-developers.googleblog.com/2021/10/evolving-business-model.html"/>
+        <updated>2021-10-22T02:09:54.825Z</updated>
+        <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알리바바, XuanTie RISC-V 코어 오픈소스로 공개]]></title>
         <id>https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/</id>
@@ -122,26 +143,5 @@
         <link href="https://www.iphoneincanada.ca/news/apples-ad-business-surges-after-new-privacy-changes-on-rivals-report/"/>
         <updated>2021-10-19T01:59:03.099Z</updated>
         <content type="html"><![CDATA[(iphoneincanada.ca)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript를 배울 때 알았으면 좋을 트릭들]]></title>
-        <id>https://www.cstrnt.dev/blog/three-typescript-tricks</id>
-        <link href="https://www.cstrnt.dev/blog/three-typescript-tricks"/>
-        <updated>2021-10-19T00:38:00.259Z</updated>
-        <content type="html"><![CDATA[(cstrnt.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canon, 복합기에 잉크가 없으면 스캐너 동작을 못하게 막아서 소송 당함]]></title>
-        <id>https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/</id>
-        <link href="https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/"/>
-        <updated>2021-10-19T00:38:00.260Z</updated>
-        <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배민쇼핑라이브를 만드는 기술: 채팅 편]]></title>
-        <id>https://techblog.woowahan.com/5268/</id>
-        <link href="https://techblog.woowahan.com/5268/"/>
-        <updated>2021-10-19T00:38:00.262Z</updated>
-        <content type="html"><![CDATA[(techblog.woowahan.com)]]></content>
     </entry>
 </feed>
