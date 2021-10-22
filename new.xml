@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews ─ 최신글</title>
-    <updated>2021-10-21T23:11:32.099Z</updated>
+    <updated>2021-10-22T00:42:20.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[알리바바, XuanTie RISC-V 코어 오픈소스로 공개]]></title>
+        <id>https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/</id>
+        <link href="https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/"/>
+        <updated>2021-10-22T00:42:03.437Z</updated>
+        <content type="html"><![CDATA[(fuse.wikichip.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5237</id>
+        <link href="https://news.hada.io/topic?id=5237"/>
+        <updated>2021-10-22T00:42:03.439Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Favicon 42만개를 분석해봤어요]]></title>
+        <id>https://iconmap.io/blog</id>
+        <link href="https://iconmap.io/blog"/>
+        <updated>2021-10-22T00:42:03.441Z</updated>
+        <content type="html"><![CDATA[(iconmap.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vscode.dev 공개]]></title>
+        <id>https://code.visualstudio.com/blogs/2021/10/20/vscode-dev</id>
+        <link href="https://code.visualstudio.com/blogs/2021/10/20/vscode-dev"/>
+        <updated>2021-10-22T00:42:03.443Z</updated>
+        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[페이스북, 회사 리브랜딩의 일부로 이름 변경 예정]]></title>
         <id>https://www.theverge.com/2021/10/19/22735612/facebook-change-company-name-metaverse</id>
@@ -116,33 +143,5 @@
         <link href="https://techblog.woowahan.com/5268/"/>
         <updated>2021-10-19T00:38:00.262Z</updated>
         <content type="html"><![CDATA[(techblog.woowahan.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, M1 Pro 와 M1 Max 도입한 MacBook Pro 14/16인치 공개]]></title>
-        <id>https://www.apple.com/kr/newsroom/2021/10/apple-unveils-game-changing-macbook-pro/</id>
-        <link href="https://www.apple.com/kr/newsroom/2021/10/apple-unveils-game-changing-macbook-pro/"/>
-        <updated>2021-10-19T00:38:00.264Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 미니앱을 만들 수 있는 잼킷을 소개합니다.]]></title>
-        <id>https://news.hada.io/topic?id=5217</id>
-        <link href="https://news.hada.io/topic?id=5217"/>
-        <updated>2021-10-18T03:12:22.318Z</updated>
-        <content type="html"><![CDATA[(opentutorials.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notion이 Postgres 샤딩하면서 배운 것들]]></title>
-        <id>https://www.notion.so/blog/sharding-postgres-at-notion</id>
-        <link href="https://www.notion.so/blog/sharding-postgres-at-notion"/>
-        <updated>2021-10-18T02:03:43.784Z</updated>
-        <content type="html"><![CDATA[(notion.so)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[auto-cpufreq - Linux CPU 속도 & 전원 최적화]]></title>
-        <id>https://github.com/AdnanHodzic/auto-cpufreq</id>
-        <link href="https://github.com/AdnanHodzic/auto-cpufreq"/>
-        <updated>2021-10-18T02:03:43.784Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
