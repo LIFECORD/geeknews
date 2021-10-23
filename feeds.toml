@@ -1,3 +1,11 @@
+[home]
+title = "GeekNews"
+url = "https://news.hada.io/"
+entrySelector = "//tr[@class='topicinfo']/td[3]"
+titleSelector = "//a[1]"
+linkSelector = "//a[@class='u']"
+waitUntil = "networkidle"
+
 [new]
 title = "GeekNews ─ 최신글"
 url = "https://news.hada.io/new"
