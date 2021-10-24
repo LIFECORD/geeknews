@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-24T08:13:05.796Z</updated>
+    <updated>2021-10-24T08:50:01.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[xguru (GeekNews)]]></title>
@@ -16,14 +16,14 @@
         <id>https://news.hada.io/topic?id=5248</id>
         <link href="https://news.hada.io/topic?id=5248"/>
         <updated>2021-10-24T01:56:27.984Z</updated>
-        <content type="html"><![CDATA[<span id="tp5248">2</span> points by <a href="/user?id=xguru">xguru</a> 7시간전<span id="unvote5248"></span> | <a href="topic?id=5248" class="u">댓글과 토론</a>]]></content>
+        <content type="html"><![CDATA[<span id="tp5248">2</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote5248"></span> | <a href="topic?id=5248" class="u">댓글과 토론</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru (GeekNews)]]></title>
         <id>https://news.hada.io/topic?id=5246</id>
         <link href="https://news.hada.io/topic?id=5246"/>
         <updated>2021-10-24T00:37:21.008Z</updated>
-        <content type="html"><![CDATA[<span id="tp5246">2</span> points by <a href="/user?id=xguru">xguru</a> 8시간전<span id="unvote5246"></span> | <a href="topic?id=5246" class="u">댓글 1개</a>]]></content>
+        <content type="html"><![CDATA[<span id="tp5246">2</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote5246"></span> | <a href="topic?id=5246" class="u">댓글 1개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru (GeekNews)]]></title>
@@ -139,149 +139,149 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru (GeekNews)]]></title>
-        <id>https://news.hada.io/topic?id=5226</id>
-        <link href="https://news.hada.io/topic?id=5226"/>
-        <updated>2021-10-23T16:51:52.298Z</updated>
-        <content type="html"><![CDATA[<span id="tp5226">7</span> points by <a href="/user?id=xguru">xguru</a> 4일전<span id="unvote5226"></span> | <a href="topic?id=5226" class="u">댓글 1개</a>]]></content>
+        <id>https://news.hada.io/topic?id=5219</id>
+        <link href="https://news.hada.io/topic?id=5219"/>
+        <updated>2021-10-24T08:49:36.432Z</updated>
+        <content type="html"><![CDATA[<span id="tp5219">10</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote5219"></span> | <a href="topic?id=5219" class="u">댓글과 토론</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenSilver - MS Silverlight의 오픈소스 구현체 (GeekNews ─ 최신글)]]></title>
-        <id>https://www.opensilver.net/</id>
-        <link href="https://www.opensilver.net/"/>
-        <updated>2021-10-24T01:56:33.183Z</updated>
-        <content type="html"><![CDATA[(opensilver.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FOSDEM 2022 온라인에서 개최 예정 (GeekNews ─ 최신글)]]></title>
+        <title type="html"><![CDATA[FOSDEM 2022 온라인에서 개최 예정 (GeekNews ─ 원문)]]></title>
         <id>https://fosdem.org/2022/news/2021-10-22-fosdem-online-2022/</id>
         <link href="https://fosdem.org/2022/news/2021-10-22-fosdem-online-2022/"/>
         <updated>2021-10-24T00:37:27.467Z</updated>
         <content type="html"><![CDATA[(fosdem.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PyTorch 1.1 릴리즈 (GeekNews ─ 최신글)]]></title>
+        <title type="html"><![CDATA[OpenSilver - MS Silverlight의 오픈소스 구현체 (GeekNews ─ 원문)]]></title>
+        <id>https://www.opensilver.net/</id>
+        <link href="https://www.opensilver.net/"/>
+        <updated>2021-10-24T01:56:33.183Z</updated>
+        <content type="html"><![CDATA[(opensilver.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch 1.1 릴리즈 (GeekNews ─ 원문)]]></title>
         <id>https://pytorch.org/blog/pytorch-1.10-released/</id>
         <link href="https://pytorch.org/blog/pytorch-1.10-released/"/>
         <updated>2021-10-24T00:37:27.468Z</updated>
         <content type="html"><![CDATA[(pytorch.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oculus Go, Unlocked OS 공개 (GeekNews ─ 최신글)]]></title>
-        <id>https://developer.oculus.com/blog/unlocking-oculus-go/</id>
-        <link href="https://developer.oculus.com/blog/unlocking-oculus-go/"/>
-        <updated>2021-10-23T01:59:04.746Z</updated>
-        <content type="html"><![CDATA[(developer.oculus.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크 (GeekNews ─ 최신글)]]></title>
-        <id>https://blitzjs.com/</id>
-        <link href="https://blitzjs.com/"/>
-        <updated>2021-10-23T01:59:04.746Z</updated>
-        <content type="html"><![CDATA[(blitzjs.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gramma - 커맨드라인 문법(grammar) 검사기 (GeekNews ─ 최신글)]]></title>
-        <id>https://caderek.github.io/gramma/</id>
-        <link href="https://caderek.github.io/gramma/"/>
-        <updated>2021-10-23T00:39:13.530Z</updated>
-        <content type="html"><![CDATA[(caderek.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS, 윈도우11 베타에 Android 앱 지원 기능 프리뷰 공개 (GeekNews ─ 최신글)]]></title>
-        <id>https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/</id>
-        <link href="https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/"/>
-        <updated>2021-10-23T00:39:13.530Z</updated>
-        <content type="html"><![CDATA[(blogs.windows.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크롬 95 새 기능 (GeekNews ─ 최신글)]]></title>
-        <id>https://developer.chrome.com/blog/new-in-chrome-95/</id>
-        <link href="https://developer.chrome.com/blog/new-in-chrome-95/"/>
-        <updated>2021-10-22T02:09:54.823Z</updated>
-        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust 1.56.0 및 Rust 2021 발표 (GeekNews ─ 최신글)]]></title>
+        <title type="html"><![CDATA[Rust 1.56.0 및 Rust 2021 발표 (GeekNews ─ 원문)]]></title>
         <id>https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html</id>
         <link href="https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html"/>
         <updated>2021-10-22T02:09:54.824Z</updated>
         <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 플레이, 2022/1/1 부터 구독 수수료를 30%에서 15%로 인하 (GeekNews ─ 최신글)]]></title>
-        <id>https://android-developers.googleblog.com/2021/10/evolving-business-model.html</id>
-        <link href="https://android-developers.googleblog.com/2021/10/evolving-business-model.html"/>
-        <updated>2021-10-22T02:09:54.825Z</updated>
-        <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
+        <title type="html"><![CDATA[Oculus Go, Unlocked OS 공개 (GeekNews ─ 원문)]]></title>
+        <id>https://developer.oculus.com/blog/unlocking-oculus-go/</id>
+        <link href="https://developer.oculus.com/blog/unlocking-oculus-go/"/>
+        <updated>2021-10-23T01:59:04.746Z</updated>
+        <content type="html"><![CDATA[(developer.oculus.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알리바바, XuanTie RISC-V 코어 오픈소스로 공개 (GeekNews ─ 최신글)]]></title>
-        <id>https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/</id>
-        <link href="https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/"/>
-        <updated>2021-10-22T00:42:03.437Z</updated>
-        <content type="html"><![CDATA[(fuse.wikichip.org)]]></content>
+        <title type="html"><![CDATA[MS, 윈도우11 베타에 Android 앱 지원 기능 프리뷰 공개 (GeekNews ─ 원문)]]></title>
+        <id>https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/</id>
+        <link href="https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/"/>
+        <updated>2021-10-23T00:39:13.530Z</updated>
+        <content type="html"><![CDATA[(blogs.windows.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews ─ 최신글)]]></title>
-        <id>https://news.hada.io/topic?id=5237</id>
-        <link href="https://news.hada.io/topic?id=5237"/>
-        <updated>2021-10-22T00:42:03.439Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Favicon 42만개를 분석해봤어요 (GeekNews ─ 최신글)]]></title>
-        <id>https://iconmap.io/blog</id>
-        <link href="https://iconmap.io/blog"/>
-        <updated>2021-10-22T00:42:03.441Z</updated>
-        <content type="html"><![CDATA[(iconmap.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vscode.dev 공개 (GeekNews ─ 최신글)]]></title>
-        <id>https://code.visualstudio.com/blogs/2021/10/20/vscode-dev</id>
-        <link href="https://code.visualstudio.com/blogs/2021/10/20/vscode-dev"/>
-        <updated>2021-10-22T00:42:03.443Z</updated>
-        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북, 회사 리브랜딩의 일부로 이름 변경 예정 (GeekNews ─ 최신글)]]></title>
-        <id>https://www.theverge.com/2021/10/19/22735612/facebook-change-company-name-metaverse</id>
-        <link href="https://www.theverge.com/2021/10/19/22735612/facebook-change-company-name-metaverse"/>
-        <updated>2021-10-21T03:12:11.662Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edge 다음 버전 부터 브라우저 내 개발 도구로 VSCode 사용 가능 (GeekNews ─ 최신글)]]></title>
-        <id>https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/</id>
-        <link href="https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/"/>
-        <updated>2021-10-21T02:04:55.086Z</updated>
-        <content type="html"><![CDATA[(christianheilmann.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중요한 SaaS 지표들과 설명 (GeekNews ─ 최신글)]]></title>
-        <id>https://sacks.substack.com/p/the-saas-metrics-that-matter</id>
-        <link href="https://sacks.substack.com/p/the-saas-metrics-that-matter"/>
-        <updated>2021-10-21T02:04:55.093Z</updated>
-        <content type="html"><![CDATA[(sacks.substack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ImgSrc.Space - 쓰기 편한 이미지/비디오 플레이스홀더 (GeekNews ─ 최신글)]]></title>
+        <title type="html"><![CDATA[ImgSrc.Space - 쓰기 편한 이미지/비디오 플레이스홀더 (GeekNews ─ 원문)]]></title>
         <id>https://imgsrc.space/</id>
         <link href="https://imgsrc.space/"/>
         <updated>2021-10-21T02:04:55.098Z</updated>
         <content type="html"><![CDATA[(imgsrc.space)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, Pixel 6 와 Pixel 6 Pro 공개 (GeekNews ─ 최신글)]]></title>
-        <id>https://store.google.com/us/category/phones?hl=en-US</id>
-        <link href="https://store.google.com/us/category/phones?hl=en-US"/>
-        <updated>2021-10-21T00:40:58.524Z</updated>
-        <content type="html"><![CDATA[(store.google.com)]]></content>
+        <title type="html"><![CDATA[vscode.dev 공개 (GeekNews ─ 원문)]]></title>
+        <id>https://code.visualstudio.com/blogs/2021/10/20/vscode-dev</id>
+        <link href="https://code.visualstudio.com/blogs/2021/10/20/vscode-dev"/>
+        <updated>2021-10-22T00:42:03.443Z</updated>
+        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Function Pipelines : PostgreSQL에 함수형 프로그래밍 추가하기 (GeekNews ─ 최신글)]]></title>
+        <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크 (GeekNews ─ 원문)]]></title>
+        <id>https://blitzjs.com/</id>
+        <link href="https://blitzjs.com/"/>
+        <updated>2021-10-23T01:59:04.746Z</updated>
+        <content type="html"><![CDATA[(blitzjs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gramma - 커맨드라인 문법(grammar) 검사기 (GeekNews ─ 원문)]]></title>
+        <id>https://caderek.github.io/gramma/</id>
+        <link href="https://caderek.github.io/gramma/"/>
+        <updated>2021-10-23T00:39:13.530Z</updated>
+        <content type="html"><![CDATA[(caderek.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notion이 Postgres 샤딩하면서 배운 것들 (GeekNews ─ 원문)]]></title>
+        <id>https://www.notion.so/blog/sharding-postgres-at-notion</id>
+        <link href="https://www.notion.so/blog/sharding-postgres-at-notion"/>
+        <updated>2021-10-24T08:49:42.218Z</updated>
+        <content type="html"><![CDATA[(notion.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edge 다음 버전 부터 브라우저 내 개발 도구로 VSCode 사용 가능 (GeekNews ─ 원문)]]></title>
+        <id>https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/</id>
+        <link href="https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/"/>
+        <updated>2021-10-21T02:04:55.086Z</updated>
+        <content type="html"><![CDATA[(christianheilmann.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of AI 2021 보고서 [구글 Slide, 188P] (GeekNews ─ 원문)]]></title>
+        <id>https://www.stateof.ai/</id>
+        <link href="https://www.stateof.ai/"/>
+        <updated>2021-10-24T08:49:42.222Z</updated>
+        <content type="html"><![CDATA[(stateof.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript를 배울 때 알았으면 좋을 트릭들 (GeekNews ─ 원문)]]></title>
+        <id>https://www.cstrnt.dev/blog/three-typescript-tricks</id>
+        <link href="https://www.cstrnt.dev/blog/three-typescript-tricks"/>
+        <updated>2021-10-24T08:49:42.223Z</updated>
+        <content type="html"><![CDATA[(cstrnt.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크롬 95 새 기능 (GeekNews ─ 원문)]]></title>
+        <id>https://developer.chrome.com/blog/new-in-chrome-95/</id>
+        <link href="https://developer.chrome.com/blog/new-in-chrome-95/"/>
+        <updated>2021-10-22T02:09:54.823Z</updated>
+        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews ─ 원문)]]></title>
+        <id>https://news.hada.io/topic?id=5237</id>
+        <link href="https://news.hada.io/topic?id=5237"/>
+        <updated>2021-10-22T00:42:03.439Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중요한 SaaS 지표들과 설명 (GeekNews ─ 원문)]]></title>
+        <id>https://sacks.substack.com/p/the-saas-metrics-that-matter</id>
+        <link href="https://sacks.substack.com/p/the-saas-metrics-that-matter"/>
+        <updated>2021-10-21T02:04:55.093Z</updated>
+        <content type="html"><![CDATA[(sacks.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Function Pipelines : PostgreSQL에 함수형 프로그래밍 추가하기 (GeekNews ─ 원문)]]></title>
         <id>https://blog.timescale.com/blog/function-pipelines-building-functional-programming-into-postgresql-using-custom-operators/</id>
         <link href="https://blog.timescale.com/blog/function-pipelines-building-functional-programming-into-postgresql-using-custom-operators/"/>
         <updated>2021-10-21T00:40:58.524Z</updated>
         <content type="html"><![CDATA[(blog.timescale.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forbes 선정 차세대 1조 가치 스타트업들 2021 (GeekNews ─ 원문)]]></title>
+        <id>https://www.forbes.com/sites/amyfeldman/2021/10/12/next-billion-dollar-startups-2021/</id>
+        <link href="https://www.forbes.com/sites/amyfeldman/2021/10/12/next-billion-dollar-startups-2021/"/>
+        <updated>2021-10-24T08:49:42.231Z</updated>
+        <content type="html"><![CDATA[(forbes.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배민쇼핑라이브를 만드는 기술: 채팅 편 (GeekNews ─ 원문)]]></title>
+        <id>https://techblog.woowahan.com/5268/</id>
+        <link href="https://techblog.woowahan.com/5268/"/>
+        <updated>2021-10-24T08:49:42.235Z</updated>
+        <content type="html"><![CDATA[(techblog.woowahan.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 포브 - 매일 아침 7시에 동기부여를 줄 수 있는 글귀를 이메일로 전송해주는 서비스 (GeekNews Show)]]></title>
