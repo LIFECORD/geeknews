@@ -15,6 +15,14 @@ linkSelector = "td.topictitle a"
 contentSelector = "span.topicurl"
 waitUntil = "networkidle"
 
+[new]
+title = "GeekNews ─ 최신글"
+url = "https://news.hada.io/new"
+entrySelector = "//tr[@class='topicinfo']/td[3]"
+titleSelector = "//a[1]"
+linkSelector = "//a[@class='u']"
+waitUntil = "networkidle"
+
 [show]
 title = "GeekNews Show"
 url = "https://news.hada.io/show"
