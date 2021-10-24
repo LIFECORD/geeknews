@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-24T21:10:50.826Z</updated>
+    <updated>2021-10-24T22:11:26.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,12 +125,6 @@
         <content type="html"><![CDATA[(sacks.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5237</id>
-        <link href="https://news.hada.io/topic?id=5237"/>
-        <updated>2021-10-24T08:49:42.225Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Function Pipelines : PostgreSQL에 함수형 프로그래밍 추가하기]]></title>
         <id>https://blog.timescale.com/blog/function-pipelines-building-functional-programming-into-postgresql-using-custom-operators/</id>
         <link href="https://blog.timescale.com/blog/function-pipelines-building-functional-programming-into-postgresql-using-custom-operators/"/>
@@ -143,5 +137,11 @@
         <link href="https://techblog.woowahan.com/5268/"/>
         <updated>2021-10-24T15:11:23.189Z</updated>
         <content type="html"><![CDATA[(techblog.woowahan.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5237</id>
+        <link href="https://news.hada.io/topic?id=5237"/>
+        <updated>2021-10-24T08:49:42.225Z</updated>
     </entry>
 </feed>
