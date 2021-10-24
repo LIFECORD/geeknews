@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-24T13:16:23.233Z</updated>
+    <updated>2021-10-24T14:10:49.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(developer.oculus.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크]]></title>
-        <id>https://blitzjs.com/</id>
-        <link href="https://blitzjs.com/"/>
-        <updated>2021-10-24T08:49:42.215Z</updated>
-        <content type="html"><![CDATA[(blitzjs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ImgSrc.Space - 쓰기 편한 이미지/비디오 플레이스홀더]]></title>
         <id>https://imgsrc.space/</id>
         <link href="https://imgsrc.space/"/>
         <updated>2021-10-24T08:49:42.207Z</updated>
         <content type="html"><![CDATA[(imgsrc.space)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크]]></title>
+        <id>https://blitzjs.com/</id>
+        <link href="https://blitzjs.com/"/>
+        <updated>2021-10-24T08:49:42.215Z</updated>
+        <content type="html"><![CDATA[(blitzjs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MS, 윈도우11 베타에 Android 앱 지원 기능 프리뷰 공개]]></title>
