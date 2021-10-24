@@ -6,3 +6,5 @@ https://lifecord.github.io/geeknews/all.xml
 - Ask: https://lifecord.github.io/geeknews/ask.xml
 - Show: https://lifecord.github.io/geeknews/show.xml
 - Weekly: https://lifecord.github.io/geeknews/weekly.xml
+- Podcast: https://lifecord.github.io/geeknews/podcast.xml
+- Blog: https://lifecord.github.io/geeknews/blog.xml
