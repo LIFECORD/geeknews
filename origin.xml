@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-24T12:17:02.464Z</updated>
+    <updated>2021-10-24T13:16:23.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(developer.oculus.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크]]></title>
+        <id>https://blitzjs.com/</id>
+        <link href="https://blitzjs.com/"/>
+        <updated>2021-10-24T08:49:42.215Z</updated>
+        <content type="html"><![CDATA[(blitzjs.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ImgSrc.Space - 쓰기 편한 이미지/비디오 플레이스홀더]]></title>
         <id>https://imgsrc.space/</id>
         <link href="https://imgsrc.space/"/>
@@ -60,13 +67,6 @@
         <link href="https://code.visualstudio.com/blogs/2021/10/20/vscode-dev"/>
         <updated>2021-10-24T08:49:42.208Z</updated>
         <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크]]></title>
-        <id>https://blitzjs.com/</id>
-        <link href="https://blitzjs.com/"/>
-        <updated>2021-10-24T08:49:42.215Z</updated>
-        <content type="html"><![CDATA[(blitzjs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gramma - 커맨드라인 문법(grammar) 검사기]]></title>
