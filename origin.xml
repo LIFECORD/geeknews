@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-24T14:10:49.754Z</updated>
+    <updated>2021-10-24T15:11:58.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -117,18 +117,18 @@
         <updated>2021-10-24T08:49:42.225Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중요한 SaaS 지표들과 설명]]></title>
-        <id>https://sacks.substack.com/p/the-saas-metrics-that-matter</id>
-        <link href="https://sacks.substack.com/p/the-saas-metrics-that-matter"/>
-        <updated>2021-10-24T08:49:42.228Z</updated>
-        <content type="html"><![CDATA[(sacks.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Forbes 선정 차세대 1조 가치 스타트업들 2021]]></title>
         <id>https://www.forbes.com/sites/amyfeldman/2021/10/12/next-billion-dollar-startups-2021/</id>
         <link href="https://www.forbes.com/sites/amyfeldman/2021/10/12/next-billion-dollar-startups-2021/"/>
         <updated>2021-10-24T08:49:42.231Z</updated>
         <content type="html"><![CDATA[(forbes.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중요한 SaaS 지표들과 설명]]></title>
+        <id>https://sacks.substack.com/p/the-saas-metrics-that-matter</id>
+        <link href="https://sacks.substack.com/p/the-saas-metrics-that-matter"/>
+        <updated>2021-10-24T08:49:42.228Z</updated>
+        <content type="html"><![CDATA[(sacks.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Function Pipelines : PostgreSQL에 함수형 프로그래밍 추가하기]]></title>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(blog.timescale.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ddosify - 고성능 로드테스팅 도구]]></title>
-        <id>https://github.com/ddosify/ddosify</id>
-        <link href="https://github.com/ddosify/ddosify"/>
-        <updated>2021-10-24T11:09:03.881Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[배민쇼핑라이브를 만드는 기술: 채팅 편]]></title>
+        <id>https://techblog.woowahan.com/5268/</id>
+        <link href="https://techblog.woowahan.com/5268/"/>
+        <updated>2021-10-24T15:11:23.189Z</updated>
+        <content type="html"><![CDATA[(techblog.woowahan.com)]]></content>
     </entry>
 </feed>
