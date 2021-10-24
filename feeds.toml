@@ -6,9 +6,9 @@ titleSelector = "//a[1]"
 linkSelector = "//a[@class='u']"
 waitUntil = "networkidle"
 
-[new]
-title = "GeekNews ─ 최신글"
-url = "https://news.hada.io/new"
+[origin]
+title = "GeekNews ─ 원문"
+url = "https://news.hada.io/"
 entrySelector = "table tbody tr.topic"
 titleSelector = "td.topictitle a h1"
 linkSelector = "td.topictitle a"
