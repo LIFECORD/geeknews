@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-25T19:10:23.322Z</updated>
+    <updated>2021-10-25T20:14:13.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oculus Go, Unlocked OS 공개]]></title>
-        <id>https://developer.oculus.com/blog/unlocking-oculus-go/</id>
-        <link href="https://developer.oculus.com/blog/unlocking-oculus-go/"/>
-        <updated>2021-10-24T08:49:42.204Z</updated>
-        <content type="html"><![CDATA[(developer.oculus.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ImgSrc.Space - 쓰기 편한 이미지/비디오 플레이스홀더]]></title>
         <id>https://imgsrc.space/</id>
         <link href="https://imgsrc.space/"/>
         <updated>2021-10-24T08:49:42.207Z</updated>
         <content type="html"><![CDATA[(imgsrc.space)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oculus Go, Unlocked OS 공개]]></title>
+        <id>https://developer.oculus.com/blog/unlocking-oculus-go/</id>
+        <link href="https://developer.oculus.com/blog/unlocking-oculus-go/"/>
+        <updated>2021-10-24T08:49:42.204Z</updated>
+        <content type="html"><![CDATA[(developer.oculus.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenSilver - MS Silverlight의 오픈소스 구현체]]></title>
