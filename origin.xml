@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-25T14:11:26.472Z</updated>
+    <updated>2021-10-25T15:11:03.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(blogs.windows.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notion이 Postgres 샤딩하면서 배운 것들]]></title>
-        <id>https://www.notion.so/blog/sharding-postgres-at-notion</id>
-        <link href="https://www.notion.so/blog/sharding-postgres-at-notion"/>
-        <updated>2021-10-24T08:49:42.218Z</updated>
-        <content type="html"><![CDATA[(notion.so)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[vscode.dev 공개]]></title>
         <id>https://code.visualstudio.com/blogs/2021/10/20/vscode-dev</id>
         <link href="https://code.visualstudio.com/blogs/2021/10/20/vscode-dev"/>
@@ -144,5 +137,12 @@
         <link href="https://www.stateof.ai/"/>
         <updated>2021-10-24T08:49:42.222Z</updated>
         <content type="html"><![CDATA[(stateof.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배민쇼핑라이브를 만드는 기술: 채팅 편]]></title>
+        <id>https://techblog.woowahan.com/5268/</id>
+        <link href="https://techblog.woowahan.com/5268/"/>
+        <updated>2021-10-25T15:10:19.535Z</updated>
+        <content type="html"><![CDATA[(techblog.woowahan.com)]]></content>
     </entry>
 </feed>
