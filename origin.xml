@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-25T06:14:26.307Z</updated>
+    <updated>2021-10-25T07:12:38.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/"/>
         <updated>2021-10-25T00:39:20.487Z</updated>
         <content type="html"><![CDATA[(hasura.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 뉴스레터를 즐겨보고 있다면 주목해야 할 서비스, 헤이버니를 소개합니다.]]></title>
+        <id>https://news.hada.io/topic?id=5255</id>
+        <link href="https://news.hada.io/topic?id=5255"/>
+        <updated>2021-10-25T07:12:00.963Z</updated>
+        <content type="html"><![CDATA[(heybunny.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크]]></title>
@@ -83,18 +90,18 @@
         <content type="html"><![CDATA[(imgsrc.space)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenSilver - MS Silverlight의 오픈소스 구현체]]></title>
-        <id>https://www.opensilver.net/</id>
-        <link href="https://www.opensilver.net/"/>
-        <updated>2021-10-24T08:49:42.204Z</updated>
-        <content type="html"><![CDATA[(opensilver.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MS, 윈도우11 베타에 Android 앱 지원 기능 프리뷰 공개]]></title>
         <id>https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/</id>
         <link href="https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/"/>
         <updated>2021-10-24T08:49:42.206Z</updated>
         <content type="html"><![CDATA[(blogs.windows.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSilver - MS Silverlight의 오픈소스 구현체]]></title>
+        <id>https://www.opensilver.net/</id>
+        <link href="https://www.opensilver.net/"/>
+        <updated>2021-10-24T08:49:42.204Z</updated>
+        <content type="html"><![CDATA[(opensilver.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PyTorch 1.10 릴리즈]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.stateof.ai/"/>
         <updated>2021-10-24T08:49:42.222Z</updated>
         <content type="html"><![CDATA[(stateof.ai)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forbes 선정 차세대 1조 가치 스타트업들 2021]]></title>
-        <id>https://www.forbes.com/sites/amyfeldman/2021/10/12/next-billion-dollar-startups-2021/</id>
-        <link href="https://www.forbes.com/sites/amyfeldman/2021/10/12/next-billion-dollar-startups-2021/"/>
-        <updated>2021-10-24T08:49:42.231Z</updated>
-        <content type="html"><![CDATA[(forbes.com)]]></content>
     </entry>
 </feed>
