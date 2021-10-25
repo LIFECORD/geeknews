@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-25T02:35:18.217Z</updated>
+    <updated>2021-10-25T03:12:42.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[SaaS 이메일 템플릿 모음]]></title>
-        <id>https://saasemailtemplates.io/templates</id>
-        <link href="https://saasemailtemplates.io/templates"/>
-        <updated>2021-10-25T00:39:20.485Z</updated>
-        <content type="html"><![CDATA[(saasemailtemplates.io)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
         <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
         <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
         <updated>2021-10-25T01:57:16.066Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS 이메일 템플릿 모음]]></title>
+        <id>https://saasemailtemplates.io/templates</id>
+        <link href="https://saasemailtemplates.io/templates"/>
+        <updated>2021-10-25T00:39:20.485Z</updated>
+        <content type="html"><![CDATA[(saasemailtemplates.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 알고리즘 및 자료 구조]]></title>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FaaS 선택하기 2021]]></title>
-        <id>https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/</id>
-        <link href="https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/"/>
-        <updated>2021-10-25T00:39:20.487Z</updated>
-        <content type="html"><![CDATA[(hasura.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[vdx - FFMpeg을 쉽게 이용하는 직관적인 CLI 도구]]></title>
         <id>https://github.com/yuanqing/vdx</id>
         <link href="https://github.com/yuanqing/vdx"/>
         <updated>2021-10-25T01:57:16.067Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FaaS 선택하기 2021]]></title>
+        <id>https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/</id>
+        <link href="https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/"/>
+        <updated>2021-10-25T00:39:20.487Z</updated>
+        <content type="html"><![CDATA[(hasura.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(opensilver.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PyTorch 1.1 릴리즈]]></title>
-        <id>https://pytorch.org/blog/pytorch-1.10-released/</id>
-        <link href="https://pytorch.org/blog/pytorch-1.10-released/"/>
-        <updated>2021-10-24T08:49:42.204Z</updated>
-        <content type="html"><![CDATA[(pytorch.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ImgSrc.Space - 쓰기 편한 이미지/비디오 플레이스홀더]]></title>
         <id>https://imgsrc.space/</id>
         <link href="https://imgsrc.space/"/>
         <updated>2021-10-24T08:49:42.207Z</updated>
         <content type="html"><![CDATA[(imgsrc.space)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch 1.1 릴리즈]]></title>
+        <id>https://pytorch.org/blog/pytorch-1.10-released/</id>
+        <link href="https://pytorch.org/blog/pytorch-1.10-released/"/>
+        <updated>2021-10-24T08:49:42.204Z</updated>
+        <content type="html"><![CDATA[(pytorch.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MS, 윈도우11 베타에 Android 앱 지원 기능 프리뷰 공개]]></title>
