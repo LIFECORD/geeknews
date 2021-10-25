@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-25T05:11:20.921Z</updated>
+    <updated>2021-10-25T06:14:26.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,7 +97,7 @@
         <content type="html"><![CDATA[(blogs.windows.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PyTorch 1.1 릴리즈]]></title>
+        <title type="html"><![CDATA[PyTorch 1.10 릴리즈]]></title>
         <id>https://pytorch.org/blog/pytorch-1.10-released/</id>
         <link href="https://pytorch.org/blog/pytorch-1.10-released/"/>
         <updated>2021-10-24T08:49:42.204Z</updated>
