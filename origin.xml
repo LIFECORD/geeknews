@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-25T21:10:44.816Z</updated>
+    <updated>2021-10-25T22:11:54.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(blogs.windows.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PyTorch 1.10 릴리즈]]></title>
-        <id>https://pytorch.org/blog/pytorch-1.10-released/</id>
-        <link href="https://pytorch.org/blog/pytorch-1.10-released/"/>
-        <updated>2021-10-24T08:49:42.204Z</updated>
-        <content type="html"><![CDATA[(pytorch.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Edge 다음 버전 부터 브라우저 내 개발 도구로 VSCode 사용 가능]]></title>
         <id>https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/</id>
         <link href="https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/"/>
         <updated>2021-10-24T08:49:42.220Z</updated>
         <content type="html"><![CDATA[(christianheilmann.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch 1.10 릴리즈]]></title>
+        <id>https://pytorch.org/blog/pytorch-1.10-released/</id>
+        <link href="https://pytorch.org/blog/pytorch-1.10-released/"/>
+        <updated>2021-10-24T08:49:42.204Z</updated>
+        <content type="html"><![CDATA[(pytorch.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript를 배울 때 알았으면 좋을 트릭들]]></title>
