@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-25T04:14:47.146Z</updated>
+    <updated>2021-10-25T05:11:20.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(opensilver.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PyTorch 1.1 릴리즈]]></title>
-        <id>https://pytorch.org/blog/pytorch-1.10-released/</id>
-        <link href="https://pytorch.org/blog/pytorch-1.10-released/"/>
-        <updated>2021-10-24T08:49:42.204Z</updated>
-        <content type="html"><![CDATA[(pytorch.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MS, 윈도우11 베타에 Android 앱 지원 기능 프리뷰 공개]]></title>
         <id>https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/</id>
         <link href="https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/"/>
         <updated>2021-10-24T08:49:42.206Z</updated>
         <content type="html"><![CDATA[(blogs.windows.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch 1.1 릴리즈]]></title>
+        <id>https://pytorch.org/blog/pytorch-1.10-released/</id>
+        <link href="https://pytorch.org/blog/pytorch-1.10-released/"/>
+        <updated>2021-10-24T08:49:42.204Z</updated>
+        <content type="html"><![CDATA[(pytorch.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[vscode.dev 공개]]></title>
