@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-25T01:57:55.531Z</updated>
+    <updated>2021-10-25T02:35:18.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(saasemailtemplates.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript 알고리즘 및 자료 구조]]></title>
-        <id>https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md</id>
-        <link href="https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md"/>
-        <updated>2021-10-25T01:57:16.066Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
         <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
         <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
         <updated>2021-10-25T01:57:16.066Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript 알고리즘 및 자료 구조]]></title>
+        <id>https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md</id>
+        <link href="https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md"/>
+        <updated>2021-10-25T01:57:16.066Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FaaS 선택하기 2021]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FOSDEM 2022 온라인에서 개최 예정]]></title>
-        <id>https://fosdem.org/2022/news/2021-10-22-fosdem-online-2022/</id>
-        <link href="https://fosdem.org/2022/news/2021-10-22-fosdem-online-2022/"/>
-        <updated>2021-10-24T08:49:42.204Z</updated>
-        <content type="html"><![CDATA[(fosdem.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크]]></title>
         <id>https://blitzjs.com/</id>
         <link href="https://blitzjs.com/"/>
         <updated>2021-10-24T08:49:42.215Z</updated>
         <content type="html"><![CDATA[(blitzjs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FOSDEM 2022 온라인에서 개최 예정]]></title>
+        <id>https://fosdem.org/2022/news/2021-10-22-fosdem-online-2022/</id>
+        <link href="https://fosdem.org/2022/news/2021-10-22-fosdem-online-2022/"/>
+        <updated>2021-10-24T08:49:42.204Z</updated>
+        <content type="html"><![CDATA[(fosdem.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust 1.56.0 및 Rust 2021 발표]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(pytorch.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MS, 윈도우11 베타에 Android 앱 지원 기능 프리뷰 공개]]></title>
-        <id>https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/</id>
-        <link href="https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/"/>
-        <updated>2021-10-24T08:49:42.206Z</updated>
-        <content type="html"><![CDATA[(blogs.windows.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ImgSrc.Space - 쓰기 편한 이미지/비디오 플레이스홀더]]></title>
         <id>https://imgsrc.space/</id>
         <link href="https://imgsrc.space/"/>
         <updated>2021-10-24T08:49:42.207Z</updated>
         <content type="html"><![CDATA[(imgsrc.space)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS, 윈도우11 베타에 Android 앱 지원 기능 프리뷰 공개]]></title>
+        <id>https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/</id>
+        <link href="https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/"/>
+        <updated>2021-10-24T08:49:42.206Z</updated>
+        <content type="html"><![CDATA[(blogs.windows.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[vscode.dev 공개]]></title>
