@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-25T00:39:57.941Z</updated>
+    <updated>2021-10-25T01:57:55.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,6 +13,20 @@
         <content type="html"><![CDATA[(saasemailtemplates.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JavaScript 알고리즘 및 자료 구조]]></title>
+        <id>https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md</id>
+        <link href="https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md"/>
+        <updated>2021-10-25T01:57:16.066Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
+        <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
+        <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
+        <updated>2021-10-25T01:57:16.066Z</updated>
+        <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FaaS 선택하기 2021]]></title>
         <id>https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/</id>
         <link href="https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/"/>
@@ -20,11 +34,11 @@
         <content type="html"><![CDATA[(hasura.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크]]></title>
-        <id>https://blitzjs.com/</id>
-        <link href="https://blitzjs.com/"/>
-        <updated>2021-10-24T08:49:42.215Z</updated>
-        <content type="html"><![CDATA[(blitzjs.com)]]></content>
+        <title type="html"><![CDATA[vdx - FFMpeg을 쉽게 이용하는 직관적인 CLI 도구]]></title>
+        <id>https://github.com/yuanqing/vdx</id>
+        <link href="https://github.com/yuanqing/vdx"/>
+        <updated>2021-10-25T01:57:16.067Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FOSDEM 2022 온라인에서 개최 예정]]></title>
@@ -32,6 +46,13 @@
         <link href="https://fosdem.org/2022/news/2021-10-22-fosdem-online-2022/"/>
         <updated>2021-10-24T08:49:42.204Z</updated>
         <content type="html"><![CDATA[(fosdem.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크]]></title>
+        <id>https://blitzjs.com/</id>
+        <link href="https://blitzjs.com/"/>
+        <updated>2021-10-24T08:49:42.215Z</updated>
+        <content type="html"><![CDATA[(blitzjs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust 1.56.0 및 Rust 2021 발표]]></title>
@@ -48,6 +69,13 @@
         <content type="html"><![CDATA[(developer.oculus.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gramma - 커맨드라인 문법(grammar) 검사기]]></title>
+        <id>https://caderek.github.io/gramma/</id>
+        <link href="https://caderek.github.io/gramma/"/>
+        <updated>2021-10-24T08:49:42.217Z</updated>
+        <content type="html"><![CDATA[(caderek.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenSilver - MS Silverlight의 오픈소스 구현체]]></title>
         <id>https://www.opensilver.net/</id>
         <link href="https://www.opensilver.net/"/>
@@ -62,25 +90,18 @@
         <content type="html"><![CDATA[(pytorch.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ImgSrc.Space - 쓰기 편한 이미지/비디오 플레이스홀더]]></title>
-        <id>https://imgsrc.space/</id>
-        <link href="https://imgsrc.space/"/>
-        <updated>2021-10-24T08:49:42.207Z</updated>
-        <content type="html"><![CDATA[(imgsrc.space)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gramma - 커맨드라인 문법(grammar) 검사기]]></title>
-        <id>https://caderek.github.io/gramma/</id>
-        <link href="https://caderek.github.io/gramma/"/>
-        <updated>2021-10-24T08:49:42.217Z</updated>
-        <content type="html"><![CDATA[(caderek.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MS, 윈도우11 베타에 Android 앱 지원 기능 프리뷰 공개]]></title>
         <id>https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/</id>
         <link href="https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/"/>
         <updated>2021-10-24T08:49:42.206Z</updated>
         <content type="html"><![CDATA[(blogs.windows.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ImgSrc.Space - 쓰기 편한 이미지/비디오 플레이스홀더]]></title>
+        <id>https://imgsrc.space/</id>
+        <link href="https://imgsrc.space/"/>
+        <updated>2021-10-24T08:49:42.207Z</updated>
+        <content type="html"><![CDATA[(imgsrc.space)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[vscode.dev 공개]]></title>
@@ -123,26 +144,5 @@
         <link href="https://www.forbes.com/sites/amyfeldman/2021/10/12/next-billion-dollar-startups-2021/"/>
         <updated>2021-10-24T08:49:42.231Z</updated>
         <content type="html"><![CDATA[(forbes.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중요한 SaaS 지표들과 설명]]></title>
-        <id>https://sacks.substack.com/p/the-saas-metrics-that-matter</id>
-        <link href="https://sacks.substack.com/p/the-saas-metrics-that-matter"/>
-        <updated>2021-10-24T08:49:42.228Z</updated>
-        <content type="html"><![CDATA[(sacks.substack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배민쇼핑라이브를 만드는 기술: 채팅 편]]></title>
-        <id>https://techblog.woowahan.com/5268/</id>
-        <link href="https://techblog.woowahan.com/5268/"/>
-        <updated>2021-10-24T15:11:23.189Z</updated>
-        <content type="html"><![CDATA[(techblog.woowahan.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크롬 95 새 기능]]></title>
-        <id>https://developer.chrome.com/blog/new-in-chrome-95/</id>
-        <link href="https://developer.chrome.com/blog/new-in-chrome-95/"/>
-        <updated>2021-10-24T08:49:42.224Z</updated>
-        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
 </feed>
