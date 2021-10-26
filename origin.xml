@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-26T08:14:46.493Z</updated>
+    <updated>2021-10-26T09:12:35.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
-        <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
-        <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
-        <updated>2021-10-25T01:57:16.066Z</updated>
-        <content type="html"><![CDATA[(jvns.ca)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[어떤 브라우저가 개인정보보호에 가장 뛰어날까?]]></title>
         <id>https://privacytests.org/</id>
         <link href="https://privacytests.org/"/>
         <updated>2021-10-26T00:35:43.299Z</updated>
         <content type="html"><![CDATA[(privacytests.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
+        <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
+        <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
+        <updated>2021-10-25T01:57:16.066Z</updated>
+        <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SaaS 이메일 템플릿 모음]]></title>
