@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-25T23:12:28.524Z</updated>
+    <updated>2021-10-26T00:36:45.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
         <updated>2021-10-25T01:57:16.066Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떤 브라우저가 개인정보보호에 가장 뛰어날까?]]></title>
+        <id>https://privacytests.org/</id>
+        <link href="https://privacytests.org/"/>
+        <updated>2021-10-26T00:35:43.299Z</updated>
+        <content type="html"><![CDATA[(privacytests.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensei - GraphQL/REST API 작성용 헤드리스 CMS 오픈소스]]></title>
+        <id>https://tenseijs.com/</id>
+        <link href="https://tenseijs.com/"/>
+        <updated>2021-10-26T00:35:43.300Z</updated>
+        <content type="html"><![CDATA[(tenseijs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 뉴스레터를 즐겨보고 있다면 주목해야 할 서비스, 헤이버니를 소개합니다.]]></title>
@@ -76,18 +90,18 @@
         <content type="html"><![CDATA[(imgsrc.space)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oculus Go, Unlocked OS 공개]]></title>
-        <id>https://developer.oculus.com/blog/unlocking-oculus-go/</id>
-        <link href="https://developer.oculus.com/blog/unlocking-oculus-go/"/>
-        <updated>2021-10-24T08:49:42.204Z</updated>
-        <content type="html"><![CDATA[(developer.oculus.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[vscode.dev 공개]]></title>
         <id>https://code.visualstudio.com/blogs/2021/10/20/vscode-dev</id>
         <link href="https://code.visualstudio.com/blogs/2021/10/20/vscode-dev"/>
         <updated>2021-10-24T08:49:42.208Z</updated>
         <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oculus Go, Unlocked OS 공개]]></title>
+        <id>https://developer.oculus.com/blog/unlocking-oculus-go/</id>
+        <link href="https://developer.oculus.com/blog/unlocking-oculus-go/"/>
+        <updated>2021-10-24T08:49:42.204Z</updated>
+        <content type="html"><![CDATA[(developer.oculus.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenSilver - MS Silverlight의 오픈소스 구현체]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.cstrnt.dev/blog/three-typescript-tricks"/>
         <updated>2021-10-24T08:49:42.223Z</updated>
         <content type="html"><![CDATA[(cstrnt.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State of AI 2021 보고서 [구글 Slide, 188P]]]></title>
-        <id>https://www.stateof.ai/</id>
-        <link href="https://www.stateof.ai/"/>
-        <updated>2021-10-24T08:49:42.222Z</updated>
-        <content type="html"><![CDATA[(stateof.ai)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배민쇼핑라이브를 만드는 기술: 채팅 편]]></title>
-        <id>https://techblog.woowahan.com/5268/</id>
-        <link href="https://techblog.woowahan.com/5268/"/>
-        <updated>2021-10-25T15:10:19.535Z</updated>
-        <content type="html"><![CDATA[(techblog.woowahan.com)]]></content>
     </entry>
 </feed>
