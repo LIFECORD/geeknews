@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-26T10:14:50.373Z</updated>
+    <updated>2021-10-26T11:10:57.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tensei - GraphQL/REST API 작성용 헤드리스 CMS 오픈소스]]></title>
-        <id>https://tenseijs.com/</id>
-        <link href="https://tenseijs.com/"/>
-        <updated>2021-10-26T00:35:43.300Z</updated>
-        <content type="html"><![CDATA[(tenseijs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Financial Times의 404페이지]]></title>
         <id>https://www.ft.com/geeknews</id>
         <link href="https://www.ft.com/geeknews"/>
         <updated>2021-10-26T01:53:13.792Z</updated>
         <content type="html"><![CDATA[(ft.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensei - GraphQL/REST API 작성용 헤드리스 CMS 오픈소스]]></title>
+        <id>https://tenseijs.com/</id>
+        <link href="https://tenseijs.com/"/>
+        <updated>2021-10-26T00:35:43.300Z</updated>
+        <content type="html"><![CDATA[(tenseijs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VSCode 인터페이스로 원격근무 회사들 정보 보기]]></title>
