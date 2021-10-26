@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-26T09:12:35.336Z</updated>
+    <updated>2021-10-26T10:14:50.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://github.com/nuta/kerla"/>
         <updated>2021-10-26T01:53:13.802Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensei - GraphQL/REST API 작성용 헤드리스 CMS 오픈소스]]></title>
+        <id>https://tenseijs.com/</id>
+        <link href="https://tenseijs.com/"/>
+        <updated>2021-10-26T00:35:43.300Z</updated>
+        <content type="html"><![CDATA[(tenseijs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Financial Times의 404페이지]]></title>
@@ -25,13 +32,6 @@
         <link href="https://remoteok.io/vscode"/>
         <updated>2021-10-26T01:53:13.804Z</updated>
         <content type="html"><![CDATA[(remoteok.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tensei - GraphQL/REST API 작성용 헤드리스 CMS 오픈소스]]></title>
-        <id>https://tenseijs.com/</id>
-        <link href="https://tenseijs.com/"/>
-        <updated>2021-10-26T00:35:43.300Z</updated>
-        <content type="html"><![CDATA[(tenseijs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 알고리즘 및 자료 구조]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(blitzjs.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gramma - 커맨드라인 문법(grammar) 검사기]]></title>
+        <id>https://caderek.github.io/gramma/</id>
+        <link href="https://caderek.github.io/gramma/"/>
+        <updated>2021-10-24T08:49:42.217Z</updated>
+        <content type="html"><![CDATA[(caderek.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rust 1.56.0 및 Rust 2021 발표]]></title>
         <id>https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html</id>
         <link href="https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html"/>
@@ -109,13 +116,6 @@
         <link href="https://developer.oculus.com/blog/unlocking-oculus-go/"/>
         <updated>2021-10-24T08:49:42.204Z</updated>
         <content type="html"><![CDATA[(developer.oculus.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gramma - 커맨드라인 문법(grammar) 검사기]]></title>
-        <id>https://caderek.github.io/gramma/</id>
-        <link href="https://caderek.github.io/gramma/"/>
-        <updated>2021-10-24T08:49:42.217Z</updated>
-        <content type="html"><![CDATA[(caderek.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[vscode.dev 공개]]></title>
