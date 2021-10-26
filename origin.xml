@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-26T07:12:13.104Z</updated>
+    <updated>2021-10-26T08:14:46.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어떤 브라우저가 개인정보보호에 가장 뛰어날까?]]></title>
-        <id>https://privacytests.org/</id>
-        <link href="https://privacytests.org/"/>
-        <updated>2021-10-26T00:35:43.299Z</updated>
-        <content type="html"><![CDATA[(privacytests.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
         <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
         <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
         <updated>2021-10-25T01:57:16.066Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떤 브라우저가 개인정보보호에 가장 뛰어날까?]]></title>
+        <id>https://privacytests.org/</id>
+        <link href="https://privacytests.org/"/>
+        <updated>2021-10-26T00:35:43.299Z</updated>
+        <content type="html"><![CDATA[(privacytests.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SaaS 이메일 템플릿 모음]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(saasemailtemplates.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 뉴스레터를 즐겨보고 있다면 주목해야 할 서비스, 헤이버니를 소개합니다.]]></title>
-        <id>https://news.hada.io/topic?id=5255</id>
-        <link href="https://news.hada.io/topic?id=5255"/>
-        <updated>2021-10-25T07:12:00.963Z</updated>
-        <content type="html"><![CDATA[(heybunny.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[vdx - FFMpeg을 쉽게 이용하는 직관적인 CLI 도구]]></title>
         <id>https://github.com/yuanqing/vdx</id>
         <link href="https://github.com/yuanqing/vdx"/>
         <updated>2021-10-25T01:57:16.067Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 뉴스레터를 즐겨보고 있다면 주목해야 할 서비스, 헤이버니를 소개합니다.]]></title>
+        <id>https://news.hada.io/topic?id=5255</id>
+        <link href="https://news.hada.io/topic?id=5255"/>
+        <updated>2021-10-25T07:12:00.963Z</updated>
+        <content type="html"><![CDATA[(heybunny.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FaaS 선택하기 2021]]></title>
