@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-26T06:14:33.462Z</updated>
+    <updated>2021-10-26T07:12:13.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Financial Times의 404페이지]]></title>
-        <id>https://www.ft.com/geeknews</id>
-        <link href="https://www.ft.com/geeknews"/>
-        <updated>2021-10-26T01:53:13.792Z</updated>
-        <content type="html"><![CDATA[(ft.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Kerla - Rust로 만든 Monolithic 커널]]></title>
         <id>https://github.com/nuta/kerla</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tensei - GraphQL/REST API 작성용 헤드리스 CMS 오픈소스]]></title>
-        <id>https://tenseijs.com/</id>
-        <link href="https://tenseijs.com/"/>
-        <updated>2021-10-26T00:35:43.300Z</updated>
-        <content type="html"><![CDATA[(tenseijs.com)]]></content>
+        <title type="html"><![CDATA[Financial Times의 404페이지]]></title>
+        <id>https://www.ft.com/geeknews</id>
+        <link href="https://www.ft.com/geeknews"/>
+        <updated>2021-10-26T01:53:13.792Z</updated>
+        <content type="html"><![CDATA[(ft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VSCode 인터페이스로 원격근무 회사들 정보 보기]]></title>
@@ -32,6 +25,13 @@
         <link href="https://remoteok.io/vscode"/>
         <updated>2021-10-26T01:53:13.804Z</updated>
         <content type="html"><![CDATA[(remoteok.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensei - GraphQL/REST API 작성용 헤드리스 CMS 오픈소스]]></title>
+        <id>https://tenseijs.com/</id>
+        <link href="https://tenseijs.com/"/>
+        <updated>2021-10-26T00:35:43.300Z</updated>
+        <content type="html"><![CDATA[(tenseijs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 알고리즘 및 자료 구조]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oculus Go, Unlocked OS 공개]]></title>
-        <id>https://developer.oculus.com/blog/unlocking-oculus-go/</id>
-        <link href="https://developer.oculus.com/blog/unlocking-oculus-go/"/>
-        <updated>2021-10-24T08:49:42.204Z</updated>
-        <content type="html"><![CDATA[(developer.oculus.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ImgSrc.Space - 쓰기 편한 이미지/비디오 플레이스홀더]]></title>
         <id>https://imgsrc.space/</id>
         <link href="https://imgsrc.space/"/>
         <updated>2021-10-24T08:49:42.207Z</updated>
         <content type="html"><![CDATA[(imgsrc.space)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oculus Go, Unlocked OS 공개]]></title>
+        <id>https://developer.oculus.com/blog/unlocking-oculus-go/</id>
+        <link href="https://developer.oculus.com/blog/unlocking-oculus-go/"/>
+        <updated>2021-10-24T08:49:42.204Z</updated>
+        <content type="html"><![CDATA[(developer.oculus.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gramma - 커맨드라인 문법(grammar) 검사기]]></title>
