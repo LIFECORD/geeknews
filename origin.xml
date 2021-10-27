@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-27T09:11:56.564Z</updated>
+    <updated>2021-10-27T10:12:36.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(element.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[macOS Monterey 릴리즈]]></title>
-        <id>https://www.apple.com/kr/macos/monterey/</id>
-        <link href="https://www.apple.com/kr/macos/monterey/"/>
-        <updated>2021-10-27T01:52:33.957Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JavaScript 알고리즘 및 자료 구조]]></title>
         <id>https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md</id>
         <link href="https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md"/>
         <updated>2021-10-25T01:57:16.066Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Monterey 릴리즈]]></title>
+        <id>https://www.apple.com/kr/macos/monterey/</id>
+        <link href="https://www.apple.com/kr/macos/monterey/"/>
+        <updated>2021-10-27T01:52:33.957Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kerla - Rust로 만든 Monolithic 커널]]></title>
