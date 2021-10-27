@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-10-27T18:13:33.017Z</updated>
+    <updated>2021-10-27T19:10:21.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -102,16 +102,16 @@
         <updated>2021-09-28T01:34:45.885Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 다들 어떤 의자 사용하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5073</id>
-        <link href="https://news.hada.io/topic?id=5073"/>
-        <updated>2021-09-28T01:34:45.883Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 최근 1년간 산 5만원 이하의 물건 중 최고의 제품은?]]></title>
         <id>https://news.hada.io/topic?id=4849</id>
         <link href="https://news.hada.io/topic?id=4849"/>
         <updated>2021-09-28T01:34:45.889Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 다들 어떤 의자 사용하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5073</id>
+        <link href="https://news.hada.io/topic?id=5073"/>
+        <updated>2021-09-28T01:34:45.883Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 처음으로 배운 프로그래밍 언어는?]]></title>

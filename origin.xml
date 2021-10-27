@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-27T18:13:33.013Z</updated>
+    <updated>2021-10-27T19:10:21.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matrix, WhatsApp, Signal, Telegram을 하나로 사용하는 Element One 공개]]></title>
-        <id>https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/</id>
-        <link href="https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/"/>
-        <updated>2021-10-27T01:52:33.955Z</updated>
-        <content type="html"><![CDATA[(element.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
         <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
         <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
         <updated>2021-10-25T01:57:16.066Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matrix, WhatsApp, Signal, Telegram을 하나로 사용하는 Element One 공개]]></title>
+        <id>https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/</id>
+        <link href="https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/"/>
+        <updated>2021-10-27T01:52:33.955Z</updated>
+        <content type="html"><![CDATA[(element.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kerla - Rust로 만든 Monolithic 커널]]></title>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[(ft.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[macOS Monterey 릴리즈]]></title>
-        <id>https://www.apple.com/kr/macos/monterey/</id>
-        <link href="https://www.apple.com/kr/macos/monterey/"/>
-        <updated>2021-10-27T01:52:33.957Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SaaS 이메일 템플릿 모음]]></title>
         <id>https://saasemailtemplates.io/templates</id>
         <link href="https://saasemailtemplates.io/templates"/>
@@ -95,6 +88,13 @@
         <link href="https://privacytests.org/"/>
         <updated>2021-10-26T00:35:43.299Z</updated>
         <content type="html"><![CDATA[(privacytests.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Monterey 릴리즈]]></title>
+        <id>https://www.apple.com/kr/macos/monterey/</id>
+        <link href="https://www.apple.com/kr/macos/monterey/"/>
+        <updated>2021-10-27T01:52:33.957Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[vdx - FFMpeg을 쉽게 이용하는 직관적인 CLI 도구]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(blitzjs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust 1.56.0 및 Rust 2021 발표]]></title>
-        <id>https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html</id>
-        <link href="https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html"/>
-        <updated>2021-10-24T08:49:42.204Z</updated>
-        <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ImgSrc.Space - 쓰기 편한 이미지/비디오 플레이스홀더]]></title>
         <id>https://imgsrc.space/</id>
         <link href="https://imgsrc.space/"/>
         <updated>2021-10-24T08:49:42.207Z</updated>
         <content type="html"><![CDATA[(imgsrc.space)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.56.0 및 Rust 2021 발표]]></title>
+        <id>https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html</id>
+        <link href="https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html"/>
+        <updated>2021-10-24T08:49:42.204Z</updated>
+        <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
     </entry>
 </feed>
