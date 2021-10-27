@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-27T04:15:52.017Z</updated>
+    <updated>2021-10-27T05:11:11.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(hasura.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크]]></title>
-        <id>https://blitzjs.com/</id>
-        <link href="https://blitzjs.com/"/>
-        <updated>2021-10-24T08:49:42.215Z</updated>
-        <content type="html"><![CDATA[(blitzjs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gramma - 커맨드라인 문법(grammar) 검사기]]></title>
         <id>https://caderek.github.io/gramma/</id>
         <link href="https://caderek.github.io/gramma/"/>
         <updated>2021-10-24T08:49:42.217Z</updated>
         <content type="html"><![CDATA[(caderek.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크]]></title>
+        <id>https://blitzjs.com/</id>
+        <link href="https://blitzjs.com/"/>
+        <updated>2021-10-24T08:49:42.215Z</updated>
+        <content type="html"><![CDATA[(blitzjs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust 1.56.0 및 Rust 2021 발표]]></title>
