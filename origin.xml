@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-27T00:36:15.458Z</updated>
+    <updated>2021-10-27T01:53:08.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Build The Earth - 마인크래프트로 지구전체를 1:1로 재현하기]]></title>
+        <id>https://buildtheearth.net/</id>
+        <link href="https://buildtheearth.net/"/>
+        <updated>2021-10-27T01:52:33.955Z</updated>
+        <content type="html"><![CDATA[(buildtheearth.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jetson One - 1인승 전기 비행기]]></title>
         <id>https://www.jetsonaero.com/</id>
@@ -18,6 +25,20 @@
         <link href="https://www.facebook.com/business/m/fms-2021-digital-library"/>
         <updated>2021-10-27T00:35:39.033Z</updated>
         <content type="html"><![CDATA[(facebook.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matrix, WhatsApp, Signal, Telegram을 하나로 사용하는 Element One 공개]]></title>
+        <id>https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/</id>
+        <link href="https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/"/>
+        <updated>2021-10-27T01:52:33.955Z</updated>
+        <content type="html"><![CDATA[(element.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Monterey 릴리즈]]></title>
+        <id>https://www.apple.com/kr/macos/monterey/</id>
+        <link href="https://www.apple.com/kr/macos/monterey/"/>
+        <updated>2021-10-27T01:52:33.957Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 알고리즘 및 자료 구조]]></title>
@@ -123,26 +144,5 @@
         <link href="https://caderek.github.io/gramma/"/>
         <updated>2021-10-24T08:49:42.217Z</updated>
         <content type="html"><![CDATA[(caderek.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vscode.dev 공개]]></title>
-        <id>https://code.visualstudio.com/blogs/2021/10/20/vscode-dev</id>
-        <link href="https://code.visualstudio.com/blogs/2021/10/20/vscode-dev"/>
-        <updated>2021-10-24T08:49:42.208Z</updated>
-        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oculus Go, Unlocked OS 공개]]></title>
-        <id>https://developer.oculus.com/blog/unlocking-oculus-go/</id>
-        <link href="https://developer.oculus.com/blog/unlocking-oculus-go/"/>
-        <updated>2021-10-24T08:49:42.204Z</updated>
-        <content type="html"><![CDATA[(developer.oculus.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS, 윈도우11 베타에 Android 앱 지원 기능 프리뷰 공개]]></title>
-        <id>https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/</id>
-        <link href="https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/"/>
-        <updated>2021-10-26T18:13:02.645Z</updated>
-        <content type="html"><![CDATA[(blogs.windows.com)]]></content>
     </entry>
 </feed>
