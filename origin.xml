@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-28T09:12:07.661Z</updated>
+    <updated>2021-10-28T10:13:16.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(blog.yiningkarlli.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Adobe, 포토샵에 NFT 만드는 기능 내장할 것]]></title>
+        <id>https://www.theverge.com/2021/10/26/22745506/adobe-nft-art-theft-content-credentials-opensea-rarible-photoshop</id>
+        <link href="https://www.theverge.com/2021/10/26/22745506/adobe-nft-art-theft-content-credentials-opensea-rarible-photoshop"/>
+        <updated>2021-10-28T01:53:16.832Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Build The Earth - 마인크래프트로 지구전체를 1:1로 재현하기]]></title>
         <id>https://buildtheearth.net/</id>
         <link href="https://buildtheearth.net/"/>
@@ -62,13 +69,6 @@
         <content type="html"><![CDATA[(jetsonaero.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adobe, 포토샵에 NFT 만드는 기능 내장할 것]]></title>
-        <id>https://www.theverge.com/2021/10/26/22745506/adobe-nft-art-theft-content-credentials-opensea-rarible-photoshop</id>
-        <link href="https://www.theverge.com/2021/10/26/22745506/adobe-nft-art-theft-content-credentials-opensea-rarible-photoshop"/>
-        <updated>2021-10-28T01:53:16.832Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
         <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
         <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(facebook.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matrix, WhatsApp, Signal, Telegram을 하나로 사용하는 Element One 공개]]></title>
-        <id>https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/</id>
-        <link href="https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/"/>
-        <updated>2021-10-27T01:52:33.955Z</updated>
-        <content type="html"><![CDATA[(element.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kerla - Rust로 만든 Monolithic 커널]]></title>
         <id>https://github.com/nuta/kerla</id>
         <link href="https://github.com/nuta/kerla"/>
         <updated>2021-10-26T01:53:13.802Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matrix, WhatsApp, Signal, Telegram을 하나로 사용하는 Element One 공개]]></title>
+        <id>https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/</id>
+        <link href="https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/"/>
+        <updated>2021-10-27T01:52:33.955Z</updated>
+        <content type="html"><![CDATA[(element.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VSCode 인터페이스로 원격근무 회사들 정보 보기]]></title>
