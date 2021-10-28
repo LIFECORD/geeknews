@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-28T14:12:04.659Z</updated>
+    <updated>2021-10-28T15:12:23.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(tenseijs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Matrix, WhatsApp, Signal, Telegram을 하나로 사용하는 Element One 공개]]></title>
-        <id>https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/</id>
-        <link href="https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/"/>
-        <updated>2021-10-27T01:52:33.955Z</updated>
-        <content type="html"><![CDATA[(element.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SaaS 이메일 템플릿 모음]]></title>
         <id>https://saasemailtemplates.io/templates</id>
         <link href="https://saasemailtemplates.io/templates"/>
         <updated>2021-10-25T00:39:20.485Z</updated>
         <content type="html"><![CDATA[(saasemailtemplates.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matrix, WhatsApp, Signal, Telegram을 하나로 사용하는 Element One 공개]]></title>
+        <id>https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/</id>
+        <link href="https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/"/>
+        <updated>2021-10-27T01:52:33.955Z</updated>
+        <content type="html"><![CDATA[(element.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Financial Times의 404페이지]]></title>
