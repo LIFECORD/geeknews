@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-27T23:12:09.261Z</updated>
+    <updated>2021-10-28T00:36:32.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The General Index - 백만개 저널의 n-gram 인덱스를 무료로 공개]]></title>
+        <id>https://archive.org/details/GeneralIndex</id>
+        <link href="https://archive.org/details/GeneralIndex"/>
+        <updated>2021-10-28T00:35:56.163Z</updated>
+        <content type="html"><![CDATA[(archive.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대형 화면 기기용 Android 12L 공개]]></title>
+        <id>https://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html</id>
+        <link href="https://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html"/>
+        <updated>2021-10-28T00:35:56.163Z</updated>
+        <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js 12 릴리즈]]></title>
+        <id>https://nextjs.org/blog/next-12</id>
+        <link href="https://nextjs.org/blog/next-12"/>
+        <updated>2021-10-28T00:35:56.163Z</updated>
+        <content type="html"><![CDATA[(nextjs.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build The Earth - 마인크래프트로 지구전체를 1:1로 재현하기]]></title>
         <id>https://buildtheearth.net/</id>
@@ -34,6 +55,13 @@
         <content type="html"><![CDATA[(facebook.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Matrix, WhatsApp, Signal, Telegram을 하나로 사용하는 Element One 공개]]></title>
+        <id>https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/</id>
+        <link href="https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/"/>
+        <updated>2021-10-27T01:52:33.955Z</updated>
+        <content type="html"><![CDATA[(element.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
         <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
         <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
@@ -60,13 +88,6 @@
         <link href="https://tenseijs.com/"/>
         <updated>2021-10-26T00:35:43.300Z</updated>
         <content type="html"><![CDATA[(tenseijs.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matrix, WhatsApp, Signal, Telegram을 하나로 사용하는 Element One 공개]]></title>
-        <id>https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/</id>
-        <link href="https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/"/>
-        <updated>2021-10-27T01:52:33.955Z</updated>
-        <content type="html"><![CDATA[(element.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Financial Times의 404페이지]]></title>
@@ -123,26 +144,5 @@
         <link href="https://caderek.github.io/gramma/"/>
         <updated>2021-10-24T08:49:42.217Z</updated>
         <content type="html"><![CDATA[(caderek.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blitz - 풀스택 React 프레임워크]]></title>
-        <id>https://blitzjs.com/</id>
-        <link href="https://blitzjs.com/"/>
-        <updated>2021-10-24T08:49:42.215Z</updated>
-        <content type="html"><![CDATA[(blitzjs.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ImgSrc.Space - 쓰기 편한 이미지/비디오 플레이스홀더]]></title>
-        <id>https://imgsrc.space/</id>
-        <link href="https://imgsrc.space/"/>
-        <updated>2021-10-24T08:49:42.207Z</updated>
-        <content type="html"><![CDATA[(imgsrc.space)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust 1.56.0 및 Rust 2021 발표]]></title>
-        <id>https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html</id>
-        <link href="https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html"/>
-        <updated>2021-10-24T08:49:42.204Z</updated>
-        <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
     </entry>
 </feed>
