@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-28T17:16:50.024Z</updated>
+    <updated>2021-10-28T18:13:28.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(remoteok.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tensei - GraphQL/REST API 작성용 헤드리스 CMS 오픈소스]]></title>
-        <id>https://tenseijs.com/</id>
-        <link href="https://tenseijs.com/"/>
-        <updated>2021-10-26T00:35:43.300Z</updated>
-        <content type="html"><![CDATA[(tenseijs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SaaS 이메일 템플릿 모음]]></title>
         <id>https://saasemailtemplates.io/templates</id>
         <link href="https://saasemailtemplates.io/templates"/>
         <updated>2021-10-25T00:39:20.485Z</updated>
         <content type="html"><![CDATA[(saasemailtemplates.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensei - GraphQL/REST API 작성용 헤드리스 CMS 오픈소스]]></title>
+        <id>https://tenseijs.com/</id>
+        <link href="https://tenseijs.com/"/>
+        <updated>2021-10-26T00:35:43.300Z</updated>
+        <content type="html"><![CDATA[(tenseijs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Matrix, WhatsApp, Signal, Telegram을 하나로 사용하는 Element One 공개]]></title>
