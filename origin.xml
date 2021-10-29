@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-29T14:11:36.929Z</updated>
+    <updated>2021-10-29T15:12:38.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -54,18 +54,18 @@
         <updated>2021-10-29T01:52:47.412Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adobe, 포토샵 웹 버전 베타 공개]]></title>
-        <id>https://blog.adobe.com/en/publish/2021/10/26/photoshop-ships-major-updates-across-desktop-ipad-apps-extends-light-editing-collaboration-features-web-beta.html</id>
-        <link href="https://blog.adobe.com/en/publish/2021/10/26/photoshop-ships-major-updates-across-desktop-ipad-apps-extends-light-editing-collaboration-features-web-beta.html"/>
-        <updated>2021-10-29T00:34:30.579Z</updated>
-        <content type="html"><![CDATA[(blog.adobe.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The General Index - 백만개 저널의 n-gram 인덱스를 무료로 공개]]></title>
         <id>https://archive.org/details/GeneralIndex</id>
         <link href="https://archive.org/details/GeneralIndex"/>
         <updated>2021-10-28T00:35:56.163Z</updated>
         <content type="html"><![CDATA[(archive.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe, 포토샵 웹 버전 베타 공개]]></title>
+        <id>https://blog.adobe.com/en/publish/2021/10/26/photoshop-ships-major-updates-across-desktop-ipad-apps-extends-light-editing-collaboration-features-web-beta.html</id>
+        <link href="https://blog.adobe.com/en/publish/2021/10/26/photoshop-ships-major-updates-across-desktop-ipad-apps-extends-light-editing-collaboration-features-web-beta.html"/>
+        <updated>2021-10-29T00:34:30.579Z</updated>
+        <content type="html"><![CDATA[(blog.adobe.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -74,18 +74,18 @@
         <updated>2021-10-29T01:52:47.414Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페이스북, Meta로 회사명 변경]]></title>
-        <id>https://about.facebook.com/meta/</id>
-        <link href="https://about.facebook.com/meta/"/>
-        <updated>2021-10-29T00:34:30.579Z</updated>
-        <content type="html"><![CDATA[(about.facebook.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대형 화면 기기용 Android 12L 공개]]></title>
         <id>https://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html</id>
         <link href="https://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html"/>
         <updated>2021-10-28T00:35:56.163Z</updated>
         <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북, Meta로 회사명 변경]]></title>
+        <id>https://about.facebook.com/meta/</id>
+        <link href="https://about.facebook.com/meta/"/>
+        <updated>2021-10-29T00:34:30.579Z</updated>
+        <content type="html"><![CDATA[(about.facebook.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 M1 Max 에서의 렌더링 후기]]></title>
