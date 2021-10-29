@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-29T18:13:46.699Z</updated>
+    <updated>2021-10-29T19:09:05.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[(swyx.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CodeAmigo - Codecademy 입사 지원자가 만든 클론]]></title>
-        <id>https://codeamigo.dev/</id>
-        <link href="https://codeamigo.dev/"/>
-        <updated>2021-10-29T01:52:47.414Z</updated>
-        <content type="html"><![CDATA[(codeamigo.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CodingFont - 자신에게 맞는 코딩 폰트를 찾는 게임]]></title>
         <id>https://www.codingfont.com/</id>
         <link href="https://www.codingfont.com/"/>
@@ -48,10 +41,11 @@
         <content type="html"><![CDATA[(codingfont.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 필요해지기 전에 먼저 사두면 좋은게 뭐가 있을까요?]]></title>
-        <id>https://news.hada.io/topic?id=5280</id>
-        <link href="https://news.hada.io/topic?id=5280"/>
-        <updated>2021-10-29T01:52:47.412Z</updated>
+        <title type="html"><![CDATA[CodeAmigo - Codecademy 입사 지원자가 만든 클론]]></title>
+        <id>https://codeamigo.dev/</id>
+        <link href="https://codeamigo.dev/"/>
+        <updated>2021-10-29T01:52:47.414Z</updated>
+        <content type="html"><![CDATA[(codeamigo.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The General Index - 백만개 저널의 n-gram 인덱스를 무료로 공개]]></title>
@@ -59,6 +53,12 @@
         <link href="https://archive.org/details/GeneralIndex"/>
         <updated>2021-10-28T00:35:56.163Z</updated>
         <content type="html"><![CDATA[(archive.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 필요해지기 전에 먼저 사두면 좋은게 뭐가 있을까요?]]></title>
+        <id>https://news.hada.io/topic?id=5280</id>
+        <link href="https://news.hada.io/topic?id=5280"/>
+        <updated>2021-10-29T01:52:47.412Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Adobe, 포토샵 웹 버전 베타 공개]]></title>
