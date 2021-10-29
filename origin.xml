@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-29T10:13:02.454Z</updated>
+    <updated>2021-10-29T11:10:53.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(blog.adobe.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The General Index - 백만개 저널의 n-gram 인덱스를 무료로 공개]]></title>
+        <id>https://archive.org/details/GeneralIndex</id>
+        <link href="https://archive.org/details/GeneralIndex"/>
+        <updated>2021-10-28T00:35:56.163Z</updated>
+        <content type="html"><![CDATA[(archive.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 필요해지기 전에 먼저 사두면 좋은게 뭐가 있을까요?]]></title>
         <id>https://news.hada.io/topic?id=5280</id>
         <link href="https://news.hada.io/topic?id=5280"/>
@@ -65,13 +72,6 @@
         <id>https://news.hada.io/topic?id=5279</id>
         <link href="https://news.hada.io/topic?id=5279"/>
         <updated>2021-10-29T01:52:47.414Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The General Index - 백만개 저널의 n-gram 인덱스를 무료로 공개]]></title>
-        <id>https://archive.org/details/GeneralIndex</id>
-        <link href="https://archive.org/details/GeneralIndex"/>
-        <updated>2021-10-28T00:35:56.163Z</updated>
-        <content type="html"><![CDATA[(archive.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북, Meta로 회사명 변경]]></title>
@@ -123,6 +123,13 @@
         <content type="html"><![CDATA[(buildtheearth.net)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Matrix, WhatsApp, Signal, Telegram을 하나로 사용하는 Element One 공개]]></title>
+        <id>https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/</id>
+        <link href="https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/"/>
+        <updated>2021-10-29T11:10:14.799Z</updated>
+        <content type="html"><![CDATA[(element.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jetson One - 1인승 전기 비행기]]></title>
         <id>https://www.jetsonaero.com/</id>
         <link href="https://www.jetsonaero.com/"/>
@@ -135,12 +142,5 @@
         <link href="https://saasemailtemplates.io/templates"/>
         <updated>2021-10-29T02:24:46.466Z</updated>
         <content type="html"><![CDATA[(saasemailtemplates.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kerla - Rust로 만든 Monolithic 커널]]></title>
-        <id>https://github.com/nuta/kerla</id>
-        <link href="https://github.com/nuta/kerla"/>
-        <updated>2021-10-29T05:10:29.481Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
