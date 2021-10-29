@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-29T20:12:11.739Z</updated>
+    <updated>2021-10-29T21:10:57.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -88,18 +88,18 @@
         <content type="html"><![CDATA[(blog.yiningkarlli.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페이스북, Meta로 회사명 변경]]></title>
-        <id>https://about.facebook.com/meta/</id>
-        <link href="https://about.facebook.com/meta/"/>
-        <updated>2021-10-29T00:34:30.579Z</updated>
-        <content type="html"><![CDATA[(about.facebook.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JavaScript 알고리즘 및 자료 구조]]></title>
         <id>https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md</id>
         <link href="https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md"/>
         <updated>2021-10-25T01:57:16.066Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북, Meta로 회사명 변경]]></title>
+        <id>https://about.facebook.com/meta/</id>
+        <link href="https://about.facebook.com/meta/"/>
+        <updated>2021-10-29T00:34:30.579Z</updated>
+        <content type="html"><![CDATA[(about.facebook.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js 12 릴리즈]]></title>
