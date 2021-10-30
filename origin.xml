@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-30T15:11:42.754Z</updated>
+    <updated>2021-10-30T16:15:52.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(codingfont.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[글을 읽기 편하게 해주는 CSS 코드 100바이트]]></title>
+        <id>https://www.swyx.io/css-100-bytes/</id>
+        <link href="https://www.swyx.io/css-100-bytes/"/>
+        <updated>2021-10-29T01:52:47.410Z</updated>
+        <content type="html"><![CDATA[(swyx.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[kbar - 웹에 Cmd+K 기능 추가하는 React 컴포넌트]]></title>
         <id>https://github.com/timc1/kbar</id>
         <link href="https://github.com/timc1/kbar"/>
@@ -67,13 +74,6 @@
         <link href="https://codeamigo.dev/"/>
         <updated>2021-10-29T01:52:47.414Z</updated>
         <content type="html"><![CDATA[(codeamigo.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글을 읽기 편하게 해주는 CSS 코드 100바이트]]></title>
-        <id>https://www.swyx.io/css-100-bytes/</id>
-        <link href="https://www.swyx.io/css-100-bytes/"/>
-        <updated>2021-10-29T01:52:47.410Z</updated>
-        <content type="html"><![CDATA[(swyx.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The General Index - 백만개 저널의 n-gram 인덱스를 무료로 공개]]></title>
@@ -110,17 +110,17 @@
         <updated>2021-10-29T01:52:47.412Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5279</id>
-        <link href="https://news.hada.io/topic?id=5279"/>
-        <updated>2021-10-29T01:52:47.414Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
         <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
         <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
         <updated>2021-10-25T01:57:16.066Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5279</id>
+        <link href="https://news.hada.io/topic?id=5279"/>
+        <updated>2021-10-29T01:52:47.414Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Adobe, 포토샵 웹 버전 베타 공개]]></title>
