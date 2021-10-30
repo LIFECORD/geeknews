@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-30T12:16:37.257Z</updated>
+    <updated>2021-10-30T13:16:40.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(manim.community)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[C Programing 가이드 : GOTO]]></title>
-        <id>https://beej.us/guide/bgc/html/split/goto.html</id>
-        <link href="https://beej.us/guide/bgc/html/split/goto.html"/>
-        <updated>2021-10-30T05:10:09.740Z</updated>
-        <content type="html"><![CDATA[(beej.us)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CleanUp.pictures - 사진에서 사물 지우기 오픈소스]]></title>
         <id>https://github.com/initml/cleanup.pictures</id>
         <link href="https://github.com/initml/cleanup.pictures"/>
         <updated>2021-10-30T01:52:17.226Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C Programing 가이드 : GOTO]]></title>
+        <id>https://beej.us/guide/bgc/html/split/goto.html</id>
+        <link href="https://beej.us/guide/bgc/html/split/goto.html"/>
+        <updated>2021-10-30T05:10:09.740Z</updated>
+        <content type="html"><![CDATA[(beej.us)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oculus Quest, 페이스북 계정 필수가 아니게 바꿀 예정]]></title>
