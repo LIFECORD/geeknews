@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-30T17:16:06.453Z</updated>
+    <updated>2021-10-30T18:13:41.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(gamerant.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[C Programing 가이드 : GOTO]]></title>
-        <id>https://beej.us/guide/bgc/html/split/goto.html</id>
-        <link href="https://beej.us/guide/bgc/html/split/goto.html"/>
-        <updated>2021-10-30T05:10:09.740Z</updated>
-        <content type="html"><![CDATA[(beej.us)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LaMa - 큰해상도 이미지에서 사물 지우기]]></title>
         <id>https://github.com/saic-mdal/lama</id>
         <link href="https://github.com/saic-mdal/lama"/>
         <updated>2021-10-29T01:52:47.417Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C Programing 가이드 : GOTO]]></title>
+        <id>https://beej.us/guide/bgc/html/split/goto.html</id>
+        <link href="https://beej.us/guide/bgc/html/split/goto.html"/>
+        <updated>2021-10-30T05:10:09.740Z</updated>
+        <content type="html"><![CDATA[(beej.us)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CodingFont - 자신에게 맞는 코딩 폰트를 찾는 게임]]></title>
@@ -104,17 +104,17 @@
         <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 필요해지기 전에 먼저 사두면 좋은게 뭐가 있을까요?]]></title>
-        <id>https://news.hada.io/topic?id=5280</id>
-        <link href="https://news.hada.io/topic?id=5280"/>
-        <updated>2021-10-29T01:52:47.412Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
         <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
         <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
         <updated>2021-10-25T01:57:16.066Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 필요해지기 전에 먼저 사두면 좋은게 뭐가 있을까요?]]></title>
+        <id>https://news.hada.io/topic?id=5280</id>
+        <link href="https://news.hada.io/topic?id=5280"/>
+        <updated>2021-10-29T01:52:47.412Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
