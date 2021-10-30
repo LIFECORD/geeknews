@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-30T07:12:09.864Z</updated>
+    <updated>2021-10-30T08:13:56.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[(beej.us)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitHub Copilot, JetBrains 와 Neovim 지원 공개]]></title>
+        <id>https://github.com/github/copilot-docs/tree/main/docs</id>
+        <link href="https://github.com/github/copilot-docs/tree/main/docs"/>
+        <updated>2021-10-30T00:35:10.151Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Manim - 수학 시각화 파이썬 오픈소스 라이브러리]]></title>
         <id>https://www.manim.community/</id>
         <link href="https://www.manim.community/"/>
@@ -20,11 +27,18 @@
         <content type="html"><![CDATA[(manim.community)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Copilot, JetBrains 와 Neovim 지원 공개]]></title>
-        <id>https://github.com/github/copilot-docs/tree/main/docs</id>
-        <link href="https://github.com/github/copilot-docs/tree/main/docs"/>
-        <updated>2021-10-30T00:35:10.151Z</updated>
+        <title type="html"><![CDATA[CleanUp.pictures - 사진에서 사물 지우기 오픈소스]]></title>
+        <id>https://github.com/initml/cleanup.pictures</id>
+        <link href="https://github.com/initml/cleanup.pictures"/>
+        <updated>2021-10-30T01:52:17.226Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oculus Quest, 페이스북 계정 필수가 아니게 바꿀 예정]]></title>
+        <id>https://gamerant.com/oculus-quest-facebook-account-requirement-removed/</id>
+        <link href="https://gamerant.com/oculus-quest-facebook-account-requirement-removed/"/>
+        <updated>2021-10-30T00:35:10.151Z</updated>
+        <content type="html"><![CDATA[(gamerant.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LaMa - 큰해상도 이미지에서 사물 지우기]]></title>
@@ -48,13 +62,6 @@
         <content type="html"><![CDATA[(codingfont.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CleanUp.pictures - 사진에서 사물 지우기 오픈소스]]></title>
-        <id>https://github.com/initml/cleanup.pictures</id>
-        <link href="https://github.com/initml/cleanup.pictures"/>
-        <updated>2021-10-30T01:52:17.226Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CodeAmigo - Codecademy 입사 지원자가 만든 클론]]></title>
         <id>https://codeamigo.dev/</id>
         <link href="https://codeamigo.dev/"/>
@@ -67,13 +74,6 @@
         <link href="https://www.swyx.io/css-100-bytes/"/>
         <updated>2021-10-29T01:52:47.410Z</updated>
         <content type="html"><![CDATA[(swyx.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oculus Quest, 페이스북 계정 필수가 아니게 바꿀 예정]]></title>
-        <id>https://gamerant.com/oculus-quest-facebook-account-requirement-removed/</id>
-        <link href="https://gamerant.com/oculus-quest-facebook-account-requirement-removed/"/>
-        <updated>2021-10-30T00:35:10.151Z</updated>
-        <content type="html"><![CDATA[(gamerant.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The General Index - 백만개 저널의 n-gram 인덱스를 무료로 공개]]></title>
@@ -95,6 +95,13 @@
         <updated>2021-10-29T01:52:47.414Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JavaScript 알고리즘 및 자료 구조]]></title>
+        <id>https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md</id>
+        <link href="https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md"/>
+        <updated>2021-10-25T01:57:16.066Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플 M1 Max 에서의 렌더링 후기]]></title>
         <id>https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html</id>
         <link href="https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html"/>
@@ -107,13 +114,6 @@
         <link href="https://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html"/>
         <updated>2021-10-28T00:35:56.163Z</updated>
         <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 알고리즘 및 자료 구조]]></title>
-        <id>https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md</id>
-        <link href="https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md"/>
-        <updated>2021-10-25T01:57:16.066Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Adobe, 포토샵 웹 버전 베타 공개]]></title>
