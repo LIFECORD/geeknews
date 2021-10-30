@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-30T00:35:46.466Z</updated>
+    <updated>2021-10-30T01:52:57.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.manim.community/"/>
         <updated>2021-10-29T08:13:40.430Z</updated>
         <content type="html"><![CDATA[(manim.community)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CleanUp.pictures - 사진에서 사물 지우기 오픈소스]]></title>
+        <id>https://github.com/initml/cleanup.pictures</id>
+        <link href="https://github.com/initml/cleanup.pictures"/>
+        <updated>2021-10-30T01:52:17.226Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Copilot, JetBrains 와 Neovim 지원 공개]]></title>
@@ -27,13 +34,6 @@
         <content type="html"><![CDATA[(gamerant.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Katerra - 20억 달러 실패]]></title>
-        <id>https://www.businessbrief.xyz/p/katerra-2-billion-failure</id>
-        <link href="https://www.businessbrief.xyz/p/katerra-2-billion-failure"/>
-        <updated>2021-10-30T00:35:10.152Z</updated>
-        <content type="html"><![CDATA[(businessbrief.xyz)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LaMa - 큰해상도 이미지에서 사물 지우기]]></title>
         <id>https://github.com/saic-mdal/lama</id>
         <link href="https://github.com/saic-mdal/lama"/>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글을 읽기 편하게 해주는 CSS 코드 100바이트]]></title>
-        <id>https://www.swyx.io/css-100-bytes/</id>
-        <link href="https://www.swyx.io/css-100-bytes/"/>
-        <updated>2021-10-29T01:52:47.410Z</updated>
-        <content type="html"><![CDATA[(swyx.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CodingFont - 자신에게 맞는 코딩 폰트를 찾는 게임]]></title>
         <id>https://www.codingfont.com/</id>
         <link href="https://www.codingfont.com/"/>
         <updated>2021-10-28T01:53:16.823Z</updated>
         <content type="html"><![CDATA[(codingfont.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글을 읽기 편하게 해주는 CSS 코드 100바이트]]></title>
+        <id>https://www.swyx.io/css-100-bytes/</id>
+        <link href="https://www.swyx.io/css-100-bytes/"/>
+        <updated>2021-10-29T01:52:47.410Z</updated>
+        <content type="html"><![CDATA[(swyx.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CodeAmigo - Codecademy 입사 지원자가 만든 클론]]></title>
@@ -116,18 +116,18 @@
         <updated>2021-10-29T01:52:47.414Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페이스북, Meta로 회사명 변경]]></title>
-        <id>https://about.facebook.com/meta/</id>
-        <link href="https://about.facebook.com/meta/"/>
-        <updated>2021-10-29T00:34:30.579Z</updated>
-        <content type="html"><![CDATA[(about.facebook.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
         <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
         <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
         <updated>2021-10-25T01:57:16.066Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북, Meta로 회사명 변경]]></title>
+        <id>https://about.facebook.com/meta/</id>
+        <link href="https://about.facebook.com/meta/"/>
+        <updated>2021-10-29T00:34:30.579Z</updated>
+        <content type="html"><![CDATA[(about.facebook.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js 12 릴리즈]]></title>
