@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-30T14:10:58.447Z</updated>
+    <updated>2021-10-30T15:11:42.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -116,18 +116,18 @@
         <updated>2021-10-29T01:52:47.414Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adobe, 포토샵 웹 버전 베타 공개]]></title>
-        <id>https://blog.adobe.com/en/publish/2021/10/26/photoshop-ships-major-updates-across-desktop-ipad-apps-extends-light-editing-collaboration-features-web-beta.html</id>
-        <link href="https://blog.adobe.com/en/publish/2021/10/26/photoshop-ships-major-updates-across-desktop-ipad-apps-extends-light-editing-collaboration-features-web-beta.html"/>
-        <updated>2021-10-29T00:34:30.579Z</updated>
-        <content type="html"><![CDATA[(blog.adobe.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
         <id>https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/</id>
         <link href="https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/"/>
         <updated>2021-10-25T01:57:16.066Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe, 포토샵 웹 버전 베타 공개]]></title>
+        <id>https://blog.adobe.com/en/publish/2021/10/26/photoshop-ships-major-updates-across-desktop-ipad-apps-extends-light-editing-collaboration-features-web-beta.html</id>
+        <link href="https://blog.adobe.com/en/publish/2021/10/26/photoshop-ships-major-updates-across-desktop-ipad-apps-extends-light-editing-collaboration-features-web-beta.html"/>
+        <updated>2021-10-29T00:34:30.579Z</updated>
+        <content type="html"><![CDATA[(blog.adobe.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js 12 릴리즈]]></title>
