@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-30T11:10:20.233Z</updated>
+    <updated>2021-10-30T12:16:37.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,6 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 필요해지기 전에 먼저 사두면 좋은게 뭐가 있을까요?]]></title>
-        <id>https://news.hada.io/topic?id=5280</id>
-        <link href="https://news.hada.io/topic?id=5280"/>
-        <updated>2021-10-29T01:52:47.412Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5279</id>
-        <link href="https://news.hada.io/topic?id=5279"/>
-        <updated>2021-10-29T01:52:47.414Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애플 M1 Max 에서의 렌더링 후기]]></title>
         <id>https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html</id>
         <link href="https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html"/>
@@ -109,11 +97,23 @@
         <content type="html"><![CDATA[(blog.yiningkarlli.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 필요해지기 전에 먼저 사두면 좋은게 뭐가 있을까요?]]></title>
+        <id>https://news.hada.io/topic?id=5280</id>
+        <link href="https://news.hada.io/topic?id=5280"/>
+        <updated>2021-10-29T01:52:47.412Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[대형 화면 기기용 Android 12L 공개]]></title>
         <id>https://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html</id>
         <link href="https://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html"/>
         <updated>2021-10-28T00:35:56.163Z</updated>
         <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5279</id>
+        <link href="https://news.hada.io/topic?id=5279"/>
+        <updated>2021-10-29T01:52:47.414Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Adobe, 포토샵 웹 버전 베타 공개]]></title>
