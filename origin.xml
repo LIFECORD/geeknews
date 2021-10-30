@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-30T18:13:41.739Z</updated>
+    <updated>2021-10-30T19:09:46.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oculus Quest, 페이스북 계정 필수가 아니게 바꿀 예정]]></title>
-        <id>https://gamerant.com/oculus-quest-facebook-account-requirement-removed/</id>
-        <link href="https://gamerant.com/oculus-quest-facebook-account-requirement-removed/"/>
-        <updated>2021-10-30T00:35:10.151Z</updated>
-        <content type="html"><![CDATA[(gamerant.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LaMa - 큰해상도 이미지에서 사물 지우기]]></title>
         <id>https://github.com/saic-mdal/lama</id>
         <link href="https://github.com/saic-mdal/lama"/>
         <updated>2021-10-29T01:52:47.417Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oculus Quest, 페이스북 계정 필수가 아니게 바꿀 예정]]></title>
+        <id>https://gamerant.com/oculus-quest-facebook-account-requirement-removed/</id>
+        <link href="https://gamerant.com/oculus-quest-facebook-account-requirement-removed/"/>
+        <updated>2021-10-30T00:35:10.151Z</updated>
+        <content type="html"><![CDATA[(gamerant.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[C Programing 가이드 : GOTO]]></title>
