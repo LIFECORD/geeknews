@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-31T03:12:49.055Z</updated>
+    <updated>2021-10-31T04:15:08.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://github.com/TheSharks/WildBeast</id>
         <link href="https://github.com/TheSharks/WildBeast"/>
         <updated>2021-10-31T00:37:28.676Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding]]></title>
+        <id>https://news.hada.io/topic?id=5292</id>
+        <link href="https://news.hada.io/topic?id=5292"/>
+        <updated>2021-10-31T04:14:28.810Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -136,11 +143,5 @@
         <id>https://news.hada.io/topic?id=5280</id>
         <link href="https://news.hada.io/topic?id=5280"/>
         <updated>2021-10-29T01:52:47.412Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5279</id>
-        <link href="https://news.hada.io/topic?id=5279"/>
-        <updated>2021-10-29T01:52:47.414Z</updated>
     </entry>
 </feed>
