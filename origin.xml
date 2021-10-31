@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-31T10:12:38.335Z</updated>
+    <updated>2021-10-31T11:10:29.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(raspberrypi.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding]]></title>
-        <id>https://news.hada.io/topic?id=5292</id>
-        <link href="https://news.hada.io/topic?id=5292"/>
-        <updated>2021-10-31T04:14:28.810Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Manim - 수학 시각화 파이썬 오픈소스 라이브러리]]></title>
         <id>https://www.manim.community/</id>
         <link href="https://www.manim.community/"/>
@@ -41,11 +34,25 @@
         <content type="html"><![CDATA[(manim.community)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding]]></title>
+        <id>https://news.hada.io/topic?id=5292</id>
+        <link href="https://news.hada.io/topic?id=5292"/>
+        <updated>2021-10-31T04:14:28.810Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[C Programing 가이드 : GOTO]]></title>
         <id>https://beej.us/guide/bgc/html/split/goto.html</id>
         <link href="https://beej.us/guide/bgc/html/split/goto.html"/>
         <updated>2021-10-30T05:10:09.740Z</updated>
         <content type="html"><![CDATA[(beej.us)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodingFont - 자신에게 맞는 코딩 폰트를 찾는 게임]]></title>
+        <id>https://www.codingfont.com/</id>
+        <link href="https://www.codingfont.com/"/>
+        <updated>2021-10-28T01:53:16.823Z</updated>
+        <content type="html"><![CDATA[(codingfont.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LaMa - 큰해상도 이미지에서 사물 지우기]]></title>
@@ -67,13 +74,6 @@
         <link href="https://github.com/github/copilot-docs/tree/main/docs"/>
         <updated>2021-10-30T00:35:10.151Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CodingFont - 자신에게 맞는 코딩 폰트를 찾는 게임]]></title>
-        <id>https://www.codingfont.com/</id>
-        <link href="https://www.codingfont.com/"/>
-        <updated>2021-10-28T01:53:16.823Z</updated>
-        <content type="html"><![CDATA[(codingfont.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글을 읽기 편하게 해주는 CSS 코드 100바이트]]></title>
@@ -125,6 +125,12 @@
         <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5279</id>
+        <link href="https://news.hada.io/topic?id=5279"/>
+        <updated>2021-10-31T11:09:45.556Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플 M1 Max 에서의 렌더링 후기]]></title>
         <id>https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html</id>
         <link href="https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html"/>
@@ -137,12 +143,5 @@
         <link href="https://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html"/>
         <updated>2021-10-28T00:35:56.163Z</updated>
         <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaaS 이메일 템플릿 모음]]></title>
-        <id>https://saasemailtemplates.io/templates</id>
-        <link href="https://saasemailtemplates.io/templates"/>
-        <updated>2021-10-31T10:11:57.340Z</updated>
-        <content type="html"><![CDATA[(saasemailtemplates.io)]]></content>
     </entry>
 </feed>
