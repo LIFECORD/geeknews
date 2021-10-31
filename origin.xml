@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-31T02:28:32.768Z</updated>
+    <updated>2021-10-31T03:12:49.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(manim.community)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Copilot, JetBrains 와 Neovim 지원 공개]]></title>
-        <id>https://github.com/github/copilot-docs/tree/main/docs</id>
-        <link href="https://github.com/github/copilot-docs/tree/main/docs"/>
-        <updated>2021-10-30T00:35:10.151Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[C Programing 가이드 : GOTO]]></title>
         <id>https://beej.us/guide/bgc/html/split/goto.html</id>
         <link href="https://beej.us/guide/bgc/html/split/goto.html"/>
         <updated>2021-10-30T05:10:09.740Z</updated>
         <content type="html"><![CDATA[(beej.us)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot, JetBrains 와 Neovim 지원 공개]]></title>
+        <id>https://github.com/github/copilot-docs/tree/main/docs</id>
+        <link href="https://github.com/github/copilot-docs/tree/main/docs"/>
+        <updated>2021-10-30T00:35:10.151Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LaMa - 큰해상도 이미지에서 사물 지우기]]></title>
