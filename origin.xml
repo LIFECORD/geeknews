@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-31T05:11:09.938Z</updated>
+    <updated>2021-10-31T06:14:15.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(beej.us)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CleanUp.pictures - 사진에서 사물 지우기 오픈소스]]></title>
+        <id>https://github.com/initml/cleanup.pictures</id>
+        <link href="https://github.com/initml/cleanup.pictures"/>
+        <updated>2021-10-30T01:52:17.226Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub Copilot, JetBrains 와 Neovim 지원 공개]]></title>
         <id>https://github.com/github/copilot-docs/tree/main/docs</id>
         <link href="https://github.com/github/copilot-docs/tree/main/docs"/>
@@ -67,13 +74,6 @@
         <link href="https://www.codingfont.com/"/>
         <updated>2021-10-28T01:53:16.823Z</updated>
         <content type="html"><![CDATA[(codingfont.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CleanUp.pictures - 사진에서 사물 지우기 오픈소스]]></title>
-        <id>https://github.com/initml/cleanup.pictures</id>
-        <link href="https://github.com/initml/cleanup.pictures"/>
-        <updated>2021-10-30T01:52:17.226Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oculus Quest, 페이스북 계정 필수가 아니게 바꿀 예정]]></title>
