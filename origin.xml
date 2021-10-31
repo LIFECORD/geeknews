@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-31T09:11:52.697Z</updated>
+    <updated>2021-10-31T10:12:38.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(beej.us)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LaMa - 큰해상도 이미지에서 사물 지우기]]></title>
+        <id>https://github.com/saic-mdal/lama</id>
+        <link href="https://github.com/saic-mdal/lama"/>
+        <updated>2021-10-29T01:52:47.417Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CleanUp.pictures - 사진에서 사물 지우기 오픈소스]]></title>
         <id>https://github.com/initml/cleanup.pictures</id>
         <link href="https://github.com/initml/cleanup.pictures"/>
@@ -59,13 +66,6 @@
         <id>https://github.com/github/copilot-docs/tree/main/docs</id>
         <link href="https://github.com/github/copilot-docs/tree/main/docs"/>
         <updated>2021-10-30T00:35:10.151Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LaMa - 큰해상도 이미지에서 사물 지우기]]></title>
-        <id>https://github.com/saic-mdal/lama</id>
-        <link href="https://github.com/saic-mdal/lama"/>
-        <updated>2021-10-29T01:52:47.417Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -139,9 +139,10 @@
         <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 필요해지기 전에 먼저 사두면 좋은게 뭐가 있을까요?]]></title>
-        <id>https://news.hada.io/topic?id=5280</id>
-        <link href="https://news.hada.io/topic?id=5280"/>
-        <updated>2021-10-29T01:52:47.412Z</updated>
+        <title type="html"><![CDATA[SaaS 이메일 템플릿 모음]]></title>
+        <id>https://saasemailtemplates.io/templates</id>
+        <link href="https://saasemailtemplates.io/templates"/>
+        <updated>2021-10-31T10:11:57.340Z</updated>
+        <content type="html"><![CDATA[(saasemailtemplates.io)]]></content>
     </entry>
 </feed>
