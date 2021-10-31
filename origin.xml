@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-31T14:10:59.650Z</updated>
+    <updated>2021-10-31T15:11:48.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,12 +125,6 @@
         <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5279</id>
-        <link href="https://news.hada.io/topic?id=5279"/>
-        <updated>2021-10-31T11:09:45.556Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애플 M1 Max 에서의 렌더링 후기]]></title>
         <id>https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html</id>
         <link href="https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html"/>
@@ -143,5 +137,11 @@
         <link href="https://android-developers.googleblog.com/2021/10/12L-preview-large-screens.html"/>
         <updated>2021-10-28T00:35:56.163Z</updated>
         <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5279</id>
+        <link href="https://news.hada.io/topic?id=5279"/>
+        <updated>2021-10-31T11:09:45.556Z</updated>
     </entry>
 </feed>
