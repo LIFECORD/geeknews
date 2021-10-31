@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-10-31T15:11:48.804Z</updated>
+    <updated>2021-10-31T16:16:10.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(manim.community)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding]]></title>
-        <id>https://news.hada.io/topic?id=5292</id>
-        <link href="https://news.hada.io/topic?id=5292"/>
-        <updated>2021-10-31T04:14:28.810Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[C Programing 가이드 : GOTO]]></title>
         <id>https://beej.us/guide/bgc/html/split/goto.html</id>
         <link href="https://beej.us/guide/bgc/html/split/goto.html"/>
         <updated>2021-10-30T05:10:09.740Z</updated>
         <content type="html"><![CDATA[(beej.us)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding]]></title>
+        <id>https://news.hada.io/topic?id=5292</id>
+        <link href="https://news.hada.io/topic?id=5292"/>
+        <updated>2021-10-31T04:14:28.810Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CodingFont - 자신에게 맞는 코딩 폰트를 찾는 게임]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(gamerant.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CodeAmigo - Codecademy 입사 지원자가 만든 클론]]></title>
-        <id>https://codeamigo.dev/</id>
-        <link href="https://codeamigo.dev/"/>
-        <updated>2021-10-29T01:52:47.414Z</updated>
-        <content type="html"><![CDATA[(codeamigo.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JavaScript 알고리즘 및 자료 구조]]></title>
         <id>https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md</id>
         <link href="https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md"/>
         <updated>2021-10-25T01:57:16.066Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodeAmigo - Codecademy 입사 지원자가 만든 클론]]></title>
+        <id>https://codeamigo.dev/</id>
+        <link href="https://codeamigo.dev/"/>
+        <updated>2021-10-29T01:52:47.414Z</updated>
+        <content type="html"><![CDATA[(codeamigo.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
