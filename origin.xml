@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-01T20:13:03.725Z</updated>
+    <updated>2021-11-01T21:11:02.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -68,17 +68,17 @@
         <content type="html"><![CDATA[(manim.community)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crane - 도커 이미지 생성 및 관리용 데스크탑 앱]]></title>
-        <id>https://github.com/InfuseAI/crane</id>
-        <link href="https://github.com/InfuseAI/crane"/>
-        <updated>2021-10-31T01:56:32.029Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CleanUp.pictures - 사진에서 사물 지우기 오픈소스]]></title>
         <id>https://github.com/initml/cleanup.pictures</id>
         <link href="https://github.com/initml/cleanup.pictures"/>
         <updated>2021-10-30T01:52:17.226Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crane - 도커 이미지 생성 및 관리용 데스크탑 앱]]></title>
+        <id>https://github.com/InfuseAI/crane</id>
+        <link href="https://github.com/InfuseAI/crane"/>
+        <updated>2021-10-31T01:56:32.029Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
