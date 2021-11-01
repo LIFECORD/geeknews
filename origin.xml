@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-01T12:18:22.493Z</updated>
+    <updated>2021-11-01T13:19:44.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,12 @@
         <content type="html"><![CDATA[(makeall.me)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 주변의 누군가 개발자가 되는 것에 대해 진지하게 물어본다면 뭐라고 대답해주실 건가요?]]></title>
+        <id>https://news.hada.io/topic?id=5296</id>
+        <link href="https://news.hada.io/topic?id=5296"/>
+        <updated>2021-11-01T05:10:39.882Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PWABuilder, PWA를 iOS 앱스토어에 등록 가능한 기능 공개]]></title>
         <id>https://blog.pwabuilder.com/posts/publish-your-pwa-to-the-ios-app-store/</id>
         <link href="https://blog.pwabuilder.com/posts/publish-your-pwa-to-the-ios-app-store/"/>
@@ -39,12 +45,6 @@
         <link href="https://www.gartner.com/en/information-technology/insights/top-technology-trends"/>
         <updated>2021-11-01T00:38:14.364Z</updated>
         <content type="html"><![CDATA[(gartner.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 주변의 누군가 개발자가 되는 것에 대해 진지하게 물어본다면 뭐라고 대답해주실 건가요?]]></title>
-        <id>https://news.hada.io/topic?id=5296</id>
-        <link href="https://news.hada.io/topic?id=5296"/>
-        <updated>2021-11-01T05:10:39.882Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Babelfish for PostgreSQL 공개]]></title>
@@ -103,17 +103,17 @@
         <content type="html"><![CDATA[(beej.us)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding]]></title>
-        <id>https://news.hada.io/topic?id=5292</id>
-        <link href="https://news.hada.io/topic?id=5292"/>
-        <updated>2021-10-31T04:14:28.810Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Copilot, JetBrains 와 Neovim 지원 공개]]></title>
         <id>https://github.com/github/copilot-docs/tree/main/docs</id>
         <link href="https://github.com/github/copilot-docs/tree/main/docs"/>
         <updated>2021-10-30T00:35:10.151Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding]]></title>
+        <id>https://news.hada.io/topic?id=5292</id>
+        <link href="https://news.hada.io/topic?id=5292"/>
+        <updated>2021-10-31T04:14:28.810Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
