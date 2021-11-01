@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-01T17:20:53.828Z</updated>
+    <updated>2021-11-01T18:14:16.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -117,18 +117,18 @@
         <content type="html"><![CDATA[(swyx.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The General Index - 백만개 저널의 n-gram 인덱스를 무료로 공개]]></title>
-        <id>https://archive.org/details/GeneralIndex</id>
-        <link href="https://archive.org/details/GeneralIndex"/>
-        <updated>2021-10-28T00:35:56.163Z</updated>
-        <content type="html"><![CDATA[(archive.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[kbar - 웹에 Cmd+K 기능 추가하는 React 컴포넌트]]></title>
         <id>https://github.com/timc1/kbar</id>
         <link href="https://github.com/timc1/kbar"/>
         <updated>2021-11-01T15:12:21.926Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The General Index - 백만개 저널의 n-gram 인덱스를 무료로 공개]]></title>
+        <id>https://archive.org/details/GeneralIndex</id>
+        <link href="https://archive.org/details/GeneralIndex"/>
+        <updated>2021-10-28T00:35:56.163Z</updated>
+        <content type="html"><![CDATA[(archive.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding]]></title>
