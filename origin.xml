@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-01T04:15:07.212Z</updated>
+    <updated>2021-11-01T05:11:15.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -39,6 +39,12 @@
         <link href="https://www.gartner.com/en/information-technology/insights/top-technology-trends"/>
         <updated>2021-11-01T00:38:14.364Z</updated>
         <content type="html"><![CDATA[(gartner.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 주변의 누군가 개발자가 되는 것에 대해 진지하게 물어본다면 뭐라고 대답해주실 건가요?]]></title>
+        <id>https://news.hada.io/topic?id=5296</id>
+        <link href="https://news.hada.io/topic?id=5296"/>
+        <updated>2021-11-01T05:10:39.882Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Babelfish for PostgreSQL 공개]]></title>
@@ -137,12 +143,5 @@
         <link href="https://archive.org/details/GeneralIndex"/>
         <updated>2021-10-28T00:35:56.163Z</updated>
         <content type="html"><![CDATA[(archive.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kbar - 웹에 Cmd+K 기능 추가하는 React 컴포넌트]]></title>
-        <id>https://github.com/timc1/kbar</id>
-        <link href="https://github.com/timc1/kbar"/>
-        <updated>2021-10-29T00:34:30.579Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
