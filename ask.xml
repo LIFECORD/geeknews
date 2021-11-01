@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-11-01T00:38:49.634Z</updated>
+    <updated>2021-11-01T01:57:43.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 주변의 누군가 개발자가 되는 것에 대해 진지하게 물어본다면 뭐라고 대답해주실 건가요?]]></title>
+        <id>https://news.hada.io/topic?id=5296</id>
+        <link href="https://news.hada.io/topic?id=5296"/>
+        <updated>2021-11-01T01:57:18.833Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 지난 10년 간 최고의 결정은 무엇이었나요?]]></title>
         <id>https://news.hada.io/topic?id=5288</id>
@@ -118,11 +124,5 @@
         <id>https://news.hada.io/topic?id=4849</id>
         <link href="https://news.hada.io/topic?id=4849"/>
         <updated>2021-09-28T01:34:45.889Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 요즘 어떤 것에 끌리고 계시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5012</id>
-        <link href="https://news.hada.io/topic?id=5012"/>
-        <updated>2021-09-28T01:34:45.885Z</updated>
     </entry>
 </feed>
