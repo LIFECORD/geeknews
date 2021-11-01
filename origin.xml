@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-01T22:10:06.700Z</updated>
+    <updated>2021-11-01T23:12:14.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding]]></title>
-        <id>https://news.hada.io/topic?id=5292</id>
-        <link href="https://news.hada.io/topic?id=5292"/>
-        <updated>2021-10-31T04:14:28.810Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CodeAmigo - Codecademy 입사 지원자가 만든 클론]]></title>
         <id>https://codeamigo.dev/</id>
         <link href="https://codeamigo.dev/"/>
         <updated>2021-11-01T16:16:10.402Z</updated>
         <content type="html"><![CDATA[(codeamigo.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding]]></title>
+        <id>https://news.hada.io/topic?id=5292</id>
+        <link href="https://news.hada.io/topic?id=5292"/>
+        <updated>2021-10-31T04:14:28.810Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
