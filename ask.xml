@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-11-01T08:14:28.394Z</updated>
+    <updated>2021-11-01T09:13:55.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -78,6 +78,12 @@
         <updated>2021-09-30T16:15:52.641Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
+        <id>https://news.hada.io/topic?id=5131</id>
+        <link href="https://news.hada.io/topic?id=5131"/>
+        <updated>2021-10-04T00:41:18.318Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요?]]></title>
         <id>https://news.hada.io/topic?id=5110</id>
         <link href="https://news.hada.io/topic?id=5110"/>
@@ -94,12 +100,6 @@
         <id>https://news.hada.io/topic?id=5069</id>
         <link href="https://news.hada.io/topic?id=5069"/>
         <updated>2021-09-28T01:34:45.882Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
-        <id>https://news.hada.io/topic?id=5131</id>
-        <link href="https://news.hada.io/topic?id=5131"/>
-        <updated>2021-10-04T00:41:18.318Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
