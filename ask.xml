@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-11-01T10:13:32.402Z</updated>
+    <updated>2021-11-01T11:10:27.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -78,16 +78,16 @@
         <updated>2021-09-30T16:15:52.641Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
-        <id>https://news.hada.io/topic?id=5131</id>
-        <link href="https://news.hada.io/topic?id=5131"/>
-        <updated>2021-10-04T00:41:18.318Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요?]]></title>
         <id>https://news.hada.io/topic?id=5110</id>
         <link href="https://news.hada.io/topic?id=5110"/>
         <updated>2021-09-30T06:13:18.786Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
+        <id>https://news.hada.io/topic?id=5131</id>
+        <link href="https://news.hada.io/topic?id=5131"/>
+        <updated>2021-10-04T00:41:18.318Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 가장 사랑스러운 전자기기 / 가장 돈 아까운 전자기기 하나씩만 꼽아주세요!]]></title>
