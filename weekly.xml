@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews Weekly</title>
-    <updated>2021-10-31T23:12:10.079Z</updated>
+    <updated>2021-11-01T00:38:49.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[질문에 대한 유용한 답변을 얻는 방법]]></title>
+        <id>https://news.hada.io/weekly/202144</id>
+        <link href="https://news.hada.io/weekly/202144"/>
+        <updated>2021-11-01T00:38:37.941Z</updated>
+        <content type="html"><![CDATA[<td class="fitwidth keepall">121. </td><td class="fitwidth">202144</td><td width="*">&nbsp;<a href="/weekly/202144" class="u keepall"> 질문에 대한 유용한 답변을 얻는 방법</a></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notion 이 Postgres 샤딩하면서 배운 것들]]></title>
         <id>https://news.hada.io/weekly/202143</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/weekly/202125"/>
         <updated>2021-10-04T01:59:29.688Z</updated>
         <content type="html"><![CDATA[<td class="fitwidth keepall">102. </td><td class="fitwidth">202125</td><td width="*">&nbsp;<a href="/weekly/202125" class="u keepall"> 항상 그만두기</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건강한 On-Call 문화 만들기]]></title>
-        <id>https://news.hada.io/weekly/202124</id>
-        <link href="https://news.hada.io/weekly/202124"/>
-        <updated>2021-10-04T01:59:29.694Z</updated>
-        <content type="html"><![CDATA[<td class="fitwidth keepall">101. </td><td class="fitwidth">202124</td><td width="*">&nbsp;<a href="/weekly/202124" class="u keepall"> 건강한 On-Call 문화 만들기</a></td>]]></content>
     </entry>
 </feed>
