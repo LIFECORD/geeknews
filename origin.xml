@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-02T00:40:37.251Z</updated>
+    <updated>2021-11-02T01:58:07.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BetterDummy - 인텔/M1 맥용 가짜 소프트웨어 HDMI 어댑터]]></title>
+        <id>https://github.com/waydabber/BetterDummy</id>
+        <link href="https://github.com/waydabber/BetterDummy"/>
+        <updated>2021-11-02T01:57:26.911Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봇 감지 우회하기 : 차단당하지 않고 웹 스크레핑 하는 법]]></title>
+        <id>https://github.com/niespodd/browser-fingerprinting</id>
+        <link href="https://github.com/niespodd/browser-fingerprinting"/>
+        <updated>2021-11-02T01:57:26.913Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021년 데이터/ML/AI 업계 지도와 최신 트렌드]]></title>
         <id>https://mattturck.com/data2021/</id>
@@ -18,6 +32,13 @@
         <link href="https://makeall.me/2021/10/facebook-infra.html?utm_source=geeknews"/>
         <updated>2021-11-01T01:56:54.519Z</updated>
         <content type="html"><![CDATA[(makeall.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오라클 JDK 17 - 상용에도 무료 사용 가능하게 라이센스 변경]]></title>
+        <id>https://www.infoq.com/news/2021/10/oracle-jdk-free-again/</id>
+        <link href="https://www.infoq.com/news/2021/10/oracle-jdk-free-again/"/>
+        <updated>2021-11-02T01:57:26.920Z</updated>
+        <content type="html"><![CDATA[(infoq.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[macOS가 더 안정적이 되었습니다]]></title>
@@ -89,17 +110,17 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crane - 도커 이미지 생성 및 관리용 데스크탑 앱]]></title>
-        <id>https://github.com/InfuseAI/crane</id>
-        <link href="https://github.com/InfuseAI/crane"/>
-        <updated>2021-10-31T01:56:32.029Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LaMa - 큰해상도 이미지에서 사물 지우기]]></title>
         <id>https://github.com/saic-mdal/lama</id>
         <link href="https://github.com/saic-mdal/lama"/>
         <updated>2021-10-29T01:52:47.417Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crane - 도커 이미지 생성 및 관리용 데스크탑 앱]]></title>
+        <id>https://github.com/InfuseAI/crane</id>
+        <link href="https://github.com/InfuseAI/crane"/>
+        <updated>2021-10-31T01:56:32.029Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -122,26 +143,5 @@
         <link href="https://archive.org/details/GeneralIndex"/>
         <updated>2021-10-28T00:35:56.163Z</updated>
         <content type="html"><![CDATA[(archive.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot, JetBrains 와 Neovim 지원 공개]]></title>
-        <id>https://github.com/github/copilot-docs/tree/main/docs</id>
-        <link href="https://github.com/github/copilot-docs/tree/main/docs"/>
-        <updated>2021-10-30T00:35:10.151Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글을 읽기 편하게 해주는 CSS 코드 100바이트]]></title>
-        <id>https://www.swyx.io/css-100-bytes/</id>
-        <link href="https://www.swyx.io/css-100-bytes/"/>
-        <updated>2021-10-29T01:52:47.410Z</updated>
-        <content type="html"><![CDATA[(swyx.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kbar - 웹에 Cmd+K 기능 추가하는 React 컴포넌트]]></title>
-        <id>https://github.com/timc1/kbar</id>
-        <link href="https://github.com/timc1/kbar"/>
-        <updated>2021-11-01T15:12:21.926Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
