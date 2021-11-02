@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-02T18:14:29.632Z</updated>
+    <updated>2021-11-02T19:10:22.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(makeall.me)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta: 메타버스 진화 방향과 기업 페이스북/기업 메타의 미래]]></title>
-        <id>https://excitingfx.kr/metafacebook2110/</id>
-        <link href="https://excitingfx.kr/metafacebook2110/"/>
-        <updated>2021-11-02T00:39:37.293Z</updated>
-        <content type="html"><![CDATA[(excitingfx.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[macOS가 더 안정적이 되었습니다]]></title>
         <id>https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/</id>
         <link href="https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/"/>
         <updated>2021-11-01T01:56:54.515Z</updated>
         <content type="html"><![CDATA[(eclecticlight.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta: 메타버스 진화 방향과 기업 페이스북/기업 메타의 미래]]></title>
+        <id>https://excitingfx.kr/metafacebook2110/</id>
+        <link href="https://excitingfx.kr/metafacebook2110/"/>
+        <updated>2021-11-02T00:39:37.293Z</updated>
+        <content type="html"><![CDATA[(excitingfx.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오라클 JDK 17 - 상용에도 무료 사용 가능하게 라이센스 변경]]></title>
