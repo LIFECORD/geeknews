@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-02T11:11:08.269Z</updated>
+    <updated>2021-11-02T12:18:29.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(yacht.seokmin.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meta: 메타버스 진화 방향과 기업 페이스북/기업 메타의 미래]]></title>
-        <id>https://excitingfx.kr/metafacebook2110/</id>
-        <link href="https://excitingfx.kr/metafacebook2110/"/>
-        <updated>2021-11-02T00:39:37.293Z</updated>
-        <content type="html"><![CDATA[(excitingfx.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021년 데이터/ML/AI 업계 지도와 최신 트렌드]]></title>
         <id>https://mattturck.com/data2021/</id>
         <link href="https://mattturck.com/data2021/"/>
         <updated>2021-11-01T03:12:05.177Z</updated>
         <content type="html"><![CDATA[(mattturck.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta: 메타버스 진화 방향과 기업 페이스북/기업 메타의 미래]]></title>
+        <id>https://excitingfx.kr/metafacebook2110/</id>
+        <link href="https://excitingfx.kr/metafacebook2110/"/>
+        <updated>2021-11-02T00:39:37.293Z</updated>
+        <content type="html"><![CDATA[(excitingfx.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오라클 JDK 17 - 상용에도 무료 사용 가능하게 라이센스 변경]]></title>
