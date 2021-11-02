@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-02T04:15:14.763Z</updated>
+    <updated>2021-11-02T05:10:46.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,25 @@
         <content type="html"><![CDATA[(mattturck.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[데드라인을 효율적으로 써서 행복하고 생산적인 팀 구축하기]]></title>
+        <id>https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams</id>
+        <link href="https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams"/>
+        <updated>2021-11-02T05:10:09.229Z</updated>
+        <content type="html"><![CDATA[(leaddev.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: edge-yacht - Cloudflare Workers에서 동작하는 멀티플레이어 게임]]></title>
+        <id>https://news.hada.io/topic?id=5305</id>
+        <link href="https://news.hada.io/topic?id=5305"/>
+        <updated>2021-11-02T05:10:09.229Z</updated>
+        <content type="html"><![CDATA[(yacht.seokmin.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meta: 메타버스 진화 방향과 기업 페이스북/기업 메타의 미래]]></title>
         <id>https://excitingfx.kr/metafacebook2110/</id>
         <link href="https://excitingfx.kr/metafacebook2110/"/>
         <updated>2021-11-02T00:39:37.293Z</updated>
         <content type="html"><![CDATA[(excitingfx.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XIA, 2040년까지의 미래 (208p PDF)]]></title>
-        <id>https://drive.google.com/file/d/1XadQeFK0BRfNBRXCzfXN43OiZHPfdD7D/view</id>
-        <link href="https://drive.google.com/file/d/1XadQeFK0BRfNBRXCzfXN43OiZHPfdD7D/view"/>
-        <updated>2021-11-02T00:39:37.298Z</updated>
-        <content type="html"><![CDATA[(drive.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Facebook Infra scaling 관점에서 살펴보기]]></title>
@@ -60,6 +67,13 @@
         <link href="https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/"/>
         <updated>2021-11-01T01:56:54.515Z</updated>
         <content type="html"><![CDATA[(eclecticlight.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XIA, 2040년까지의 미래 (208p PDF)]]></title>
+        <id>https://drive.google.com/file/d/1XadQeFK0BRfNBRXCzfXN43OiZHPfdD7D/view</id>
+        <link href="https://drive.google.com/file/d/1XadQeFK0BRfNBRXCzfXN43OiZHPfdD7D/view"/>
+        <updated>2021-11-02T00:39:37.298Z</updated>
+        <content type="html"><![CDATA[(drive.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가트너의 전략 기술 트렌드 2022]]></title>
@@ -129,19 +143,5 @@
         <link href="https://www.codingfont.com/"/>
         <updated>2021-10-28T01:53:16.823Z</updated>
         <content type="html"><![CDATA[(codingfont.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C Programing 가이드 : GOTO]]></title>
-        <id>https://beej.us/guide/bgc/html/split/goto.html</id>
-        <link href="https://beej.us/guide/bgc/html/split/goto.html"/>
-        <updated>2021-10-30T05:10:09.740Z</updated>
-        <content type="html"><![CDATA[(beej.us)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The General Index - 백만개 저널의 n-gram 인덱스를 무료로 공개]]></title>
-        <id>https://archive.org/details/GeneralIndex</id>
-        <link href="https://archive.org/details/GeneralIndex"/>
-        <updated>2021-10-28T00:35:56.163Z</updated>
-        <content type="html"><![CDATA[(archive.org)]]></content>
     </entry>
 </feed>
