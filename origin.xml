@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-03T04:14:54.500Z</updated>
+    <updated>2021-11-03T05:10:53.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zoom, 무료 버전에 광고 추가]]></title>
-        <id>https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/</id>
-        <link href="https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/"/>
-        <updated>2021-11-03T01:53:12.823Z</updated>
-        <content type="html"><![CDATA[(blog.zoom.us)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[봇 감지 우회하기 : 차단당하지 않고 웹 스크레핑 하는 법]]></title>
         <id>https://github.com/niespodd/browser-fingerprinting</id>
         <link href="https://github.com/niespodd/browser-fingerprinting"/>
         <updated>2021-11-02T01:57:26.913Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom, 무료 버전에 광고 추가]]></title>
+        <id>https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/</id>
+        <link href="https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/"/>
+        <updated>2021-11-03T01:53:12.823Z</updated>
+        <content type="html"><![CDATA[(blog.zoom.us)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BetterDummy - 인텔/M1 맥용 가짜 소프트웨어 HDMI 어댑터]]></title>
