@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-03T07:12:54.128Z</updated>
+    <updated>2021-11-03T08:15:20.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MangoDB - MongoDB의 오픈소스 대체제]]></title>
-        <id>https://github.com/MangoDB-io/MangoDB</id>
-        <link href="https://github.com/MangoDB-io/MangoDB"/>
-        <updated>2021-11-03T00:36:01.961Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[데드라인을 효율적으로 써서 행복하고 생산적인 팀 구축하기]]></title>
         <id>https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams</id>
         <link href="https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams"/>
         <updated>2021-11-02T05:10:09.229Z</updated>
         <content type="html"><![CDATA[(leaddev.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MangoDB - MongoDB의 오픈소스 대체제]]></title>
+        <id>https://github.com/MangoDB-io/MangoDB</id>
+        <link href="https://github.com/MangoDB-io/MangoDB"/>
+        <updated>2021-11-03T00:36:01.961Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Firefox 94 릴리즈]]></title>
