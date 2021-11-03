@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-03T12:20:58.115Z</updated>
+    <updated>2021-11-03T13:20:08.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(mozilla.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zoom, 무료 버전에 광고 추가]]></title>
-        <id>https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/</id>
-        <link href="https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/"/>
-        <updated>2021-11-03T01:53:12.823Z</updated>
-        <content type="html"><![CDATA[(blog.zoom.us)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021년 데이터/ML/AI 업계 지도와 최신 트렌드]]></title>
         <id>https://mattturck.com/data2021/</id>
         <link href="https://mattturck.com/data2021/"/>
         <updated>2021-11-01T03:12:05.177Z</updated>
         <content type="html"><![CDATA[(mattturck.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom, 무료 버전에 광고 추가]]></title>
+        <id>https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/</id>
+        <link href="https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/"/>
+        <updated>2021-11-03T01:53:12.823Z</updated>
+        <content type="html"><![CDATA[(blog.zoom.us)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Facebook Infra scaling 관점에서 살펴보기]]></title>
