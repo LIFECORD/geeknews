@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-03T17:19:06.697Z</updated>
+    <updated>2021-11-03T18:13:36.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(makeall.me)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zoom, 무료 버전에 광고 추가]]></title>
-        <id>https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/</id>
-        <link href="https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/"/>
-        <updated>2021-11-03T01:53:12.823Z</updated>
-        <content type="html"><![CDATA[(blog.zoom.us)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[macOS가 더 안정적이 되었습니다]]></title>
         <id>https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/</id>
         <link href="https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/"/>
         <updated>2021-11-01T01:56:54.515Z</updated>
         <content type="html"><![CDATA[(eclecticlight.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom, 무료 버전에 광고 추가]]></title>
+        <id>https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/</id>
+        <link href="https://blog.zoom.us/zoom-continued-access-for-basic-users-with-advertising-program/"/>
+        <updated>2021-11-03T01:53:12.823Z</updated>
+        <content type="html"><![CDATA[(blog.zoom.us)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meta: 메타버스 진화 방향과 기업 페이스북/기업 메타의 미래]]></title>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manim - 수학 시각화 파이썬 오픈소스 라이브러리]]></title>
-        <id>https://www.manim.community/</id>
-        <link href="https://www.manim.community/"/>
-        <updated>2021-11-03T17:18:21.349Z</updated>
-        <content type="html"><![CDATA[(manim.community)]]></content>
+        <title type="html"><![CDATA[Babelfish for PostgreSQL 공개]]></title>
+        <id>https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/</id>
+        <link href="https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/"/>
+        <updated>2021-11-03T18:12:53.211Z</updated>
+        <content type="html"><![CDATA[(babelfishpg.org)]]></content>
     </entry>
 </feed>
