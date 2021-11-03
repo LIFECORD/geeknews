@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-03T10:12:56.964Z</updated>
+    <updated>2021-11-03T11:10:46.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox 94 릴리즈]]></title>
-        <id>https://www.mozilla.org/en-US/firefox/94.0/releasenotes/</id>
-        <link href="https://www.mozilla.org/en-US/firefox/94.0/releasenotes/"/>
-        <updated>2021-11-03T01:53:12.829Z</updated>
-        <content type="html"><![CDATA[(mozilla.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BetterDummy - 인텔/M1 맥용 가짜 소프트웨어 HDMI 어댑터]]></title>
         <id>https://github.com/waydabber/BetterDummy</id>
         <link href="https://github.com/waydabber/BetterDummy"/>
         <updated>2021-11-02T01:57:26.911Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 94 릴리즈]]></title>
+        <id>https://www.mozilla.org/en-US/firefox/94.0/releasenotes/</id>
+        <link href="https://www.mozilla.org/en-US/firefox/94.0/releasenotes/"/>
+        <updated>2021-11-03T01:53:12.829Z</updated>
+        <content type="html"><![CDATA[(mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: edge-yacht - Cloudflare Workers에서 동작하는 멀티플레이어 게임]]></title>
