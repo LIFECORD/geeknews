@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-04T03:13:15.478Z</updated>
+    <updated>2021-11-04T04:15:07.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thank you, GitHub]]></title>
-        <id>https://github.blog/2021-11-03-thank-you-github/</id>
-        <link href="https://github.blog/2021-11-03-thank-you-github/"/>
-        <updated>2021-11-04T01:56:34.788Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
+        <title type="html"><![CDATA[오프라인용 클라이언트 DB 비교]]></title>
+        <id>https://github.com/pubkey/client-side-databases</id>
+        <link href="https://github.com/pubkey/client-side-databases"/>
+        <updated>2021-11-04T02:27:56.335Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 개발자 도구의 비밀]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[(christianheilmann.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오프라인용 클라이언트 DB 비교]]></title>
-        <id>https://github.com/pubkey/client-side-databases</id>
-        <link href="https://github.com/pubkey/client-side-databases"/>
-        <updated>2021-11-04T02:27:56.335Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[Thank you, GitHub]]></title>
+        <id>https://github.blog/2021-11-03-thank-you-github/</id>
+        <link href="https://github.blog/2021-11-03-thank-you-github/"/>
+        <updated>2021-11-04T01:56:34.788Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데드라인을 효율적으로 써서 행복하고 생산적인 팀 구축하기]]></title>
@@ -46,6 +46,13 @@
         <link href="https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams"/>
         <updated>2021-11-02T05:10:09.229Z</updated>
         <content type="html"><![CDATA[(leaddev.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motor Admin - No-Code 어드민 패널 오픈소스]]></title>
+        <id>https://github.com/motor-admin/motor-admin</id>
+        <link href="https://github.com/motor-admin/motor-admin"/>
+        <updated>2021-11-03T01:53:12.818Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft, Teams에 Mesh로 3D 아바타와 몰입형 회의 도입]]></title>
@@ -60,13 +67,6 @@
         <link href="https://www.tesla.com/ko_KR/support/non-tesla-supercharging"/>
         <updated>2021-11-04T00:36:43.136Z</updated>
         <content type="html"><![CDATA[(tesla.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motor Admin - No-Code 어드민 패널 오픈소스]]></title>
-        <id>https://github.com/motor-admin/motor-admin</id>
-        <link href="https://github.com/motor-admin/motor-admin"/>
-        <updated>2021-11-03T01:53:12.818Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BetterDummy - 인텔/M1 맥용 가짜 소프트웨어 HDMI 어댑터]]></title>
