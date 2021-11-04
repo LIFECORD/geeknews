@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-04T10:13:31.281Z</updated>
+    <updated>2021-11-04T11:11:35.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla, 슈퍼차저 네트워크를 다른 전기차에게도 개방]]></title>
-        <id>https://www.tesla.com/ko_KR/support/non-tesla-supercharging</id>
-        <link href="https://www.tesla.com/ko_KR/support/non-tesla-supercharging"/>
-        <updated>2021-11-04T00:36:43.136Z</updated>
-        <content type="html"><![CDATA[(tesla.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021년 데이터/ML/AI 업계 지도와 최신 트렌드]]></title>
         <id>https://mattturck.com/data2021/</id>
         <link href="https://mattturck.com/data2021/"/>
         <updated>2021-11-01T03:12:05.177Z</updated>
         <content type="html"><![CDATA[(mattturck.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla, 슈퍼차저 네트워크를 다른 전기차에게도 개방]]></title>
+        <id>https://www.tesla.com/ko_KR/support/non-tesla-supercharging</id>
+        <link href="https://www.tesla.com/ko_KR/support/non-tesla-supercharging"/>
+        <updated>2021-11-04T00:36:43.136Z</updated>
+        <content type="html"><![CDATA[(tesla.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Facebook Infra scaling 관점에서 살펴보기]]></title>
