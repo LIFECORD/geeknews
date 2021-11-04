@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-04T18:13:30.633Z</updated>
+    <updated>2021-11-04T19:10:19.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위임 101: 무엇을 위임할지 파악하기]]></title>
-        <id>https://leaddev.com/team/delegation-101-figuring-out-what-delegate</id>
-        <link href="https://leaddev.com/team/delegation-101-figuring-out-what-delegate"/>
-        <updated>2021-11-04T17:17:52.954Z</updated>
-        <content type="html"><![CDATA[(leaddev.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오프라인용 클라이언트 DB 비교]]></title>
         <id>https://github.com/pubkey/client-side-databases</id>
         <link href="https://github.com/pubkey/client-side-databases"/>
         <updated>2021-11-04T02:27:56.335Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위임 101: 무엇을 위임할지 파악하기]]></title>
+        <id>https://leaddev.com/team/delegation-101-figuring-out-what-delegate</id>
+        <link href="https://leaddev.com/team/delegation-101-figuring-out-what-delegate"/>
+        <updated>2021-11-04T17:17:52.954Z</updated>
+        <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 개발자 도구의 비밀]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft, Teams에 Mesh로 3D 아바타와 몰입형 회의 도입]]></title>
-        <id>https://www.theverge.com/2021/11/2/22758974/microsoft-teams-metaverse-mesh-3d-avatars-meetings-features</id>
-        <link href="https://www.theverge.com/2021/11/2/22758974/microsoft-teams-metaverse-mesh-3d-avatars-meetings-features"/>
-        <updated>2021-11-04T01:56:34.789Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: edge-yacht - Cloudflare Workers에서 동작하는 멀티플레이어 게임]]></title>
         <id>https://news.hada.io/topic?id=5305</id>
         <link href="https://news.hada.io/topic?id=5305"/>
         <updated>2021-11-02T05:10:09.229Z</updated>
         <content type="html"><![CDATA[(yacht.seokmin.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft, Teams에 Mesh로 3D 아바타와 몰입형 회의 도입]]></title>
+        <id>https://www.theverge.com/2021/11/2/22758974/microsoft-teams-metaverse-mesh-3d-avatars-meetings-features</id>
+        <link href="https://www.theverge.com/2021/11/2/22758974/microsoft-teams-metaverse-mesh-3d-avatars-meetings-features"/>
+        <updated>2021-11-04T01:56:34.789Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MangoDB - MongoDB의 오픈소스 대체제]]></title>
