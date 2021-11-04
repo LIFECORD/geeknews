@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-04T12:19:04.329Z</updated>
+    <updated>2021-11-04T13:19:47.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft, Teams에 Mesh로 3D 아바타와 몰입형 회의 도입]]></title>
-        <id>https://www.theverge.com/2021/11/2/22758974/microsoft-teams-metaverse-mesh-3d-avatars-meetings-features</id>
-        <link href="https://www.theverge.com/2021/11/2/22758974/microsoft-teams-metaverse-mesh-3d-avatars-meetings-features"/>
-        <updated>2021-11-04T01:56:34.789Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Motor Admin - No-Code 어드민 패널 오픈소스]]></title>
         <id>https://github.com/motor-admin/motor-admin</id>
         <link href="https://github.com/motor-admin/motor-admin"/>
         <updated>2021-11-03T01:53:12.818Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft, Teams에 Mesh로 3D 아바타와 몰입형 회의 도입]]></title>
+        <id>https://www.theverge.com/2021/11/2/22758974/microsoft-teams-metaverse-mesh-3d-avatars-meetings-features</id>
+        <link href="https://www.theverge.com/2021/11/2/22758974/microsoft-teams-metaverse-mesh-3d-avatars-meetings-features"/>
+        <updated>2021-11-04T01:56:34.789Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BetterDummy - 인텔/M1 맥용 가짜 소프트웨어 HDMI 어댑터]]></title>
