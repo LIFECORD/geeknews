@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-04T20:12:41.258Z</updated>
+    <updated>2021-11-04T21:11:33.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위임 101: 무엇을 위임할지 파악하기]]></title>
-        <id>https://leaddev.com/team/delegation-101-figuring-out-what-delegate</id>
-        <link href="https://leaddev.com/team/delegation-101-figuring-out-what-delegate"/>
-        <updated>2021-11-04T17:17:52.954Z</updated>
-        <content type="html"><![CDATA[(leaddev.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[브라우저 개발자 도구의 비밀]]></title>
         <id>https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/</id>
         <link href="https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/"/>
         <updated>2021-11-03T00:36:01.976Z</updated>
         <content type="html"><![CDATA[(christianheilmann.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위임 101: 무엇을 위임할지 파악하기]]></title>
+        <id>https://leaddev.com/team/delegation-101-figuring-out-what-delegate</id>
+        <link href="https://leaddev.com/team/delegation-101-figuring-out-what-delegate"/>
+        <updated>2021-11-04T17:17:52.954Z</updated>
+        <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데드라인을 효율적으로 써서 행복하고 생산적인 팀 구축하기]]></title>
