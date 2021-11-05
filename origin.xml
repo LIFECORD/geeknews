@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-05T19:10:48.365Z</updated>
+    <updated>2021-11-05T20:13:23.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(youglish.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기업 보안이 플랫폼으로 진화한다]]></title>
-        <id>https://brunch.co.kr/@ywkim36/63</id>
-        <link href="https://brunch.co.kr/@ywkim36/63"/>
-        <updated>2021-11-05T01:55:20.307Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ToxiProxy - 네트워크 테스팅용 오픈소스 TCP 프록시]]></title>
         <id>https://github.com/Shopify/toxiproxy</id>
         <link href="https://github.com/Shopify/toxiproxy"/>
         <updated>2021-11-04T01:56:34.786Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기업 보안이 플랫폼으로 진화한다]]></title>
+        <id>https://brunch.co.kr/@ywkim36/63</id>
+        <link href="https://brunch.co.kr/@ywkim36/63"/>
+        <updated>2021-11-05T01:55:20.307Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netflix, Metaflow UI 오픈소스로 공개]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter API v2용 트윗 관리 endpoint 공개]]></title>
-        <id>https://twittercommunity.com/t/announcing-manage-tweets-endpoints-for-the-twitter-api-v2/161501</id>
-        <link href="https://twittercommunity.com/t/announcing-manage-tweets-endpoints-for-the-twitter-api-v2/161501"/>
-        <updated>2021-11-05T00:36:20.672Z</updated>
-        <content type="html"><![CDATA[(twittercommunity.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오프라인용 클라이언트 DB 비교]]></title>
         <id>https://github.com/pubkey/client-side-databases</id>
         <link href="https://github.com/pubkey/client-side-databases"/>
         <updated>2021-11-04T02:27:56.335Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter API v2용 트윗 관리 endpoint 공개]]></title>
+        <id>https://twittercommunity.com/t/announcing-manage-tweets-endpoints-for-the-twitter-api-v2/161501</id>
+        <link href="https://twittercommunity.com/t/announcing-manage-tweets-endpoints-for-the-twitter-api-v2/161501"/>
+        <updated>2021-11-05T00:36:20.672Z</updated>
+        <content type="html"><![CDATA[(twittercommunity.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Motor Admin - No-Code 어드민 패널 오픈소스]]></title>
