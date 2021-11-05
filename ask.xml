@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-11-05T13:18:55.550Z</updated>
+    <updated>2021-11-05T14:11:18.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -12,16 +12,16 @@
         <updated>2021-11-05T01:55:41.085Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 긱뉴스를 만드시면서 선택하신 기술스택과 주요 의사결정의 배경이 궁금합니다.]]></title>
-        <id>https://news.hada.io/topic?id=5319</id>
-        <link href="https://news.hada.io/topic?id=5319"/>
-        <updated>2021-11-04T03:12:50.368Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 주변의 누군가 개발자가 되는 것에 대해 진지하게 물어본다면 뭐라고 대답해주실 건가요?]]></title>
         <id>https://news.hada.io/topic?id=5296</id>
         <link href="https://news.hada.io/topic?id=5296"/>
         <updated>2021-11-01T01:57:18.833Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 긱뉴스를 만드시면서 선택하신 기술스택과 주요 의사결정의 배경이 궁금합니다.]]></title>
+        <id>https://news.hada.io/topic?id=5319</id>
+        <link href="https://news.hada.io/topic?id=5319"/>
+        <updated>2021-11-04T03:12:50.368Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 지난 10년 간 최고의 결정은 무엇이었나요?]]></title>
