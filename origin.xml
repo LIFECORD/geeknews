@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-05T21:12:16.685Z</updated>
+    <updated>2021-11-05T22:12:03.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기업 보안이 플랫폼으로 진화한다]]></title>
-        <id>https://brunch.co.kr/@ywkim36/63</id>
-        <link href="https://brunch.co.kr/@ywkim36/63"/>
-        <updated>2021-11-05T01:55:20.307Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Netflix, Metaflow UI 오픈소스로 공개]]></title>
         <id>https://github.com/Netflix/metaflow-ui</id>
         <link href="https://github.com/Netflix/metaflow-ui"/>
         <updated>2021-11-04T00:36:43.129Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기업 보안이 플랫폼으로 진화한다]]></title>
+        <id>https://brunch.co.kr/@ywkim36/63</id>
+        <link href="https://brunch.co.kr/@ywkim36/63"/>
+        <updated>2021-11-05T01:55:20.307Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 개발자 도구의 비밀]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 플레이에서 대한민국 이용자를 위해 개발자 제공 결제 시스템 적용이 가능해집니다]]></title>
-        <id>https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html</id>
-        <link href="https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html"/>
-        <updated>2021-11-05T02:26:33.034Z</updated>
-        <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오프라인용 클라이언트 DB 비교]]></title>
         <id>https://github.com/pubkey/client-side-databases</id>
         <link href="https://github.com/pubkey/client-side-databases"/>
         <updated>2021-11-04T02:27:56.335Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 플레이에서 대한민국 이용자를 위해 개발자 제공 결제 시스템 적용이 가능해집니다]]></title>
+        <id>https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html</id>
+        <link href="https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html"/>
+        <updated>2021-11-05T02:26:33.034Z</updated>
+        <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twitter API v2용 트윗 관리 endpoint 공개]]></title>
