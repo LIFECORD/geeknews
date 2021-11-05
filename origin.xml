@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-05T06:15:09.436Z</updated>
+    <updated>2021-11-05T07:12:05.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(youglish.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 플레이에서 대한민국 이용자를 위해 개발자 제공 결제 시스템 적용이 가능해집니다]]></title>
-        <id>https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html</id>
-        <link href="https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html"/>
-        <updated>2021-11-05T02:26:33.034Z</updated>
-        <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기업 보안이 플랫폼으로 진화한다]]></title>
         <id>https://brunch.co.kr/@ywkim36/63</id>
         <link href="https://brunch.co.kr/@ywkim36/63"/>
         <updated>2021-11-05T01:55:20.307Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 플레이에서 대한민국 이용자를 위해 개발자 제공 결제 시스템 적용이 가능해집니다]]></title>
+        <id>https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html</id>
+        <link href="https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html"/>
+        <updated>2021-11-05T02:26:33.034Z</updated>
+        <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twitter API v2용 트윗 관리 endpoint 공개]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thank you, GitHub]]></title>
-        <id>https://github.blog/2021-11-03-thank-you-github/</id>
-        <link href="https://github.blog/2021-11-03-thank-you-github/"/>
-        <updated>2021-11-04T01:56:34.788Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: edge-yacht - Cloudflare Workers에서 동작하는 멀티플레이어 게임]]></title>
         <id>https://news.hada.io/topic?id=5305</id>
         <link href="https://news.hada.io/topic?id=5305"/>
         <updated>2021-11-02T05:10:09.229Z</updated>
         <content type="html"><![CDATA[(yacht.seokmin.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thank you, GitHub]]></title>
+        <id>https://github.blog/2021-11-03-thank-you-github/</id>
+        <link href="https://github.blog/2021-11-03-thank-you-github/"/>
+        <updated>2021-11-04T01:56:34.788Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021년 데이터/ML/AI 업계 지도와 최신 트렌드]]></title>
