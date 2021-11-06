@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-06T06:15:24.730Z</updated>
+    <updated>2021-11-06T07:11:44.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기업 보안이 플랫폼으로 진화한다]]></title>
-        <id>https://brunch.co.kr/@ywkim36/63</id>
-        <link href="https://brunch.co.kr/@ywkim36/63"/>
-        <updated>2021-11-05T01:55:20.307Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ToxiProxy - 네트워크 테스팅용 오픈소스 TCP 프록시]]></title>
         <id>https://github.com/Shopify/toxiproxy</id>
         <link href="https://github.com/Shopify/toxiproxy"/>
         <updated>2021-11-04T01:56:34.786Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기업 보안이 플랫폼으로 진화한다]]></title>
+        <id>https://brunch.co.kr/@ywkim36/63</id>
+        <link href="https://brunch.co.kr/@ywkim36/63"/>
+        <updated>2021-11-05T01:55:20.307Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 개발자 도구의 비밀]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 플레이에서 대한민국 이용자를 위해 개발자 제공 결제 시스템 적용이 가능해집니다]]></title>
-        <id>https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html</id>
-        <link href="https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html"/>
-        <updated>2021-11-05T02:26:33.034Z</updated>
-        <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[봇 감지 우회하기 : 차단당하지 않고 웹 스크레핑 하는 법]]></title>
         <id>https://github.com/niespodd/browser-fingerprinting</id>
         <link href="https://github.com/niespodd/browser-fingerprinting"/>
         <updated>2021-11-02T01:57:26.913Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 플레이에서 대한민국 이용자를 위해 개발자 제공 결제 시스템 적용이 가능해집니다]]></title>
+        <id>https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html</id>
+        <link href="https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html"/>
+        <updated>2021-11-05T02:26:33.034Z</updated>
+        <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twitter API v2용 트윗 관리 endpoint 공개]]></title>
