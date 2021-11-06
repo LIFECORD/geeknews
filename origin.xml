@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-06T20:12:12.771Z</updated>
+    <updated>2021-11-06T21:10:29.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Knative 1.0 릴리즈]]></title>
-        <id>https://knative.dev/blog/articles/knative-1.0/</id>
-        <link href="https://knative.dev/blog/articles/knative-1.0/"/>
-        <updated>2021-11-06T00:34:48.826Z</updated>
-        <content type="html"><![CDATA[(knative.dev)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[위임 101: 무엇을 위임할지 파악하기]]></title>
         <id>https://leaddev.com/team/delegation-101-figuring-out-what-delegate</id>
         <link href="https://leaddev.com/team/delegation-101-figuring-out-what-delegate"/>
         <updated>2021-11-04T17:17:52.954Z</updated>
         <content type="html"><![CDATA[(leaddev.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knative 1.0 릴리즈]]></title>
+        <id>https://knative.dev/blog/articles/knative-1.0/</id>
+        <link href="https://knative.dev/blog/articles/knative-1.0/"/>
+        <updated>2021-11-06T00:34:48.826Z</updated>
+        <content type="html"><![CDATA[(knative.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사회 초년생이 보면 좋은 Excel 공략집]]></title>
