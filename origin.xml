@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-06T05:11:51.331Z</updated>
+    <updated>2021-11-06T06:15:24.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Motor Admin - No-Code 어드민 패널 오픈소스]]></title>
-        <id>https://github.com/motor-admin/motor-admin</id>
-        <link href="https://github.com/motor-admin/motor-admin"/>
-        <updated>2021-11-03T01:53:12.818Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BetterDummy - 인텔/M1 맥용 가짜 소프트웨어 HDMI 어댑터]]></title>
         <id>https://github.com/waydabber/BetterDummy</id>
         <link href="https://github.com/waydabber/BetterDummy"/>
         <updated>2021-11-02T01:57:26.911Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motor Admin - No-Code 어드민 패널 오픈소스]]></title>
+        <id>https://github.com/motor-admin/motor-admin</id>
+        <link href="https://github.com/motor-admin/motor-admin"/>
+        <updated>2021-11-03T01:53:12.818Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter API v2용 트윗 관리 endpoint 공개]]></title>
-        <id>https://twittercommunity.com/t/announcing-manage-tweets-endpoints-for-the-twitter-api-v2/161501</id>
-        <link href="https://twittercommunity.com/t/announcing-manage-tweets-endpoints-for-the-twitter-api-v2/161501"/>
-        <updated>2021-11-05T00:36:20.672Z</updated>
-        <content type="html"><![CDATA[(twittercommunity.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[봇 감지 우회하기 : 차단당하지 않고 웹 스크레핑 하는 법]]></title>
         <id>https://github.com/niespodd/browser-fingerprinting</id>
         <link href="https://github.com/niespodd/browser-fingerprinting"/>
         <updated>2021-11-02T01:57:26.913Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter API v2용 트윗 관리 endpoint 공개]]></title>
+        <id>https://twittercommunity.com/t/announcing-manage-tweets-endpoints-for-the-twitter-api-v2/161501</id>
+        <link href="https://twittercommunity.com/t/announcing-manage-tweets-endpoints-for-the-twitter-api-v2/161501"/>
+        <updated>2021-11-05T00:36:20.672Z</updated>
+        <content type="html"><![CDATA[(twittercommunity.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021년 데이터/ML/AI 업계 지도와 최신 트렌드]]></title>
