@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-06T15:12:21.944Z</updated>
+    <updated>2021-11-06T16:15:59.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크롬 97의 새 기능 - 사용자 플로우 녹화]]></title>
-        <id>https://developer.chrome.com/docs/devtools/recorder/</id>
-        <link href="https://developer.chrome.com/docs/devtools/recorder/"/>
-        <updated>2021-11-06T01:50:49.262Z</updated>
-        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사회 초년생이 보면 좋은 Excel 공략집]]></title>
         <id>https://blog.naver.com/hhaebitt/222432602999</id>
         <link href="https://blog.naver.com/hhaebitt/222432602999"/>
         <updated>2021-11-05T01:55:20.305Z</updated>
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크롬 97의 새 기능 - 사용자 플로우 녹화]]></title>
+        <id>https://developer.chrome.com/docs/devtools/recorder/</id>
+        <link href="https://developer.chrome.com/docs/devtools/recorder/"/>
+        <updated>2021-11-06T01:50:49.262Z</updated>
+        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Loop 공개 - Notion과 유사한 새로운 협업 도구]]></title>
