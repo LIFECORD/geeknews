@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-06T19:10:12.579Z</updated>
+    <updated>2021-11-06T20:12:12.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(makeall.me)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 플레이에서 대한민국 이용자를 위해 개발자 제공 결제 시스템 적용이 가능해집니다]]></title>
-        <id>https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html</id>
-        <link href="https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-ko.html"/>
-        <updated>2021-11-05T02:26:33.034Z</updated>
-        <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
+        <title type="html"><![CDATA[macOS가 더 안정적이 되었습니다]]></title>
+        <id>https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/</id>
+        <link href="https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/"/>
+        <updated>2021-11-06T20:11:33.441Z</updated>
+        <content type="html"><![CDATA[(eclecticlight.co)]]></content>
     </entry>
 </feed>
