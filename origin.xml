@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-06T08:13:57.148Z</updated>
+    <updated>2021-11-06T09:11:42.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[(developers-kr.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter API v2용 트윗 관리 endpoint 공개]]></title>
-        <id>https://twittercommunity.com/t/announcing-manage-tweets-endpoints-for-the-twitter-api-v2/161501</id>
-        <link href="https://twittercommunity.com/t/announcing-manage-tweets-endpoints-for-the-twitter-api-v2/161501"/>
-        <updated>2021-11-05T00:36:20.672Z</updated>
-        <content type="html"><![CDATA[(twittercommunity.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021년 데이터/ML/AI 업계 지도와 최신 트렌드]]></title>
         <id>https://mattturck.com/data2021/</id>
         <link href="https://mattturck.com/data2021/"/>
@@ -144,5 +137,12 @@
         <link href="https://news.hada.io/topic?id=5305"/>
         <updated>2021-11-02T05:10:09.229Z</updated>
         <content type="html"><![CDATA[(yacht.seokmin.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter API v2용 트윗 관리 endpoint 공개]]></title>
+        <id>https://twittercommunity.com/t/announcing-manage-tweets-endpoints-for-the-twitter-api-v2/161501</id>
+        <link href="https://twittercommunity.com/t/announcing-manage-tweets-endpoints-for-the-twitter-api-v2/161501"/>
+        <updated>2021-11-05T00:36:20.672Z</updated>
+        <content type="html"><![CDATA[(twittercommunity.com)]]></content>
     </entry>
 </feed>
