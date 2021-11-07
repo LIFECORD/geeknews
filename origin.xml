@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-07T22:12:13.291Z</updated>
+    <updated>2021-11-07T23:12:37.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(microsoft.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크롬 97의 새 기능 - 사용자 플로우 녹화]]></title>
-        <id>https://developer.chrome.com/docs/devtools/recorder/</id>
-        <link href="https://developer.chrome.com/docs/devtools/recorder/"/>
-        <updated>2021-11-06T01:50:49.262Z</updated>
-        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[데드라인을 효율적으로 써서 행복하고 생산적인 팀 구축하기]]></title>
         <id>https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams</id>
         <link href="https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams"/>
         <updated>2021-11-02T05:10:09.229Z</updated>
         <content type="html"><![CDATA[(leaddev.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크롬 97의 새 기능 - 사용자 플로우 녹화]]></title>
+        <id>https://developer.chrome.com/docs/devtools/recorder/</id>
+        <link href="https://developer.chrome.com/docs/devtools/recorder/"/>
+        <updated>2021-11-06T01:50:49.262Z</updated>
+        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 개발자 도구의 비밀]]></title>
