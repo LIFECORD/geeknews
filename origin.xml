@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-07T03:12:14.806Z</updated>
+    <updated>2021-11-07T04:14:47.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(tobias-elze.de)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사진작가를 위한 맥북 프로 M1 Max 리뷰]]></title>
-        <id>https://austinmann.com/trek/macbook-pro-m1-max-for-photographers</id>
-        <link href="https://austinmann.com/trek/macbook-pro-m1-max-for-photographers"/>
-        <updated>2021-11-07T00:37:48.105Z</updated>
-        <content type="html"><![CDATA[(austinmann.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPD Pocket 3 - 초소형 핸드헬드 PC]]></title>
         <id>https://gpd.hk/gpdpocket3</id>
         <link href="https://gpd.hk/gpdpocket3"/>
         <updated>2021-11-07T00:37:48.105Z</updated>
         <content type="html"><![CDATA[(gpd.hk)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사진작가를 위한 맥북 프로 M1 Max 리뷰]]></title>
+        <id>https://austinmann.com/trek/macbook-pro-m1-max-for-photographers</id>
+        <link href="https://austinmann.com/trek/macbook-pro-m1-max-for-photographers"/>
+        <updated>2021-11-07T00:37:48.105Z</updated>
+        <content type="html"><![CDATA[(austinmann.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위임 101: 무엇을 위임할지 파악하기]]></title>
