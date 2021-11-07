@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-07T17:16:42.789Z</updated>
+    <updated>2021-11-07T18:13:25.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(hexoul.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구]]></title>
-        <id>http://www.tobias-elze.de/pdfsandwich/</id>
-        <link href="http://www.tobias-elze.de/pdfsandwich/"/>
-        <updated>2021-11-07T01:57:11.516Z</updated>
-        <content type="html"><![CDATA[(tobias-elze.de)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LibreOffice 7.1.7 Community 버전 출시 발표]]></title>
         <id>https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/</id>
         <link href="https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/"/>
         <updated>2021-11-07T17:16:01.453Z</updated>
         <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구]]></title>
+        <id>http://www.tobias-elze.de/pdfsandwich/</id>
+        <link href="http://www.tobias-elze.de/pdfsandwich/"/>
+        <updated>2021-11-07T01:57:11.516Z</updated>
+        <content type="html"><![CDATA[(tobias-elze.de)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사진작가를 위한 맥북 프로 M1 Max 리뷰]]></title>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(austinmann.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPD Pocket 3 - 초소형 핸드헬드 PC]]></title>
-        <id>https://gpd.hk/gpdpocket3</id>
-        <link href="https://gpd.hk/gpdpocket3"/>
-        <updated>2021-11-07T00:37:48.105Z</updated>
-        <content type="html"><![CDATA[(gpd.hk)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[위임 101: 무엇을 위임할지 파악하기]]></title>
         <id>https://leaddev.com/team/delegation-101-figuring-out-what-delegate</id>
         <link href="https://leaddev.com/team/delegation-101-figuring-out-what-delegate"/>
         <updated>2021-11-04T17:17:52.954Z</updated>
         <content type="html"><![CDATA[(leaddev.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPD Pocket 3 - 초소형 핸드헬드 PC]]></title>
+        <id>https://gpd.hk/gpdpocket3</id>
+        <link href="https://gpd.hk/gpdpocket3"/>
+        <updated>2021-11-07T00:37:48.105Z</updated>
+        <content type="html"><![CDATA[(gpd.hk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사회 초년생이 보면 좋은 Excel 공략집]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기업 보안이 플랫폼으로 진화한다]]></title>
-        <id>https://brunch.co.kr/@ywkim36/63</id>
-        <link href="https://brunch.co.kr/@ywkim36/63"/>
-        <updated>2021-11-05T01:55:20.307Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[봇 감지 우회하기 : 차단당하지 않고 웹 스크레핑 하는 법]]></title>
         <id>https://github.com/niespodd/browser-fingerprinting</id>
         <link href="https://github.com/niespodd/browser-fingerprinting"/>
         <updated>2021-11-02T01:57:26.913Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기업 보안이 플랫폼으로 진화한다]]></title>
+        <id>https://brunch.co.kr/@ywkim36/63</id>
+        <link href="https://brunch.co.kr/@ywkim36/63"/>
+        <updated>2021-11-05T01:55:20.307Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Motor Admin - No-Code 어드민 패널 오픈소스]]></title>
