@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-07T19:10:04.677Z</updated>
+    <updated>2021-11-07T20:13:07.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Motor Admin - No-Code 어드민 패널 오픈소스]]></title>
-        <id>https://github.com/motor-admin/motor-admin</id>
-        <link href="https://github.com/motor-admin/motor-admin"/>
-        <updated>2021-11-03T01:53:12.818Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021년 데이터/ML/AI 업계 지도와 최신 트렌드]]></title>
         <id>https://mattturck.com/data2021/</id>
         <link href="https://mattturck.com/data2021/"/>
         <updated>2021-11-07T09:11:15.755Z</updated>
         <content type="html"><![CDATA[(mattturck.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motor Admin - No-Code 어드민 패널 오픈소스]]></title>
+        <id>https://github.com/motor-admin/motor-admin</id>
+        <link href="https://github.com/motor-admin/motor-admin"/>
+        <updated>2021-11-03T01:53:12.818Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기업 보안이 플랫폼으로 진화한다]]></title>
