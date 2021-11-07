@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-07T00:38:24.216Z</updated>
+    <updated>2021-11-07T01:57:48.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구]]></title>
+        <id>http://www.tobias-elze.de/pdfsandwich/</id>
+        <link href="http://www.tobias-elze.de/pdfsandwich/"/>
+        <updated>2021-11-07T01:57:11.516Z</updated>
+        <content type="html"><![CDATA[(tobias-elze.de)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사진작가를 위한 맥북 프로 M1 Max 리뷰]]></title>
         <id>https://austinmann.com/trek/macbook-pro-m1-max-for-photographers</id>
@@ -69,18 +76,18 @@
         <content type="html"><![CDATA[(christianheilmann.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[데드라인을 효율적으로 써서 행복하고 생산적인 팀 구축하기]]></title>
-        <id>https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams</id>
-        <link href="https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams"/>
-        <updated>2021-11-02T05:10:09.229Z</updated>
-        <content type="html"><![CDATA[(leaddev.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Netflix, Metaflow UI 오픈소스로 공개]]></title>
         <id>https://github.com/Netflix/metaflow-ui</id>
         <link href="https://github.com/Netflix/metaflow-ui"/>
         <updated>2021-11-04T00:36:43.129Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데드라인을 효율적으로 써서 행복하고 생산적인 팀 구축하기]]></title>
+        <id>https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams</id>
+        <link href="https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams"/>
+        <updated>2021-11-02T05:10:09.229Z</updated>
+        <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ToxiProxy - 네트워크 테스팅용 오픈소스 TCP 프록시]]></title>
@@ -137,12 +144,5 @@
         <link href="https://mattturck.com/data2021/"/>
         <updated>2021-11-01T03:12:05.177Z</updated>
         <content type="html"><![CDATA[(mattturck.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: edge-yacht - Cloudflare Workers에서 동작하는 멀티플레이어 게임]]></title>
-        <id>https://news.hada.io/topic?id=5305</id>
-        <link href="https://news.hada.io/topic?id=5305"/>
-        <updated>2021-11-02T05:10:09.229Z</updated>
-        <content type="html"><![CDATA[(yacht.seokmin.dev)]]></content>
     </entry>
 </feed>
