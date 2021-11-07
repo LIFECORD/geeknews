@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-07T07:11:53.078Z</updated>
+    <updated>2021-11-07T08:13:59.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 오늘부터 전공면접 IT - 객관식 문제 제공 서비스]]></title>
+        <id>https://news.hada.io/topic?id=5335</id>
+        <link href="https://news.hada.io/topic?id=5335"/>
+        <updated>2021-11-07T07:11:16.646Z</updated>
+        <content type="html"><![CDATA[(hexoul.github.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구]]></title>
         <id>http://www.tobias-elze.de/pdfsandwich/</id>
@@ -18,13 +25,6 @@
         <link href="https://austinmann.com/trek/macbook-pro-m1-max-for-photographers"/>
         <updated>2021-11-07T00:37:48.105Z</updated>
         <content type="html"><![CDATA[(austinmann.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 오늘부터 전공면접 IT - 객관식 문제 제공 서비스]]></title>
-        <id>https://news.hada.io/topic?id=5335</id>
-        <link href="https://news.hada.io/topic?id=5335"/>
-        <updated>2021-11-07T07:11:16.646Z</updated>
-        <content type="html"><![CDATA[(hexoul.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPD Pocket 3 - 초소형 핸드헬드 PC]]></title>
