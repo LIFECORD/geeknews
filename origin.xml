@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-08T22:12:25.126Z</updated>
+    <updated>2021-11-08T23:12:36.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(austinmann.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LibreOffice 7.1.7 Community 버전 출시 발표]]></title>
-        <id>https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/</id>
-        <link href="https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/"/>
-        <updated>2021-11-07T17:16:01.453Z</updated>
-        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사회 초년생이 보면 좋은 Excel 공략집]]></title>
         <id>https://blog.naver.com/hhaebitt/222432602999</id>
         <link href="https://blog.naver.com/hhaebitt/222432602999"/>
         <updated>2021-11-05T01:55:20.305Z</updated>
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice 7.1.7 Community 버전 출시 발표]]></title>
+        <id>https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/</id>
+        <link href="https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/"/>
+        <updated>2021-11-07T17:16:01.453Z</updated>
+        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPD Pocket 3 - 초소형 핸드헬드 PC]]></title>
