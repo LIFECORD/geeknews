@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-08T05:11:24.416Z</updated>
+    <updated>2021-11-08T06:14:45.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPD Pocket 3 - 초소형 핸드헬드 PC]]></title>
-        <id>https://gpd.hk/gpdpocket3</id>
-        <link href="https://gpd.hk/gpdpocket3"/>
-        <updated>2021-11-07T00:37:48.105Z</updated>
-        <content type="html"><![CDATA[(gpd.hk)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사회 초년생이 보면 좋은 Excel 공략집]]></title>
         <id>https://blog.naver.com/hhaebitt/222432602999</id>
         <link href="https://blog.naver.com/hhaebitt/222432602999"/>
         <updated>2021-11-05T01:55:20.305Z</updated>
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPD Pocket 3 - 초소형 핸드헬드 PC]]></title>
+        <id>https://gpd.hk/gpdpocket3</id>
+        <link href="https://gpd.hk/gpdpocket3"/>
+        <updated>2021-11-07T00:37:48.105Z</updated>
+        <content type="html"><![CDATA[(gpd.hk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Knative 1.0 릴리즈]]></title>
@@ -104,6 +104,13 @@
         <content type="html"><![CDATA[(microsoft.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[브라우저 개발자 도구의 비밀]]></title>
+        <id>https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/</id>
+        <link href="https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/"/>
+        <updated>2021-11-03T00:36:01.976Z</updated>
+        <content type="html"><![CDATA[(christianheilmann.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[데드라인을 효율적으로 써서 행복하고 생산적인 팀 구축하기]]></title>
         <id>https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams</id>
         <link href="https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams"/>
@@ -116,13 +123,6 @@
         <link href="https://youglish.com/"/>
         <updated>2021-11-05T01:55:20.306Z</updated>
         <content type="html"><![CDATA[(youglish.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브라우저 개발자 도구의 비밀]]></title>
-        <id>https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/</id>
-        <link href="https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/"/>
-        <updated>2021-11-03T00:36:01.976Z</updated>
-        <content type="html"><![CDATA[(christianheilmann.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크롬 97의 새 기능 - 사용자 플로우 녹화]]></title>
