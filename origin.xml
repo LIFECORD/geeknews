@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-08T15:13:16.598Z</updated>
+    <updated>2021-11-08T16:18:11.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,6 +97,13 @@
         <content type="html"><![CDATA[(knative.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[YouGlish - 유튜브를 이용하여 영어 발음 훈련하기]]></title>
+        <id>https://youglish.com/</id>
+        <link href="https://youglish.com/"/>
+        <updated>2021-11-05T01:55:20.306Z</updated>
+        <content type="html"><![CDATA[(youglish.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft Loop 공개 - Notion과 유사한 새로운 협업 도구]]></title>
         <id>https://www.microsoft.com/ko-kr/microsoft-loop</id>
         <link href="https://www.microsoft.com/ko-kr/microsoft-loop"/>
@@ -116,13 +123,6 @@
         <link href="https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams"/>
         <updated>2021-11-02T05:10:09.229Z</updated>
         <content type="html"><![CDATA[(leaddev.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouGlish - 유튜브를 이용하여 영어 발음 훈련하기]]></title>
-        <id>https://youglish.com/</id>
-        <link href="https://youglish.com/"/>
-        <updated>2021-11-05T01:55:20.306Z</updated>
-        <content type="html"><![CDATA[(youglish.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ToxiProxy - 네트워크 테스팅용 오픈소스 TCP 프록시]]></title>
