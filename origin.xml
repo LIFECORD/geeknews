@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-08T07:12:57.613Z</updated>
+    <updated>2021-11-08T08:15:14.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[(austinmann.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GPD Pocket 3 - 초소형 핸드헬드 PC]]></title>
+        <id>https://gpd.hk/gpdpocket3</id>
+        <link href="https://gpd.hk/gpdpocket3"/>
+        <updated>2021-11-07T00:37:48.105Z</updated>
+        <content type="html"><![CDATA[(gpd.hk)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[위임 101: 무엇을 위임할지 파악하기]]></title>
         <id>https://leaddev.com/team/delegation-101-figuring-out-what-delegate</id>
         <link href="https://leaddev.com/team/delegation-101-figuring-out-what-delegate"/>
@@ -81,13 +88,6 @@
         <link href="https://blog.naver.com/hhaebitt/222432602999"/>
         <updated>2021-11-05T01:55:20.305Z</updated>
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPD Pocket 3 - 초소형 핸드헬드 PC]]></title>
-        <id>https://gpd.hk/gpdpocket3</id>
-        <link href="https://gpd.hk/gpdpocket3"/>
-        <updated>2021-11-07T00:37:48.105Z</updated>
-        <content type="html"><![CDATA[(gpd.hk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Knative 1.0 릴리즈]]></title>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[(christianheilmann.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[데드라인을 효율적으로 써서 행복하고 생산적인 팀 구축하기]]></title>
-        <id>https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams</id>
-        <link href="https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams"/>
-        <updated>2021-11-02T05:10:09.229Z</updated>
-        <content type="html"><![CDATA[(leaddev.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[YouGlish - 유튜브를 이용하여 영어 발음 훈련하기]]></title>
         <id>https://youglish.com/</id>
         <link href="https://youglish.com/"/>
@@ -125,11 +118,11 @@
         <content type="html"><![CDATA[(youglish.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크롬 97의 새 기능 - 사용자 플로우 녹화]]></title>
-        <id>https://developer.chrome.com/docs/devtools/recorder/</id>
-        <link href="https://developer.chrome.com/docs/devtools/recorder/"/>
-        <updated>2021-11-06T01:50:49.262Z</updated>
-        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
+        <title type="html"><![CDATA[데드라인을 효율적으로 써서 행복하고 생산적인 팀 구축하기]]></title>
+        <id>https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams</id>
+        <link href="https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams"/>
+        <updated>2021-11-02T05:10:09.229Z</updated>
+        <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ToxiProxy - 네트워크 테스팅용 오픈소스 TCP 프록시]]></title>
@@ -137,6 +130,13 @@
         <link href="https://github.com/Shopify/toxiproxy"/>
         <updated>2021-11-04T01:56:34.786Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크롬 97의 새 기능 - 사용자 플로우 녹화]]></title>
+        <id>https://developer.chrome.com/docs/devtools/recorder/</id>
+        <link href="https://developer.chrome.com/docs/devtools/recorder/"/>
+        <updated>2021-11-06T01:50:49.262Z</updated>
+        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netflix, Metaflow UI 오픈소스로 공개]]></title>
