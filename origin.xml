@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-08T18:14:16.472Z</updated>
+    <updated>2021-11-08T19:10:32.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[(micro-editor.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ARR $0에서 $100M까지 키운 스타트업 마케팅 회고]]></title>
-        <id>https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b</id>
-        <link href="https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b"/>
-        <updated>2021-11-08T00:37:29.062Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 오늘부터 전공면접 IT - 객관식 문제 제공 서비스]]></title>
         <id>https://news.hada.io/topic?id=5335</id>
         <link href="https://news.hada.io/topic?id=5335"/>
@@ -48,11 +41,25 @@
         <content type="html"><![CDATA[(hexoul.github.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ARR $0에서 $100M까지 키운 스타트업 마케팅 회고]]></title>
+        <id>https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b</id>
+        <link href="https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b"/>
+        <updated>2021-11-08T00:37:29.062Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구]]></title>
         <id>http://www.tobias-elze.de/pdfsandwich/</id>
         <link href="http://www.tobias-elze.de/pdfsandwich/"/>
         <updated>2021-11-07T01:57:11.516Z</updated>
         <content type="html"><![CDATA[(tobias-elze.de)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위임 101: 무엇을 위임할지 파악하기]]></title>
+        <id>https://leaddev.com/team/delegation-101-figuring-out-what-delegate</id>
+        <link href="https://leaddev.com/team/delegation-101-figuring-out-what-delegate"/>
+        <updated>2021-11-04T17:17:52.954Z</updated>
+        <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LibreOffice 7.1.7 Community 버전 출시 발표]]></title>
@@ -67,13 +74,6 @@
         <link href="https://austinmann.com/trek/macbook-pro-m1-max-for-photographers"/>
         <updated>2021-11-07T00:37:48.105Z</updated>
         <content type="html"><![CDATA[(austinmann.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위임 101: 무엇을 위임할지 파악하기]]></title>
-        <id>https://leaddev.com/team/delegation-101-figuring-out-what-delegate</id>
-        <link href="https://leaddev.com/team/delegation-101-figuring-out-what-delegate"/>
-        <updated>2021-11-04T17:17:52.954Z</updated>
-        <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사회 초년생이 보면 좋은 Excel 공략집]]></title>
