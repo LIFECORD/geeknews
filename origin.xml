@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-08T19:10:32.652Z</updated>
+    <updated>2021-11-08T20:12:35.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LibreOffice 7.1.7 Community 버전 출시 발표]]></title>
-        <id>https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/</id>
-        <link href="https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/"/>
-        <updated>2021-11-07T17:16:01.453Z</updated>
-        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사진작가를 위한 맥북 프로 M1 Max 리뷰]]></title>
         <id>https://austinmann.com/trek/macbook-pro-m1-max-for-photographers</id>
         <link href="https://austinmann.com/trek/macbook-pro-m1-max-for-photographers"/>
         <updated>2021-11-07T00:37:48.105Z</updated>
         <content type="html"><![CDATA[(austinmann.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice 7.1.7 Community 버전 출시 발표]]></title>
+        <id>https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/</id>
+        <link href="https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/"/>
+        <updated>2021-11-07T17:16:01.453Z</updated>
+        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사회 초년생이 보면 좋은 Excel 공략집]]></title>
