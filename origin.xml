@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-08T09:12:40.223Z</updated>
+    <updated>2021-11-08T10:13:19.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크롬 97의 새 기능 - 사용자 플로우 녹화]]></title>
-        <id>https://developer.chrome.com/docs/devtools/recorder/</id>
-        <link href="https://developer.chrome.com/docs/devtools/recorder/"/>
-        <updated>2021-11-06T01:50:49.262Z</updated>
-        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Netflix, Metaflow UI 오픈소스로 공개]]></title>
         <id>https://github.com/Netflix/metaflow-ui</id>
         <link href="https://github.com/Netflix/metaflow-ui"/>
         <updated>2021-11-04T00:36:43.129Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크롬 97의 새 기능 - 사용자 플로우 녹화]]></title>
+        <id>https://developer.chrome.com/docs/devtools/recorder/</id>
+        <link href="https://developer.chrome.com/docs/devtools/recorder/"/>
+        <updated>2021-11-06T01:50:49.262Z</updated>
+        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
 </feed>
