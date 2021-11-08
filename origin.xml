@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-08T01:54:41.044Z</updated>
+    <updated>2021-11-08T02:27:30.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[(bitsofco.de)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ARR $0에서 $100M까지 키운 스타트업 마케팅 회고]]></title>
-        <id>https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b</id>
-        <link href="https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b"/>
-        <updated>2021-11-08T00:37:29.062Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
+        <title type="html"><![CDATA[커뮤니티 주도 성장을 막는 오해들과 극복 전략]]></title>
+        <id>https://femstreet.substack.com/p/communityledgrowthnirvana</id>
+        <link href="https://femstreet.substack.com/p/communityledgrowthnirvana"/>
+        <updated>2021-11-08T02:26:04.899Z</updated>
+        <content type="html"><![CDATA[(femstreet.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jitsu - Segment의 오픈소스 대체제]]></title>
@@ -25,6 +25,13 @@
         <link href="https://github.com/jitsucom/jitsu"/>
         <updated>2021-11-08T01:54:00.736Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARR $0에서 $100M까지 키운 스타트업 마케팅 회고]]></title>
+        <id>https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b</id>
+        <link href="https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b"/>
+        <updated>2021-11-08T00:37:29.062Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[micro - 직관적인 터미널 기반 텍스트 에디터]]></title>
@@ -69,18 +76,18 @@
         <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사회 초년생이 보면 좋은 Excel 공략집]]></title>
-        <id>https://blog.naver.com/hhaebitt/222432602999</id>
-        <link href="https://blog.naver.com/hhaebitt/222432602999"/>
-        <updated>2021-11-05T01:55:20.305Z</updated>
-        <content type="html"><![CDATA[(blog.naver.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPD Pocket 3 - 초소형 핸드헬드 PC]]></title>
         <id>https://gpd.hk/gpdpocket3</id>
         <link href="https://gpd.hk/gpdpocket3"/>
         <updated>2021-11-07T00:37:48.105Z</updated>
         <content type="html"><![CDATA[(gpd.hk)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회 초년생이 보면 좋은 Excel 공략집]]></title>
+        <id>https://blog.naver.com/hhaebitt/222432602999</id>
+        <link href="https://blog.naver.com/hhaebitt/222432602999"/>
+        <updated>2021-11-05T01:55:20.305Z</updated>
+        <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Knative 1.0 릴리즈]]></title>
@@ -136,13 +143,6 @@
         <id>https://github.com/Netflix/metaflow-ui</id>
         <link href="https://github.com/Netflix/metaflow-ui"/>
         <updated>2021-11-04T00:36:43.129Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BetterDummy - 인텔/M1 맥용 가짜 소프트웨어 HDMI 어댑터]]></title>
-        <id>https://github.com/waydabber/BetterDummy</id>
-        <link href="https://github.com/waydabber/BetterDummy"/>
-        <updated>2021-11-02T01:57:26.911Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
