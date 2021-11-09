@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-09T15:12:37.634Z</updated>
+    <updated>2021-11-09T16:17:40.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
+        <id>https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/</id>
+        <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
+        <updated>2021-11-09T16:17:05.560Z</updated>
+        <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
         <id>https://github.com/jbarlow83/OCRmyPDF</id>
         <link href="https://github.com/jbarlow83/OCRmyPDF"/>
         <updated>2021-11-09T02:25:40.604Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커뮤니티 주도 성장을 막는 오해들과 극복 전략]]></title>
+        <id>https://femstreet.substack.com/p/communityledgrowthnirvana</id>
+        <link href="https://femstreet.substack.com/p/communityledgrowthnirvana"/>
+        <updated>2021-11-08T02:26:04.899Z</updated>
+        <content type="html"><![CDATA[(femstreet.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[.NET 6 발표 - 가장 빠른 .NET]]></title>
@@ -25,13 +39,6 @@
         <link href="https://github.com/blacknon/hwatch"/>
         <updated>2021-11-09T11:09:54.882Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커뮤니티 주도 성장을 막는 오해들과 극복 전략]]></title>
-        <id>https://femstreet.substack.com/p/communityledgrowthnirvana</id>
-        <link href="https://femstreet.substack.com/p/communityledgrowthnirvana"/>
-        <updated>2021-11-08T02:26:04.899Z</updated>
-        <content type="html"><![CDATA[(femstreet.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
@@ -62,18 +69,18 @@
         <content type="html"><![CDATA[(oclif.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[micro - 직관적인 터미널 기반 텍스트 에디터]]></title>
-        <id>https://micro-editor.github.io/</id>
-        <link href="https://micro-editor.github.io/"/>
-        <updated>2021-11-08T01:54:00.737Z</updated>
-        <content type="html"><![CDATA[(micro-editor.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 오늘부터 전공면접 IT - 객관식 문제 제공 서비스]]></title>
         <id>https://news.hada.io/topic?id=5335</id>
         <link href="https://news.hada.io/topic?id=5335"/>
         <updated>2021-11-07T07:11:16.646Z</updated>
         <content type="html"><![CDATA[(hexoul.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[micro - 직관적인 터미널 기반 텍스트 에디터]]></title>
+        <id>https://micro-editor.github.io/</id>
+        <link href="https://micro-editor.github.io/"/>
+        <updated>2021-11-08T01:54:00.737Z</updated>
+        <content type="html"><![CDATA[(micro-editor.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구]]></title>
@@ -137,12 +144,5 @@
         <link href="https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/"/>
         <updated>2021-11-07T17:16:01.453Z</updated>
         <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knative 1.0 릴리즈]]></title>
-        <id>https://knative.dev/blog/articles/knative-1.0/</id>
-        <link href="https://knative.dev/blog/articles/knative-1.0/"/>
-        <updated>2021-11-06T00:34:48.826Z</updated>
-        <content type="html"><![CDATA[(knative.dev)]]></content>
     </entry>
 </feed>
