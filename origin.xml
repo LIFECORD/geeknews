@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-09T14:12:20.588Z</updated>
+    <updated>2021-11-09T15:12:37.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[hwatch - 커맨드의 아웃풋 변화를 기록하는 watch 대체 유틸리티]]></title>
-        <id>https://github.com/blacknon/hwatch</id>
-        <link href="https://github.com/blacknon/hwatch"/>
-        <updated>2021-11-09T11:09:54.882Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
         <id>https://github.com/jbarlow83/OCRmyPDF</id>
         <link href="https://github.com/jbarlow83/OCRmyPDF"/>
         <updated>2021-11-09T02:25:40.604Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 6 발표 - 가장 빠른 .NET]]></title>
+        <id>https://devblogs.microsoft.com/dotnet/announcing-net-6/</id>
+        <link href="https://devblogs.microsoft.com/dotnet/announcing-net-6/"/>
+        <updated>2021-11-09T00:37:38.879Z</updated>
+        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hwatch - 커맨드의 아웃풋 변화를 기록하는 watch 대체 유틸리티]]></title>
+        <id>https://github.com/blacknon/hwatch</id>
+        <link href="https://github.com/blacknon/hwatch"/>
+        <updated>2021-11-09T11:09:54.882Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -32,13 +39,6 @@
         <link href="https://bitsofco.de/web-performance-metrics-cheatsheet/"/>
         <updated>2021-11-08T01:54:00.735Z</updated>
         <content type="html"><![CDATA[(bitsofco.de)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.NET 6 발표 - 가장 빠른 .NET]]></title>
-        <id>https://devblogs.microsoft.com/dotnet/announcing-net-6/</id>
-        <link href="https://devblogs.microsoft.com/dotnet/announcing-net-6/"/>
-        <updated>2021-11-09T00:37:38.879Z</updated>
-        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jitsu - Segment의 오픈소스 대체제]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(gpd.hk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LibreOffice 7.1.7 Community 버전 출시 발표]]></title>
-        <id>https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/</id>
-        <link href="https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/"/>
-        <updated>2021-11-07T17:16:01.453Z</updated>
-        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[브라우저 개발자 도구의 비밀]]></title>
         <id>https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/</id>
         <link href="https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/"/>
         <updated>2021-11-03T00:36:01.976Z</updated>
         <content type="html"><![CDATA[(christianheilmann.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice 7.1.7 Community 버전 출시 발표]]></title>
+        <id>https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/</id>
+        <link href="https://blog.documentfoundation.org/blog/2021/11/04/libreoffice-7-1-7-community/"/>
+        <updated>2021-11-07T17:16:01.453Z</updated>
+        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Knative 1.0 릴리즈]]></title>
