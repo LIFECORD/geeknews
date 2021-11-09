@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-09T21:11:14.315Z</updated>
+    <updated>2021-11-09T22:13:01.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
-        <id>https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/</id>
-        <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
-        <updated>2021-11-09T16:17:05.560Z</updated>
-        <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[oclif - Open CLI 프레임워크]]></title>
         <id>https://oclif.io/</id>
         <link href="https://oclif.io/"/>
         <updated>2021-11-09T00:37:38.879Z</updated>
         <content type="html"><![CDATA[(oclif.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
+        <id>https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/</id>
+        <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
+        <updated>2021-11-09T16:17:05.560Z</updated>
+        <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Denoflare - Cloudflare Workers를 Deno로 개발하기]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(tobias-elze.de)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ARR $0에서 $100M까지 키운 스타트업 마케팅 회고]]></title>
-        <id>https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b</id>
-        <link href="https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b"/>
-        <updated>2021-11-08T00:37:29.062Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[위임 101: 무엇을 위임할지 파악하기]]></title>
         <id>https://leaddev.com/team/delegation-101-figuring-out-what-delegate</id>
         <link href="https://leaddev.com/team/delegation-101-figuring-out-what-delegate"/>
         <updated>2021-11-04T17:17:52.954Z</updated>
         <content type="html"><![CDATA[(leaddev.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARR $0에서 $100M까지 키운 스타트업 마케팅 회고]]></title>
+        <id>https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b</id>
+        <link href="https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b"/>
+        <updated>2021-11-08T00:37:29.062Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사회 초년생이 보면 좋은 Excel 공략집]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(austinmann.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Telegram Ad Platform]]></title>
-        <id>https://promote.telegram.org/</id>
-        <link href="https://promote.telegram.org/"/>
-        <updated>2021-11-09T01:54:32.367Z</updated>
-        <content type="html"><![CDATA[(promote.telegram.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPD Pocket 3 - 초소형 핸드헬드 PC]]></title>
         <id>https://gpd.hk/gpdpocket3</id>
         <link href="https://gpd.hk/gpdpocket3"/>
         <updated>2021-11-07T00:37:48.105Z</updated>
         <content type="html"><![CDATA[(gpd.hk)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram Ad Platform]]></title>
+        <id>https://promote.telegram.org/</id>
+        <link href="https://promote.telegram.org/"/>
+        <updated>2021-11-09T01:54:32.367Z</updated>
+        <content type="html"><![CDATA[(promote.telegram.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 개발자 도구의 비밀]]></title>
