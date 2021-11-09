@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-09T04:15:38.389Z</updated>
+    <updated>2021-11-09T05:11:11.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(micro-editor.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Telegram Ad Platform]]></title>
-        <id>https://promote.telegram.org/</id>
-        <link href="https://promote.telegram.org/"/>
-        <updated>2021-11-09T01:54:32.367Z</updated>
-        <content type="html"><![CDATA[(promote.telegram.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 오늘부터 전공면접 IT - 객관식 문제 제공 서비스]]></title>
         <id>https://news.hada.io/topic?id=5335</id>
         <link href="https://news.hada.io/topic?id=5335"/>
         <updated>2021-11-07T07:11:16.646Z</updated>
         <content type="html"><![CDATA[(hexoul.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram Ad Platform]]></title>
+        <id>https://promote.telegram.org/</id>
+        <link href="https://promote.telegram.org/"/>
+        <updated>2021-11-09T01:54:32.367Z</updated>
+        <content type="html"><![CDATA[(promote.telegram.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[oclif - Open CLI 프레임워크]]></title>
