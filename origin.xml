@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-09T09:13:04.721Z</updated>
+    <updated>2021-11-09T10:13:04.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(hexoul.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Telegram Ad Platform]]></title>
-        <id>https://promote.telegram.org/</id>
-        <link href="https://promote.telegram.org/"/>
-        <updated>2021-11-09T01:54:32.367Z</updated>
-        <content type="html"><![CDATA[(promote.telegram.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구]]></title>
         <id>http://www.tobias-elze.de/pdfsandwich/</id>
         <link href="http://www.tobias-elze.de/pdfsandwich/"/>
@@ -90,6 +83,13 @@
         <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Telegram Ad Platform]]></title>
+        <id>https://promote.telegram.org/</id>
+        <link href="https://promote.telegram.org/"/>
+        <updated>2021-11-09T01:54:32.367Z</updated>
+        <content type="html"><![CDATA[(promote.telegram.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[위임 101: 무엇을 위임할지 파악하기]]></title>
         <id>https://leaddev.com/team/delegation-101-figuring-out-what-delegate</id>
         <link href="https://leaddev.com/team/delegation-101-figuring-out-what-delegate"/>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사진작가를 위한 맥북 프로 M1 Max 리뷰]]></title>
-        <id>https://austinmann.com/trek/macbook-pro-m1-max-for-photographers</id>
-        <link href="https://austinmann.com/trek/macbook-pro-m1-max-for-photographers"/>
-        <updated>2021-11-07T00:37:48.105Z</updated>
-        <content type="html"><![CDATA[(austinmann.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사회 초년생이 보면 좋은 Excel 공략집]]></title>
         <id>https://blog.naver.com/hhaebitt/222432602999</id>
         <link href="https://blog.naver.com/hhaebitt/222432602999"/>
         <updated>2021-11-05T01:55:20.305Z</updated>
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사진작가를 위한 맥북 프로 M1 Max 리뷰]]></title>
+        <id>https://austinmann.com/trek/macbook-pro-m1-max-for-photographers</id>
+        <link href="https://austinmann.com/trek/macbook-pro-m1-max-for-photographers"/>
+        <updated>2021-11-07T00:37:48.105Z</updated>
+        <content type="html"><![CDATA[(austinmann.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPD Pocket 3 - 초소형 핸드헬드 PC]]></title>
