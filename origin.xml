@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-09T08:14:30.573Z</updated>
+    <updated>2021-11-09T09:13:04.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(femstreet.substack.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[.NET 6 발표 - 가장 빠른 .NET]]></title>
+        <id>https://devblogs.microsoft.com/dotnet/announcing-net-6/</id>
+        <link href="https://devblogs.microsoft.com/dotnet/announcing-net-6/"/>
+        <updated>2021-11-09T00:37:38.879Z</updated>
+        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
         <id>https://bitsofco.de/web-performance-metrics-cheatsheet/</id>
         <link href="https://bitsofco.de/web-performance-metrics-cheatsheet/"/>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[(denoflare.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[.NET 6 발표 - 가장 빠른 .NET]]></title>
-        <id>https://devblogs.microsoft.com/dotnet/announcing-net-6/</id>
-        <link href="https://devblogs.microsoft.com/dotnet/announcing-net-6/"/>
-        <updated>2021-11-09T00:37:38.879Z</updated>
-        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
+        <title type="html"><![CDATA[Jitsu - Segment의 오픈소스 대체제]]></title>
+        <id>https://github.com/jitsucom/jitsu</id>
+        <link href="https://github.com/jitsucom/jitsu"/>
+        <updated>2021-11-08T01:54:00.736Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[oclif - Open CLI 프레임워크]]></title>
@@ -46,13 +53,6 @@
         <link href="https://oclif.io/"/>
         <updated>2021-11-09T00:37:38.879Z</updated>
         <content type="html"><![CDATA[(oclif.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jitsu - Segment의 오픈소스 대체제]]></title>
-        <id>https://github.com/jitsucom/jitsu</id>
-        <link href="https://github.com/jitsucom/jitsu"/>
-        <updated>2021-11-08T01:54:00.736Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[micro - 직관적인 터미널 기반 텍스트 에디터]]></title>
