@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-09T19:10:15.483Z</updated>
+    <updated>2021-11-09T20:13:12.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jitsu - Segment의 오픈소스 대체제]]></title>
+        <id>https://github.com/jitsucom/jitsu</id>
+        <link href="https://github.com/jitsucom/jitsu"/>
+        <updated>2021-11-08T01:54:00.736Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[hwatch - 커맨드의 아웃풋 변화를 기록하는 watch 대체 유틸리티]]></title>
         <id>https://github.com/blacknon/hwatch</id>
         <link href="https://github.com/blacknon/hwatch"/>
@@ -46,13 +53,6 @@
         <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
         <updated>2021-11-09T16:17:05.560Z</updated>
         <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jitsu - Segment의 오픈소스 대체제]]></title>
-        <id>https://github.com/jitsucom/jitsu</id>
-        <link href="https://github.com/jitsucom/jitsu"/>
-        <updated>2021-11-08T01:54:00.736Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[oclif - Open CLI 프레임워크]]></title>
