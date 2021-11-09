@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-09T22:13:01.619Z</updated>
+    <updated>2021-11-09T23:12:20.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(femstreet.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
-        <id>https://bitsofco.de/web-performance-metrics-cheatsheet/</id>
-        <link href="https://bitsofco.de/web-performance-metrics-cheatsheet/"/>
-        <updated>2021-11-08T01:54:00.735Z</updated>
-        <content type="html"><![CDATA[(bitsofco.de)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[.NET 6 발표 - 가장 빠른 .NET]]></title>
         <id>https://devblogs.microsoft.com/dotnet/announcing-net-6/</id>
         <link href="https://devblogs.microsoft.com/dotnet/announcing-net-6/"/>
         <updated>2021-11-09T00:37:38.879Z</updated>
         <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
+        <id>https://bitsofco.de/web-performance-metrics-cheatsheet/</id>
+        <link href="https://bitsofco.de/web-performance-metrics-cheatsheet/"/>
+        <updated>2021-11-08T01:54:00.735Z</updated>
+        <content type="html"><![CDATA[(bitsofco.de)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jitsu - Segment의 오픈소스 대체제]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Denoflare - Cloudflare Workers를 Deno로 개발하기]]></title>
-        <id>https://denoflare.dev/</id>
-        <link href="https://denoflare.dev/"/>
-        <updated>2021-11-09T01:54:32.366Z</updated>
-        <content type="html"><![CDATA[(denoflare.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 오늘부터 전공면접 IT - 객관식 문제 제공 서비스]]></title>
         <id>https://news.hada.io/topic?id=5335</id>
         <link href="https://news.hada.io/topic?id=5335"/>
         <updated>2021-11-07T07:11:16.646Z</updated>
         <content type="html"><![CDATA[(hexoul.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denoflare - Cloudflare Workers를 Deno로 개발하기]]></title>
+        <id>https://denoflare.dev/</id>
+        <link href="https://denoflare.dev/"/>
+        <updated>2021-11-09T01:54:32.366Z</updated>
+        <content type="html"><![CDATA[(denoflare.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[micro - 직관적인 터미널 기반 텍스트 에디터]]></title>
