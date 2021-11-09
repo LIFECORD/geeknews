@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-09T10:13:04.617Z</updated>
+    <updated>2021-11-09T11:10:35.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[hwatch - 커맨드의 아웃풋 변화를 기록하는 watch 대체 유틸리티]]></title>
+        <id>https://github.com/blacknon/hwatch</id>
+        <link href="https://github.com/blacknon/hwatch"/>
+        <updated>2021-11-09T11:09:54.882Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
         <id>https://github.com/jbarlow83/OCRmyPDF</id>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[(bitsofco.de)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Denoflare - Cloudflare Workers를 Deno로 개발하기]]></title>
-        <id>https://denoflare.dev/</id>
-        <link href="https://denoflare.dev/"/>
-        <updated>2021-11-09T01:54:32.366Z</updated>
-        <content type="html"><![CDATA[(denoflare.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jitsu - Segment의 오픈소스 대체제]]></title>
         <id>https://github.com/jitsucom/jitsu</id>
         <link href="https://github.com/jitsucom/jitsu"/>
         <updated>2021-11-08T01:54:00.736Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denoflare - Cloudflare Workers를 Deno로 개발하기]]></title>
+        <id>https://denoflare.dev/</id>
+        <link href="https://denoflare.dev/"/>
+        <updated>2021-11-09T01:54:32.366Z</updated>
+        <content type="html"><![CDATA[(denoflare.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[oclif - Open CLI 프레임워크]]></title>
@@ -137,12 +144,5 @@
         <link href="https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/"/>
         <updated>2021-11-03T00:36:01.976Z</updated>
         <content type="html"><![CDATA[(christianheilmann.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데드라인을 효율적으로 써서 행복하고 생산적인 팀 구축하기]]></title>
-        <id>https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams</id>
-        <link href="https://leaddev.com/culture-engagement-motivation/using-deadlines-effectively-build-happy-and-creative-teams"/>
-        <updated>2021-11-09T03:12:20.358Z</updated>
-        <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
 </feed>
