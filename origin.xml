@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-09T17:20:39.711Z</updated>
+    <updated>2021-11-09T18:14:15.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
-        <id>https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/</id>
-        <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
-        <updated>2021-11-09T16:17:05.560Z</updated>
-        <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
         <id>https://bitsofco.de/web-performance-metrics-cheatsheet/</id>
         <link href="https://bitsofco.de/web-performance-metrics-cheatsheet/"/>
         <updated>2021-11-08T01:54:00.735Z</updated>
         <content type="html"><![CDATA[(bitsofco.de)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
+        <id>https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/</id>
+        <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
+        <updated>2021-11-09T16:17:05.560Z</updated>
+        <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[hwatch - 커맨드의 아웃풋 변화를 기록하는 watch 대체 유틸리티]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Telegram Ad Platform]]></title>
-        <id>https://promote.telegram.org/</id>
-        <link href="https://promote.telegram.org/"/>
-        <updated>2021-11-09T01:54:32.367Z</updated>
-        <content type="html"><![CDATA[(promote.telegram.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사진작가를 위한 맥북 프로 M1 Max 리뷰]]></title>
         <id>https://austinmann.com/trek/macbook-pro-m1-max-for-photographers</id>
         <link href="https://austinmann.com/trek/macbook-pro-m1-max-for-photographers"/>
         <updated>2021-11-07T00:37:48.105Z</updated>
         <content type="html"><![CDATA[(austinmann.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram Ad Platform]]></title>
+        <id>https://promote.telegram.org/</id>
+        <link href="https://promote.telegram.org/"/>
+        <updated>2021-11-09T01:54:32.367Z</updated>
+        <content type="html"><![CDATA[(promote.telegram.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPD Pocket 3 - 초소형 핸드헬드 PC]]></title>
