@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-09T01:55:11.238Z</updated>
+    <updated>2021-11-09T02:26:19.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
+        <id>https://github.com/jbarlow83/OCRmyPDF</id>
+        <link href="https://github.com/jbarlow83/OCRmyPDF"/>
+        <updated>2021-11-09T02:25:40.604Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[.NET 6 발표 - 가장 빠른 .NET]]></title>
         <id>https://devblogs.microsoft.com/dotnet/announcing-net-6/</id>
@@ -137,12 +144,5 @@
         <link href="https://youglish.com/"/>
         <updated>2021-11-05T01:55:20.306Z</updated>
         <content type="html"><![CDATA[(youglish.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Loop 공개 - Notion과 유사한 새로운 협업 도구]]></title>
-        <id>https://www.microsoft.com/ko-kr/microsoft-loop</id>
-        <link href="https://www.microsoft.com/ko-kr/microsoft-loop"/>
-        <updated>2021-11-05T00:36:20.668Z</updated>
-        <content type="html"><![CDATA[(microsoft.com)]]></content>
     </entry>
 </feed>
