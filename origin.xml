@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-10T18:12:03.648Z</updated>
+    <updated>2021-11-10T19:11:21.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(denoflare.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
-        <id>https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/</id>
-        <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
-        <updated>2021-11-09T16:17:05.560Z</updated>
-        <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구]]></title>
         <id>http://www.tobias-elze.de/pdfsandwich/</id>
         <link href="http://www.tobias-elze.de/pdfsandwich/"/>
         <updated>2021-11-07T01:57:11.516Z</updated>
         <content type="html"><![CDATA[(tobias-elze.de)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
+        <id>https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/</id>
+        <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
+        <updated>2021-11-09T16:17:05.560Z</updated>
+        <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위임 101: 무엇을 위임할지 파악하기]]></title>
