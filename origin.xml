@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-10T02:27:12.734Z</updated>
+    <updated>2021-11-10T03:12:57.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(motrix.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
-        <id>https://github.com/jbarlow83/OCRmyPDF</id>
-        <link href="https://github.com/jbarlow83/OCRmyPDF"/>
-        <updated>2021-11-09T02:25:40.604Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Medusa - 헤드리스 이커머스 엔진, 오픈소스 Shopify 대체제]]></title>
         <id>https://www.medusa-commerce.com/</id>
         <link href="https://www.medusa-commerce.com/"/>
         <updated>2021-11-10T01:54:32.788Z</updated>
         <content type="html"><![CDATA[(medusa-commerce.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
+        <id>https://github.com/jbarlow83/OCRmyPDF</id>
+        <link href="https://github.com/jbarlow83/OCRmyPDF"/>
+        <updated>2021-11-09T02:25:40.604Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[hwatch - 커맨드의 아웃풋 변화를 기록하는 watch 대체 유틸리티]]></title>
