@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-09T23:12:20.690Z</updated>
+    <updated>2021-11-10T00:37:07.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
+        <id>https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game</id>
+        <link href="https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game"/>
+        <updated>2021-11-10T00:36:29.692Z</updated>
+        <content type="html"><![CDATA[(lastweekin.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[motrix - 크로스 플랫폼 다운로드 매니저]]></title>
+        <id>https://motrix.app/</id>
+        <link href="https://motrix.app/"/>
+        <updated>2021-11-10T00:36:29.696Z</updated>
+        <content type="html"><![CDATA[(motrix.app)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
         <id>https://github.com/jbarlow83/OCRmyPDF</id>
         <link href="https://github.com/jbarlow83/OCRmyPDF"/>
         <updated>2021-11-09T02:25:40.604Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hwatch - 커맨드의 아웃풋 변화를 기록하는 watch 대체 유틸리티]]></title>
+        <id>https://github.com/blacknon/hwatch</id>
+        <link href="https://github.com/blacknon/hwatch"/>
+        <updated>2021-11-09T11:09:54.882Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -34,17 +55,17 @@
         <content type="html"><![CDATA[(bitsofco.de)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
+        <id>https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/</id>
+        <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
+        <updated>2021-11-09T16:17:05.560Z</updated>
+        <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jitsu - Segment의 오픈소스 대체제]]></title>
         <id>https://github.com/jitsucom/jitsu</id>
         <link href="https://github.com/jitsucom/jitsu"/>
         <updated>2021-11-08T01:54:00.736Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hwatch - 커맨드의 아웃풋 변화를 기록하는 watch 대체 유틸리티]]></title>
-        <id>https://github.com/blacknon/hwatch</id>
-        <link href="https://github.com/blacknon/hwatch"/>
-        <updated>2021-11-09T11:09:54.882Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -55,11 +76,11 @@
         <content type="html"><![CDATA[(oclif.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
-        <id>https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/</id>
-        <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
-        <updated>2021-11-09T16:17:05.560Z</updated>
-        <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
+        <title type="html"><![CDATA[Denoflare - Cloudflare Workers를 Deno로 개발하기]]></title>
+        <id>https://denoflare.dev/</id>
+        <link href="https://denoflare.dev/"/>
+        <updated>2021-11-09T01:54:32.366Z</updated>
+        <content type="html"><![CDATA[(denoflare.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 오늘부터 전공면접 IT - 객관식 문제 제공 서비스]]></title>
@@ -67,13 +88,6 @@
         <link href="https://news.hada.io/topic?id=5335"/>
         <updated>2021-11-07T07:11:16.646Z</updated>
         <content type="html"><![CDATA[(hexoul.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denoflare - Cloudflare Workers를 Deno로 개발하기]]></title>
-        <id>https://denoflare.dev/</id>
-        <link href="https://denoflare.dev/"/>
-        <updated>2021-11-09T01:54:32.366Z</updated>
-        <content type="html"><![CDATA[(denoflare.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[micro - 직관적인 터미널 기반 텍스트 에디터]]></title>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[(gpd.hk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Telegram Ad Platform]]></title>
-        <id>https://promote.telegram.org/</id>
-        <link href="https://promote.telegram.org/"/>
-        <updated>2021-11-09T01:54:32.367Z</updated>
-        <content type="html"><![CDATA[(promote.telegram.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[브라우저 개발자 도구의 비밀]]></title>
         <id>https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/</id>
         <link href="https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/"/>
         <updated>2021-11-03T00:36:01.976Z</updated>
         <content type="html"><![CDATA[(christianheilmann.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knative 1.0 릴리즈]]></title>
-        <id>https://knative.dev/blog/articles/knative-1.0/</id>
-        <link href="https://knative.dev/blog/articles/knative-1.0/"/>
-        <updated>2021-11-09T17:18:45.383Z</updated>
-        <content type="html"><![CDATA[(knative.dev)]]></content>
     </entry>
 </feed>
