@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-10T09:12:46.703Z</updated>
+    <updated>2021-11-10T10:14:15.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(hexoul.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Denoflare - Cloudflare Workers를 Deno로 개발하기]]></title>
-        <id>https://denoflare.dev/</id>
-        <link href="https://denoflare.dev/"/>
-        <updated>2021-11-09T01:54:32.366Z</updated>
-        <content type="html"><![CDATA[(denoflare.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[micro - 직관적인 터미널 기반 텍스트 에디터]]></title>
         <id>https://micro-editor.github.io/</id>
         <link href="https://micro-editor.github.io/"/>
         <updated>2021-11-08T01:54:00.737Z</updated>
         <content type="html"><![CDATA[(micro-editor.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denoflare - Cloudflare Workers를 Deno로 개발하기]]></title>
+        <id>https://denoflare.dev/</id>
+        <link href="https://denoflare.dev/"/>
+        <updated>2021-11-09T01:54:32.366Z</updated>
+        <content type="html"><![CDATA[(denoflare.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구]]></title>
