@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-10T15:13:02.678Z</updated>
+    <updated>2021-11-10T16:17:31.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(bitsofco.de)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[.NET 6 발표 - 가장 빠른 .NET]]></title>
-        <id>https://devblogs.microsoft.com/dotnet/announcing-net-6/</id>
-        <link href="https://devblogs.microsoft.com/dotnet/announcing-net-6/"/>
-        <updated>2021-11-09T00:37:38.879Z</updated>
-        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jitsu - Segment의 오픈소스 대체제]]></title>
         <id>https://github.com/jitsucom/jitsu</id>
         <link href="https://github.com/jitsucom/jitsu"/>
         <updated>2021-11-08T01:54:00.736Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 6 발표 - 가장 빠른 .NET]]></title>
+        <id>https://devblogs.microsoft.com/dotnet/announcing-net-6/</id>
+        <link href="https://devblogs.microsoft.com/dotnet/announcing-net-6/"/>
+        <updated>2021-11-09T00:37:38.879Z</updated>
+        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 오늘부터 전공면접 IT - 객관식 문제 제공 서비스]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(oclif.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
-        <id>https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/</id>
-        <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
-        <updated>2021-11-09T16:17:05.560Z</updated>
-        <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Denoflare - Cloudflare Workers를 Deno로 개발하기]]></title>
         <id>https://denoflare.dev/</id>
         <link href="https://denoflare.dev/"/>
         <updated>2021-11-09T01:54:32.366Z</updated>
         <content type="html"><![CDATA[(denoflare.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
+        <id>https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/</id>
+        <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
+        <updated>2021-11-09T16:17:05.560Z</updated>
+        <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구]]></title>
