@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-10T10:14:15.794Z</updated>
+    <updated>2021-11-10T11:10:34.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(oclif.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
-        <id>https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/</id>
-        <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
-        <updated>2021-11-09T16:17:05.560Z</updated>
-        <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 오늘부터 전공면접 IT - 객관식 문제 제공 서비스]]></title>
         <id>https://news.hada.io/topic?id=5335</id>
         <link href="https://news.hada.io/topic?id=5335"/>
         <updated>2021-11-07T07:11:16.646Z</updated>
         <content type="html"><![CDATA[(hexoul.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
+        <id>https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/</id>
+        <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
+        <updated>2021-11-09T16:17:05.560Z</updated>
+        <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[micro - 직관적인 터미널 기반 텍스트 에디터]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(leaddev.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ARR $0에서 $100M까지 키운 스타트업 마케팅 회고]]></title>
-        <id>https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b</id>
-        <link href="https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b"/>
-        <updated>2021-11-08T00:37:29.062Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사회 초년생이 보면 좋은 Excel 공략집]]></title>
         <id>https://blog.naver.com/hhaebitt/222432602999</id>
         <link href="https://blog.naver.com/hhaebitt/222432602999"/>
         <updated>2021-11-05T01:55:20.305Z</updated>
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARR $0에서 $100M까지 키운 스타트업 마케팅 회고]]></title>
+        <id>https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b</id>
+        <link href="https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b"/>
+        <updated>2021-11-08T00:37:29.062Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
 </feed>
