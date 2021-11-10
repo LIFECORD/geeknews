@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-10T14:11:46.447Z</updated>
+    <updated>2021-11-10T15:13:02.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(hexoul.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[oclif - Open CLI 프레임워크]]></title>
-        <id>https://oclif.io/</id>
-        <link href="https://oclif.io/"/>
-        <updated>2021-11-09T00:37:38.879Z</updated>
-        <content type="html"><![CDATA[(oclif.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[micro - 직관적인 터미널 기반 텍스트 에디터]]></title>
         <id>https://micro-editor.github.io/</id>
         <link href="https://micro-editor.github.io/"/>
         <updated>2021-11-08T01:54:00.737Z</updated>
         <content type="html"><![CDATA[(micro-editor.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[oclif - Open CLI 프레임워크]]></title>
+        <id>https://oclif.io/</id>
+        <link href="https://oclif.io/"/>
+        <updated>2021-11-09T00:37:38.879Z</updated>
+        <content type="html"><![CDATA[(oclif.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리브레오피스(LibreOffice) 7.3 알파1 버전 출시(테스트용)]]></title>
