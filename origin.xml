@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-11T21:11:17.018Z</updated>
+    <updated>2021-11-11T22:12:21.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(lightship.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
-        <id>https://github.com/jbarlow83/OCRmyPDF</id>
-        <link href="https://github.com/jbarlow83/OCRmyPDF"/>
-        <updated>2021-11-09T02:25:40.604Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[커뮤니티 주도 성장을 막는 오해들과 극복 전략]]></title>
         <id>https://femstreet.substack.com/p/communityledgrowthnirvana</id>
         <link href="https://femstreet.substack.com/p/communityledgrowthnirvana"/>
         <updated>2021-11-08T02:26:04.899Z</updated>
         <content type="html"><![CDATA[(femstreet.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
+        <id>https://github.com/jbarlow83/OCRmyPDF</id>
+        <link href="https://github.com/jbarlow83/OCRmyPDF"/>
+        <updated>2021-11-09T02:25:40.604Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
@@ -97,12 +97,6 @@
         <content type="html"><![CDATA[(blog.jgc.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 입사 할 때 어떤 장비를 받으셨나요?]]></title>
-        <id>https://news.hada.io/topic?id=5354</id>
-        <link href="https://news.hada.io/topic?id=5354"/>
-        <updated>2021-11-11T03:12:28.612Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jitsu - Segment의 오픈소스 대체제]]></title>
         <id>https://github.com/jitsucom/jitsu</id>
         <link href="https://github.com/jitsucom/jitsu"/>
@@ -115,6 +109,12 @@
         <link href="https://github.com/blacknon/hwatch"/>
         <updated>2021-11-09T11:09:54.882Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 입사 할 때 어떤 장비를 받으셨나요?]]></title>
+        <id>https://news.hada.io/topic?id=5354</id>
+        <link href="https://news.hada.io/topic?id=5354"/>
+        <updated>2021-11-11T03:12:28.612Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[.NET 6 발표 - 가장 빠른 .NET]]></title>
