@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-11T11:10:28.144Z</updated>
+    <updated>2021-11-11T12:18:08.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -103,17 +103,17 @@
         <content type="html"><![CDATA[(bitsofco.de)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[jog - 현재 폴더에서 실행한 최근 10개의 명령만 보기]]></title>
-        <id>https://github.com/natethinks/jog</id>
-        <link href="https://github.com/natethinks/jog"/>
-        <updated>2021-11-11T01:54:37.489Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[hwatch - 커맨드의 아웃풋 변화를 기록하는 watch 대체 유틸리티]]></title>
         <id>https://github.com/blacknon/hwatch</id>
         <link href="https://github.com/blacknon/hwatch"/>
         <updated>2021-11-09T11:09:54.882Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jog - 현재 폴더에서 실행한 최근 10개의 명령만 보기]]></title>
+        <id>https://github.com/natethinks/jog</id>
+        <link href="https://github.com/natethinks/jog"/>
+        <updated>2021-11-11T01:54:37.489Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
