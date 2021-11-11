@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-10T23:12:26.143Z</updated>
+    <updated>2021-11-11T00:37:13.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[초보자를 위한 게임 해킹 테크닉 [511p PDF]]]></title>
+        <id>https://gamehacking.academy/GameHackingAcademy.pdf</id>
+        <link href="https://gamehacking.academy/GameHackingAcademy.pdf"/>
+        <updated>2021-11-11T00:36:35.545Z</updated>
+        <content type="html"><![CDATA[(gamehacking.academy)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
         <id>https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game</id>
@@ -18,6 +25,13 @@
         <link href="https://github.com/schollz/croc"/>
         <updated>2021-11-10T01:54:32.776Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niantic, 리얼월드 메타버스 제작용 플랫폼 Lightship 공개]]></title>
+        <id>https://lightship.dev/</id>
+        <link href="https://lightship.dev/"/>
+        <updated>2021-11-11T00:36:35.547Z</updated>
+        <content type="html"><![CDATA[(lightship.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[잘 알려지지 않은 PostgreSQL 기능들]]></title>
@@ -130,19 +144,5 @@
         <link href="https://qa.blog.documentfoundation.org/2021/11/05/libreoffice-7-3-alpha1-is-ready-for-testing/"/>
         <updated>2021-11-09T16:17:05.560Z</updated>
         <content type="html"><![CDATA[(qa.blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회 초년생이 보면 좋은 Excel 공략집]]></title>
-        <id>https://blog.naver.com/hhaebitt/222432602999</id>
-        <link href="https://blog.naver.com/hhaebitt/222432602999"/>
-        <updated>2021-11-05T01:55:20.305Z</updated>
-        <content type="html"><![CDATA[(blog.naver.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARR $0에서 $100M까지 키운 스타트업 마케팅 회고]]></title>
-        <id>https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b</id>
-        <link href="https://medium.com/work-bench/startup-marketing-from-0-to-100m-in-arr-with-jeff-yoshimura-cmo-chief-experience-officer-at-bf4c4027516b"/>
-        <updated>2021-11-08T00:37:29.062Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
 </feed>
