@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-11T09:12:39.536Z</updated>
+    <updated>2021-11-11T10:13:02.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://gamehacking.academy/GameHackingAcademy.pdf"/>
         <updated>2021-11-11T00:36:35.545Z</updated>
         <content type="html"><![CDATA[(gamehacking.academy)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기]]></title>
+        <id>https://engineering.ab180.co/stories/kafka-consumer-proxy</id>
+        <link href="https://engineering.ab180.co/stories/kafka-consumer-proxy"/>
+        <updated>2021-11-11T10:12:23.472Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
@@ -62,17 +69,17 @@
         <content type="html"><![CDATA[(medusa-commerce.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Niantic, 리얼월드 메타버스 제작용 플랫폼 Lightship 공개]]></title>
+        <id>https://lightship.dev/</id>
+        <link href="https://lightship.dev/"/>
+        <updated>2021-11-11T00:36:35.547Z</updated>
+        <content type="html"><![CDATA[(lightship.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
         <id>https://github.com/jbarlow83/OCRmyPDF</id>
         <link href="https://github.com/jbarlow83/OCRmyPDF"/>
         <updated>2021-11-09T02:25:40.604Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jog - 현재 폴더에서 실행한 최근 10개의 명령만 보기]]></title>
-        <id>https://github.com/natethinks/jog</id>
-        <link href="https://github.com/natethinks/jog"/>
-        <updated>2021-11-11T01:54:37.489Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -89,18 +96,18 @@
         <updated>2021-11-11T03:12:28.612Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[jog - 현재 폴더에서 실행한 최근 10개의 명령만 보기]]></title>
+        <id>https://github.com/natethinks/jog</id>
+        <link href="https://github.com/natethinks/jog"/>
+        <updated>2021-11-11T01:54:37.489Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
         <id>https://bitsofco.de/web-performance-metrics-cheatsheet/</id>
         <link href="https://bitsofco.de/web-performance-metrics-cheatsheet/"/>
         <updated>2021-11-08T01:54:00.735Z</updated>
         <content type="html"><![CDATA[(bitsofco.de)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niantic, 리얼월드 메타버스 제작용 플랫폼 Lightship 공개]]></title>
-        <id>https://lightship.dev/</id>
-        <link href="https://lightship.dev/"/>
-        <updated>2021-11-11T00:36:35.547Z</updated>
-        <content type="html"><![CDATA[(lightship.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[hwatch - 커맨드의 아웃풋 변화를 기록하는 watch 대체 유틸리티]]></title>
@@ -136,12 +143,5 @@
         <link href="https://micro-editor.github.io/"/>
         <updated>2021-11-08T01:54:00.737Z</updated>
         <content type="html"><![CDATA[(micro-editor.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[oclif - Open CLI 프레임워크]]></title>
-        <id>https://oclif.io/</id>
-        <link href="https://oclif.io/"/>
-        <updated>2021-11-09T00:37:38.879Z</updated>
-        <content type="html"><![CDATA[(oclif.io)]]></content>
     </entry>
 </feed>
