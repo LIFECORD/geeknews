@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-11T15:12:56.473Z</updated>
+    <updated>2021-11-11T16:17:25.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(blog.jgc.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Niantic, 리얼월드 메타버스 제작용 플랫폼 Lightship 공개]]></title>
-        <id>https://lightship.dev/</id>
-        <link href="https://lightship.dev/"/>
-        <updated>2021-11-11T00:36:35.547Z</updated>
-        <content type="html"><![CDATA[(lightship.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
         <id>https://github.com/jbarlow83/OCRmyPDF</id>
         <link href="https://github.com/jbarlow83/OCRmyPDF"/>
         <updated>2021-11-09T02:25:40.604Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niantic, 리얼월드 메타버스 제작용 플랫폼 Lightship 공개]]></title>
+        <id>https://lightship.dev/</id>
+        <link href="https://lightship.dev/"/>
+        <updated>2021-11-11T00:36:35.547Z</updated>
+        <content type="html"><![CDATA[(lightship.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[커뮤니티 주도 성장을 막는 오해들과 극복 전략]]></title>
