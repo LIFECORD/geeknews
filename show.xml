@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-11-11T07:13:17.628Z</updated>
+    <updated>2021-11-11T08:14:24.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(saas.relate.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 화상회의/녹화/AI받아쓰기 한 번에 브라우저에서 ATEND]]></title>
-        <id>https://news.hada.io/topic?id=5141</id>
-        <link href="https://news.hada.io/topic?id=5141"/>
-        <updated>2021-10-05T07:11:25.652Z</updated>
-        <content type="html"><![CDATA[(atend.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Screen Recorder]]></title>
         <id>https://news.hada.io/topic?id=4981</id>
         <link href="https://news.hada.io/topic?id=4981"/>
         <updated>2021-09-28T01:34:39.742Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 화상회의/녹화/AI받아쓰기 한 번에 브라우저에서 ATEND]]></title>
+        <id>https://news.hada.io/topic?id=5141</id>
+        <link href="https://news.hada.io/topic?id=5141"/>
+        <updated>2021-10-05T07:11:25.652Z</updated>
+        <content type="html"><![CDATA[(atend.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: EasyLogic Studio]]></title>

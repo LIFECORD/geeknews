@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-11T07:13:17.626Z</updated>
+    <updated>2021-11-11T08:14:24.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[(lastweekin.ai)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[croc - 두개의 컴퓨터간 파일 전송 CLI 유틸리티]]></title>
+        <id>https://github.com/schollz/croc</id>
+        <link href="https://github.com/schollz/croc"/>
+        <updated>2021-11-10T01:54:32.776Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[motrix - 크로스 플랫폼 다운로드 매니저]]></title>
         <id>https://motrix.app/</id>
         <link href="https://motrix.app/"/>
         <updated>2021-11-10T00:36:29.696Z</updated>
         <content type="html"><![CDATA[(motrix.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 알려지지 않은 PostgreSQL 기능들]]></title>
+        <id>https://hakibenita.com/postgresql-unknown-features</id>
+        <link href="https://hakibenita.com/postgresql-unknown-features"/>
+        <updated>2021-11-10T01:54:32.788Z</updated>
+        <content type="html"><![CDATA[(hakibenita.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pyjion - 파이썬 JIT 컴파일러]]></title>
@@ -39,20 +53,6 @@
         <link href="https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html"/>
         <updated>2021-11-11T01:54:37.469Z</updated>
         <content type="html"><![CDATA[(blog.jgc.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[croc - 두개의 컴퓨터간 파일 전송 CLI 유틸리티]]></title>
-        <id>https://github.com/schollz/croc</id>
-        <link href="https://github.com/schollz/croc"/>
-        <updated>2021-11-10T01:54:32.776Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 알려지지 않은 PostgreSQL 기능들]]></title>
-        <id>https://hakibenita.com/postgresql-unknown-features</id>
-        <link href="https://hakibenita.com/postgresql-unknown-features"/>
-        <updated>2021-11-10T01:54:32.788Z</updated>
-        <content type="html"><![CDATA[(hakibenita.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Medusa - 헤드리스 이커머스 엔진, 오픈소스 Shopify 대체제]]></title>
