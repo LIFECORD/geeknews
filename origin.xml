@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-11T17:19:14.838Z</updated>
+    <updated>2021-11-11T18:13:52.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(medusa-commerce.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라즈베리 Pi로 오래된 프린터를 AirPrint 지원하게 만들기]]></title>
-        <id>https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html</id>
-        <link href="https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html"/>
-        <updated>2021-11-11T01:54:37.469Z</updated>
-        <content type="html"><![CDATA[(blog.jgc.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
         <id>https://github.com/jbarlow83/OCRmyPDF</id>
         <link href="https://github.com/jbarlow83/OCRmyPDF"/>
@@ -88,6 +81,13 @@
         <link href="https://femstreet.substack.com/p/communityledgrowthnirvana"/>
         <updated>2021-11-08T02:26:04.899Z</updated>
         <content type="html"><![CDATA[(femstreet.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라즈베리 Pi로 오래된 프린터를 AirPrint 지원하게 만들기]]></title>
+        <id>https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html</id>
+        <link href="https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html"/>
+        <updated>2021-11-11T01:54:37.469Z</updated>
+        <content type="html"><![CDATA[(blog.jgc.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
