@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-12T05:11:32.133Z</updated>
+    <updated>2021-11-12T06:14:35.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Business Essentials 공개]]></title>
-        <id>https://www.apple.com/business/essentials/</id>
-        <link href="https://www.apple.com/business/essentials/"/>
-        <updated>2021-11-12T01:55:19.252Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기]]></title>
         <id>https://engineering.ab180.co/stories/kafka-consumer-proxy</id>
         <link href="https://engineering.ab180.co/stories/kafka-consumer-proxy"/>
         <updated>2021-11-11T10:12:23.472Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Business Essentials 공개]]></title>
+        <id>https://www.apple.com/business/essentials/</id>
+        <link href="https://www.apple.com/business/essentials/"/>
+        <updated>2021-11-12T01:55:19.252Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[초보자를 위한 게임 해킹 테크닉 [511p PDF]]]></title>
@@ -82,6 +82,13 @@
         <content type="html"><![CDATA[(motrix.app)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[잘 알려지지 않은 PostgreSQL 기능들]]></title>
+        <id>https://hakibenita.com/postgresql-unknown-features</id>
+        <link href="https://hakibenita.com/postgresql-unknown-features"/>
+        <updated>2021-11-10T01:54:32.788Z</updated>
+        <content type="html"><![CDATA[(hakibenita.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pyjion - 파이썬 JIT 컴파일러]]></title>
         <id>https://www.trypyjion.com/</id>
         <link href="https://www.trypyjion.com/"/>
@@ -94,13 +101,6 @@
         <link href="https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html"/>
         <updated>2021-11-11T01:54:37.469Z</updated>
         <content type="html"><![CDATA[(blog.jgc.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 알려지지 않은 PostgreSQL 기능들]]></title>
-        <id>https://hakibenita.com/postgresql-unknown-features</id>
-        <link href="https://hakibenita.com/postgresql-unknown-features"/>
-        <updated>2021-11-10T01:54:32.788Z</updated>
-        <content type="html"><![CDATA[(hakibenita.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Niantic, 리얼월드 메타버스 제작용 플랫폼 Lightship 공개]]></title>
