@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-12T17:18:30.548Z</updated>
+    <updated>2021-11-12T18:14:04.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -61,18 +61,18 @@
         <content type="html"><![CDATA[(lastweekin.ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unity, Weta Digital을 1.9조원에 인수]]></title>
-        <id>https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/</id>
-        <link href="https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/"/>
-        <updated>2021-11-12T00:38:05.712Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[croc - 두개의 컴퓨터간 파일 전송 CLI 유틸리티]]></title>
         <id>https://github.com/schollz/croc</id>
         <link href="https://github.com/schollz/croc"/>
         <updated>2021-11-10T01:54:32.776Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity, Weta Digital을 1.9조원에 인수]]></title>
+        <id>https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/</id>
+        <link href="https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/"/>
+        <updated>2021-11-12T00:38:05.712Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[motrix - 크로스 플랫폼 다운로드 매니저]]></title>
@@ -89,6 +89,13 @@
         <content type="html"><![CDATA[(hakibenita.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Medusa - 헤드리스 이커머스 엔진, 오픈소스 Shopify 대체제]]></title>
+        <id>https://www.medusa-commerce.com/</id>
+        <link href="https://www.medusa-commerce.com/"/>
+        <updated>2021-11-10T01:54:32.788Z</updated>
+        <content type="html"><![CDATA[(medusa-commerce.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pyjion - 파이썬 JIT 컴파일러]]></title>
         <id>https://www.trypyjion.com/</id>
         <link href="https://www.trypyjion.com/"/>
@@ -101,13 +108,6 @@
         <link href="https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html"/>
         <updated>2021-11-11T01:54:37.469Z</updated>
         <content type="html"><![CDATA[(blog.jgc.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medusa - 헤드리스 이커머스 엔진, 오픈소스 Shopify 대체제]]></title>
-        <id>https://www.medusa-commerce.com/</id>
-        <link href="https://www.medusa-commerce.com/"/>
-        <updated>2021-11-10T01:54:32.788Z</updated>
-        <content type="html"><![CDATA[(medusa-commerce.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Niantic, 리얼월드 메타버스 제작용 플랫폼 Lightship 공개]]></title>
