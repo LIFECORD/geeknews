@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-12T09:12:42.008Z</updated>
+    <updated>2021-11-12T10:13:17.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Business Essentials 공개]]></title>
-        <id>https://www.apple.com/business/essentials/</id>
-        <link href="https://www.apple.com/business/essentials/"/>
-        <updated>2021-11-12T01:55:19.252Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[초보자를 위한 게임 해킹 테크닉 [511p PDF]]]></title>
         <id>https://gamehacking.academy/GameHackingAcademy.pdf</id>
         <link href="https://gamehacking.academy/GameHackingAcademy.pdf"/>
         <updated>2021-11-11T00:36:35.545Z</updated>
         <content type="html"><![CDATA[(gamehacking.academy)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Business Essentials 공개]]></title>
+        <id>https://www.apple.com/business/essentials/</id>
+        <link href="https://www.apple.com/business/essentials/"/>
+        <updated>2021-11-12T01:55:19.252Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Unity, Weta Digital을 1.9조원에 인수]]></title>
