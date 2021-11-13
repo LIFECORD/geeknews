@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-13T00:36:33.334Z</updated>
+    <updated>2021-11-13T01:52:57.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"/>
         <updated>2021-11-13T00:35:53.317Z</updated>
         <content type="html"><![CDATA[(vercel.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
+        <id>https://brunch.co.kr/@jasongx/21</id>
+        <link href="https://brunch.co.kr/@jasongx/21"/>
+        <updated>2021-11-13T01:52:19.572Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
+        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
+        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
+        <updated>2021-11-13T01:52:19.572Z</updated>
+        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DBCore - DB기반으로 빠르게 프로토타입 앱 생성하는 오픈소스]]></title>
@@ -55,18 +69,18 @@
         <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Business Essentials 공개]]></title>
-        <id>https://www.apple.com/business/essentials/</id>
-        <link href="https://www.apple.com/business/essentials/"/>
-        <updated>2021-11-12T01:55:19.252Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
         <id>https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game</id>
         <link href="https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game"/>
         <updated>2021-11-10T00:36:29.692Z</updated>
         <content type="html"><![CDATA[(lastweekin.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Business Essentials 공개]]></title>
+        <id>https://www.apple.com/business/essentials/</id>
+        <link href="https://www.apple.com/business/essentials/"/>
+        <updated>2021-11-12T01:55:19.252Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -117,20 +131,6 @@
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pyjion - 파이썬 JIT 컴파일러]]></title>
-        <id>https://www.trypyjion.com/</id>
-        <link href="https://www.trypyjion.com/"/>
-        <updated>2021-11-11T01:54:37.491Z</updated>
-        <content type="html"><![CDATA[(trypyjion.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라즈베리 Pi로 오래된 프린터를 AirPrint 지원하게 만들기]]></title>
-        <id>https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html</id>
-        <link href="https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html"/>
-        <updated>2021-11-11T01:54:37.469Z</updated>
-        <content type="html"><![CDATA[(blog.jgc.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
         <id>https://github.com/jbarlow83/OCRmyPDF</id>
         <link href="https://github.com/jbarlow83/OCRmyPDF"/>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Niantic, 리얼월드 메타버스 제작용 플랫폼 Lightship 공개]]></title>
-        <id>https://lightship.dev/</id>
-        <link href="https://lightship.dev/"/>
-        <updated>2021-11-11T00:36:35.547Z</updated>
-        <content type="html"><![CDATA[(lightship.dev)]]></content>
+        <title type="html"><![CDATA[Pyjion - 파이썬 JIT 컴파일러]]></title>
+        <id>https://www.trypyjion.com/</id>
+        <link href="https://www.trypyjion.com/"/>
+        <updated>2021-11-11T01:54:37.491Z</updated>
+        <content type="html"><![CDATA[(trypyjion.com)]]></content>
     </entry>
 </feed>
