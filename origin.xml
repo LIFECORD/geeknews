@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-13T09:12:04.889Z</updated>
+    <updated>2021-11-13T10:12:33.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
-        <id>https://brunch.co.kr/@jasongx/21</id>
-        <link href="https://brunch.co.kr/@jasongx/21"/>
-        <updated>2021-11-13T01:52:19.572Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[에픽 vs 애플, 판사가 외부 결제 옵션을 12/9까지 허용하라고 명령]]></title>
         <id>https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules</id>
         <link href="https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules"/>
@@ -55,11 +48,11 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
-        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
-        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
+        <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
+        <id>https://brunch.co.kr/@jasongx/21</id>
+        <link href="https://brunch.co.kr/@jasongx/21"/>
         <updated>2021-11-13T01:52:19.572Z</updated>
-        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grafana OnCall 공개 - 쉬운 온콜 관리 도구]]></title>
@@ -67,6 +60,13 @@
         <link href="https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/"/>
         <updated>2021-11-12T01:55:19.251Z</updated>
         <content type="html"><![CDATA[(grafana.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
+        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
+        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
+        <updated>2021-11-13T01:52:19.572Z</updated>
+        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5362</id>
-        <link href="https://news.hada.io/topic?id=5362"/>
-        <updated>2021-11-12T01:55:19.275Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[잘 알려지지 않은 PostgreSQL 기능들]]></title>
         <id>https://hakibenita.com/postgresql-unknown-features</id>
         <link href="https://hakibenita.com/postgresql-unknown-features"/>
         <updated>2021-11-10T01:54:32.788Z</updated>
         <content type="html"><![CDATA[(hakibenita.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5362</id>
+        <link href="https://news.hada.io/topic?id=5362"/>
+        <updated>2021-11-12T01:55:19.275Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Medusa - 헤드리스 이커머스 엔진, 오픈소스 Shopify 대체제]]></title>
