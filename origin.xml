@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-13T18:13:36.848Z</updated>
+    <updated>2021-11-13T19:10:08.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(dbcore.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube 싫어요 숫자 표시 안하게 변경]]></title>
-        <id>https://support.google.com/youtube/thread/134791097/update-to-youtube-dislike-counts?hl=ko</id>
-        <link href="https://support.google.com/youtube/thread/134791097/update-to-youtube-dislike-counts?hl=ko"/>
-        <updated>2021-11-13T00:35:53.313Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[초보자를 위한 게임 해킹 테크닉 [511p PDF]]]></title>
         <id>https://gamehacking.academy/GameHackingAcademy.pdf</id>
         <link href="https://gamehacking.academy/GameHackingAcademy.pdf"/>
         <updated>2021-11-11T00:36:35.545Z</updated>
         <content type="html"><![CDATA[(gamehacking.academy)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube 싫어요 숫자 표시 안하게 변경]]></title>
+        <id>https://support.google.com/youtube/thread/134791097/update-to-youtube-dislike-counts?hl=ko</id>
+        <link href="https://support.google.com/youtube/thread/134791097/update-to-youtube-dislike-counts?hl=ko"/>
+        <updated>2021-11-13T00:35:53.313Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기]]></title>
@@ -118,12 +118,6 @@
         <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5362</id>
-        <link href="https://news.hada.io/topic?id=5362"/>
-        <updated>2021-11-12T01:55:19.275Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
         <id>https://github.com/jbarlow83/OCRmyPDF</id>
         <link href="https://github.com/jbarlow83/OCRmyPDF"/>
@@ -136,6 +130,12 @@
         <link href="https://bitsofco.de/web-performance-metrics-cheatsheet/"/>
         <updated>2021-11-13T05:10:12.311Z</updated>
         <content type="html"><![CDATA[(bitsofco.de)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5362</id>
+        <link href="https://news.hada.io/topic?id=5362"/>
+        <updated>2021-11-12T01:55:19.275Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jitsu - Segment의 오픈소스 대체제]]></title>
