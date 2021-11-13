@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-13T03:12:44.173Z</updated>
+    <updated>2021-11-13T04:15:03.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -124,18 +124,18 @@
         <content type="html"><![CDATA[(femstreet.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unity, Weta Digital을 1.9조원에 인수]]></title>
-        <id>https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/</id>
-        <link href="https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/"/>
-        <updated>2021-11-12T00:38:05.712Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
         <id>https://github.com/jbarlow83/OCRmyPDF</id>
         <link href="https://github.com/jbarlow83/OCRmyPDF"/>
         <updated>2021-11-09T02:25:40.604Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity, Weta Digital을 1.9조원에 인수]]></title>
+        <id>https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/</id>
+        <link href="https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/"/>
+        <updated>2021-11-12T00:38:05.712Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pyjion - 파이썬 JIT 컴파일러]]></title>
