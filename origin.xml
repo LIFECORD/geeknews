@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-13T19:10:08.334Z</updated>
+    <updated>2021-11-13T20:12:29.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://www.dbcore.org/"/>
         <updated>2021-11-12T01:55:19.274Z</updated>
         <content type="html"><![CDATA[(dbcore.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
+        <id>https://brunch.co.kr/@jasongx/21</id>
+        <link href="https://brunch.co.kr/@jasongx/21"/>
+        <updated>2021-11-13T01:52:19.572Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[초보자를 위한 게임 해킹 테크닉 [511p PDF]]]></title>
@@ -39,13 +46,6 @@
         <link href="https://engineering.ab180.co/stories/kafka-consumer-proxy"/>
         <updated>2021-11-11T10:12:23.472Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
-        <id>https://brunch.co.kr/@jasongx/21</id>
-        <link href="https://brunch.co.kr/@jasongx/21"/>
-        <updated>2021-11-13T01:52:19.572Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
@@ -111,11 +111,11 @@
         <content type="html"><![CDATA[(medusa-commerce.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Business Essentials 공개]]></title>
-        <id>https://www.apple.com/business/essentials/</id>
-        <link href="https://www.apple.com/business/essentials/"/>
-        <updated>2021-11-12T01:55:19.252Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
+        <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
+        <id>https://bitsofco.de/web-performance-metrics-cheatsheet/</id>
+        <link href="https://bitsofco.de/web-performance-metrics-cheatsheet/"/>
+        <updated>2021-11-13T05:10:12.311Z</updated>
+        <content type="html"><![CDATA[(bitsofco.de)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
@@ -125,11 +125,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
-        <id>https://bitsofco.de/web-performance-metrics-cheatsheet/</id>
-        <link href="https://bitsofco.de/web-performance-metrics-cheatsheet/"/>
-        <updated>2021-11-13T05:10:12.311Z</updated>
-        <content type="html"><![CDATA[(bitsofco.de)]]></content>
+        <title type="html"><![CDATA[Apple Business Essentials 공개]]></title>
+        <id>https://www.apple.com/business/essentials/</id>
+        <link href="https://www.apple.com/business/essentials/"/>
+        <updated>2021-11-12T01:55:19.252Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -138,10 +138,10 @@
         <updated>2021-11-12T01:55:19.275Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jitsu - Segment의 오픈소스 대체제]]></title>
-        <id>https://github.com/jitsucom/jitsu</id>
-        <link href="https://github.com/jitsucom/jitsu"/>
-        <updated>2021-11-13T15:11:23.952Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[라즈베리 Pi로 오래된 프린터를 AirPrint 지원하게 만들기]]></title>
+        <id>https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html</id>
+        <link href="https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html"/>
+        <updated>2021-11-13T20:11:46.231Z</updated>
+        <content type="html"><![CDATA[(blog.jgc.org)]]></content>
     </entry>
 </feed>
