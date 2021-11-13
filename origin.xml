@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-13T05:10:53.038Z</updated>
+    <updated>2021-11-13T06:14:04.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(dbcore.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
-        <id>https://brunch.co.kr/@jasongx/21</id>
-        <link href="https://brunch.co.kr/@jasongx/21"/>
-        <updated>2021-11-13T01:52:19.572Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[초보자를 위한 게임 해킹 테크닉 [511p PDF]]]></title>
         <id>https://gamehacking.academy/GameHackingAcademy.pdf</id>
         <link href="https://gamehacking.academy/GameHackingAcademy.pdf"/>
         <updated>2021-11-11T00:36:35.545Z</updated>
         <content type="html"><![CDATA[(gamehacking.academy)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
+        <id>https://brunch.co.kr/@jasongx/21</id>
+        <link href="https://brunch.co.kr/@jasongx/21"/>
+        <updated>2021-11-13T01:52:19.572Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(lastweekin.ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Business Essentials 공개]]></title>
-        <id>https://www.apple.com/business/essentials/</id>
-        <link href="https://www.apple.com/business/essentials/"/>
-        <updated>2021-11-12T01:55:19.252Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[croc - 두개의 컴퓨터간 파일 전송 CLI 유틸리티]]></title>
         <id>https://github.com/schollz/croc</id>
         <link href="https://github.com/schollz/croc"/>
         <updated>2021-11-10T01:54:32.776Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Business Essentials 공개]]></title>
+        <id>https://www.apple.com/business/essentials/</id>
+        <link href="https://www.apple.com/business/essentials/"/>
+        <updated>2021-11-12T01:55:19.252Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(bitsofco.de)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unity, Weta Digital을 1.9조원에 인수]]></title>
-        <id>https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/</id>
-        <link href="https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/"/>
-        <updated>2021-11-12T00:38:05.712Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
+        <title type="html"><![CDATA[Pyjion - 파이썬 JIT 컴파일러]]></title>
+        <id>https://www.trypyjion.com/</id>
+        <link href="https://www.trypyjion.com/"/>
+        <updated>2021-11-13T06:13:28.575Z</updated>
+        <content type="html"><![CDATA[(trypyjion.com)]]></content>
     </entry>
 </feed>
