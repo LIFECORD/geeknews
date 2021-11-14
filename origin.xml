@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-14T02:27:46.872Z</updated>
+    <updated>2021-11-14T03:13:07.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
-        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
-        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
-        <updated>2021-11-13T01:52:19.572Z</updated>
-        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
         <id>https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game</id>
         <link href="https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game"/>
         <updated>2021-11-10T00:36:29.692Z</updated>
         <content type="html"><![CDATA[(lastweekin.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
+        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
+        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
+        <updated>2021-11-13T01:52:19.572Z</updated>
+        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[croc - 두개의 컴퓨터간 파일 전송 CLI 유틸리티]]></title>
