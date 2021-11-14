@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-14T15:12:16.044Z</updated>
+    <updated>2021-11-14T16:16:51.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(gamehacking.academy)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Svelte 개발자 Rich Harris, Vercel에 조인]]></title>
-        <id>https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte</id>
-        <link href="https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"/>
-        <updated>2021-11-13T00:35:53.317Z</updated>
-        <content type="html"><![CDATA[(vercel.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기]]></title>
         <id>https://engineering.ab180.co/stories/kafka-consumer-proxy</id>
         <link href="https://engineering.ab180.co/stories/kafka-consumer-proxy"/>
         <updated>2021-11-11T10:12:23.472Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svelte 개발자 Rich Harris, Vercel에 조인]]></title>
+        <id>https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte</id>
+        <link href="https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"/>
+        <updated>2021-11-13T00:35:53.317Z</updated>
+        <content type="html"><![CDATA[(vercel.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(bitsofco.de)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
-        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
-        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
-        <updated>2021-11-13T01:52:19.572Z</updated>
-        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
         <id>https://github.com/jbarlow83/OCRmyPDF</id>
         <link href="https://github.com/jbarlow83/OCRmyPDF"/>
         <updated>2021-11-09T02:25:40.604Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
+        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
+        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
+        <updated>2021-11-13T01:52:19.572Z</updated>
+        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
     </entry>
 </feed>
