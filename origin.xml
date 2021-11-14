@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-14T13:17:33.556Z</updated>
+    <updated>2021-11-14T14:11:00.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(medusa-commerce.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
-        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
-        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
-        <updated>2021-11-13T01:52:19.572Z</updated>
-        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
         <id>https://bitsofco.de/web-performance-metrics-cheatsheet/</id>
         <link href="https://bitsofco.de/web-performance-metrics-cheatsheet/"/>
         <updated>2021-11-13T05:10:12.311Z</updated>
         <content type="html"><![CDATA[(bitsofco.de)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
+        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
+        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
+        <updated>2021-11-13T01:52:19.572Z</updated>
+        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
