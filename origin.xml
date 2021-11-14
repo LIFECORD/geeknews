@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-14T14:11:00.942Z</updated>
+    <updated>2021-11-14T15:12:16.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에픽 vs 애플, 판사가 외부 결제 옵션을 12/9까지 허용하라고 명령]]></title>
-        <id>https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules</id>
-        <link href="https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules"/>
-        <updated>2021-11-12T00:38:05.707Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[croc - 두개의 컴퓨터간 파일 전송 CLI 유틸리티]]></title>
         <id>https://github.com/schollz/croc</id>
         <link href="https://github.com/schollz/croc"/>
         <updated>2021-11-10T01:54:32.776Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에픽 vs 애플, 판사가 외부 결제 옵션을 12/9까지 허용하라고 명령]]></title>
+        <id>https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules</id>
+        <link href="https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules"/>
+        <updated>2021-11-12T00:38:05.707Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[motrix - 크로스 플랫폼 다운로드 매니저]]></title>
