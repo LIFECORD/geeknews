@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-14T10:13:51.248Z</updated>
+    <updated>2021-11-14T11:10:38.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(dbcore.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Svelte 개발자 Rich Harris, Vercel에 조인]]></title>
-        <id>https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte</id>
-        <link href="https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"/>
-        <updated>2021-11-13T00:35:53.317Z</updated>
-        <content type="html"><![CDATA[(vercel.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[초보자를 위한 게임 해킹 테크닉 [511p PDF]]]></title>
         <id>https://gamehacking.academy/GameHackingAcademy.pdf</id>
         <link href="https://gamehacking.academy/GameHackingAcademy.pdf"/>
         <updated>2021-11-11T00:36:35.545Z</updated>
         <content type="html"><![CDATA[(gamehacking.academy)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svelte 개발자 Rich Harris, Vercel에 조인]]></title>
+        <id>https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte</id>
+        <link href="https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"/>
+        <updated>2021-11-13T00:35:53.317Z</updated>
+        <content type="html"><![CDATA[(vercel.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에픽 vs 애플, 판사가 외부 결제 옵션을 12/9까지 허용하라고 명령]]></title>
-        <id>https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules</id>
-        <link href="https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules"/>
-        <updated>2021-11-12T00:38:05.707Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
         <id>https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game</id>
         <link href="https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game"/>
         <updated>2021-11-10T00:36:29.692Z</updated>
         <content type="html"><![CDATA[(lastweekin.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에픽 vs 애플, 판사가 외부 결제 옵션을 12/9까지 허용하라고 명령]]></title>
+        <id>https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules</id>
+        <link href="https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules"/>
+        <updated>2021-11-12T00:38:05.707Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[croc - 두개의 컴퓨터간 파일 전송 CLI 유틸리티]]></title>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[(femstreet.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
-        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
-        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
-        <updated>2021-11-13T01:52:19.572Z</updated>
-        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[잘 알려지지 않은 PostgreSQL 기능들]]></title>
         <id>https://hakibenita.com/postgresql-unknown-features</id>
         <link href="https://hakibenita.com/postgresql-unknown-features"/>
@@ -130,6 +123,13 @@
         <link href="https://www.medusa-commerce.com/"/>
         <updated>2021-11-10T01:54:32.788Z</updated>
         <content type="html"><![CDATA[(medusa-commerce.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
+        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
+        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
+        <updated>2021-11-13T01:52:19.572Z</updated>
+        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
