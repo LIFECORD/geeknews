@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-14T08:13:54.488Z</updated>
+    <updated>2021-11-14T09:12:06.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(dbcore.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Svelte 개발자 Rich Harris, Vercel에 조인]]></title>
+        <id>https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte</id>
+        <link href="https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"/>
+        <updated>2021-11-13T00:35:53.317Z</updated>
+        <content type="html"><![CDATA[(vercel.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[초보자를 위한 게임 해킹 테크닉 [511p PDF]]]></title>
         <id>https://gamehacking.academy/GameHackingAcademy.pdf</id>
         <link href="https://gamehacking.academy/GameHackingAcademy.pdf"/>
@@ -46,13 +53,6 @@
         <link href="https://engineering.ab180.co/stories/kafka-consumer-proxy"/>
         <updated>2021-11-11T10:12:23.472Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svelte 개발자 Rich Harris, Vercel에 조인]]></title>
-        <id>https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte</id>
-        <link href="https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"/>
-        <updated>2021-11-13T00:35:53.317Z</updated>
-        <content type="html"><![CDATA[(vercel.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(motrix.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
-        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
-        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
-        <updated>2021-11-13T01:52:19.572Z</updated>
-        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[커뮤니티 주도 성장을 막는 오해들과 극복 전략]]></title>
         <id>https://femstreet.substack.com/p/communityledgrowthnirvana</id>
         <link href="https://femstreet.substack.com/p/communityledgrowthnirvana"/>
         <updated>2021-11-08T02:26:04.899Z</updated>
         <content type="html"><![CDATA[(femstreet.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
+        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
+        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
+        <updated>2021-11-13T01:52:19.572Z</updated>
+        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[잘 알려지지 않은 PostgreSQL 기능들]]></title>
