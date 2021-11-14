@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-14T16:16:51.315Z</updated>
+    <updated>2021-11-14T17:16:59.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Google Analytics 대체 오픈소스가 $500k ARR까지 성장한 방법]]></title>
+        <id>https://plausible.io/blog/bootstrapping-saas</id>
+        <link href="https://plausible.io/blog/bootstrapping-saas"/>
+        <updated>2021-11-14T17:16:22.429Z</updated>
+        <content type="html"><![CDATA[(plausible.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHut Readme Stats - 동적으로 자동 생성되는 통계 넣기]]></title>
         <id>https://github.com/anuraghazra/github-readme-stats</id>
@@ -62,18 +69,18 @@
         <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube 싫어요 숫자 표시 안하게 변경]]></title>
-        <id>https://support.google.com/youtube/thread/134791097/update-to-youtube-dislike-counts?hl=ko</id>
-        <link href="https://support.google.com/youtube/thread/134791097/update-to-youtube-dislike-counts?hl=ko"/>
-        <updated>2021-11-13T00:35:53.313Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
         <id>https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game</id>
         <link href="https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game"/>
         <updated>2021-11-10T00:36:29.692Z</updated>
         <content type="html"><![CDATA[(lastweekin.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube 싫어요 숫자 표시 안하게 변경]]></title>
+        <id>https://support.google.com/youtube/thread/134791097/update-to-youtube-dislike-counts?hl=ko</id>
+        <link href="https://support.google.com/youtube/thread/134791097/update-to-youtube-dislike-counts?hl=ko"/>
+        <updated>2021-11-13T00:35:53.313Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Grafana OnCall 공개 - 쉬운 온콜 관리 도구]]></title>
@@ -137,12 +144,5 @@
         <link href="https://github.com/jbarlow83/OCRmyPDF"/>
         <updated>2021-11-09T02:25:40.604Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
-        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
-        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
-        <updated>2021-11-13T01:52:19.572Z</updated>
-        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
     </entry>
 </feed>
