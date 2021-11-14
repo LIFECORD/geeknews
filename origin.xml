@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-13T23:12:27.882Z</updated>
+    <updated>2021-11-14T00:38:40.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cedille - 6B규모의 프랑스어 모델을 오픈소스로 공개]]></title>
+        <id>https://github.com/coteries/cedille-ai</id>
+        <link href="https://github.com/coteries/cedille-ai"/>
+        <updated>2021-11-14T00:38:00.059Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHut Readme Stats - 동적으로 자동 생성되는 통계 넣기]]></title>
+        <id>https://github.com/anuraghazra/github-readme-stats</id>
+        <link href="https://github.com/anuraghazra/github-readme-stats"/>
+        <updated>2021-11-14T00:38:00.070Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DBCore - DB기반으로 빠르게 프로토타입 앱 생성하는 오픈소스]]></title>
         <id>https://www.dbcore.org/</id>
@@ -27,18 +41,18 @@
         <content type="html"><![CDATA[(gamehacking.academy)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
-        <id>https://brunch.co.kr/@jasongx/21</id>
-        <link href="https://brunch.co.kr/@jasongx/21"/>
-        <updated>2021-11-13T01:52:19.572Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기]]></title>
         <id>https://engineering.ab180.co/stories/kafka-consumer-proxy</id>
         <link href="https://engineering.ab180.co/stories/kafka-consumer-proxy"/>
         <updated>2021-11-11T10:12:23.472Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
+        <id>https://brunch.co.kr/@jasongx/21</id>
+        <link href="https://brunch.co.kr/@jasongx/21"/>
+        <updated>2021-11-13T01:52:19.572Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[YouTube 싫어요 숫자 표시 안하게 변경]]></title>
@@ -97,18 +111,18 @@
         <content type="html"><![CDATA[(hakibenita.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Medusa - 헤드리스 이커머스 엔진, 오픈소스 Shopify 대체제]]></title>
-        <id>https://www.medusa-commerce.com/</id>
-        <link href="https://www.medusa-commerce.com/"/>
-        <updated>2021-11-10T01:54:32.788Z</updated>
-        <content type="html"><![CDATA[(medusa-commerce.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[커뮤니티 주도 성장을 막는 오해들과 극복 전략]]></title>
         <id>https://femstreet.substack.com/p/communityledgrowthnirvana</id>
         <link href="https://femstreet.substack.com/p/communityledgrowthnirvana"/>
         <updated>2021-11-08T02:26:04.899Z</updated>
         <content type="html"><![CDATA[(femstreet.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medusa - 헤드리스 이커머스 엔진, 오픈소스 Shopify 대체제]]></title>
+        <id>https://www.medusa-commerce.com/</id>
+        <link href="https://www.medusa-commerce.com/"/>
+        <updated>2021-11-10T01:54:32.788Z</updated>
+        <content type="html"><![CDATA[(medusa-commerce.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Business Essentials 공개]]></title>
-        <id>https://www.apple.com/business/essentials/</id>
-        <link href="https://www.apple.com/business/essentials/"/>
-        <updated>2021-11-12T01:55:19.252Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[라즈베리 Pi로 오래된 프린터를 AirPrint 지원하게 만들기]]></title>
         <id>https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html</id>
         <link href="https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html"/>
         <updated>2021-11-13T20:11:46.231Z</updated>
         <content type="html"><![CDATA[(blog.jgc.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Niantic, 리얼월드 메타버스 제작용 플랫폼 Lightship 공개]]></title>
-        <id>https://lightship.dev/</id>
-        <link href="https://lightship.dev/"/>
-        <updated>2021-11-13T23:11:47.513Z</updated>
-        <content type="html"><![CDATA[(lightship.dev)]]></content>
     </entry>
 </feed>
