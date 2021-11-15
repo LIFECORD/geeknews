@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-15T19:10:28.595Z</updated>
+    <updated>2021-11-15T20:12:59.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(hakibenita.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grafana OnCall 공개 - 쉬운 온콜 관리 도구]]></title>
-        <id>https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/</id>
-        <link href="https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/"/>
-        <updated>2021-11-12T01:55:19.251Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
         <id>https://github.com/jbarlow83/OCRmyPDF</id>
         <link href="https://github.com/jbarlow83/OCRmyPDF"/>
         <updated>2021-11-15T17:18:09.913Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafana OnCall 공개 - 쉬운 온콜 관리 도구]]></title>
+        <id>https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/</id>
+        <link href="https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/"/>
+        <updated>2021-11-12T01:55:19.251Z</updated>
+        <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
 </feed>
