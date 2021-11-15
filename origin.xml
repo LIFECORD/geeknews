@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-15T03:13:24.137Z</updated>
+    <updated>2021-11-15T04:15:16.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(designmodo.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파일시스템 업그레이드로 SSD비용 수백만불 절약한 후기]]></title>
-        <id>https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem</id>
-        <link href="https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem"/>
-        <updated>2021-11-15T00:36:56.535Z</updated>
-        <content type="html"><![CDATA[(heap.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Odyssey - 스케일러블 PostgreSQL 커넥션 풀러]]></title>
         <id>https://github.com/yandex/odyssey</id>
         <link href="https://github.com/yandex/odyssey"/>
         <updated>2021-11-15T01:53:48.362Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파일시스템 업그레이드로 SSD비용 수백만불 절약한 후기]]></title>
+        <id>https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem</id>
+        <link href="https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem"/>
+        <updated>2021-11-15T00:36:56.535Z</updated>
+        <content type="html"><![CDATA[(heap.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Analytics 대체 오픈소스가 $500k ARR까지 성장한 방법]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(lastweekin.ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[croc - 두개의 컴퓨터간 파일 전송 CLI 유틸리티]]></title>
-        <id>https://github.com/schollz/croc</id>
-        <link href="https://github.com/schollz/croc"/>
-        <updated>2021-11-10T01:54:32.776Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[커뮤니티 주도 성장을 막는 오해들과 극복 전략]]></title>
         <id>https://femstreet.substack.com/p/communityledgrowthnirvana</id>
         <link href="https://femstreet.substack.com/p/communityledgrowthnirvana"/>
         <updated>2021-11-08T02:26:04.899Z</updated>
         <content type="html"><![CDATA[(femstreet.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[croc - 두개의 컴퓨터간 파일 전송 CLI 유틸리티]]></title>
+        <id>https://github.com/schollz/croc</id>
+        <link href="https://github.com/schollz/croc"/>
+        <updated>2021-11-10T01:54:32.776Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[motrix - 크로스 플랫폼 다운로드 매니저]]></title>
