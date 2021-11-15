@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-15T13:20:00.984Z</updated>
+    <updated>2021-11-15T14:11:56.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[(vercel.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cedille - 6B규모의 프랑스어 모델을 오픈소스로 공개]]></title>
-        <id>https://github.com/coteries/cedille-ai</id>
-        <link href="https://github.com/coteries/cedille-ai"/>
-        <updated>2021-11-14T00:38:00.059Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[커뮤니티 주도 성장을 막는 오해들과 극복 전략]]></title>
         <id>https://femstreet.substack.com/p/communityledgrowthnirvana</id>
         <link href="https://femstreet.substack.com/p/communityledgrowthnirvana"/>
@@ -116,6 +109,13 @@
         <link href="https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game"/>
         <updated>2021-11-10T00:36:29.692Z</updated>
         <content type="html"><![CDATA[(lastweekin.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cedille - 6B규모의 프랑스어 모델을 오픈소스로 공개]]></title>
+        <id>https://github.com/coteries/cedille-ai</id>
+        <link href="https://github.com/coteries/cedille-ai"/>
+        <updated>2021-11-14T00:38:00.059Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[croc - 두개의 컴퓨터간 파일 전송 CLI 유틸리티]]></title>
