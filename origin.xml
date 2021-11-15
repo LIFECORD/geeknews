@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-15T20:12:59.931Z</updated>
+    <updated>2021-11-15T21:11:43.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(motrix.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cedille - 6B규모의 프랑스어 모델을 오픈소스로 공개]]></title>
-        <id>https://github.com/coteries/cedille-ai</id>
-        <link href="https://github.com/coteries/cedille-ai"/>
-        <updated>2021-11-14T00:38:00.059Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[잘 알려지지 않은 PostgreSQL 기능들]]></title>
         <id>https://hakibenita.com/postgresql-unknown-features</id>
         <link href="https://hakibenita.com/postgresql-unknown-features"/>
         <updated>2021-11-15T06:15:13.580Z</updated>
         <content type="html"><![CDATA[(hakibenita.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cedille - 6B규모의 프랑스어 모델을 오픈소스로 공개]]></title>
+        <id>https://github.com/coteries/cedille-ai</id>
+        <link href="https://github.com/coteries/cedille-ai"/>
+        <updated>2021-11-14T00:38:00.059Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
