@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-15T01:54:28.456Z</updated>
+    <updated>2021-11-15T02:26:43.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
+        <id>https://skerritt.blog/make-popular-open-source-projects/</id>
+        <link href="https://skerritt.blog/make-popular-open-source-projects/"/>
+        <updated>2021-11-15T02:26:06.628Z</updated>
+        <content type="html"><![CDATA[(skerritt.blog)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
         <id>https://github.com/adrianscheff/useful-sed</id>
         <link href="https://github.com/adrianscheff/useful-sed"/>
         <updated>2021-11-15T01:53:48.358Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odyssey - 스케일러블 PostgreSQL 커넥션 풀러]]></title>
-        <id>https://github.com/yandex/odyssey</id>
-        <link href="https://github.com/yandex/odyssey"/>
-        <updated>2021-11-15T01:53:48.362Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem"/>
         <updated>2021-11-15T00:36:56.535Z</updated>
         <content type="html"><![CDATA[(heap.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Odyssey - 스케일러블 PostgreSQL 커넥션 풀러]]></title>
+        <id>https://github.com/yandex/odyssey</id>
+        <link href="https://github.com/yandex/odyssey"/>
+        <updated>2021-11-15T01:53:48.362Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Analytics 대체 오픈소스가 $500k ARR까지 성장한 방법]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules"/>
         <updated>2021-11-12T00:38:05.707Z</updated>
         <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
-        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
-        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
-        <updated>2021-11-15T01:53:48.393Z</updated>
-        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
     </entry>
 </feed>
