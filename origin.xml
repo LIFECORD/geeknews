@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-15T00:37:35.302Z</updated>
+    <updated>2021-11-15T01:54:28.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
+        <id>https://github.com/adrianscheff/useful-sed</id>
+        <link href="https://github.com/adrianscheff/useful-sed"/>
+        <updated>2021-11-15T01:53:48.358Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Odyssey - 스케일러블 PostgreSQL 커넥션 풀러]]></title>
+        <id>https://github.com/yandex/odyssey</id>
+        <link href="https://github.com/yandex/odyssey"/>
+        <updated>2021-11-15T01:53:48.362Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 이메일 디자인 트렌드]]></title>
+        <id>https://designmodo.com/email-design-trends-2022/</id>
+        <link href="https://designmodo.com/email-design-trends-2022/"/>
+        <updated>2021-11-15T01:53:48.364Z</updated>
+        <content type="html"><![CDATA[(designmodo.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파일시스템 업그레이드로 SSD비용 수백만불 절약한 후기]]></title>
         <id>https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem</id>
@@ -20,13 +41,6 @@
         <content type="html"><![CDATA[(plausible.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHut Readme Stats - 동적으로 자동 생성되는 통계 넣기]]></title>
-        <id>https://github.com/anuraghazra/github-readme-stats</id>
-        <link href="https://github.com/anuraghazra/github-readme-stats"/>
-        <updated>2021-11-14T00:38:00.070Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[hop - tar 보다 10배 빠른 아카이브 포맷]]></title>
         <id>https://github.com/Jarred-Sumner/hop</id>
         <link href="https://github.com/Jarred-Sumner/hop"/>
@@ -34,18 +48,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초보자를 위한 게임 해킹 테크닉 [511p PDF]]]></title>
-        <id>https://gamehacking.academy/GameHackingAcademy.pdf</id>
-        <link href="https://gamehacking.academy/GameHackingAcademy.pdf"/>
-        <updated>2021-11-11T00:36:35.545Z</updated>
-        <content type="html"><![CDATA[(gamehacking.academy)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DBCore - DB기반으로 빠르게 프로토타입 앱 생성하는 오픈소스]]></title>
-        <id>https://www.dbcore.org/</id>
-        <link href="https://www.dbcore.org/"/>
-        <updated>2021-11-12T01:55:19.274Z</updated>
-        <content type="html"><![CDATA[(dbcore.org)]]></content>
+        <title type="html"><![CDATA[GitHut Readme Stats - 동적으로 자동 생성되는 통계 넣기]]></title>
+        <id>https://github.com/anuraghazra/github-readme-stats</id>
+        <link href="https://github.com/anuraghazra/github-readme-stats"/>
+        <updated>2021-11-14T00:38:00.070Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
@@ -62,11 +69,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cedille - 6B규모의 프랑스어 모델을 오픈소스로 공개]]></title>
-        <id>https://github.com/coteries/cedille-ai</id>
-        <link href="https://github.com/coteries/cedille-ai"/>
-        <updated>2021-11-14T00:38:00.059Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[초보자를 위한 게임 해킹 테크닉 [511p PDF]]]></title>
+        <id>https://gamehacking.academy/GameHackingAcademy.pdf</id>
+        <link href="https://gamehacking.academy/GameHackingAcademy.pdf"/>
+        <updated>2021-11-11T00:36:35.545Z</updated>
+        <content type="html"><![CDATA[(gamehacking.academy)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DBCore - DB기반으로 빠르게 프로토타입 앱 생성하는 오픈소스]]></title>
+        <id>https://www.dbcore.org/</id>
+        <link href="https://www.dbcore.org/"/>
+        <updated>2021-11-12T01:55:19.274Z</updated>
+        <content type="html"><![CDATA[(dbcore.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Svelte 개발자 Rich Harris, Vercel에 조인]]></title>
@@ -74,6 +88,13 @@
         <link href="https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"/>
         <updated>2021-11-13T00:35:53.317Z</updated>
         <content type="html"><![CDATA[(vercel.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cedille - 6B규모의 프랑스어 모델을 오픈소스로 공개]]></title>
+        <id>https://github.com/coteries/cedille-ai</id>
+        <link href="https://github.com/coteries/cedille-ai"/>
+        <updated>2021-11-14T00:38:00.059Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
@@ -118,31 +139,10 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube 싫어요 숫자 표시 안하게 변경]]></title>
-        <id>https://support.google.com/youtube/thread/134791097/update-to-youtube-dislike-counts?hl=ko</id>
-        <link href="https://support.google.com/youtube/thread/134791097/update-to-youtube-dislike-counts?hl=ko"/>
-        <updated>2021-11-13T00:35:53.313Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 알려지지 않은 PostgreSQL 기능들]]></title>
-        <id>https://hakibenita.com/postgresql-unknown-features</id>
-        <link href="https://hakibenita.com/postgresql-unknown-features"/>
-        <updated>2021-11-10T01:54:32.788Z</updated>
-        <content type="html"><![CDATA[(hakibenita.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medusa - 헤드리스 이커머스 엔진, 오픈소스 Shopify 대체제]]></title>
-        <id>https://www.medusa-commerce.com/</id>
-        <link href="https://www.medusa-commerce.com/"/>
-        <updated>2021-11-10T01:54:32.788Z</updated>
-        <content type="html"><![CDATA[(medusa-commerce.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹 성능 지표 Cheatsheet]]></title>
-        <id>https://bitsofco.de/web-performance-metrics-cheatsheet/</id>
-        <link href="https://bitsofco.de/web-performance-metrics-cheatsheet/"/>
-        <updated>2021-11-13T05:10:12.311Z</updated>
-        <content type="html"><![CDATA[(bitsofco.de)]]></content>
+        <title type="html"><![CDATA[Google Summer of Code 2022, 학생 아니어도 참가 가능하게 확장]]></title>
+        <id>https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html</id>
+        <link href="https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html"/>
+        <updated>2021-11-15T01:53:48.393Z</updated>
+        <content type="html"><![CDATA[(opensource.googleblog.com)]]></content>
     </entry>
 </feed>
