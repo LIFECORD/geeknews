@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-15T08:15:15.906Z</updated>
+    <updated>2021-11-15T09:13:16.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(dbcore.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
-        <id>https://brunch.co.kr/@jasongx/21</id>
-        <link href="https://brunch.co.kr/@jasongx/21"/>
-        <updated>2021-11-13T01:52:19.572Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기]]></title>
         <id>https://engineering.ab180.co/stories/kafka-consumer-proxy</id>
         <link href="https://engineering.ab180.co/stories/kafka-consumer-proxy"/>
         <updated>2021-11-11T10:12:23.472Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 사업을 한다면 해야 하는 첫 질문]]></title>
+        <id>https://brunch.co.kr/@jasongx/21</id>
+        <link href="https://brunch.co.kr/@jasongx/21"/>
+        <updated>2021-11-13T01:52:19.572Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Svelte 개발자 Rich Harris, Vercel에 조인]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
-        <id>https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game</id>
-        <link href="https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game"/>
-        <updated>2021-11-10T00:36:29.692Z</updated>
-        <content type="html"><![CDATA[(lastweekin.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[커뮤니티 주도 성장을 막는 오해들과 극복 전략]]></title>
         <id>https://femstreet.substack.com/p/communityledgrowthnirvana</id>
         <link href="https://femstreet.substack.com/p/communityledgrowthnirvana"/>
         <updated>2021-11-08T02:26:04.899Z</updated>
         <content type="html"><![CDATA[(femstreet.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
+        <id>https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game</id>
+        <link href="https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game"/>
+        <updated>2021-11-10T00:36:29.692Z</updated>
+        <content type="html"><![CDATA[(lastweekin.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[croc - 두개의 컴퓨터간 파일 전송 CLI 유틸리티]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(motrix.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grafana OnCall 공개 - 쉬운 온콜 관리 도구]]></title>
-        <id>https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/</id>
-        <link href="https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/"/>
-        <updated>2021-11-12T01:55:19.251Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[잘 알려지지 않은 PostgreSQL 기능들]]></title>
         <id>https://hakibenita.com/postgresql-unknown-features</id>
         <link href="https://hakibenita.com/postgresql-unknown-features"/>
         <updated>2021-11-15T06:15:13.580Z</updated>
         <content type="html"><![CDATA[(hakibenita.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafana OnCall 공개 - 쉬운 온콜 관리 도구]]></title>
+        <id>https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/</id>
+        <link href="https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/"/>
+        <updated>2021-11-12T01:55:19.251Z</updated>
+        <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
 </feed>
