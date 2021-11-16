@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-16T00:37:30.203Z</updated>
+    <updated>2021-11-16T01:54:57.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ICON의 역사]]></title>
+        <id>https://historyoficons.com/</id>
+        <link href="https://historyoficons.com/"/>
+        <updated>2021-11-16T00:36:53.582Z</updated>
+        <content type="html"><![CDATA[(historyoficons.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SearX - 프라이버시를 존중하는 오픈소스 메타서치 엔진]]></title>
         <id>https://github.com/searx/searx</id>
@@ -27,11 +34,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICON의 역사]]></title>
-        <id>https://historyoficons.com/</id>
-        <link href="https://historyoficons.com/"/>
-        <updated>2021-11-16T00:36:53.582Z</updated>
-        <content type="html"><![CDATA[(historyoficons.com)]]></content>
+        <title type="html"><![CDATA[macOS Monterey에 포함된 networkQuality 도구의 비밀]]></title>
+        <id>https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html</id>
+        <link href="https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html"/>
+        <updated>2021-11-16T01:54:19.721Z</updated>
+        <content type="html"><![CDATA[(danpetrov.xyz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mani - 여러개의 Repo 관리용 CLI]]></title>
+        <id>https://github.com/alajmo/mani</id>
+        <link href="https://github.com/alajmo/mani"/>
+        <updated>2021-11-16T01:54:19.721Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 이메일 디자인 트렌드]]></title>
@@ -111,13 +125,6 @@
         <content type="html"><![CDATA[(vercel.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
-        <id>https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game</id>
-        <link href="https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game"/>
-        <updated>2021-11-10T00:36:29.692Z</updated>
-        <content type="html"><![CDATA[(lastweekin.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[croc - 두개의 컴퓨터간 파일 전송 CLI 유틸리티]]></title>
         <id>https://github.com/schollz/croc</id>
         <link href="https://github.com/schollz/croc"/>
@@ -125,24 +132,17 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
+        <id>https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game</id>
+        <link href="https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game"/>
+        <updated>2021-11-10T00:36:29.692Z</updated>
+        <content type="html"><![CDATA[(lastweekin.ai)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[motrix - 크로스 플랫폼 다운로드 매니저]]></title>
         <id>https://motrix.app/</id>
         <link href="https://motrix.app/"/>
         <updated>2021-11-10T00:36:29.696Z</updated>
         <content type="html"><![CDATA[(motrix.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 알려지지 않은 PostgreSQL 기능들]]></title>
-        <id>https://hakibenita.com/postgresql-unknown-features</id>
-        <link href="https://hakibenita.com/postgresql-unknown-features"/>
-        <updated>2021-11-15T06:15:13.580Z</updated>
-        <content type="html"><![CDATA[(hakibenita.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OCRmyPDF - 스캔된 PDF파일에 OCR 텍스트 레이어 추가]]></title>
-        <id>https://github.com/jbarlow83/OCRmyPDF</id>
-        <link href="https://github.com/jbarlow83/OCRmyPDF"/>
-        <updated>2021-11-15T17:18:09.913Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
