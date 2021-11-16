@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-16T20:13:29.135Z</updated>
+    <updated>2021-11-16T21:11:29.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,17 +83,17 @@
         <content type="html"><![CDATA[(plausible.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[hop - tar 보다 10배 빠른 아카이브 포맷]]></title>
-        <id>https://github.com/Jarred-Sumner/hop</id>
-        <link href="https://github.com/Jarred-Sumner/hop"/>
-        <updated>2021-11-14T01:55:39.806Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHut Readme Stats - 동적으로 자동 생성되는 통계 넣기]]></title>
         <id>https://github.com/anuraghazra/github-readme-stats</id>
         <link href="https://github.com/anuraghazra/github-readme-stats"/>
         <updated>2021-11-14T00:38:00.070Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hop - tar 보다 10배 빠른 아카이브 포맷]]></title>
+        <id>https://github.com/Jarred-Sumner/hop</id>
+        <link href="https://github.com/Jarred-Sumner/hop"/>
+        <updated>2021-11-14T01:55:39.806Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
