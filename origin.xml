@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-16T11:10:34.343Z</updated>
+    <updated>2021-11-16T12:18:22.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Svelte 개발자 Rich Harris, Vercel에 조인]]></title>
-        <id>https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte</id>
-        <link href="https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"/>
-        <updated>2021-11-13T00:35:53.317Z</updated>
-        <content type="html"><![CDATA[(vercel.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[croc - 두개의 컴퓨터간 파일 전송 CLI 유틸리티]]></title>
         <id>https://github.com/schollz/croc</id>
         <link href="https://github.com/schollz/croc"/>
         <updated>2021-11-10T01:54:32.776Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svelte 개발자 Rich Harris, Vercel에 조인]]></title>
+        <id>https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte</id>
+        <link href="https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"/>
+        <updated>2021-11-13T00:35:53.317Z</updated>
+        <content type="html"><![CDATA[(vercel.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
