@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-16T07:12:44.184Z</updated>
+    <updated>2021-11-16T08:14:39.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
-        <id>https://skerritt.blog/make-popular-open-source-projects/</id>
-        <link href="https://skerritt.blog/make-popular-open-source-projects/"/>
-        <updated>2021-11-15T02:26:06.628Z</updated>
-        <content type="html"><![CDATA[(skerritt.blog)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[macOS Monterey에 포함된 networkQuality 도구의 비밀]]></title>
         <id>https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html</id>
         <link href="https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html"/>
@@ -41,17 +34,24 @@
         <content type="html"><![CDATA[(danpetrov.xyz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mani - 여러개의 Repo 관리용 CLI]]></title>
-        <id>https://github.com/alajmo/mani</id>
-        <link href="https://github.com/alajmo/mani"/>
-        <updated>2021-11-16T01:54:19.721Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
+        <id>https://skerritt.blog/make-popular-open-source-projects/</id>
+        <link href="https://skerritt.blog/make-popular-open-source-projects/"/>
+        <updated>2021-11-15T02:26:06.628Z</updated>
+        <content type="html"><![CDATA[(skerritt.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
         <id>https://github.com/adrianscheff/useful-sed</id>
         <link href="https://github.com/adrianscheff/useful-sed"/>
         <updated>2021-11-15T01:53:48.358Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mani - 여러개의 Repo 관리용 CLI]]></title>
+        <id>https://github.com/alajmo/mani</id>
+        <link href="https://github.com/alajmo/mani"/>
+        <updated>2021-11-16T01:54:19.721Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
