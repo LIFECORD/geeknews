@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-16T18:12:38.435Z</updated>
+    <updated>2021-11-16T19:10:45.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(skerritt.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICON의 역사]]></title>
-        <id>https://historyoficons.com/</id>
-        <link href="https://historyoficons.com/"/>
-        <updated>2021-11-16T00:36:53.582Z</updated>
-        <content type="html"><![CDATA[(historyoficons.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
         <id>https://github.com/adrianscheff/useful-sed</id>
         <link href="https://github.com/adrianscheff/useful-sed"/>
         <updated>2021-11-15T01:53:48.358Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICON의 역사]]></title>
+        <id>https://historyoficons.com/</id>
+        <link href="https://historyoficons.com/"/>
+        <updated>2021-11-16T00:36:53.582Z</updated>
+        <content type="html"><![CDATA[(historyoficons.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SearX - 프라이버시를 존중하는 오픈소스 메타서치 엔진]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(danpetrov.xyz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mani - 여러개의 Repo 관리용 CLI]]></title>
-        <id>https://github.com/alajmo/mani</id>
-        <link href="https://github.com/alajmo/mani"/>
-        <updated>2021-11-16T01:54:19.721Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 이메일 디자인 트렌드]]></title>
         <id>https://designmodo.com/email-design-trends-2022/</id>
         <link href="https://designmodo.com/email-design-trends-2022/"/>
         <updated>2021-11-15T01:53:48.364Z</updated>
         <content type="html"><![CDATA[(designmodo.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mani - 여러개의 Repo 관리용 CLI]]></title>
+        <id>https://github.com/alajmo/mani</id>
+        <link href="https://github.com/alajmo/mani"/>
+        <updated>2021-11-16T01:54:19.721Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파일시스템 업그레이드로 SSD비용 수백만불 절약한 후기]]></title>
