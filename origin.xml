@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-16T12:18:22.494Z</updated>
+    <updated>2021-11-16T13:19:37.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(theinformation.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICON의 역사]]></title>
-        <id>https://historyoficons.com/</id>
-        <link href="https://historyoficons.com/"/>
-        <updated>2021-11-16T00:36:53.582Z</updated>
-        <content type="html"><![CDATA[(historyoficons.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
         <id>https://skerritt.blog/make-popular-open-source-projects/</id>
         <link href="https://skerritt.blog/make-popular-open-source-projects/"/>
         <updated>2021-11-15T02:26:06.628Z</updated>
         <content type="html"><![CDATA[(skerritt.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICON의 역사]]></title>
+        <id>https://historyoficons.com/</id>
+        <link href="https://historyoficons.com/"/>
+        <updated>2021-11-16T00:36:53.582Z</updated>
+        <content type="html"><![CDATA[(historyoficons.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SearX - 프라이버시를 존중하는 오픈소스 메타서치 엔진]]></title>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[macOS Monterey에 포함된 networkQuality 도구의 비밀]]></title>
-        <id>https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html</id>
-        <link href="https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html"/>
-        <updated>2021-11-16T01:54:19.721Z</updated>
-        <content type="html"><![CDATA[(danpetrov.xyz)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
         <id>https://github.com/adrianscheff/useful-sed</id>
         <link href="https://github.com/adrianscheff/useful-sed"/>
         <updated>2021-11-15T01:53:48.358Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Monterey에 포함된 networkQuality 도구의 비밀]]></title>
+        <id>https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html</id>
+        <link href="https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html"/>
+        <updated>2021-11-16T01:54:19.721Z</updated>
+        <content type="html"><![CDATA[(danpetrov.xyz)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mani - 여러개의 Repo 관리용 CLI]]></title>
