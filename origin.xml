@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-16T23:13:00.376Z</updated>
+    <updated>2021-11-17T00:37:59.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://www.theinformation.com/ti50"/>
         <updated>2021-11-16T02:26:13.195Z</updated>
         <content type="html"><![CDATA[(theinformation.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
+        <id>https://octoverse.github.com/</id>
+        <link href="https://octoverse.github.com/"/>
+        <updated>2021-11-17T00:37:16.288Z</updated>
+        <content type="html"><![CDATA[(octoverse.github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
+        <id>https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/</id>
+        <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
+        <updated>2021-11-17T00:37:16.297Z</updated>
+        <content type="html"><![CDATA[(chillital.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
@@ -27,18 +41,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ICON의 역사]]></title>
-        <id>https://historyoficons.com/</id>
-        <link href="https://historyoficons.com/"/>
-        <updated>2021-11-16T00:36:53.582Z</updated>
-        <content type="html"><![CDATA[(historyoficons.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
         <id>https://github.com/adrianscheff/useful-sed</id>
         <link href="https://github.com/adrianscheff/useful-sed"/>
         <updated>2021-11-15T01:53:48.358Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICON의 역사]]></title>
+        <id>https://historyoficons.com/</id>
+        <link href="https://historyoficons.com/"/>
+        <updated>2021-11-16T00:36:53.582Z</updated>
+        <content type="html"><![CDATA[(historyoficons.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[macOS Monterey에 포함된 networkQuality 도구의 비밀]]></title>
@@ -76,18 +90,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Analytics 대체 오픈소스가 $500k ARR까지 성장한 방법]]></title>
-        <id>https://plausible.io/blog/bootstrapping-saas</id>
-        <link href="https://plausible.io/blog/bootstrapping-saas"/>
-        <updated>2021-11-14T17:16:22.429Z</updated>
-        <content type="html"><![CDATA[(plausible.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHut Readme Stats - 동적으로 자동 생성되는 통계 넣기]]></title>
         <id>https://github.com/anuraghazra/github-readme-stats</id>
         <link href="https://github.com/anuraghazra/github-readme-stats"/>
         <updated>2021-11-14T00:38:00.070Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Analytics 대체 오픈소스가 $500k ARR까지 성장한 방법]]></title>
+        <id>https://plausible.io/blog/bootstrapping-saas</id>
+        <link href="https://plausible.io/blog/bootstrapping-saas"/>
+        <updated>2021-11-14T17:16:22.429Z</updated>
+        <content type="html"><![CDATA[(plausible.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[hop - tar 보다 10배 빠른 아카이브 포맷]]></title>
@@ -130,19 +144,5 @@
         <link href="https://github.com/schollz/croc"/>
         <updated>2021-11-10T01:54:32.776Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-3는 이제 시장에서 유일하지 않음]]></title>
-        <id>https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game</id>
-        <link href="https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game"/>
-        <updated>2021-11-10T00:36:29.692Z</updated>
-        <content type="html"><![CDATA[(lastweekin.ai)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svelte 개발자 Rich Harris, Vercel에 조인]]></title>
-        <id>https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte</id>
-        <link href="https://vercel.com/blog/vercel-welcomes-rich-harris-creator-of-svelte"/>
-        <updated>2021-11-13T00:35:53.317Z</updated>
-        <content type="html"><![CDATA[(vercel.com)]]></content>
     </entry>
 </feed>
