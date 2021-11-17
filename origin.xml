@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-17T11:10:29.445Z</updated>
+    <updated>2021-11-17T12:17:47.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[(if.kakao.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java Virtual Threads 프리뷰 공개]]></title>
-        <id>https://openjdk.java.net/jeps/8277131</id>
-        <link href="https://openjdk.java.net/jeps/8277131"/>
-        <updated>2021-11-17T01:54:11.169Z</updated>
-        <content type="html"><![CDATA[(openjdk.java.net)]]></content>
+        <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
+        <id>https://octoverse.github.com/</id>
+        <link href="https://octoverse.github.com/"/>
+        <updated>2021-11-17T00:37:16.288Z</updated>
+        <content type="html"><![CDATA[(octoverse.github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[(chillital.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
-        <id>https://octoverse.github.com/</id>
-        <link href="https://octoverse.github.com/"/>
-        <updated>2021-11-17T00:37:16.288Z</updated>
-        <content type="html"><![CDATA[(octoverse.github.com)]]></content>
+        <title type="html"><![CDATA[Java Virtual Threads 프리뷰 공개]]></title>
+        <id>https://openjdk.java.net/jeps/8277131</id>
+        <link href="https://openjdk.java.net/jeps/8277131"/>
+        <updated>2021-11-17T01:54:11.169Z</updated>
+        <content type="html"><![CDATA[(openjdk.java.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AppFlowy - 오픈소스 Notion 대체제]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(danpetrov.xyz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mani - 여러개의 Repo 관리용 CLI]]></title>
-        <id>https://github.com/alajmo/mani</id>
-        <link href="https://github.com/alajmo/mani"/>
-        <updated>2021-11-16T01:54:19.721Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[파일시스템 업그레이드로 SSD비용 수백만불 절약한 후기]]></title>
         <id>https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem</id>
         <link href="https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem"/>
         <updated>2021-11-15T00:36:56.535Z</updated>
         <content type="html"><![CDATA[(heap.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mani - 여러개의 Repo 관리용 CLI]]></title>
+        <id>https://github.com/alajmo/mani</id>
+        <link href="https://github.com/alajmo/mani"/>
+        <updated>2021-11-16T01:54:19.721Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Odyssey - 스케일러블 PostgreSQL 커넥션 풀러]]></title>
