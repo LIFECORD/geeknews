@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-17T14:11:55.879Z</updated>
+    <updated>2021-11-17T15:12:53.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
-        <id>https://github.com/chjj/mako</id>
-        <link href="https://github.com/chjj/mako"/>
-        <updated>2021-11-17T01:54:11.169Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[if(kakao) 2021]]></title>
         <id>https://if.kakao.com/</id>
         <link href="https://if.kakao.com/"/>
         <updated>2021-11-17T05:11:03.000Z</updated>
         <content type="html"><![CDATA[(if.kakao.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
+        <id>https://github.com/chjj/mako</id>
+        <link href="https://github.com/chjj/mako"/>
+        <updated>2021-11-17T01:54:11.169Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
