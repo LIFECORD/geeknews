@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-17T22:12:26.437Z</updated>
+    <updated>2021-11-17T23:12:17.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[if(kakao) 2021]]></title>
-        <id>https://if.kakao.com/</id>
-        <link href="https://if.kakao.com/"/>
-        <updated>2021-11-17T05:11:03.000Z</updated>
-        <content type="html"><![CDATA[(if.kakao.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
         <id>https://github.com/chjj/mako</id>
         <link href="https://github.com/chjj/mako"/>
         <updated>2021-11-17T01:54:11.169Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[if(kakao) 2021]]></title>
+        <id>https://if.kakao.com/</id>
+        <link href="https://if.kakao.com/"/>
+        <updated>2021-11-17T05:11:03.000Z</updated>
+        <content type="html"><![CDATA[(if.kakao.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(plausible.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[hop - tar 보다 10배 빠른 아카이브 포맷]]></title>
-        <id>https://github.com/Jarred-Sumner/hop</id>
-        <link href="https://github.com/Jarred-Sumner/hop"/>
-        <updated>2021-11-14T01:55:39.806Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[초보자를 위한 게임 해킹 테크닉 [511p PDF]]]></title>
         <id>https://gamehacking.academy/GameHackingAcademy.pdf</id>
         <link href="https://gamehacking.academy/GameHackingAcademy.pdf"/>
         <updated>2021-11-11T00:36:35.545Z</updated>
         <content type="html"><![CDATA[(gamehacking.academy)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hop - tar 보다 10배 빠른 아카이브 포맷]]></title>
+        <id>https://github.com/Jarred-Sumner/hop</id>
+        <link href="https://github.com/Jarred-Sumner/hop"/>
+        <updated>2021-11-14T01:55:39.806Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
