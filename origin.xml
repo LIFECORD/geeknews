@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-17T13:19:27.332Z</updated>
+    <updated>2021-11-17T14:11:55.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(octoverse.github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
-        <id>https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/</id>
-        <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
-        <updated>2021-11-17T00:37:16.297Z</updated>
-        <content type="html"><![CDATA[(chillital.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Java Virtual Threads 프리뷰 공개]]></title>
         <id>https://openjdk.java.net/jeps/8277131</id>
         <link href="https://openjdk.java.net/jeps/8277131"/>
         <updated>2021-11-17T01:54:11.169Z</updated>
         <content type="html"><![CDATA[(openjdk.java.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
+        <id>https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/</id>
+        <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
+        <updated>2021-11-17T00:37:16.297Z</updated>
+        <content type="html"><![CDATA[(chillital.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AppFlowy - 오픈소스 Notion 대체제]]></title>
