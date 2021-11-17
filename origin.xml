@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-17T01:54:44.995Z</updated>
+    <updated>2021-11-17T02:26:55.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://openjdk.java.net/jeps/8277131"/>
         <updated>2021-11-17T01:54:11.169Z</updated>
         <content type="html"><![CDATA[(openjdk.java.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
+        <id>https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/</id>
+        <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
+        <updated>2021-11-17T00:37:16.297Z</updated>
+        <content type="html"><![CDATA[(chillital.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Information이 뽑은 2021년 가장 유망한 스타트업 50]]></title>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AppFlowy - 오픈소스 Notion 대체제]]></title>
-        <id>https://www.appflowy.io/</id>
-        <link href="https://www.appflowy.io/"/>
-        <updated>2021-11-17T01:54:11.169Z</updated>
-        <content type="html"><![CDATA[(appflowy.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
         <id>https://skerritt.blog/make-popular-open-source-projects/</id>
         <link href="https://skerritt.blog/make-popular-open-source-projects/"/>
         <updated>2021-11-15T02:26:06.628Z</updated>
         <content type="html"><![CDATA[(skerritt.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppFlowy - 오픈소스 Notion 대체제]]></title>
+        <id>https://www.appflowy.io/</id>
+        <link href="https://www.appflowy.io/"/>
+        <updated>2021-11-17T01:54:11.169Z</updated>
+        <content type="html"><![CDATA[(appflowy.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
@@ -48,24 +55,17 @@
         <content type="html"><![CDATA[(octoverse.github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
-        <id>https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/</id>
-        <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
-        <updated>2021-11-17T00:37:16.297Z</updated>
-        <content type="html"><![CDATA[(chillital.com)]]></content>
+        <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
+        <id>https://github.com/adrianscheff/useful-sed</id>
+        <link href="https://github.com/adrianscheff/useful-sed"/>
+        <updated>2021-11-15T01:53:48.358Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SearX - 프라이버시를 존중하는 오픈소스 메타서치 엔진]]></title>
         <id>https://github.com/searx/searx</id>
         <link href="https://github.com/searx/searx"/>
         <updated>2021-11-16T00:36:53.575Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
-        <id>https://github.com/adrianscheff/useful-sed</id>
-        <link href="https://github.com/adrianscheff/useful-sed"/>
-        <updated>2021-11-15T01:53:48.358Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHut Readme Stats - 동적으로 자동 생성되는 통계 넣기]]></title>
-        <id>https://github.com/anuraghazra/github-readme-stats</id>
-        <link href="https://github.com/anuraghazra/github-readme-stats"/>
-        <updated>2021-11-14T00:38:00.070Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Analytics 대체 오픈소스가 $500k ARR까지 성장한 방법]]></title>
         <id>https://plausible.io/blog/bootstrapping-saas</id>
         <link href="https://plausible.io/blog/bootstrapping-saas"/>
         <updated>2021-11-14T17:16:22.429Z</updated>
         <content type="html"><![CDATA[(plausible.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHut Readme Stats - 동적으로 자동 생성되는 통계 넣기]]></title>
+        <id>https://github.com/anuraghazra/github-readme-stats</id>
+        <link href="https://github.com/anuraghazra/github-readme-stats"/>
+        <updated>2021-11-14T00:38:00.070Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[hop - tar 보다 10배 빠른 아카이브 포맷]]></title>
