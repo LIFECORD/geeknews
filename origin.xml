@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-17T02:26:55.368Z</updated>
+    <updated>2021-11-17T03:13:31.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,11 +13,18 @@
         <content type="html"><![CDATA[(openjdk.java.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
-        <id>https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/</id>
-        <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
-        <updated>2021-11-17T00:37:16.297Z</updated>
-        <content type="html"><![CDATA[(chillital.com)]]></content>
+        <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
+        <id>https://github.com/chjj/mako</id>
+        <link href="https://github.com/chjj/mako"/>
+        <updated>2021-11-17T01:54:11.169Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
+        <id>https://octoverse.github.com/</id>
+        <link href="https://octoverse.github.com/"/>
+        <updated>2021-11-17T00:37:16.288Z</updated>
+        <content type="html"><![CDATA[(octoverse.github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Information이 뽑은 2021년 가장 유망한 스타트업 50]]></title>
@@ -27,11 +34,11 @@
         <content type="html"><![CDATA[(theinformation.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
-        <id>https://github.com/chjj/mako</id>
-        <link href="https://github.com/chjj/mako"/>
-        <updated>2021-11-17T01:54:11.169Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
+        <id>https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/</id>
+        <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
+        <updated>2021-11-17T00:37:16.297Z</updated>
+        <content type="html"><![CDATA[(chillital.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
@@ -46,13 +53,6 @@
         <link href="https://www.appflowy.io/"/>
         <updated>2021-11-17T01:54:11.169Z</updated>
         <content type="html"><![CDATA[(appflowy.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
-        <id>https://octoverse.github.com/</id>
-        <link href="https://octoverse.github.com/"/>
-        <updated>2021-11-17T00:37:16.288Z</updated>
-        <content type="html"><![CDATA[(octoverse.github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
