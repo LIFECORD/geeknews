@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-18T21:11:12.779Z</updated>
+    <updated>2021-11-18T22:12:01.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[if(kakao) 2021]]></title>
-        <id>https://if.kakao.com/</id>
-        <link href="https://if.kakao.com/"/>
-        <updated>2021-11-17T05:11:03.000Z</updated>
-        <content type="html"><![CDATA[(if.kakao.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Information이 뽑은 2021년 가장 유망한 스타트업 50]]></title>
         <id>https://www.theinformation.com/ti50</id>
         <link href="https://www.theinformation.com/ti50"/>
         <updated>2021-11-16T02:26:13.195Z</updated>
         <content type="html"><![CDATA[(theinformation.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[if(kakao) 2021]]></title>
+        <id>https://if.kakao.com/</id>
+        <link href="https://if.kakao.com/"/>
+        <updated>2021-11-17T05:11:03.000Z</updated>
+        <content type="html"><![CDATA[(if.kakao.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
