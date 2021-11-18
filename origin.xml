@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-18T05:11:40.693Z</updated>
+    <updated>2021-11-18T06:14:26.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(regexlearn.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netlify Drop 공개]]></title>
-        <id>https://app.netlify.com/drop</id>
-        <link href="https://app.netlify.com/drop"/>
-        <updated>2021-11-18T01:54:02.447Z</updated>
-        <content type="html"><![CDATA[(app.netlify.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cloudflare Pages, 풀스택 지원]]></title>
         <id>https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/</id>
         <link href="https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"/>
         <updated>2021-11-18T01:54:02.444Z</updated>
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netlify Drop 공개]]></title>
+        <id>https://app.netlify.com/drop</id>
+        <link href="https://app.netlify.com/drop"/>
+        <updated>2021-11-18T01:54:02.447Z</updated>
+        <content type="html"><![CDATA[(app.netlify.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 Top 10 사이트 공개]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 이메일 디자인 트렌드]]></title>
-        <id>https://designmodo.com/email-design-trends-2022/</id>
-        <link href="https://designmodo.com/email-design-trends-2022/"/>
-        <updated>2021-11-15T01:53:48.364Z</updated>
-        <content type="html"><![CDATA[(designmodo.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SearX - 프라이버시를 존중하는 오픈소스 메타서치 엔진]]></title>
         <id>https://github.com/searx/searx</id>
         <link href="https://github.com/searx/searx"/>
         <updated>2021-11-16T00:36:53.575Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 이메일 디자인 트렌드]]></title>
+        <id>https://designmodo.com/email-design-trends-2022/</id>
+        <link href="https://designmodo.com/email-design-trends-2022/"/>
+        <updated>2021-11-15T01:53:48.364Z</updated>
+        <content type="html"><![CDATA[(designmodo.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[macOS Monterey에 포함된 networkQuality 도구의 비밀]]></title>
