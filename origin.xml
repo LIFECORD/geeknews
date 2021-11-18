@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-18T00:38:30.391Z</updated>
+    <updated>2021-11-18T01:54:55.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[넷플릭스 Top 10 사이트 공개]]></title>
-        <id>https://top10.netflix.com/</id>
-        <link href="https://top10.netflix.com/"/>
-        <updated>2021-11-18T00:37:47.259Z</updated>
-        <content type="html"><![CDATA[(top10.netflix.com)]]></content>
+        <title type="html"><![CDATA[RegEX Learn - 처음부터 단계별로 배우는 정규식]]></title>
+        <id>https://regexlearn.com/</id>
+        <link href="https://regexlearn.com/"/>
+        <updated>2021-11-18T01:54:02.444Z</updated>
+        <content type="html"><![CDATA[(regexlearn.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Pages, 풀스택 지원]]></title>
+        <id>https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/</id>
+        <link href="https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"/>
+        <updated>2021-11-18T01:54:02.444Z</updated>
+        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple, 셀프 서비스 수리 프로그램 발표]]></title>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
-        <id>https://github.com/chjj/mako</id>
-        <link href="https://github.com/chjj/mako"/>
-        <updated>2021-11-17T01:54:11.169Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[Netlify Drop 공개]]></title>
+        <id>https://app.netlify.com/drop</id>
+        <link href="https://app.netlify.com/drop"/>
+        <updated>2021-11-18T01:54:02.447Z</updated>
+        <content type="html"><![CDATA[(app.netlify.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[if(kakao) 2021]]></title>
@@ -32,6 +39,20 @@
         <link href="https://if.kakao.com/"/>
         <updated>2021-11-17T05:11:03.000Z</updated>
         <content type="html"><![CDATA[(if.kakao.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
+        <id>https://github.com/chjj/mako</id>
+        <link href="https://github.com/chjj/mako"/>
+        <updated>2021-11-17T01:54:11.169Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 Top 10 사이트 공개]]></title>
+        <id>https://top10.netflix.com/</id>
+        <link href="https://top10.netflix.com/"/>
+        <updated>2021-11-18T00:37:47.259Z</updated>
+        <content type="html"><![CDATA[(top10.netflix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
@@ -48,6 +69,13 @@
         <content type="html"><![CDATA[(openjdk.java.net)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AppFlowy - 오픈소스 Notion 대체제]]></title>
+        <id>https://www.appflowy.io/</id>
+        <link href="https://www.appflowy.io/"/>
+        <updated>2021-11-17T01:54:11.169Z</updated>
+        <content type="html"><![CDATA[(appflowy.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
         <id>https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/</id>
         <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
@@ -60,13 +88,6 @@
         <link href="https://www.theinformation.com/ti50"/>
         <updated>2021-11-16T02:26:13.195Z</updated>
         <content type="html"><![CDATA[(theinformation.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppFlowy - 오픈소스 Notion 대체제]]></title>
-        <id>https://www.appflowy.io/</id>
-        <link href="https://www.appflowy.io/"/>
-        <updated>2021-11-17T01:54:11.169Z</updated>
-        <content type="html"><![CDATA[(appflowy.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
@@ -123,26 +144,5 @@
         <link href="https://github.com/alajmo/mani"/>
         <updated>2021-11-16T01:54:19.721Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Odyssey - 스케일러블 PostgreSQL 커넥션 풀러]]></title>
-        <id>https://github.com/yandex/odyssey</id>
-        <link href="https://github.com/yandex/odyssey"/>
-        <updated>2021-11-15T01:53:48.362Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHut Readme Stats - 동적으로 자동 생성되는 통계 넣기]]></title>
-        <id>https://github.com/anuraghazra/github-readme-stats</id>
-        <link href="https://github.com/anuraghazra/github-readme-stats"/>
-        <updated>2021-11-14T00:38:00.070Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초보자를 위한 게임 해킹 테크닉 [511p PDF]]]></title>
-        <id>https://gamehacking.academy/GameHackingAcademy.pdf</id>
-        <link href="https://gamehacking.academy/GameHackingAcademy.pdf"/>
-        <updated>2021-11-11T00:36:35.545Z</updated>
-        <content type="html"><![CDATA[(gamehacking.academy)]]></content>
     </entry>
 </feed>
