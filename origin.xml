@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-18T07:12:43.231Z</updated>
+    <updated>2021-11-18T08:14:37.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SearX - 프라이버시를 존중하는 오픈소스 메타서치 엔진]]></title>
-        <id>https://github.com/searx/searx</id>
-        <link href="https://github.com/searx/searx"/>
-        <updated>2021-11-16T00:36:53.575Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 이메일 디자인 트렌드]]></title>
         <id>https://designmodo.com/email-design-trends-2022/</id>
         <link href="https://designmodo.com/email-design-trends-2022/"/>
         <updated>2021-11-15T01:53:48.364Z</updated>
         <content type="html"><![CDATA[(designmodo.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SearX - 프라이버시를 존중하는 오픈소스 메타서치 엔진]]></title>
+        <id>https://github.com/searx/searx</id>
+        <link href="https://github.com/searx/searx"/>
+        <updated>2021-11-16T00:36:53.575Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[macOS Monterey에 포함된 networkQuality 도구의 비밀]]></title>
