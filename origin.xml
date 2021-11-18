@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-18T14:12:38.009Z</updated>
+    <updated>2021-11-18T15:13:14.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넷플릭스 Top 10 사이트 공개]]></title>
-        <id>https://top10.netflix.com/</id>
-        <link href="https://top10.netflix.com/"/>
-        <updated>2021-11-18T00:37:47.259Z</updated>
-        <content type="html"><![CDATA[(top10.netflix.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
         <id>https://github.com/chjj/mako</id>
         <link href="https://github.com/chjj/mako"/>
@@ -41,11 +34,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple, 셀프 서비스 수리 프로그램 발표]]></title>
-        <id>https://www.apple.com/kr/newsroom/2021/11/apple-announces-self-service-repair/</id>
-        <link href="https://www.apple.com/kr/newsroom/2021/11/apple-announces-self-service-repair/"/>
-        <updated>2021-11-18T00:37:47.267Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
+        <title type="html"><![CDATA[넷플릭스 Top 10 사이트 공개]]></title>
+        <id>https://top10.netflix.com/</id>
+        <link href="https://top10.netflix.com/"/>
+        <updated>2021-11-18T00:37:47.259Z</updated>
+        <content type="html"><![CDATA[(top10.netflix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[if(kakao) 2021]]></title>
@@ -53,6 +46,13 @@
         <link href="https://if.kakao.com/"/>
         <updated>2021-11-17T05:11:03.000Z</updated>
         <content type="html"><![CDATA[(if.kakao.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, 셀프 서비스 수리 프로그램 발표]]></title>
+        <id>https://www.apple.com/kr/newsroom/2021/11/apple-announces-self-service-repair/</id>
+        <link href="https://www.apple.com/kr/newsroom/2021/11/apple-announces-self-service-repair/"/>
+        <updated>2021-11-18T00:37:47.267Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
