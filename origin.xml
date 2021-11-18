@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-18T19:10:43.733Z</updated>
+    <updated>2021-11-18T20:10:58.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[넷플릭스 Top 10 사이트 공개]]></title>
+        <id>https://top10.netflix.com/</id>
+        <link href="https://top10.netflix.com/"/>
+        <updated>2021-11-18T00:37:47.259Z</updated>
+        <content type="html"><![CDATA[(top10.netflix.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
         <id>https://github.com/chjj/mako</id>
         <link href="https://github.com/chjj/mako"/>
@@ -60,13 +67,6 @@
         <link href="https://octoverse.github.com/"/>
         <updated>2021-11-17T00:37:16.288Z</updated>
         <content type="html"><![CDATA[(octoverse.github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 Top 10 사이트 공개]]></title>
-        <id>https://top10.netflix.com/</id>
-        <link href="https://top10.netflix.com/"/>
-        <updated>2021-11-18T00:37:47.259Z</updated>
-        <content type="html"><![CDATA[(top10.netflix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Java Virtual Threads 프리뷰 공개]]></title>
