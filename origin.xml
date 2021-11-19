@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-19T16:17:19.110Z</updated>
+    <updated>2021-11-19T17:18:25.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(app.netlify.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare Pages, 풀스택 지원]]></title>
-        <id>https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/</id>
-        <link href="https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"/>
-        <updated>2021-11-18T01:54:02.444Z</updated>
-        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애플, 2025년 목표로 완전 자율주행차 개발중]]></title>
         <id>https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND</id>
         <link href="https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND"/>
         <updated>2021-11-19T02:27:31.214Z</updated>
         <content type="html"><![CDATA[(bloomberg.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Pages, 풀스택 지원]]></title>
+        <id>https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/</id>
+        <link href="https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"/>
+        <updated>2021-11-18T01:54:02.444Z</updated>
+        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI의 API, 이제 누구나 바로 바로 사용 가능]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(openjdk.java.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
-        <id>https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/</id>
-        <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
-        <updated>2021-11-17T00:37:16.297Z</updated>
-        <content type="html"><![CDATA[(chillital.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
         <id>https://github.com/adrianscheff/useful-sed</id>
         <link href="https://github.com/adrianscheff/useful-sed"/>
         <updated>2021-11-19T04:14:40.774Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
+        <id>https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/</id>
+        <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
+        <updated>2021-11-17T00:37:16.297Z</updated>
+        <content type="html"><![CDATA[(chillital.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 Top 10 사이트 공개]]></title>
