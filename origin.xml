@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-19T00:38:09.535Z</updated>
+    <updated>2021-11-19T01:55:27.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[원가절감의 정석: 제품 디자인]]></title>
+        <id>https://clien.net/service/board/lecture/16698022</id>
+        <link href="https://clien.net/service/board/lecture/16698022"/>
+        <updated>2021-11-19T00:37:29.483Z</updated>
+        <content type="html"><![CDATA[(clien.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RedisJSON 퍼블릭 프리뷰 공개]]></title>
         <id>https://redis.com/blog/redisjson-public-preview-performance-benchmarking</id>
         <link href="https://redis.com/blog/redisjson-public-preview-performance-benchmarking"/>
         <updated>2021-11-19T00:37:29.472Z</updated>
         <content type="html"><![CDATA[(redis.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tldraw - 오픈소스 벡터 그림 편집기 React 컴포넌트]]></title>
+        <id>https://github.com/tldraw/tldraw</id>
+        <link href="https://github.com/tldraw/tldraw"/>
+        <updated>2021-11-19T01:54:48.740Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RegEX Learn - 처음부터 단계별로 배우는 정규식]]></title>
@@ -27,11 +41,18 @@
         <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원가절감의 정석: 제품 디자인]]></title>
-        <id>https://clien.net/service/board/lecture/16698022</id>
-        <link href="https://clien.net/service/board/lecture/16698022"/>
-        <updated>2021-11-19T00:37:29.483Z</updated>
-        <content type="html"><![CDATA[(clien.net)]]></content>
+        <title type="html"><![CDATA[OpenAI의 API, 이제 누구나 바로 바로 사용 가능]]></title>
+        <id>https://openai.com/blog/api-no-waitlist/</id>
+        <link href="https://openai.com/blog/api-no-waitlist/"/>
+        <updated>2021-11-19T01:54:48.746Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lighthouse 9.0 공개]]></title>
+        <id>https://developer.chrome.com/blog/lighthouse-9-0/</id>
+        <link href="https://developer.chrome.com/blog/lighthouse-9-0/"/>
+        <updated>2021-11-19T01:54:48.746Z</updated>
+        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netlify Drop 공개]]></title>
@@ -69,18 +90,18 @@
         <content type="html"><![CDATA[(top10.netflix.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[if(kakao) 2021]]></title>
-        <id>https://if.kakao.com/</id>
-        <link href="https://if.kakao.com/"/>
-        <updated>2021-11-17T05:11:03.000Z</updated>
-        <content type="html"><![CDATA[(if.kakao.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
         <id>https://skerritt.blog/make-popular-open-source-projects/</id>
         <link href="https://skerritt.blog/make-popular-open-source-projects/"/>
         <updated>2021-11-15T02:26:06.628Z</updated>
         <content type="html"><![CDATA[(skerritt.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[if(kakao) 2021]]></title>
+        <id>https://if.kakao.com/</id>
+        <link href="https://if.kakao.com/"/>
+        <updated>2021-11-17T05:11:03.000Z</updated>
+        <content type="html"><![CDATA[(if.kakao.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
@@ -123,26 +144,5 @@
         <link href="https://github.com/adrianscheff/useful-sed"/>
         <updated>2021-11-15T01:53:48.358Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SearX - 프라이버시를 존중하는 오픈소스 메타서치 엔진]]></title>
-        <id>https://github.com/searx/searx</id>
-        <link href="https://github.com/searx/searx"/>
-        <updated>2021-11-16T00:36:53.575Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 이메일 디자인 트렌드]]></title>
-        <id>https://designmodo.com/email-design-trends-2022/</id>
-        <link href="https://designmodo.com/email-design-trends-2022/"/>
-        <updated>2021-11-15T01:53:48.364Z</updated>
-        <content type="html"><![CDATA[(designmodo.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS Monterey에 포함된 networkQuality 도구의 비밀]]></title>
-        <id>https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html</id>
-        <link href="https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html"/>
-        <updated>2021-11-16T01:54:19.721Z</updated>
-        <content type="html"><![CDATA[(danpetrov.xyz)]]></content>
     </entry>
 </feed>
