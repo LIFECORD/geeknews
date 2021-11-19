@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-19T10:13:27.099Z</updated>
+    <updated>2021-11-19T11:10:53.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Information이 뽑은 2021년 가장 유망한 스타트업 50]]></title>
+        <id>https://www.theinformation.com/ti50</id>
+        <link href="https://www.theinformation.com/ti50"/>
+        <updated>2021-11-16T02:26:13.195Z</updated>
+        <content type="html"><![CDATA[(theinformation.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플, 2025년 목표로 완전 자율주행차 개발중]]></title>
         <id>https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND</id>
         <link href="https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND"/>
@@ -69,11 +76,11 @@
         <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Information이 뽑은 2021년 가장 유망한 스타트업 50]]></title>
-        <id>https://www.theinformation.com/ti50</id>
-        <link href="https://www.theinformation.com/ti50"/>
-        <updated>2021-11-16T02:26:13.195Z</updated>
-        <content type="html"><![CDATA[(theinformation.com)]]></content>
+        <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
+        <id>https://skerritt.blog/make-popular-open-source-projects/</id>
+        <link href="https://skerritt.blog/make-popular-open-source-projects/"/>
+        <updated>2021-11-15T02:26:06.628Z</updated>
+        <content type="html"><![CDATA[(skerritt.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
@@ -81,13 +88,6 @@
         <link href="https://github.com/chjj/mako"/>
         <updated>2021-11-17T01:54:11.169Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
-        <id>https://skerritt.blog/make-popular-open-source-projects/</id>
-        <link href="https://skerritt.blog/make-popular-open-source-projects/"/>
-        <updated>2021-11-15T02:26:06.628Z</updated>
-        <content type="html"><![CDATA[(skerritt.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[if(kakao) 2021]]></title>
