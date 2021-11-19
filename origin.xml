@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-19T13:19:54.651Z</updated>
+    <updated>2021-11-19T14:12:09.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(app.netlify.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cloudflare Pages, 풀스택 지원]]></title>
+        <id>https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/</id>
+        <link href="https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"/>
+        <updated>2021-11-18T01:54:02.444Z</updated>
+        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플, 2025년 목표로 완전 자율주행차 개발중]]></title>
         <id>https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND</id>
         <link href="https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND"/>
@@ -60,13 +67,6 @@
         <link href="https://openai.com/blog/api-no-waitlist/"/>
         <updated>2021-11-19T01:54:48.746Z</updated>
         <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare Pages, 풀스택 지원]]></title>
-        <id>https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/</id>
-        <link href="https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"/>
-        <updated>2021-11-18T01:54:02.444Z</updated>
-        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lighthouse 9.0 공개]]></title>
