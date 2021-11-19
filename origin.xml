@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-18T23:12:39.586Z</updated>
+    <updated>2021-11-19T00:38:09.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RedisJSON 퍼블릭 프리뷰 공개]]></title>
+        <id>https://redis.com/blog/redisjson-public-preview-performance-benchmarking</id>
+        <link href="https://redis.com/blog/redisjson-public-preview-performance-benchmarking"/>
+        <updated>2021-11-19T00:37:29.472Z</updated>
+        <content type="html"><![CDATA[(redis.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RegEX Learn - 처음부터 단계별로 배우는 정규식]]></title>
         <id>https://regexlearn.com/</id>
         <link href="https://regexlearn.com/"/>
         <updated>2021-11-18T01:54:02.444Z</updated>
         <content type="html"><![CDATA[(regexlearn.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독일의 슐레스비히홀슈타인주에서 2만5천대의 PC에 리브레오피스(LibreOffice)로 교체할 계획]]></title>
+        <id>https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/</id>
+        <link href="https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/"/>
+        <updated>2021-11-18T18:14:09.571Z</updated>
+        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원가절감의 정석: 제품 디자인]]></title>
+        <id>https://clien.net/service/board/lecture/16698022</id>
+        <link href="https://clien.net/service/board/lecture/16698022"/>
+        <updated>2021-11-19T00:37:29.483Z</updated>
+        <content type="html"><![CDATA[(clien.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Netlify Drop 공개]]></title>
@@ -27,20 +48,6 @@
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[독일의 슐레스비히홀슈타인주에서 2만5천대의 PC에 리브레오피스(LibreOffice)로 교체할 계획]]></title>
-        <id>https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/</id>
-        <link href="https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/"/>
-        <updated>2021-11-18T18:14:09.571Z</updated>
-        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 Top 10 사이트 공개]]></title>
-        <id>https://top10.netflix.com/</id>
-        <link href="https://top10.netflix.com/"/>
-        <updated>2021-11-18T00:37:47.259Z</updated>
-        <content type="html"><![CDATA[(top10.netflix.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
         <id>https://github.com/chjj/mako</id>
         <link href="https://github.com/chjj/mako"/>
@@ -55,6 +62,13 @@
         <content type="html"><![CDATA[(theinformation.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[넷플릭스 Top 10 사이트 공개]]></title>
+        <id>https://top10.netflix.com/</id>
+        <link href="https://top10.netflix.com/"/>
+        <updated>2021-11-18T00:37:47.259Z</updated>
+        <content type="html"><![CDATA[(top10.netflix.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[if(kakao) 2021]]></title>
         <id>https://if.kakao.com/</id>
         <link href="https://if.kakao.com/"/>
@@ -62,18 +76,18 @@
         <content type="html"><![CDATA[(if.kakao.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
-        <id>https://octoverse.github.com/</id>
-        <link href="https://octoverse.github.com/"/>
-        <updated>2021-11-17T00:37:16.288Z</updated>
-        <content type="html"><![CDATA[(octoverse.github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
         <id>https://skerritt.blog/make-popular-open-source-projects/</id>
         <link href="https://skerritt.blog/make-popular-open-source-projects/"/>
         <updated>2021-11-15T02:26:06.628Z</updated>
         <content type="html"><![CDATA[(skerritt.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
+        <id>https://octoverse.github.com/</id>
+        <link href="https://octoverse.github.com/"/>
+        <updated>2021-11-17T00:37:16.288Z</updated>
+        <content type="html"><![CDATA[(octoverse.github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Java Virtual Threads 프리뷰 공개]]></title>
@@ -90,18 +104,18 @@
         <content type="html"><![CDATA[(chillital.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple, 셀프 서비스 수리 프로그램 발표]]></title>
-        <id>https://www.apple.com/kr/newsroom/2021/11/apple-announces-self-service-repair/</id>
-        <link href="https://www.apple.com/kr/newsroom/2021/11/apple-announces-self-service-repair/"/>
-        <updated>2021-11-18T00:37:47.267Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AppFlowy - 오픈소스 Notion 대체제]]></title>
         <id>https://www.appflowy.io/</id>
         <link href="https://www.appflowy.io/"/>
         <updated>2021-11-17T01:54:11.169Z</updated>
         <content type="html"><![CDATA[(appflowy.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, 셀프 서비스 수리 프로그램 발표]]></title>
+        <id>https://www.apple.com/kr/newsroom/2021/11/apple-announces-self-service-repair/</id>
+        <link href="https://www.apple.com/kr/newsroom/2021/11/apple-announces-self-service-repair/"/>
+        <updated>2021-11-18T00:37:47.267Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
@@ -130,19 +144,5 @@
         <link href="https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html"/>
         <updated>2021-11-16T01:54:19.721Z</updated>
         <content type="html"><![CDATA[(danpetrov.xyz)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICON의 역사]]></title>
-        <id>https://historyoficons.com/</id>
-        <link href="https://historyoficons.com/"/>
-        <updated>2021-11-16T00:36:53.582Z</updated>
-        <content type="html"><![CDATA[(historyoficons.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파일시스템 업그레이드로 SSD비용 수백만불 절약한 후기]]></title>
-        <id>https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem</id>
-        <link href="https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem"/>
-        <updated>2021-11-15T00:36:56.535Z</updated>
-        <content type="html"><![CDATA[(heap.io)]]></content>
     </entry>
 </feed>
