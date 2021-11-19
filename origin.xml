@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-19T19:10:38.079Z</updated>
+    <updated>2021-11-19T20:12:32.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[tldraw - 오픈소스 벡터 그림 편집기 React 컴포넌트]]></title>
-        <id>https://github.com/tldraw/tldraw</id>
-        <link href="https://github.com/tldraw/tldraw"/>
-        <updated>2021-11-19T01:54:48.740Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[원가절감의 정석: 제품 디자인]]></title>
         <id>https://clien.net/service/board/lecture/16698022</id>
         <link href="https://clien.net/service/board/lecture/16698022"/>
         <updated>2021-11-19T00:37:29.483Z</updated>
         <content type="html"><![CDATA[(clien.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tldraw - 오픈소스 벡터 그림 편집기 React 컴포넌트]]></title>
+        <id>https://github.com/tldraw/tldraw</id>
+        <link href="https://github.com/tldraw/tldraw"/>
+        <updated>2021-11-19T01:54:48.740Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RegEX Learn - 처음부터 단계별로 배우는 정규식]]></title>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lighthouse 9.0 공개]]></title>
-        <id>https://developer.chrome.com/blog/lighthouse-9-0/</id>
-        <link href="https://developer.chrome.com/blog/lighthouse-9-0/"/>
-        <updated>2021-11-19T01:54:48.746Z</updated>
-        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
         <id>https://skerritt.blog/make-popular-open-source-projects/</id>
         <link href="https://skerritt.blog/make-popular-open-source-projects/"/>
@@ -83,11 +76,11 @@
         <content type="html"><![CDATA[(skerritt.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
-        <id>https://github.com/chjj/mako</id>
-        <link href="https://github.com/chjj/mako"/>
-        <updated>2021-11-17T01:54:11.169Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[Lighthouse 9.0 공개]]></title>
+        <id>https://developer.chrome.com/blog/lighthouse-9-0/</id>
+        <link href="https://developer.chrome.com/blog/lighthouse-9-0/"/>
+        <updated>2021-11-19T01:54:48.746Z</updated>
+        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Information이 뽑은 2021년 가장 유망한 스타트업 50]]></title>
@@ -95,6 +88,13 @@
         <link href="https://www.theinformation.com/ti50"/>
         <updated>2021-11-16T02:26:13.195Z</updated>
         <content type="html"><![CDATA[(theinformation.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
+        <id>https://github.com/chjj/mako</id>
+        <link href="https://github.com/chjj/mako"/>
+        <updated>2021-11-17T01:54:11.169Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[if(kakao) 2021]]></title>
