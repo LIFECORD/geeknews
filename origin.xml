@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-19T01:55:27.373Z</updated>
+    <updated>2021-11-19T02:28:07.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/"/>
         <updated>2021-11-18T18:14:09.571Z</updated>
         <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 2025년 목표로 완전 자율주행차 개발중]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND"/>
+        <updated>2021-11-19T02:27:31.214Z</updated>
+        <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI의 API, 이제 누구나 바로 바로 사용 가능]]></title>
@@ -83,11 +90,11 @@
         <content type="html"><![CDATA[(theinformation.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넷플릭스 Top 10 사이트 공개]]></title>
-        <id>https://top10.netflix.com/</id>
-        <link href="https://top10.netflix.com/"/>
-        <updated>2021-11-18T00:37:47.259Z</updated>
-        <content type="html"><![CDATA[(top10.netflix.com)]]></content>
+        <title type="html"><![CDATA[if(kakao) 2021]]></title>
+        <id>https://if.kakao.com/</id>
+        <link href="https://if.kakao.com/"/>
+        <updated>2021-11-17T05:11:03.000Z</updated>
+        <content type="html"><![CDATA[(if.kakao.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
@@ -97,11 +104,11 @@
         <content type="html"><![CDATA[(skerritt.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[if(kakao) 2021]]></title>
-        <id>https://if.kakao.com/</id>
-        <link href="https://if.kakao.com/"/>
-        <updated>2021-11-17T05:11:03.000Z</updated>
-        <content type="html"><![CDATA[(if.kakao.com)]]></content>
+        <title type="html"><![CDATA[넷플릭스 Top 10 사이트 공개]]></title>
+        <id>https://top10.netflix.com/</id>
+        <link href="https://top10.netflix.com/"/>
+        <updated>2021-11-18T00:37:47.259Z</updated>
+        <content type="html"><![CDATA[(top10.netflix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.apple.com/kr/newsroom/2021/11/apple-announces-self-service-repair/"/>
         <updated>2021-11-18T00:37:47.267Z</updated>
         <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
-        <id>https://github.com/adrianscheff/useful-sed</id>
-        <link href="https://github.com/adrianscheff/useful-sed"/>
-        <updated>2021-11-15T01:53:48.358Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
