@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-20T02:28:21.975Z</updated>
+    <updated>2021-11-20T03:12:45.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lighthouse 9.0 공개]]></title>
-        <id>https://developer.chrome.com/blog/lighthouse-9-0/</id>
-        <link href="https://developer.chrome.com/blog/lighthouse-9-0/"/>
-        <updated>2021-11-19T01:54:48.746Z</updated>
-        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
         <id>https://octoverse.github.com/</id>
         <link href="https://octoverse.github.com/"/>
         <updated>2021-11-17T00:37:16.288Z</updated>
         <content type="html"><![CDATA[(octoverse.github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lighthouse 9.0 공개]]></title>
+        <id>https://developer.chrome.com/blog/lighthouse-9-0/</id>
+        <link href="https://developer.chrome.com/blog/lighthouse-9-0/"/>
+        <updated>2021-11-19T01:54:48.746Z</updated>
+        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
 </feed>
