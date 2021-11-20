@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-20T04:15:03.561Z</updated>
+    <updated>2021-11-20T05:10:48.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(clien.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tldraw - 오픈소스 벡터 그림 편집기 React 컴포넌트]]></title>
-        <id>https://github.com/tldraw/tldraw</id>
-        <link href="https://github.com/tldraw/tldraw"/>
-        <updated>2021-11-19T01:54:48.740Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RegEX Learn - 처음부터 단계별로 배우는 정규식]]></title>
         <id>https://regexlearn.com/</id>
         <link href="https://regexlearn.com/"/>
         <updated>2021-11-18T01:54:02.444Z</updated>
         <content type="html"><![CDATA[(regexlearn.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tldraw - 오픈소스 벡터 그림 편집기 React 컴포넌트]]></title>
+        <id>https://github.com/tldraw/tldraw</id>
+        <link href="https://github.com/tldraw/tldraw"/>
+        <updated>2021-11-19T01:54:48.740Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RedisJSON 퍼블릭 프리뷰 공개]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[if(kakao) 2021]]></title>
-        <id>https://if.kakao.com/</id>
-        <link href="https://if.kakao.com/"/>
-        <updated>2021-11-17T05:11:03.000Z</updated>
-        <content type="html"><![CDATA[(if.kakao.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
         <id>https://github.com/adrianscheff/useful-sed</id>
         <link href="https://github.com/adrianscheff/useful-sed"/>
         <updated>2021-11-19T04:14:40.774Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[if(kakao) 2021]]></title>
+        <id>https://if.kakao.com/</id>
+        <link href="https://if.kakao.com/"/>
+        <updated>2021-11-17T05:11:03.000Z</updated>
+        <content type="html"><![CDATA[(if.kakao.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lighthouse 9.0 공개]]></title>
-        <id>https://developer.chrome.com/blog/lighthouse-9-0/</id>
-        <link href="https://developer.chrome.com/blog/lighthouse-9-0/"/>
-        <updated>2021-11-19T01:54:48.746Z</updated>
-        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
+        <title type="html"><![CDATA[Java Virtual Threads 프리뷰 공개]]></title>
+        <id>https://openjdk.java.net/jeps/8277131</id>
+        <link href="https://openjdk.java.net/jeps/8277131"/>
+        <updated>2021-11-20T05:10:11.142Z</updated>
+        <content type="html"><![CDATA[(openjdk.java.net)]]></content>
     </entry>
 </feed>
