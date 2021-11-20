@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-20T14:11:33.005Z</updated>
+    <updated>2021-11-20T15:11:58.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[(app.netlify.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cloudflare Pages, 풀스택 지원]]></title>
+        <id>https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/</id>
+        <link href="https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"/>
+        <updated>2021-11-18T01:54:02.444Z</updated>
+        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[독일의 슐레스비히홀슈타인주에서 2만5천대의 PC에 리브레오피스(LibreOffice)로 교체할 계획]]></title>
         <id>https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/</id>
         <link href="https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/"/>
@@ -76,11 +83,11 @@
         <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare Pages, 풀스택 지원]]></title>
-        <id>https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/</id>
-        <link href="https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"/>
-        <updated>2021-11-18T01:54:02.444Z</updated>
-        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+        <title type="html"><![CDATA[OpenAI의 API, 이제 누구나 바로 바로 사용 가능]]></title>
+        <id>https://openai.com/blog/api-no-waitlist/</id>
+        <link href="https://openai.com/blog/api-no-waitlist/"/>
+        <updated>2021-11-20T14:10:47.658Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
@@ -118,13 +125,6 @@
         <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI의 API, 이제 누구나 바로 바로 사용 가능]]></title>
-        <id>https://openai.com/blog/api-no-waitlist/</id>
-        <link href="https://openai.com/blog/api-no-waitlist/"/>
-        <updated>2021-11-20T14:10:47.658Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[if(kakao) 2021]]></title>
         <id>https://if.kakao.com/</id>
         <link href="https://if.kakao.com/"/>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(if.kakao.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
-        <id>https://octoverse.github.com/</id>
-        <link href="https://octoverse.github.com/"/>
-        <updated>2021-11-17T00:37:16.288Z</updated>
-        <content type="html"><![CDATA[(octoverse.github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
         <id>https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/</id>
         <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
         <updated>2021-11-20T09:11:55.507Z</updated>
         <content type="html"><![CDATA[(chillital.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
+        <id>https://octoverse.github.com/</id>
+        <link href="https://octoverse.github.com/"/>
+        <updated>2021-11-17T00:37:16.288Z</updated>
+        <content type="html"><![CDATA[(octoverse.github.com)]]></content>
     </entry>
 </feed>
