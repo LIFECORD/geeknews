@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-20T19:09:49.178Z</updated>
+    <updated>2021-11-20T20:12:24.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(skerritt.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI의 API, 이제 누구나 바로 바로 사용 가능]]></title>
-        <id>https://openai.com/blog/api-no-waitlist/</id>
-        <link href="https://openai.com/blog/api-no-waitlist/"/>
-        <updated>2021-11-20T14:10:47.658Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Information이 뽑은 2021년 가장 유망한 스타트업 50]]></title>
         <id>https://www.theinformation.com/ti50</id>
         <link href="https://www.theinformation.com/ti50"/>
         <updated>2021-11-16T02:26:13.195Z</updated>
         <content type="html"><![CDATA[(theinformation.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI의 API, 이제 누구나 바로 바로 사용 가능]]></title>
+        <id>https://openai.com/blog/api-no-waitlist/</id>
+        <link href="https://openai.com/blog/api-no-waitlist/"/>
+        <updated>2021-11-20T14:10:47.658Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 2025년 목표로 완전 자율주행차 개발중]]></title>
-        <id>https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND"/>
-        <updated>2021-11-19T02:27:31.214Z</updated>
-        <content type="html"><![CDATA[(bloomberg.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
         <id>https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/</id>
         <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
@@ -137,6 +130,13 @@
         <link href="https://if.kakao.com/"/>
         <updated>2021-11-17T05:11:03.000Z</updated>
         <content type="html"><![CDATA[(if.kakao.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 2025년 목표로 완전 자율주행차 개발중]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND"/>
+        <updated>2021-11-19T02:27:31.214Z</updated>
+        <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
