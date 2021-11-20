@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-19T23:12:39.059Z</updated>
+    <updated>2021-11-20T00:37:17.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TensorFlow Graph Neural Networks(GNNs) 공개]]></title>
+        <id>https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html</id>
+        <link href="https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html"/>
+        <updated>2021-11-20T00:36:42.153Z</updated>
+        <content type="html"><![CDATA[(blog.tensorflow.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS Power Fx - 로우코드 프로그래밍 언어 오픈소스 공개]]></title>
+        <id>https://github.com/microsoft/power-fx</id>
+        <link href="https://github.com/microsoft/power-fx"/>
+        <updated>2021-11-20T00:36:42.162Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원가절감의 정석: 제품 디자인]]></title>
         <id>https://clien.net/service/board/lecture/16698022</id>
@@ -48,18 +62,18 @@
         <content type="html"><![CDATA[(app.netlify.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 2025년 목표로 완전 자율주행차 개발중]]></title>
-        <id>https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND"/>
-        <updated>2021-11-19T02:27:31.214Z</updated>
-        <content type="html"><![CDATA[(bloomberg.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cloudflare Pages, 풀스택 지원]]></title>
         <id>https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/</id>
         <link href="https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"/>
         <updated>2021-11-18T01:54:02.444Z</updated>
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 2025년 목표로 완전 자율주행차 개발중]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-11-18/apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle?sref=I5jUJbND"/>
+        <updated>2021-11-19T02:27:31.214Z</updated>
+        <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
@@ -83,6 +97,13 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[if(kakao) 2021]]></title>
+        <id>https://if.kakao.com/</id>
+        <link href="https://if.kakao.com/"/>
+        <updated>2021-11-17T05:11:03.000Z</updated>
+        <content type="html"><![CDATA[(if.kakao.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenAI의 API, 이제 누구나 바로 바로 사용 가능]]></title>
         <id>https://openai.com/blog/api-no-waitlist/</id>
         <link href="https://openai.com/blog/api-no-waitlist/"/>
@@ -95,13 +116,6 @@
         <link href="https://developer.chrome.com/blog/lighthouse-9-0/"/>
         <updated>2021-11-19T01:54:48.746Z</updated>
         <content type="html"><![CDATA[(developer.chrome.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[if(kakao) 2021]]></title>
-        <id>https://if.kakao.com/</id>
-        <link href="https://if.kakao.com/"/>
-        <updated>2021-11-17T05:11:03.000Z</updated>
-        <content type="html"><![CDATA[(if.kakao.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub의 Octoverse 2021 리포트]]></title>
@@ -130,19 +144,5 @@
         <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
         <updated>2021-11-17T00:37:16.297Z</updated>
         <content type="html"><![CDATA[(chillital.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppFlowy - 오픈소스 Notion 대체제]]></title>
-        <id>https://www.appflowy.io/</id>
-        <link href="https://www.appflowy.io/"/>
-        <updated>2021-11-17T01:54:11.169Z</updated>
-        <content type="html"><![CDATA[(appflowy.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 Top 10 사이트 공개]]></title>
-        <id>https://top10.netflix.com/</id>
-        <link href="https://top10.netflix.com/"/>
-        <updated>2021-11-18T00:37:47.259Z</updated>
-        <content type="html"><![CDATA[(top10.netflix.com)]]></content>
     </entry>
 </feed>
