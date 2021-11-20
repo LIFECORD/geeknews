@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-20T00:37:17.337Z</updated>
+    <updated>2021-11-20T01:53:31.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[TensorFlow Graph Neural Networks(GNNs) 공개]]></title>
-        <id>https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html</id>
-        <link href="https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html"/>
-        <updated>2021-11-20T00:36:42.153Z</updated>
-        <content type="html"><![CDATA[(blog.tensorflow.org)]]></content>
+        <title type="html"><![CDATA[Zellij - 개발자 & Ops를 위한 터미널]]></title>
+        <id>https://github.com/zellij-org/zellij</id>
+        <link href="https://github.com/zellij-org/zellij"/>
+        <updated>2021-11-20T01:52:46.982Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MS Power Fx - 로우코드 프로그래밍 언어 오픈소스 공개]]></title>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KoGPT - 한국어 AI언어모델 오픈소스 공개]]></title>
+        <id>https://github.com/kakaobrain/kogpt</id>
+        <link href="https://github.com/kakaobrain/kogpt"/>
+        <updated>2021-11-20T01:52:47.002Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[원가절감의 정석: 제품 디자인]]></title>
         <id>https://clien.net/service/board/lecture/16698022</id>
         <link href="https://clien.net/service/board/lecture/16698022"/>
         <updated>2021-11-19T00:37:29.483Z</updated>
         <content type="html"><![CDATA[(clien.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TensorFlow Graph Neural Networks(GNNs) 공개]]></title>
+        <id>https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html</id>
+        <link href="https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html"/>
+        <updated>2021-11-20T00:36:42.153Z</updated>
+        <content type="html"><![CDATA[(blog.tensorflow.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tldraw - 오픈소스 벡터 그림 편집기 React 컴포넌트]]></title>
@@ -48,18 +62,18 @@
         <content type="html"><![CDATA[(redis.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[독일의 슐레스비히홀슈타인주에서 2만5천대의 PC에 리브레오피스(LibreOffice)로 교체할 계획]]></title>
-        <id>https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/</id>
-        <link href="https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/"/>
-        <updated>2021-11-18T18:14:09.571Z</updated>
-        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Netlify Drop 공개]]></title>
         <id>https://app.netlify.com/drop</id>
         <link href="https://app.netlify.com/drop"/>
         <updated>2021-11-18T01:54:02.447Z</updated>
         <content type="html"><![CDATA[(app.netlify.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독일의 슐레스비히홀슈타인주에서 2만5천대의 PC에 리브레오피스(LibreOffice)로 교체할 계획]]></title>
+        <id>https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/</id>
+        <link href="https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/"/>
+        <updated>2021-11-18T18:14:09.571Z</updated>
+        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare Pages, 풀스택 지원]]></title>
@@ -130,19 +144,5 @@
         <link href="https://github.com/adrianscheff/useful-sed"/>
         <updated>2021-11-19T04:14:40.774Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java Virtual Threads 프리뷰 공개]]></title>
-        <id>https://openjdk.java.net/jeps/8277131</id>
-        <link href="https://openjdk.java.net/jeps/8277131"/>
-        <updated>2021-11-17T01:54:11.169Z</updated>
-        <content type="html"><![CDATA[(openjdk.java.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
-        <id>https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/</id>
-        <link href="https://chillital.com/the-alternative-page-content-strategy-a-gateway-to-conversions/"/>
-        <updated>2021-11-17T00:37:16.297Z</updated>
-        <content type="html"><![CDATA[(chillital.com)]]></content>
     </entry>
 </feed>
