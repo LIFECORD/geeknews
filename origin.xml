@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-21T15:12:36.525Z</updated>
+    <updated>2021-11-21T16:16:29.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(blog.tensorflow.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[독일의 슐레스비히홀슈타인주에서 2만5천대의 PC에 리브레오피스(LibreOffice)로 교체할 계획]]></title>
-        <id>https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/</id>
-        <link href="https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/"/>
-        <updated>2021-11-18T18:14:09.571Z</updated>
-        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cloudflare Pages, 풀스택 지원]]></title>
         <id>https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/</id>
         <link href="https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"/>
         <updated>2021-11-18T01:54:02.444Z</updated>
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독일의 슐레스비히홀슈타인주에서 2만5천대의 PC에 리브레오피스(LibreOffice)로 교체할 계획]]></title>
+        <id>https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/</id>
+        <link href="https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/"/>
+        <updated>2021-11-18T18:14:09.571Z</updated>
+        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Information이 뽑은 2021년 가장 유망한 스타트업 50]]></title>
