@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-11-20T23:12:01.811Z</updated>
+    <updated>2021-11-21T00:39:13.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -66,16 +66,16 @@
         <updated>2021-10-29T01:53:05.388Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5237</id>
-        <link href="https://news.hada.io/topic?id=5237"/>
-        <updated>2021-10-22T00:42:14.279Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 서울을 벗어난 삶에대해 어떻게 생각하시나요?]]></title>
         <id>https://news.hada.io/topic?id=5067</id>
         <link href="https://news.hada.io/topic?id=5067"/>
         <updated>2021-09-28T01:34:45.881Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5237</id>
+        <link href="https://news.hada.io/topic?id=5237"/>
+        <updated>2021-10-22T00:42:14.279Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 긱뉴스를 만드시면서 선택하신 기술스택과 주요 의사결정의 배경이 궁금합니다.]]></title>
@@ -84,16 +84,16 @@
         <updated>2021-11-04T03:12:50.368Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5201</id>
-        <link href="https://news.hada.io/topic?id=5201"/>
-        <updated>2021-10-15T01:58:54.007Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 유튜브에서 얻은 정보를 어떻게 저장하시나요?]]></title>
         <id>https://news.hada.io/topic?id=5172</id>
         <link href="https://news.hada.io/topic?id=5172"/>
         <updated>2021-10-10T03:11:20.351Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5201</id>
+        <link href="https://news.hada.io/topic?id=5201"/>
+        <updated>2021-10-15T01:58:54.007Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 정보를 어떻게 골라서 취식하시나요?]]></title>
