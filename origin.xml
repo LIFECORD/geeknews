@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-21T01:57:21.651Z</updated>
+    <updated>2021-11-21T02:28:47.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원가절감의 정석: 제품 디자인]]></title>
-        <id>https://clien.net/service/board/lecture/16698022</id>
-        <link href="https://clien.net/service/board/lecture/16698022"/>
-        <updated>2021-11-19T00:37:29.483Z</updated>
-        <content type="html"><![CDATA[(clien.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RegEX Learn - 처음부터 단계별로 배우는 정규식]]></title>
         <id>https://regexlearn.com/</id>
         <link href="https://regexlearn.com/"/>
         <updated>2021-11-18T01:54:02.444Z</updated>
         <content type="html"><![CDATA[(regexlearn.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원가절감의 정석: 제품 디자인]]></title>
+        <id>https://clien.net/service/board/lecture/16698022</id>
+        <link href="https://clien.net/service/board/lecture/16698022"/>
+        <updated>2021-11-19T00:37:29.483Z</updated>
+        <content type="html"><![CDATA[(clien.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MS Power Fx - 로우코드 프로그래밍 언어 오픈소스 공개]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI의 API, 이제 누구나 바로 바로 사용 가능]]></title>
-        <id>https://openai.com/blog/api-no-waitlist/</id>
-        <link href="https://openai.com/blog/api-no-waitlist/"/>
-        <updated>2021-11-20T14:10:47.658Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
         <id>https://github.com/chjj/mako</id>
         <link href="https://github.com/chjj/mako"/>
         <updated>2021-11-17T01:54:11.169Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI의 API, 이제 누구나 바로 바로 사용 가능]]></title>
+        <id>https://openai.com/blog/api-no-waitlist/</id>
+        <link href="https://openai.com/blog/api-no-waitlist/"/>
+        <updated>2021-11-20T14:10:47.658Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SaaS를 위한 "Alternative Page" 콘텐츠 전략]]></title>
