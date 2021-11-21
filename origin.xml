@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-21T19:10:07.976Z</updated>
+    <updated>2021-11-21T20:12:37.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[(skerritt.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TensorFlow Graph Neural Networks(GNNs) 공개]]></title>
-        <id>https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html</id>
-        <link href="https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html"/>
-        <updated>2021-11-20T00:36:42.153Z</updated>
-        <content type="html"><![CDATA[(blog.tensorflow.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cloudflare Pages, 풀스택 지원]]></title>
         <id>https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/</id>
         <link href="https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"/>
@@ -109,6 +102,13 @@
         <link href="https://www.theinformation.com/ti50"/>
         <updated>2021-11-16T02:26:13.195Z</updated>
         <content type="html"><![CDATA[(theinformation.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TensorFlow Graph Neural Networks(GNNs) 공개]]></title>
+        <id>https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html</id>
+        <link href="https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html"/>
+        <updated>2021-11-20T00:36:42.153Z</updated>
+        <content type="html"><![CDATA[(blog.tensorflow.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[독일의 슐레스비히홀슈타인주에서 2만5천대의 PC에 리브레오피스(LibreOffice)로 교체할 계획]]></title>
