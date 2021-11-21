@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-21T09:16:27.987Z</updated>
+    <updated>2021-11-21T10:13:30.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원가절감의 정석: 제품 디자인]]></title>
-        <id>https://clien.net/service/board/lecture/16698022</id>
-        <link href="https://clien.net/service/board/lecture/16698022"/>
-        <updated>2021-11-19T00:37:29.483Z</updated>
-        <content type="html"><![CDATA[(clien.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RegEX Learn - 처음부터 단계별로 배우는 정규식]]></title>
         <id>https://regexlearn.com/</id>
         <link href="https://regexlearn.com/"/>
         <updated>2021-11-18T01:54:02.444Z</updated>
         <content type="html"><![CDATA[(regexlearn.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원가절감의 정석: 제품 디자인]]></title>
+        <id>https://clien.net/service/board/lecture/16698022</id>
+        <link href="https://clien.net/service/board/lecture/16698022"/>
+        <updated>2021-11-19T00:37:29.483Z</updated>
+        <content type="html"><![CDATA[(clien.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MS Power Fx - 로우코드 프로그래밍 언어 오픈소스 공개]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(redis.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TensorFlow Graph Neural Networks(GNNs) 공개]]></title>
-        <id>https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html</id>
-        <link href="https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html"/>
-        <updated>2021-11-20T00:36:42.153Z</updated>
-        <content type="html"><![CDATA[(blog.tensorflow.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Netlify Drop 공개]]></title>
         <id>https://app.netlify.com/drop</id>
         <link href="https://app.netlify.com/drop"/>
         <updated>2021-11-18T01:54:02.447Z</updated>
         <content type="html"><![CDATA[(app.netlify.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TensorFlow Graph Neural Networks(GNNs) 공개]]></title>
+        <id>https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html</id>
+        <link href="https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html"/>
+        <updated>2021-11-20T00:36:42.153Z</updated>
+        <content type="html"><![CDATA[(blog.tensorflow.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
