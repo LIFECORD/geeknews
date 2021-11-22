@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-22T15:13:01.238Z</updated>
+    <updated>2021-11-22T16:19:05.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cmder - 윈도우용 포터블 콘솔 에뮬레이터]]></title>
-        <id>https://github.com/cmderdev/cmder</id>
-        <link href="https://github.com/cmderdev/cmder"/>
-        <updated>2021-11-22T01:55:10.981Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oil - 새로운 Unix 쉘]]></title>
         <id>http://www.oilshell.org/</id>
         <link href="http://www.oilshell.org/"/>
         <updated>2021-11-21T00:38:37.379Z</updated>
         <content type="html"><![CDATA[(oilshell.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cmder - 윈도우용 포터블 콘솔 에뮬레이터]]></title>
+        <id>https://github.com/cmderdev/cmder</id>
+        <link href="https://github.com/cmderdev/cmder"/>
+        <updated>2021-11-22T01:55:10.981Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KoGPT - 한국어 AI언어모델 오픈소스 공개]]></title>
