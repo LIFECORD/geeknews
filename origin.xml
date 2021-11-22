@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-22T10:13:50.220Z</updated>
+    <updated>2021-11-22T11:10:52.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(clien.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fonoster - Twilio의 오픈소스 대체제]]></title>
-        <id>https://github.com/fonoster/fonoster</id>
-        <link href="https://github.com/fonoster/fonoster"/>
-        <updated>2021-11-22T01:55:10.978Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[테크니컬 라이팅 4대 원칙]]></title>
         <id>https://tech.kakaoenterprise.com/102</id>
         <link href="https://tech.kakaoenterprise.com/102"/>
         <updated>2021-11-21T01:56:38.543Z</updated>
         <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fonoster - Twilio의 오픈소스 대체제]]></title>
+        <id>https://github.com/fonoster/fonoster</id>
+        <link href="https://github.com/fonoster/fonoster"/>
+        <updated>2021-11-22T01:55:10.978Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 스프레드시트를 이용한 주식 포트폴리오 관리]]></title>
@@ -90,17 +90,17 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tldraw - 오픈소스 벡터 그림 편집기 React 컴포넌트]]></title>
-        <id>https://github.com/tldraw/tldraw</id>
-        <link href="https://github.com/tldraw/tldraw"/>
-        <updated>2021-11-19T01:54:48.740Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MS Power Fx - 로우코드 프로그래밍 언어 오픈소스 공개]]></title>
         <id>https://github.com/microsoft/power-fx</id>
         <link href="https://github.com/microsoft/power-fx"/>
         <updated>2021-11-20T00:36:42.162Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tldraw - 오픈소스 벡터 그림 편집기 React 컴포넌트]]></title>
+        <id>https://github.com/tldraw/tldraw</id>
+        <link href="https://github.com/tldraw/tldraw"/>
+        <updated>2021-11-19T01:54:48.740Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
