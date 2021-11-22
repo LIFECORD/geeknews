@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-22T14:11:57.339Z</updated>
+    <updated>2021-11-22T15:13:01.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,25 +111,11 @@
         <content type="html"><![CDATA[(redis.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
-        <id>https://skerritt.blog/make-popular-open-source-projects/</id>
-        <link href="https://skerritt.blog/make-popular-open-source-projects/"/>
-        <updated>2021-11-15T02:26:06.628Z</updated>
-        <content type="html"><![CDATA[(skerritt.blog)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Netlify Drop 공개]]></title>
         <id>https://app.netlify.com/drop</id>
         <link href="https://app.netlify.com/drop"/>
         <updated>2021-11-18T01:54:02.447Z</updated>
         <content type="html"><![CDATA[(app.netlify.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유용한 sed 스크립트와 패턴들]]></title>
-        <id>https://github.com/adrianscheff/useful-sed</id>
-        <link href="https://github.com/adrianscheff/useful-sed"/>
-        <updated>2021-11-19T04:14:40.774Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Information이 뽑은 2021년 가장 유망한 스타트업 50]]></title>
@@ -144,5 +130,19 @@
         <link href="https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/"/>
         <updated>2021-11-18T01:54:02.444Z</updated>
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독일의 슐레스비히홀슈타인주에서 2만5천대의 PC에 리브레오피스(LibreOffice)로 교체할 계획]]></title>
+        <id>https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/</id>
+        <link href="https://blog.documentfoundation.org/blog/2021/11/18/german-state-planning-to-switch-25000-pcs-to-libreoffice/"/>
+        <updated>2021-11-22T15:12:23.329Z</updated>
+        <content type="html"><![CDATA[(blog.documentfoundation.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mako - C로 작성된 완전한 비트코인 구현체]]></title>
+        <id>https://github.com/chjj/mako</id>
+        <link href="https://github.com/chjj/mako"/>
+        <updated>2021-11-22T15:12:23.329Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
