@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-23T19:09:08.226Z</updated>
+    <updated>2021-11-23T20:13:51.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cmder - 윈도우용 포터블 콘솔 에뮬레이터]]></title>
-        <id>https://github.com/cmderdev/cmder</id>
-        <link href="https://github.com/cmderdev/cmder"/>
-        <updated>2021-11-22T01:55:10.981Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[Netlify Drop 공개]]></title>
+        <id>https://app.netlify.com/drop</id>
+        <link href="https://app.netlify.com/drop"/>
+        <updated>2021-11-23T20:13:14.685Z</updated>
+        <content type="html"><![CDATA[(app.netlify.com)]]></content>
     </entry>
 </feed>
