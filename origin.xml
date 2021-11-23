@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-23T09:13:27.390Z</updated>
+    <updated>2021-11-23T10:13:42.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,17 +118,17 @@
         <content type="html"><![CDATA[(clien.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cmder - 윈도우용 포터블 콘솔 에뮬레이터]]></title>
-        <id>https://github.com/cmderdev/cmder</id>
-        <link href="https://github.com/cmderdev/cmder"/>
-        <updated>2021-11-22T01:55:10.981Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[tldraw - 오픈소스 벡터 그림 편집기 React 컴포넌트]]></title>
         <id>https://github.com/tldraw/tldraw</id>
         <link href="https://github.com/tldraw/tldraw"/>
         <updated>2021-11-19T01:54:48.740Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cmder - 윈도우용 포터블 콘솔 에뮬레이터]]></title>
+        <id>https://github.com/cmderdev/cmder</id>
+        <link href="https://github.com/cmderdev/cmder"/>
+        <updated>2021-11-22T01:55:10.981Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
