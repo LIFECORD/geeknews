@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-24T11:10:35.769Z</updated>
+    <updated>2021-11-24T12:18:32.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(coindeskkorea.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Caffeine - Minimum Viable Backend 오픈소스]]></title>
+        <id>https://github.com/rehacktive/caffeine</id>
+        <link href="https://github.com/rehacktive/caffeine"/>
+        <updated>2021-11-24T01:54:32.847Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SliTaz - 50MB 초경량 GNU/Linux 배포본]]></title>
         <id>https://slitaz.org/</id>
         <link href="https://slitaz.org/"/>
@@ -109,13 +116,6 @@
         <link href="https://www.clien.net/service/board/lecture/16703427"/>
         <updated>2021-11-21T01:56:38.541Z</updated>
         <content type="html"><![CDATA[(clien.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caffeine - Minimum Viable Backend 오픈소스]]></title>
-        <id>https://github.com/rehacktive/caffeine</id>
-        <link href="https://github.com/rehacktive/caffeine"/>
-        <updated>2021-11-24T01:54:32.847Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 워크스페이스로 간단한 회사 결재서비스 구현하기]]></title>
