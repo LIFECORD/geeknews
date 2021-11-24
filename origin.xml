@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-24T02:27:20.149Z</updated>
+    <updated>2021-11-24T03:13:00.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[(blog.kraken.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YARP - MS의 리버스 프록시 개발 툴킷]]></title>
-        <id>https://github.com/microsoft/reverse-proxy</id>
-        <link href="https://github.com/microsoft/reverse-proxy"/>
-        <updated>2021-11-24T00:37:19.793Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[elfshaker - 바이너리에 최적화된 고성능 버전 관리 시스템]]></title>
         <id>https://github.com/elfshaker/elfshaker</id>
         <link href="https://github.com/elfshaker/elfshaker"/>
@@ -27,11 +20,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
-        <id>https://news.ycombinator.com/item?id=29297229</id>
-        <link href="https://news.ycombinator.com/item?id=29297229"/>
-        <updated>2021-11-23T01:53:46.891Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+        <title type="html"><![CDATA[YARP - MS의 리버스 프록시 개발 툴킷]]></title>
+        <id>https://github.com/microsoft/reverse-proxy</id>
+        <link href="https://github.com/microsoft/reverse-proxy"/>
+        <updated>2021-11-24T00:37:19.793Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빌게이츠의 2021년 추천서적 5권]]></title>
@@ -41,6 +34,20 @@
         <content type="html"><![CDATA[(gatesnotes.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
+        <id>https://news.ycombinator.com/item?id=29297229</id>
+        <link href="https://news.ycombinator.com/item?id=29297229"/>
+        <updated>2021-11-23T01:53:46.891Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winamp - 완전히 새로 개발 중]]></title>
+        <id>https://www.winamp.com/</id>
+        <link href="https://www.winamp.com/"/>
+        <updated>2021-11-24T03:12:14.884Z</updated>
+        <content type="html"><![CDATA[(winamp.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Caffeine - Minimum Viable Backend 오픈소스]]></title>
         <id>https://github.com/rehacktive/caffeine</id>
         <link href="https://github.com/rehacktive/caffeine"/>
@@ -48,18 +55,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kamazon 11번가 아마존 가격 하락 알리미 아키텍쳐]]></title>
-        <id>https://www.clien.net/service/board/lecture/16712065</id>
-        <link href="https://www.clien.net/service/board/lecture/16712065"/>
-        <updated>2021-11-23T04:14:35.567Z</updated>
-        <content type="html"><![CDATA[(clien.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[쉽게 설명한 NFT 따라하기]]></title>
         <id>https://www.coindeskkorea.com/news/articleView.html?idxno=76262</id>
         <link href="https://www.coindeskkorea.com/news/articleView.html?idxno=76262"/>
         <updated>2021-11-23T00:37:04.461Z</updated>
         <content type="html"><![CDATA[(coindeskkorea.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kamazon 11번가 아마존 가격 하락 알리미 아키텍쳐]]></title>
+        <id>https://www.clien.net/service/board/lecture/16712065</id>
+        <link href="https://www.clien.net/service/board/lecture/16712065"/>
+        <updated>2021-11-23T04:14:35.567Z</updated>
+        <content type="html"><![CDATA[(clien.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SliTaz - 50MB 초경량 GNU/Linux 배포본]]></title>
@@ -137,12 +144,5 @@
         <link href="http://www.oilshell.org/"/>
         <updated>2021-11-21T00:38:37.379Z</updated>
         <content type="html"><![CDATA[(oilshell.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원가절감의 정석: 제품 디자인]]></title>
-        <id>https://clien.net/service/board/lecture/16698022</id>
-        <link href="https://clien.net/service/board/lecture/16698022"/>
-        <updated>2021-11-19T00:37:29.483Z</updated>
-        <content type="html"><![CDATA[(clien.net)]]></content>
     </entry>
 </feed>
