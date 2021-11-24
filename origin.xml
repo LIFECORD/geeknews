@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-24T00:37:54.641Z</updated>
+    <updated>2021-11-24T01:55:14.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지문은 쉽게 해킹 가능하다]]></title>
+        <id>https://blog.kraken.com/post/11905/your-fingerprint-can-be-hacked-for-5-heres-how/</id>
+        <link href="https://blog.kraken.com/post/11905/your-fingerprint-can-be-hacked-for-5-heres-how/"/>
+        <updated>2021-11-24T01:54:32.841Z</updated>
+        <content type="html"><![CDATA[(blog.kraken.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YARP - MS의 리버스 프록시 개발 툴킷]]></title>
+        <id>https://github.com/microsoft/reverse-proxy</id>
+        <link href="https://github.com/microsoft/reverse-proxy"/>
+        <updated>2021-11-24T00:37:19.793Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
         <id>https://news.ycombinator.com/item?id=29297229</id>
@@ -13,10 +27,17 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YARP - MS의 리버스 프록시 개발 툴킷]]></title>
-        <id>https://github.com/microsoft/reverse-proxy</id>
-        <link href="https://github.com/microsoft/reverse-proxy"/>
-        <updated>2021-11-24T00:37:19.793Z</updated>
+        <title type="html"><![CDATA[elfshaker - 바이너리에 최적화된 고성능 버전 관리 시스템]]></title>
+        <id>https://github.com/elfshaker/elfshaker</id>
+        <link href="https://github.com/elfshaker/elfshaker"/>
+        <updated>2021-11-24T01:54:32.846Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caffeine - Minimum Viable Backend 오픈소스]]></title>
+        <id>https://github.com/rehacktive/caffeine</id>
+        <link href="https://github.com/rehacktive/caffeine"/>
+        <updated>2021-11-24T01:54:32.847Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -48,18 +69,18 @@
         <content type="html"><![CDATA[(whatevers.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[메타버스 핵심 읽기]]></title>
-        <id>https://c-rocket.net/deepdive_deepclass-1/</id>
-        <link href="https://c-rocket.net/deepdive_deepclass-1/"/>
-        <updated>2021-11-23T01:53:46.896Z</updated>
-        <content type="html"><![CDATA[(c-rocket.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[개발자들을 위한 테크니컬 라이팅 10계명]]></title>
         <id>https://tech-kakaoenterprise.tistory.com/110</id>
         <link href="https://tech-kakaoenterprise.tistory.com/110"/>
         <updated>2021-11-22T01:55:10.977Z</updated>
         <content type="html"><![CDATA[(tech-kakaoenterprise.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타버스 핵심 읽기]]></title>
+        <id>https://c-rocket.net/deepdive_deepclass-1/</id>
+        <link href="https://c-rocket.net/deepdive_deepclass-1/"/>
+        <updated>2021-11-23T01:53:46.896Z</updated>
+        <content type="html"><![CDATA[(c-rocket.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사용자 Offboarding 체크리스트 (PDF)]]></title>
@@ -122,27 +143,6 @@
         <id>https://github.com/kakaobrain/kogpt</id>
         <link href="https://github.com/kakaobrain/kogpt"/>
         <updated>2021-11-20T01:52:47.002Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tldraw - 오픈소스 벡터 그림 편집기 React 컴포넌트]]></title>
-        <id>https://github.com/tldraw/tldraw</id>
-        <link href="https://github.com/tldraw/tldraw"/>
-        <updated>2021-11-19T01:54:48.740Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zellij - 개발자 & Ops를 위한 터미널]]></title>
-        <id>https://github.com/zellij-org/zellij</id>
-        <link href="https://github.com/zellij-org/zellij"/>
-        <updated>2021-11-20T01:52:46.982Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS Power Fx - 로우코드 프로그래밍 언어 오픈소스 공개]]></title>
-        <id>https://github.com/microsoft/power-fx</id>
-        <link href="https://github.com/microsoft/power-fx"/>
-        <updated>2021-11-20T00:36:42.162Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
