@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-24T17:19:21.317Z</updated>
+    <updated>2021-11-24T18:14:11.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(coindeskkorea.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caffeine - Minimum Viable Backend 오픈소스]]></title>
-        <id>https://github.com/rehacktive/caffeine</id>
-        <link href="https://github.com/rehacktive/caffeine"/>
-        <updated>2021-11-24T01:54:32.847Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[kamazon 11번가 아마존 가격 하락 알리미 아키텍쳐]]></title>
         <id>https://www.clien.net/service/board/lecture/16712065</id>
         <link href="https://www.clien.net/service/board/lecture/16712065"/>
         <updated>2021-11-23T04:14:35.567Z</updated>
         <content type="html"><![CDATA[(clien.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caffeine - Minimum Viable Backend 오픈소스]]></title>
+        <id>https://github.com/rehacktive/caffeine</id>
+        <link href="https://github.com/rehacktive/caffeine"/>
+        <updated>2021-11-24T01:54:32.847Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개발자들을 위한 테크니컬 라이팅 10계명]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(tech-kakaoenterprise.tistory.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Winamp - 완전히 새로 개발 중]]></title>
-        <id>https://www.winamp.com/</id>
-        <link href="https://www.winamp.com/"/>
-        <updated>2021-11-24T03:12:14.884Z</updated>
-        <content type="html"><![CDATA[(winamp.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SliTaz - 50MB 초경량 GNU/Linux 배포본]]></title>
         <id>https://slitaz.org/</id>
         <link href="https://slitaz.org/"/>
         <updated>2021-11-23T01:53:46.893Z</updated>
         <content type="html"><![CDATA[(slitaz.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winamp - 완전히 새로 개발 중]]></title>
+        <id>https://www.winamp.com/</id>
+        <link href="https://www.winamp.com/"/>
+        <updated>2021-11-24T03:12:14.884Z</updated>
+        <content type="html"><![CDATA[(winamp.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사용자 Offboarding 체크리스트 (PDF)]]></title>
