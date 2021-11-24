@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-24T07:14:07.244Z</updated>
+    <updated>2021-11-24T08:14:25.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(whatevers.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caffeine - Minimum Viable Backend 오픈소스]]></title>
-        <id>https://github.com/rehacktive/caffeine</id>
-        <link href="https://github.com/rehacktive/caffeine"/>
-        <updated>2021-11-24T01:54:32.847Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사용자 Offboarding 체크리스트 (PDF)]]></title>
         <id>https://cdn.growth.design/wp-content/uploads/user-offboarding-scorecard__growth-design.pdf</id>
         <link href="https://cdn.growth.design/wp-content/uploads/user-offboarding-scorecard__growth-design.pdf"/>
         <updated>2021-11-22T01:55:10.981Z</updated>
         <content type="html"><![CDATA[(cdn.growth.design)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caffeine - Minimum Viable Backend 오픈소스]]></title>
+        <id>https://github.com/rehacktive/caffeine</id>
+        <link href="https://github.com/rehacktive/caffeine"/>
+        <updated>2021-11-24T01:54:32.847Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메타버스 핵심 읽기]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(regexlearn.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fonoster - Twilio의 오픈소스 대체제]]></title>
-        <id>https://github.com/fonoster/fonoster</id>
-        <link href="https://github.com/fonoster/fonoster"/>
-        <updated>2021-11-22T01:55:10.978Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oil - 새로운 Unix 쉘]]></title>
         <id>http://www.oilshell.org/</id>
         <link href="http://www.oilshell.org/"/>
         <updated>2021-11-21T00:38:37.379Z</updated>
         <content type="html"><![CDATA[(oilshell.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fonoster - Twilio의 오픈소스 대체제]]></title>
+        <id>https://github.com/fonoster/fonoster</id>
+        <link href="https://github.com/fonoster/fonoster"/>
+        <updated>2021-11-22T01:55:10.978Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
