@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-24T08:14:25.252Z</updated>
+    <updated>2021-11-24T09:13:09.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(cdn.growth.design)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caffeine - Minimum Viable Backend 오픈소스]]></title>
-        <id>https://github.com/rehacktive/caffeine</id>
-        <link href="https://github.com/rehacktive/caffeine"/>
-        <updated>2021-11-24T01:54:32.847Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[메타버스 핵심 읽기]]></title>
         <id>https://c-rocket.net/deepdive_deepclass-1/</id>
         <link href="https://c-rocket.net/deepdive_deepclass-1/"/>
         <updated>2021-11-23T01:53:46.896Z</updated>
         <content type="html"><![CDATA[(c-rocket.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caffeine - Minimum Viable Backend 오픈소스]]></title>
+        <id>https://github.com/rehacktive/caffeine</id>
+        <link href="https://github.com/rehacktive/caffeine"/>
+        <updated>2021-11-24T01:54:32.847Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[테크니컬 라이팅 4대 원칙]]></title>
