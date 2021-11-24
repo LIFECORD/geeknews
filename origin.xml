@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-23T23:12:55.046Z</updated>
+    <updated>2021-11-24T00:37:54.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.ycombinator.com/item?id=29297229"/>
         <updated>2021-11-23T01:53:46.891Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YARP - MS의 리버스 프록시 개발 툴킷]]></title>
+        <id>https://github.com/microsoft/reverse-proxy</id>
+        <link href="https://github.com/microsoft/reverse-proxy"/>
+        <updated>2021-11-24T00:37:19.793Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[kamazon 11번가 아마존 가격 하락 알리미 아키텍쳐]]></title>
@@ -27,6 +34,13 @@
         <content type="html"><![CDATA[(coindeskkorea.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SliTaz - 50MB 초경량 GNU/Linux 배포본]]></title>
+        <id>https://slitaz.org/</id>
+        <link href="https://slitaz.org/"/>
+        <updated>2021-11-23T01:53:46.893Z</updated>
+        <content type="html"><![CDATA[(slitaz.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[테크 기업은 주주서한에서 무엇을 말하는가]]></title>
         <id>https://whatevers.io/?p=4100</id>
         <link href="https://whatevers.io/?p=4100"/>
@@ -39,13 +53,6 @@
         <link href="https://c-rocket.net/deepdive_deepclass-1/"/>
         <updated>2021-11-23T01:53:46.896Z</updated>
         <content type="html"><![CDATA[(c-rocket.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SliTaz - 50MB 초경량 GNU/Linux 배포본]]></title>
-        <id>https://slitaz.org/</id>
-        <link href="https://slitaz.org/"/>
-        <updated>2021-11-23T01:53:46.893Z</updated>
-        <content type="html"><![CDATA[(slitaz.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개발자들을 위한 테크니컬 라이팅 10계명]]></title>
@@ -137,12 +144,5 @@
         <link href="https://github.com/microsoft/power-fx"/>
         <updated>2021-11-20T00:36:42.162Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netlify Drop 공개]]></title>
-        <id>https://app.netlify.com/drop</id>
-        <link href="https://app.netlify.com/drop"/>
-        <updated>2021-11-23T20:13:14.685Z</updated>
-        <content type="html"><![CDATA[(app.netlify.com)]]></content>
     </entry>
 </feed>
