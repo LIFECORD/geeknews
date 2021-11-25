@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-25T14:11:57.984Z</updated>
+    <updated>2021-11-25T15:13:39.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(on.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YARP - MS의 리버스 프록시 개발 툴킷]]></title>
-        <id>https://github.com/microsoft/reverse-proxy</id>
-        <link href="https://github.com/microsoft/reverse-proxy"/>
-        <updated>2021-11-24T00:37:19.793Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[개발자들을 위한 테크니컬 라이팅 10계명]]></title>
         <id>https://tech-kakaoenterprise.tistory.com/110</id>
         <link href="https://tech-kakaoenterprise.tistory.com/110"/>
         <updated>2021-11-22T01:55:10.977Z</updated>
         <content type="html"><![CDATA[(tech-kakaoenterprise.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YARP - MS의 리버스 프록시 개발 툴킷]]></title>
+        <id>https://github.com/microsoft/reverse-proxy</id>
+        <link href="https://github.com/microsoft/reverse-proxy"/>
+        <updated>2021-11-24T00:37:19.793Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쉽게 설명한 NFT 따라하기]]></title>
