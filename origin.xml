@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-25T17:19:10.384Z</updated>
+    <updated>2021-11-25T18:13:47.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(phoboslab.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jovo - 보이스 & 채팅을 위한 프레임워크]]></title>
-        <id>https://github.com/jovotech/jovo-framework</id>
-        <link href="https://github.com/jovotech/jovo-framework"/>
-        <updated>2021-11-25T01:56:01.117Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
         <id>https://news.ycombinator.com/item?id=29297229</id>
         <link href="https://news.ycombinator.com/item?id=29297229"/>
         <updated>2021-11-23T01:53:46.891Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jovo - 보이스 & 채팅을 위한 프레임워크]]></title>
+        <id>https://github.com/jovotech/jovo-framework</id>
+        <link href="https://github.com/jovotech/jovo-framework"/>
+        <updated>2021-11-25T01:56:01.117Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유용한 1줄 CSS 레이아웃]]></title>
