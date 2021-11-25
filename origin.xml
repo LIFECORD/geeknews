@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-25T02:29:41.308Z</updated>
+    <updated>2021-11-25T03:12:43.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Tabby - 크로스 플랫폼 터미널]]></title>
-        <id>https://tabby.sh/</id>
-        <link href="https://tabby.sh/"/>
-        <updated>2021-11-25T01:56:01.105Z</updated>
-        <content type="html"><![CDATA[(tabby.sh)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[QOI - O(n) 무손실 이미지 압축]]></title>
         <id>https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[(phoboslab.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IDE의 미래]]></title>
-        <id>https://news.ycombinator.com/item?id=29304667</id>
-        <link href="https://news.ycombinator.com/item?id=29304667"/>
-        <updated>2021-11-24T17:18:43.768Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+        <title type="html"><![CDATA[Tabby - 크로스 플랫폼 터미널]]></title>
+        <id>https://tabby.sh/</id>
+        <link href="https://tabby.sh/"/>
+        <updated>2021-11-25T01:56:01.105Z</updated>
+        <content type="html"><![CDATA[(tabby.sh)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유용한 1줄 CSS 레이아웃]]></title>
@@ -32,6 +25,13 @@
         <link href="https://1linelayouts.glitch.me/"/>
         <updated>2021-11-25T00:38:06.149Z</updated>
         <content type="html"><![CDATA[(1linelayouts.glitch.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDE의 미래]]></title>
+        <id>https://news.ycombinator.com/item?id=29304667</id>
+        <link href="https://news.ycombinator.com/item?id=29304667"/>
+        <updated>2021-11-24T17:18:43.768Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jovo - 보이스 & 채팅을 위한 프레임워크]]></title>
