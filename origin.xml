@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-25T19:11:01.186Z</updated>
+    <updated>2021-11-25T20:13:10.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(phoboslab.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
-        <id>https://news.ycombinator.com/item?id=29297229</id>
-        <link href="https://news.ycombinator.com/item?id=29297229"/>
-        <updated>2021-11-23T01:53:46.891Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jovo - 보이스 & 채팅을 위한 프레임워크]]></title>
         <id>https://github.com/jovotech/jovo-framework</id>
         <link href="https://github.com/jovotech/jovo-framework"/>
         <updated>2021-11-25T01:56:01.117Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
+        <id>https://news.ycombinator.com/item?id=29297229</id>
+        <link href="https://news.ycombinator.com/item?id=29297229"/>
+        <updated>2021-11-23T01:53:46.891Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유용한 1줄 CSS 레이아웃]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(tech-kakaoenterprise.tistory.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[kamazon 11번가 아마존 가격 하락 알리미 아키텍쳐]]></title>
+        <id>https://www.clien.net/service/board/lecture/16712065</id>
+        <link href="https://www.clien.net/service/board/lecture/16712065"/>
+        <updated>2021-11-23T04:14:35.567Z</updated>
+        <content type="html"><![CDATA[(clien.net)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Substack 유료 구독자 1백만명 돌파]]></title>
         <id>https://on.substack.com/p/one-million-strong</id>
         <link href="https://on.substack.com/p/one-million-strong"/>
         <updated>2021-11-25T00:38:06.160Z</updated>
         <content type="html"><![CDATA[(on.substack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YARP - MS의 리버스 프록시 개발 툴킷]]></title>
-        <id>https://github.com/microsoft/reverse-proxy</id>
-        <link href="https://github.com/microsoft/reverse-proxy"/>
-        <updated>2021-11-24T00:37:19.793Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쉽게 설명한 NFT 따라하기]]></title>
@@ -104,11 +104,11 @@
         <content type="html"><![CDATA[(coindeskkorea.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kamazon 11번가 아마존 가격 하락 알리미 아키텍쳐]]></title>
-        <id>https://www.clien.net/service/board/lecture/16712065</id>
-        <link href="https://www.clien.net/service/board/lecture/16712065"/>
-        <updated>2021-11-23T04:14:35.567Z</updated>
-        <content type="html"><![CDATA[(clien.net)]]></content>
+        <title type="html"><![CDATA[YARP - MS의 리버스 프록시 개발 툴킷]]></title>
+        <id>https://github.com/microsoft/reverse-proxy</id>
+        <link href="https://github.com/microsoft/reverse-proxy"/>
+        <updated>2021-11-24T00:37:19.793Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사용자 Offboarding 체크리스트 (PDF)]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(cdn.growth.design)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SliTaz - 50MB 초경량 GNU/Linux 배포본]]></title>
-        <id>https://slitaz.org/</id>
-        <link href="https://slitaz.org/"/>
-        <updated>2021-11-23T01:53:46.893Z</updated>
-        <content type="html"><![CDATA[(slitaz.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[테크니컬 라이팅 4대 원칙]]></title>
         <id>https://tech.kakaoenterprise.com/102</id>
         <link href="https://tech.kakaoenterprise.com/102"/>
         <updated>2021-11-21T01:56:38.543Z</updated>
         <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SliTaz - 50MB 초경량 GNU/Linux 배포본]]></title>
+        <id>https://slitaz.org/</id>
+        <link href="https://slitaz.org/"/>
+        <updated>2021-11-23T01:53:46.893Z</updated>
+        <content type="html"><![CDATA[(slitaz.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 스프레드시트를 이용한 주식 포트폴리오 관리]]></title>
