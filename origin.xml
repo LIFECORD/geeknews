@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-25T20:13:10.295Z</updated>
+    <updated>2021-11-25T21:11:19.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[(clien.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Substack 유료 구독자 1백만명 돌파]]></title>
-        <id>https://on.substack.com/p/one-million-strong</id>
-        <link href="https://on.substack.com/p/one-million-strong"/>
-        <updated>2021-11-25T00:38:06.160Z</updated>
-        <content type="html"><![CDATA[(on.substack.com)]]></content>
+        <title type="html"><![CDATA[YARP - MS의 리버스 프록시 개발 툴킷]]></title>
+        <id>https://github.com/microsoft/reverse-proxy</id>
+        <link href="https://github.com/microsoft/reverse-proxy"/>
+        <updated>2021-11-24T00:37:19.793Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쉽게 설명한 NFT 따라하기]]></title>
@@ -104,11 +104,11 @@
         <content type="html"><![CDATA[(coindeskkorea.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YARP - MS의 리버스 프록시 개발 툴킷]]></title>
-        <id>https://github.com/microsoft/reverse-proxy</id>
-        <link href="https://github.com/microsoft/reverse-proxy"/>
-        <updated>2021-11-24T00:37:19.793Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[Substack 유료 구독자 1백만명 돌파]]></title>
+        <id>https://on.substack.com/p/one-million-strong</id>
+        <link href="https://on.substack.com/p/one-million-strong"/>
+        <updated>2021-11-25T00:38:06.160Z</updated>
+        <content type="html"><![CDATA[(on.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사용자 Offboarding 체크리스트 (PDF)]]></title>
