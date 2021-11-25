@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-25T09:12:42.423Z</updated>
+    <updated>2021-11-25T10:13:30.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Substack 유료 구독자 1백만명 돌파]]></title>
-        <id>https://on.substack.com/p/one-million-strong</id>
-        <link href="https://on.substack.com/p/one-million-strong"/>
-        <updated>2021-11-25T00:38:06.160Z</updated>
-        <content type="html"><![CDATA[(on.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[지문은 쉽게 해킹 가능하다]]></title>
         <id>https://blog.kraken.com/post/11905/your-fingerprint-can-be-hacked-for-5-heres-how/</id>
         <link href="https://blog.kraken.com/post/11905/your-fingerprint-can-be-hacked-for-5-heres-how/"/>
         <updated>2021-11-24T01:54:32.841Z</updated>
         <content type="html"><![CDATA[(blog.kraken.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack 유료 구독자 1백만명 돌파]]></title>
+        <id>https://on.substack.com/p/one-million-strong</id>
+        <link href="https://on.substack.com/p/one-million-strong"/>
+        <updated>2021-11-25T00:38:06.160Z</updated>
+        <content type="html"><![CDATA[(on.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Caffeine - Minimum Viable Backend 오픈소스]]></title>
