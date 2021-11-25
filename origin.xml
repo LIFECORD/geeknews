@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-25T18:13:47.510Z</updated>
+    <updated>2021-11-25T19:11:01.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Substack 유료 구독자 1백만명 돌파]]></title>
-        <id>https://on.substack.com/p/one-million-strong</id>
-        <link href="https://on.substack.com/p/one-million-strong"/>
-        <updated>2021-11-25T00:38:06.160Z</updated>
-        <content type="html"><![CDATA[(on.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[개발자들을 위한 테크니컬 라이팅 10계명]]></title>
         <id>https://tech-kakaoenterprise.tistory.com/110</id>
         <link href="https://tech-kakaoenterprise.tistory.com/110"/>
         <updated>2021-11-22T01:55:10.977Z</updated>
         <content type="html"><![CDATA[(tech-kakaoenterprise.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack 유료 구독자 1백만명 돌파]]></title>
+        <id>https://on.substack.com/p/one-million-strong</id>
+        <link href="https://on.substack.com/p/one-million-strong"/>
+        <updated>2021-11-25T00:38:06.160Z</updated>
+        <content type="html"><![CDATA[(on.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[YARP - MS의 리버스 프록시 개발 툴킷]]></title>
