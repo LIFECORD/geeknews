@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-26T05:11:18.947Z</updated>
+    <updated>2021-11-26T06:14:28.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(blog.goorm.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PHP 8.1 릴리즈]]></title>
-        <id>https://www.php.net/releases/8.1/en.php</id>
-        <link href="https://www.php.net/releases/8.1/en.php"/>
-        <updated>2021-11-26T00:37:00.949Z</updated>
-        <content type="html"><![CDATA[(php.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Electron Fiddle - 일렉트론을 빠르고 쉽게]]></title>
         <id>https://github.com/electron/fiddle</id>
         <link href="https://github.com/electron/fiddle"/>
         <updated>2021-11-26T01:52:56.027Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 8.1 릴리즈]]></title>
+        <id>https://www.php.net/releases/8.1/en.php</id>
+        <link href="https://www.php.net/releases/8.1/en.php"/>
+        <updated>2021-11-26T00:37:00.949Z</updated>
+        <content type="html"><![CDATA[(php.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Blueboat - Cloudflare Workers의 오픈소스 대체제]]></title>
