@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-26T09:12:58.047Z</updated>
+    <updated>2021-11-26T10:14:01.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[goormIDE - 지금, AI 코드 자동 완성을 경험해 볼 때]]></title>
-        <id>https://blog.goorm.io/codevisor/</id>
-        <link href="https://blog.goorm.io/codevisor/"/>
-        <updated>2021-11-26T01:52:56.024Z</updated>
-        <content type="html"><![CDATA[(blog.goorm.io)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Electron Fiddle - 일렉트론을 빠르고 쉽게]]></title>
         <id>https://github.com/electron/fiddle</id>
         <link href="https://github.com/electron/fiddle"/>
         <updated>2021-11-26T01:52:56.027Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[goormIDE - 지금, AI 코드 자동 완성을 경험해 볼 때]]></title>
+        <id>https://blog.goorm.io/codevisor/</id>
+        <link href="https://blog.goorm.io/codevisor/"/>
+        <updated>2021-11-26T01:52:56.024Z</updated>
+        <content type="html"><![CDATA[(blog.goorm.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PHP 8.1 릴리즈]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(club386.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
-        <id>https://news.ycombinator.com/item?id=29297229</id>
-        <link href="https://news.ycombinator.com/item?id=29297229"/>
-        <updated>2021-11-23T01:53:46.891Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[QOI - O(n) 무손실 이미지 압축]]></title>
         <id>https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression</id>
         <link href="https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression"/>
         <updated>2021-11-25T01:56:01.116Z</updated>
         <content type="html"><![CDATA[(phoboslab.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
+        <id>https://news.ycombinator.com/item?id=29297229</id>
+        <link href="https://news.ycombinator.com/item?id=29297229"/>
+        <updated>2021-11-23T01:53:46.891Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jovo - 보이스 & 채팅을 위한 프레임워크]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(tech-kakaoenterprise.tistory.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caffeine - Minimum Viable Backend 오픈소스]]></title>
-        <id>https://github.com/rehacktive/caffeine</id>
-        <link href="https://github.com/rehacktive/caffeine"/>
-        <updated>2021-11-24T01:54:32.847Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[쉽게 설명한 NFT 따라하기]]></title>
         <id>https://www.coindeskkorea.com/news/articleView.html?idxno=76262</id>
         <link href="https://www.coindeskkorea.com/news/articleView.html?idxno=76262"/>
         <updated>2021-11-23T00:37:04.461Z</updated>
         <content type="html"><![CDATA[(coindeskkorea.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caffeine - Minimum Viable Backend 오픈소스]]></title>
+        <id>https://github.com/rehacktive/caffeine</id>
+        <link href="https://github.com/rehacktive/caffeine"/>
+        <updated>2021-11-24T01:54:32.847Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[kamazon 11번가 아마존 가격 하락 알리미 아키텍쳐]]></title>
