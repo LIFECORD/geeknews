@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-27T04:15:33.676Z</updated>
+    <updated>2021-11-27T05:11:11.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[(openlgtv.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blueboat - Cloudflare Workers의 오픈소스 대체제]]></title>
-        <id>https://github.com/losfair/blueboat</id>
-        <link href="https://github.com/losfair/blueboat"/>
-        <updated>2021-11-26T00:37:00.950Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
+        <id>https://news.ycombinator.com/item?id=29297229</id>
+        <link href="https://news.ycombinator.com/item?id=29297229"/>
+        <updated>2021-11-23T01:53:46.891Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IDE의 미래]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
-        <id>https://news.ycombinator.com/item?id=29297229</id>
-        <link href="https://news.ycombinator.com/item?id=29297229"/>
-        <updated>2021-11-23T01:53:46.891Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+        <title type="html"><![CDATA[Blueboat - Cloudflare Workers의 오픈소스 대체제]]></title>
+        <id>https://github.com/losfair/blueboat</id>
+        <link href="https://github.com/losfair/blueboat"/>
+        <updated>2021-11-26T00:37:00.950Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PHP 8.1 릴리즈]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TSMC의 "애플 우선" 정책 때문에 AMD와 퀄컴이 반기를 들다]]></title>
-        <id>https://www.club386.com/tsmc-apple-first-3nm-policy-leads-to-amd-and-qualcomm-mutiny/</id>
-        <link href="https://www.club386.com/tsmc-apple-first-3nm-policy-leads-to-amd-and-qualcomm-mutiny/"/>
-        <updated>2021-11-26T00:37:00.952Z</updated>
-        <content type="html"><![CDATA[(club386.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[개발자들을 위한 테크니컬 라이팅 10계명]]></title>
         <id>https://tech-kakaoenterprise.tistory.com/110</id>
         <link href="https://tech-kakaoenterprise.tistory.com/110"/>
         <updated>2021-11-22T01:55:10.977Z</updated>
         <content type="html"><![CDATA[(tech-kakaoenterprise.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TSMC의 "애플 우선" 정책 때문에 AMD와 퀄컴이 반기를 들다]]></title>
+        <id>https://www.club386.com/tsmc-apple-first-3nm-policy-leads-to-amd-and-qualcomm-mutiny/</id>
+        <link href="https://www.club386.com/tsmc-apple-first-3nm-policy-leads-to-amd-and-qualcomm-mutiny/"/>
+        <updated>2021-11-26T00:37:00.952Z</updated>
+        <content type="html"><![CDATA[(club386.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지문은 쉽게 해킹 가능하다]]></title>
