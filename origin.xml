@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-27T18:13:28.957Z</updated>
+    <updated>2021-11-27T19:10:07.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Linux 2022(AL2022) 평가판 공개]]></title>
-        <id>https://aws.amazon.com/ko/linux/amazon-linux-2022/</id>
-        <link href="https://aws.amazon.com/ko/linux/amazon-linux-2022/"/>
-        <updated>2021-11-27T01:52:23.189Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IDE의 미래]]></title>
         <id>https://news.ycombinator.com/item?id=29304667</id>
         <link href="https://news.ycombinator.com/item?id=29304667"/>
         <updated>2021-11-24T17:18:43.768Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Linux 2022(AL2022) 평가판 공개]]></title>
+        <id>https://aws.amazon.com/ko/linux/amazon-linux-2022/</id>
+        <link href="https://aws.amazon.com/ko/linux/amazon-linux-2022/"/>
+        <updated>2021-11-27T01:52:23.189Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tabby - 크로스 플랫폼 터미널]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(1linelayouts.glitch.me)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alpine Linux 3.15.0 릴리즈]]></title>
-        <id>https://alpinelinux.org/posts/Alpine-3.15.0-released.html</id>
-        <link href="https://alpinelinux.org/posts/Alpine-3.15.0-released.html"/>
-        <updated>2021-11-26T01:52:56.027Z</updated>
-        <content type="html"><![CDATA[(alpinelinux.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[개발자들을 위한 테크니컬 라이팅 10계명]]></title>
         <id>https://tech-kakaoenterprise.tistory.com/110</id>
         <link href="https://tech-kakaoenterprise.tistory.com/110"/>
         <updated>2021-11-22T01:55:10.977Z</updated>
         <content type="html"><![CDATA[(tech-kakaoenterprise.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpine Linux 3.15.0 릴리즈]]></title>
+        <id>https://alpinelinux.org/posts/Alpine-3.15.0-released.html</id>
+        <link href="https://alpinelinux.org/posts/Alpine-3.15.0-released.html"/>
+        <updated>2021-11-26T01:52:56.027Z</updated>
+        <content type="html"><![CDATA[(alpinelinux.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지문은 쉽게 해킹 가능하다]]></title>
