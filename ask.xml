@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-11-27T00:37:06.691Z</updated>
+    <updated>2021-11-27T01:53:03.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -102,16 +102,16 @@
         <updated>2021-09-30T16:15:52.641Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 긱뉴스를 만드시면서 선택하신 기술스택과 주요 의사결정의 배경이 궁금합니다.]]></title>
-        <id>https://news.hada.io/topic?id=5319</id>
-        <link href="https://news.hada.io/topic?id=5319"/>
-        <updated>2021-11-04T03:12:50.368Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
         <id>https://news.hada.io/topic?id=5160</id>
         <link href="https://news.hada.io/topic?id=5160"/>
         <updated>2021-10-08T03:11:32.694Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 긱뉴스를 만드시면서 선택하신 기술스택과 주요 의사결정의 배경이 궁금합니다.]]></title>
+        <id>https://news.hada.io/topic?id=5319</id>
+        <link href="https://news.hada.io/topic?id=5319"/>
+        <updated>2021-11-04T03:12:50.368Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 프론트엔드 개발자를 위한 백엔드 가이드가 있을까요?]]></title>
