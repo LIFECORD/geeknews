@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-27T11:10:13.030Z</updated>
+    <updated>2021-11-27T12:17:26.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,13 +97,6 @@
         <content type="html"><![CDATA[(gatesnotes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[elfshaker - 바이너리에 최적화된 고성능 버전 관리 시스템]]></title>
-        <id>https://github.com/elfshaker/elfshaker</id>
-        <link href="https://github.com/elfshaker/elfshaker"/>
-        <updated>2021-11-24T01:54:32.846Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jovo - 보이스 & 채팅을 위한 프레임워크]]></title>
         <id>https://github.com/jovotech/jovo-framework</id>
         <link href="https://github.com/jovotech/jovo-framework"/>
@@ -116,6 +109,13 @@
         <link href="https://1linelayouts.glitch.me/"/>
         <updated>2021-11-25T00:38:06.149Z</updated>
         <content type="html"><![CDATA[(1linelayouts.glitch.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[elfshaker - 바이너리에 최적화된 고성능 버전 관리 시스템]]></title>
+        <id>https://github.com/elfshaker/elfshaker</id>
+        <link href="https://github.com/elfshaker/elfshaker"/>
+        <updated>2021-11-24T01:54:32.846Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Alpine Linux 3.15.0 릴리즈]]></title>
