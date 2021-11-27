@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-27T16:17:05.198Z</updated>
+    <updated>2021-11-27T17:17:28.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
-        <id>https://green-labs.github.io/the-macro</id>
-        <link href="https://green-labs.github.io/the-macro"/>
-        <updated>2021-11-27T14:10:53.037Z</updated>
-        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[구글 Filament - 멀티플랫폼용 실시간 물리 렌더링 엔진]]></title>
         <id>https://github.com/google/filament</id>
         <link href="https://github.com/google/filament"/>
         <updated>2021-11-27T01:52:23.182Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
+        <id>https://green-labs.github.io/the-macro</id>
+        <link href="https://green-labs.github.io/the-macro"/>
+        <updated>2021-11-27T14:10:53.037Z</updated>
+        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevLake - DevOps를 위한 오픈소스 Data Lake]]></title>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(blog.goorm.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
+        <id>https://news.ycombinator.com/item?id=29297229</id>
+        <link href="https://news.ycombinator.com/item?id=29297229"/>
+        <updated>2021-11-23T01:53:46.891Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Electron Fiddle - 일렉트론을 빠르고 쉽게]]></title>
         <id>https://github.com/electron/fiddle</id>
         <link href="https://github.com/electron/fiddle"/>
@@ -48,13 +55,6 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
-        <id>https://news.ycombinator.com/item?id=29297229</id>
-        <link href="https://news.ycombinator.com/item?id=29297229"/>
-        <updated>2021-11-23T01:53:46.891Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IDE의 미래]]></title>
         <id>https://news.ycombinator.com/item?id=29304667</id>
         <link href="https://news.ycombinator.com/item?id=29304667"/>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenLGTV - LG TV 펌웨어의 오픈소스 프로젝트]]></title>
-        <id>https://openlgtv.github.io/</id>
-        <link href="https://openlgtv.github.io/"/>
-        <updated>2021-11-26T00:37:00.960Z</updated>
-        <content type="html"><![CDATA[(openlgtv.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tabby - 크로스 플랫폼 터미널]]></title>
         <id>https://tabby.sh/</id>
         <link href="https://tabby.sh/"/>
         <updated>2021-11-25T01:56:01.105Z</updated>
         <content type="html"><![CDATA[(tabby.sh)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenLGTV - LG TV 펌웨어의 오픈소스 프로젝트]]></title>
+        <id>https://openlgtv.github.io/</id>
+        <link href="https://openlgtv.github.io/"/>
+        <updated>2021-11-26T00:37:00.960Z</updated>
+        <content type="html"><![CDATA[(openlgtv.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Blueboat - Cloudflare Workers의 오픈소스 대체제]]></title>
