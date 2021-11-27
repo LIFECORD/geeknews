@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-27T07:12:05.399Z</updated>
+    <updated>2021-11-27T08:14:24.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blueboat - Cloudflare Workers의 오픈소스 대체제]]></title>
-        <id>https://github.com/losfair/blueboat</id>
-        <link href="https://github.com/losfair/blueboat"/>
-        <updated>2021-11-26T00:37:00.950Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tabby - 크로스 플랫폼 터미널]]></title>
         <id>https://tabby.sh/</id>
         <link href="https://tabby.sh/"/>
         <updated>2021-11-25T01:56:01.105Z</updated>
         <content type="html"><![CDATA[(tabby.sh)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blueboat - Cloudflare Workers의 오픈소스 대체제]]></title>
+        <id>https://github.com/losfair/blueboat</id>
+        <link href="https://github.com/losfair/blueboat"/>
+        <updated>2021-11-26T00:37:00.950Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PHP 8.1 릴리즈]]></title>
