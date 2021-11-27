@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-27T21:45:56.648Z</updated>
+    <updated>2021-11-27T23:20:05.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://github.com/google/filament"/>
         <updated>2021-11-27T01:52:23.182Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
-        <id>https://green-labs.github.io/the-macro</id>
-        <link href="https://green-labs.github.io/the-macro"/>
-        <updated>2021-11-27T14:10:53.037Z</updated>
-        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevLake - DevOps를 위한 오픈소스 Data Lake]]></title>
@@ -41,6 +34,13 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
+        <id>https://green-labs.github.io/the-macro</id>
+        <link href="https://green-labs.github.io/the-macro"/>
+        <updated>2021-11-27T14:10:53.037Z</updated>
+        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Electron Fiddle - 일렉트론을 빠르고 쉽게]]></title>
         <id>https://github.com/electron/fiddle</id>
         <link href="https://github.com/electron/fiddle"/>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Linux 2022(AL2022) 평가판 공개]]></title>
-        <id>https://aws.amazon.com/ko/linux/amazon-linux-2022/</id>
-        <link href="https://aws.amazon.com/ko/linux/amazon-linux-2022/"/>
-        <updated>2021-11-27T01:52:23.189Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tabby - 크로스 플랫폼 터미널]]></title>
         <id>https://tabby.sh/</id>
         <link href="https://tabby.sh/"/>
@@ -74,6 +67,13 @@
         <link href="https://openlgtv.github.io/"/>
         <updated>2021-11-26T00:37:00.960Z</updated>
         <content type="html"><![CDATA[(openlgtv.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Linux 2022(AL2022) 평가판 공개]]></title>
+        <id>https://aws.amazon.com/ko/linux/amazon-linux-2022/</id>
+        <link href="https://aws.amazon.com/ko/linux/amazon-linux-2022/"/>
+        <updated>2021-11-27T01:52:23.189Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Blueboat - Cloudflare Workers의 오픈소스 대체제]]></title>
@@ -104,17 +104,17 @@
         <content type="html"><![CDATA[(gatesnotes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[elfshaker - 바이너리에 최적화된 고성능 버전 관리 시스템]]></title>
-        <id>https://github.com/elfshaker/elfshaker</id>
-        <link href="https://github.com/elfshaker/elfshaker"/>
-        <updated>2021-11-24T01:54:32.846Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jovo - 보이스 & 채팅을 위한 프레임워크]]></title>
         <id>https://github.com/jovotech/jovo-framework</id>
         <link href="https://github.com/jovotech/jovo-framework"/>
         <updated>2021-11-25T01:56:01.117Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[elfshaker - 바이너리에 최적화된 고성능 버전 관리 시스템]]></title>
+        <id>https://github.com/elfshaker/elfshaker</id>
+        <link href="https://github.com/elfshaker/elfshaker"/>
+        <updated>2021-11-24T01:54:32.846Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
