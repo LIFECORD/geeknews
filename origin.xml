@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-28T12:18:20.301Z</updated>
+    <updated>2021-11-28T13:17:29.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(videogameschronicle.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
-        <id>https://news.ycombinator.com/item?id=29297229</id>
-        <link href="https://news.ycombinator.com/item?id=29297229"/>
-        <updated>2021-11-23T01:53:46.891Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글 Filament - 멀티플랫폼용 실시간 물리 렌더링 엔진]]></title>
         <id>https://github.com/google/filament</id>
         <link href="https://github.com/google/filament"/>
         <updated>2021-11-27T01:52:23.182Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
+        <id>https://news.ycombinator.com/item?id=29297229</id>
+        <link href="https://news.ycombinator.com/item?id=29297229"/>
+        <updated>2021-11-23T01:53:46.891Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DevLake - DevOps를 위한 오픈소스 Data Lake]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
-        <id>https://green-labs.github.io/the-macro</id>
-        <link href="https://green-labs.github.io/the-macro"/>
-        <updated>2021-11-27T14:10:53.037Z</updated>
-        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
+        <title type="html"><![CDATA[개발자들을 위한 테크니컬 라이팅 10계명]]></title>
+        <id>https://tech-kakaoenterprise.tistory.com/110</id>
+        <link href="https://tech-kakaoenterprise.tistory.com/110"/>
+        <updated>2021-11-28T13:16:50.218Z</updated>
+        <content type="html"><![CDATA[(tech-kakaoenterprise.tistory.com)]]></content>
     </entry>
 </feed>
