@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-28T20:12:30.034Z</updated>
+    <updated>2021-11-28T21:10:58.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,17 +111,17 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blueboat - Cloudflare Workers의 오픈소스 대체제]]></title>
-        <id>https://github.com/losfair/blueboat</id>
-        <link href="https://github.com/losfair/blueboat"/>
-        <updated>2021-11-26T00:37:00.950Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[elfshaker - 바이너리에 최적화된 고성능 버전 관리 시스템]]></title>
         <id>https://github.com/elfshaker/elfshaker</id>
         <link href="https://github.com/elfshaker/elfshaker"/>
         <updated>2021-11-24T01:54:32.846Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blueboat - Cloudflare Workers의 오픈소스 대체제]]></title>
+        <id>https://github.com/losfair/blueboat</id>
+        <link href="https://github.com/losfair/blueboat"/>
+        <updated>2021-11-26T00:37:00.950Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
