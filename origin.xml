@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-28T21:10:58.565Z</updated>
+    <updated>2021-11-28T22:11:57.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PHP 8.1 릴리즈]]></title>
-        <id>https://www.php.net/releases/8.1/en.php</id>
-        <link href="https://www.php.net/releases/8.1/en.php"/>
-        <updated>2021-11-26T00:37:00.949Z</updated>
-        <content type="html"><![CDATA[(php.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[개발자들을 위한 테크니컬 라이팅 10계명]]></title>
         <id>https://tech-kakaoenterprise.tistory.com/110</id>
         <link href="https://tech-kakaoenterprise.tistory.com/110"/>
         <updated>2021-11-28T13:16:50.218Z</updated>
         <content type="html"><![CDATA[(tech-kakaoenterprise.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 8.1 릴리즈]]></title>
+        <id>https://www.php.net/releases/8.1/en.php</id>
+        <link href="https://www.php.net/releases/8.1/en.php"/>
+        <updated>2021-11-26T00:37:00.949Z</updated>
+        <content type="html"><![CDATA[(php.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유용한 1줄 CSS 레이아웃]]></title>
