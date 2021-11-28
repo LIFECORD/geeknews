@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-28T09:12:16.039Z</updated>
+    <updated>2021-11-28T10:13:29.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(php.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
-        <id>https://green-labs.github.io/the-macro</id>
-        <link href="https://green-labs.github.io/the-macro"/>
-        <updated>2021-11-27T14:10:53.037Z</updated>
-        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon Linux 2022(AL2022) 평가판 공개]]></title>
         <id>https://aws.amazon.com/ko/linux/amazon-linux-2022/</id>
         <link href="https://aws.amazon.com/ko/linux/amazon-linux-2022/"/>
         <updated>2021-11-27T01:52:23.189Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
+        <id>https://green-labs.github.io/the-macro</id>
+        <link href="https://green-labs.github.io/the-macro"/>
+        <updated>2021-11-27T14:10:53.037Z</updated>
+        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[elfshaker - 바이너리에 최적화된 고성능 버전 관리 시스템]]></title>

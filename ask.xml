@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-11-28T09:12:16.034Z</updated>
+    <updated>2021-11-28T10:13:29.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -120,9 +120,9 @@
         <updated>2021-09-30T06:13:18.786Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 긱뉴스를 만드시면서 선택하신 기술스택과 주요 의사결정의 배경이 궁금합니다.]]></title>
-        <id>https://news.hada.io/topic?id=5319</id>
-        <link href="https://news.hada.io/topic?id=5319"/>
-        <updated>2021-11-04T03:12:50.368Z</updated>
+        <title type="html"><![CDATA[Ask GN: 가장 사랑스러운 전자기기 / 가장 돈 아까운 전자기기 하나씩만 꼽아주세요!]]></title>
+        <id>https://news.hada.io/topic?id=5104</id>
+        <link href="https://news.hada.io/topic?id=5104"/>
+        <updated>2021-11-28T10:13:07.498Z</updated>
     </entry>
 </feed>
