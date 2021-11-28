@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-28T02:27:53.763Z</updated>
+    <updated>2021-11-28T03:12:54.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[(blog.goorm.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electron Fiddle - 일렉트론을 빠르고 쉽게]]></title>
-        <id>https://github.com/electron/fiddle</id>
-        <link href="https://github.com/electron/fiddle"/>
-        <updated>2021-11-26T01:52:56.027Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IDE의 미래]]></title>
         <id>https://news.ycombinator.com/item?id=29304667</id>
         <link href="https://news.ycombinator.com/item?id=29304667"/>
@@ -76,11 +69,11 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
-        <id>https://green-labs.github.io/the-macro</id>
-        <link href="https://green-labs.github.io/the-macro"/>
-        <updated>2021-11-27T14:10:53.037Z</updated>
-        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
+        <title type="html"><![CDATA[Electron Fiddle - 일렉트론을 빠르고 쉽게]]></title>
+        <id>https://github.com/electron/fiddle</id>
+        <link href="https://github.com/electron/fiddle"/>
+        <updated>2021-11-26T01:52:56.027Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tabby - 크로스 플랫폼 터미널]]></title>
@@ -88,6 +81,13 @@
         <link href="https://tabby.sh/"/>
         <updated>2021-11-25T01:56:01.105Z</updated>
         <content type="html"><![CDATA[(tabby.sh)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
+        <id>https://green-labs.github.io/the-macro</id>
+        <link href="https://green-labs.github.io/the-macro"/>
+        <updated>2021-11-27T14:10:53.037Z</updated>
+        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenLGTV - LG TV 펌웨어의 오픈소스 프로젝트]]></title>
