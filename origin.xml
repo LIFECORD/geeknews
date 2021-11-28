@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-28T04:15:16.297Z</updated>
+    <updated>2021-11-28T05:11:09.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[(tabby.sh)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OpenLGTV - LG TV 펌웨어의 오픈소스 프로젝트]]></title>
+        <id>https://openlgtv.github.io/</id>
+        <link href="https://openlgtv.github.io/"/>
+        <updated>2021-11-26T00:37:00.960Z</updated>
+        <content type="html"><![CDATA[(openlgtv.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
         <id>https://green-labs.github.io/the-macro</id>
         <link href="https://green-labs.github.io/the-macro"/>
@@ -90,11 +97,11 @@
         <content type="html"><![CDATA[(green-labs.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenLGTV - LG TV 펌웨어의 오픈소스 프로젝트]]></title>
-        <id>https://openlgtv.github.io/</id>
-        <link href="https://openlgtv.github.io/"/>
-        <updated>2021-11-26T00:37:00.960Z</updated>
-        <content type="html"><![CDATA[(openlgtv.github.io)]]></content>
+        <title type="html"><![CDATA[QOI - O(n) 무손실 이미지 압축]]></title>
+        <id>https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression</id>
+        <link href="https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression"/>
+        <updated>2021-11-25T01:56:01.116Z</updated>
+        <content type="html"><![CDATA[(phoboslab.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Linux 2022(AL2022) 평가판 공개]]></title>
@@ -109,13 +116,6 @@
         <link href="https://github.com/losfair/blueboat"/>
         <updated>2021-11-26T00:37:00.950Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QOI - O(n) 무손실 이미지 압축]]></title>
-        <id>https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression</id>
-        <link href="https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression"/>
-        <updated>2021-11-25T01:56:01.116Z</updated>
-        <content type="html"><![CDATA[(phoboslab.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빌게이츠의 2021년 추천서적 5권]]></title>
