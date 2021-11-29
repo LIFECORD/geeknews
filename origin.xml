@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-29T17:19:57.056Z</updated>
+    <updated>2021-11-29T18:14:39.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(cncf.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Micronaut - JVM기반의 MSA/서버리스 개발용 풀스택 프레임워크]]></title>
-        <id>https://micronaut.io/</id>
-        <link href="https://micronaut.io/"/>
-        <updated>2021-11-29T01:54:47.976Z</updated>
-        <content type="html"><![CDATA[(micronaut.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[퇴고의 기술 - 개발자의 기술문서 작성법]]></title>
         <id>https://tech.kakaoenterprise.com/125</id>
         <link href="https://tech.kakaoenterprise.com/125"/>
         <updated>2021-11-28T00:38:27.741Z</updated>
         <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Micronaut - JVM기반의 MSA/서버리스 개발용 풀스택 프레임워크]]></title>
+        <id>https://micronaut.io/</id>
+        <link href="https://micronaut.io/"/>
+        <updated>2021-11-29T01:54:47.976Z</updated>
+        <content type="html"><![CDATA[(micronaut.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lorem Faces - AI로 자동 생성된 아바타용 얼굴들]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
-        <id>https://green-labs.github.io/the-macro</id>
-        <link href="https://green-labs.github.io/the-macro"/>
-        <updated>2021-11-29T00:37:40.320Z</updated>
-        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IDE의 미래]]></title>
         <id>https://news.ycombinator.com/item?id=29304667</id>
         <link href="https://news.ycombinator.com/item?id=29304667"/>
         <updated>2021-11-24T17:18:43.768Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
+        <id>https://green-labs.github.io/the-macro</id>
+        <link href="https://green-labs.github.io/the-macro"/>
+        <updated>2021-11-29T00:37:40.320Z</updated>
+        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tabby - 크로스 플랫폼 터미널]]></title>
