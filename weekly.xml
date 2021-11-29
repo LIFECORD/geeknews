@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews Weekly</title>
-    <updated>2021-11-28T23:12:34.962Z</updated>
+    <updated>2021-11-29T00:38:24.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
+        <id>https://news.hada.io/weekly/202148</id>
+        <link href="https://news.hada.io/weekly/202148"/>
+        <updated>2021-11-29T00:38:08.291Z</updated>
+        <content type="html"><![CDATA[<td class="fitwidth keepall">125. </td><td class="fitwidth">202148</td><td width="*">&nbsp;<a href="/weekly/202148" class="u keepall"> 1인 SaaS 개발자를 위한 도구 추천</a></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인기 있는 오픈소스 프로젝트 만드는 팁]]></title>
         <id>https://news.hada.io/weekly/202147</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/weekly/202129"/>
         <updated>2021-10-04T01:59:29.684Z</updated>
         <content type="html"><![CDATA[<td class="fitwidth keepall">106. </td><td class="fitwidth">202129</td><td width="*">&nbsp;<a href="/weekly/202129" class="u keepall"> 스타트업에서 데이터 팀 만들기</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite의 알려지지 않은 이야기]]></title>
-        <id>https://news.hada.io/weekly/202128</id>
-        <link href="https://news.hada.io/weekly/202128"/>
-        <updated>2021-10-04T01:59:29.685Z</updated>
-        <content type="html"><![CDATA[<td class="fitwidth keepall">105. </td><td class="fitwidth">202128</td><td width="*">&nbsp;<a href="/weekly/202128" class="u keepall"> SQLite의 알려지지 않은 이야기</a></td>]]></content>
     </entry>
 </feed>

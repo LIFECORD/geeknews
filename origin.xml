@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-28T23:12:34.960Z</updated>
+    <updated>2021-11-29T00:38:24.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AWS 외부로의 데이터 전송 요금 인하]]></title>
+        <id>https://aws.amazon.com/ko/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/</id>
+        <link href="https://aws.amazon.com/ko/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/"/>
+        <updated>2021-11-29T00:37:40.282Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퇴고의 기술 - 개발자의 기술문서 작성법]]></title>
         <id>https://tech.kakaoenterprise.com/125</id>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[(xguru.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 Filament - 멀티플랫폼용 실시간 물리 렌더링 엔진]]></title>
-        <id>https://github.com/google/filament</id>
-        <link href="https://github.com/google/filament"/>
-        <updated>2021-11-27T01:52:23.182Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
         <id>https://news.ycombinator.com/item?id=29297229</id>
         <link href="https://news.ycombinator.com/item?id=29297229"/>
         <updated>2021-11-23T01:53:46.891Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 Filament - 멀티플랫폼용 실시간 물리 렌더링 엔진]]></title>
+        <id>https://github.com/google/filament</id>
+        <link href="https://github.com/google/filament"/>
+        <updated>2021-11-27T01:52:23.182Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IDE의 미래]]></title>
@@ -97,6 +104,13 @@
         <content type="html"><![CDATA[(phoboslab.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
+        <id>https://green-labs.github.io/the-macro</id>
+        <link href="https://green-labs.github.io/the-macro"/>
+        <updated>2021-11-29T00:37:40.320Z</updated>
+        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenLGTV - LG TV 펌웨어의 오픈소스 프로젝트]]></title>
         <id>https://openlgtv.github.io/</id>
         <link href="https://openlgtv.github.io/"/>
@@ -118,13 +132,6 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blueboat - Cloudflare Workers의 오픈소스 대체제]]></title>
-        <id>https://github.com/losfair/blueboat</id>
-        <link href="https://github.com/losfair/blueboat"/>
-        <updated>2021-11-26T00:37:00.950Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[개발자들을 위한 테크니컬 라이팅 10계명]]></title>
         <id>https://tech-kakaoenterprise.tistory.com/110</id>
         <link href="https://tech-kakaoenterprise.tistory.com/110"/>
@@ -132,17 +139,10 @@
         <content type="html"><![CDATA[(tech-kakaoenterprise.tistory.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PHP 8.1 릴리즈]]></title>
-        <id>https://www.php.net/releases/8.1/en.php</id>
-        <link href="https://www.php.net/releases/8.1/en.php"/>
-        <updated>2021-11-26T00:37:00.949Z</updated>
-        <content type="html"><![CDATA[(php.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유용한 1줄 CSS 레이아웃]]></title>
-        <id>https://1linelayouts.glitch.me/</id>
-        <link href="https://1linelayouts.glitch.me/"/>
-        <updated>2021-11-28T18:12:57.390Z</updated>
-        <content type="html"><![CDATA[(1linelayouts.glitch.me)]]></content>
+        <title type="html"><![CDATA[Blueboat - Cloudflare Workers의 오픈소스 대체제]]></title>
+        <id>https://github.com/losfair/blueboat</id>
+        <link href="https://github.com/losfair/blueboat"/>
+        <updated>2021-11-26T00:37:00.950Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
