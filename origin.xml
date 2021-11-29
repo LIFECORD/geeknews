@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-29T02:28:14.432Z</updated>
+    <updated>2021-11-29T03:12:58.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(incolumitas.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Micronaut - JVM기반의 MSA/서버리스 개발용 풀스택 프레임워크]]></title>
-        <id>https://micronaut.io/</id>
-        <link href="https://micronaut.io/"/>
-        <updated>2021-11-29T01:54:47.976Z</updated>
-        <content type="html"><![CDATA[(micronaut.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peritext - Rich Text를 위한 CRDT]]></title>
         <id>https://www.inkandswitch.com/peritext/</id>
         <link href="https://www.inkandswitch.com/peritext/"/>
         <updated>2021-11-29T01:54:47.977Z</updated>
         <content type="html"><![CDATA[(inkandswitch.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Micronaut - JVM기반의 MSA/서버리스 개발용 풀스택 프레임워크]]></title>
+        <id>https://micronaut.io/</id>
+        <link href="https://micronaut.io/"/>
+        <updated>2021-11-29T01:54:47.976Z</updated>
+        <content type="html"><![CDATA[(micronaut.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS 외부로의 데이터 전송 요금 인하]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
-        <id>https://green-labs.github.io/the-macro</id>
-        <link href="https://green-labs.github.io/the-macro"/>
-        <updated>2021-11-29T00:37:40.320Z</updated>
-        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
+        <title type="html"><![CDATA[DevLake - DevOps를 위한 오픈소스 Data Lake]]></title>
+        <id>https://github.com/merico-dev/lake</id>
+        <link href="https://github.com/merico-dev/lake"/>
+        <updated>2021-11-27T01:52:23.190Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IDE의 미래]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
+        <id>https://green-labs.github.io/the-macro</id>
+        <link href="https://green-labs.github.io/the-macro"/>
+        <updated>2021-11-29T00:37:40.320Z</updated>
+        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[goormIDE - 지금, AI 코드 자동 완성을 경험해 볼 때]]></title>
         <id>https://blog.goorm.io/codevisor/</id>
         <link href="https://blog.goorm.io/codevisor/"/>
         <updated>2021-11-26T01:52:56.024Z</updated>
         <content type="html"><![CDATA[(blog.goorm.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevLake - DevOps를 위한 오픈소스 Data Lake]]></title>
-        <id>https://github.com/merico-dev/lake</id>
-        <link href="https://github.com/merico-dev/lake"/>
-        <updated>2021-11-27T01:52:23.190Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tabby - 크로스 플랫폼 터미널]]></title>
