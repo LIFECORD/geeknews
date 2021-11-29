@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-29T08:14:49.982Z</updated>
+    <updated>2021-11-29T09:13:01.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,6 +97,13 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tabby - 크로스 플랫폼 터미널]]></title>
+        <id>https://tabby.sh/</id>
+        <link href="https://tabby.sh/"/>
+        <updated>2021-11-25T01:56:01.105Z</updated>
+        <content type="html"><![CDATA[(tabby.sh)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[goormIDE - 지금, AI 코드 자동 완성을 경험해 볼 때]]></title>
         <id>https://blog.goorm.io/codevisor/</id>
         <link href="https://blog.goorm.io/codevisor/"/>
@@ -109,13 +116,6 @@
         <link href="https://green-labs.github.io/the-macro"/>
         <updated>2021-11-29T00:37:40.320Z</updated>
         <content type="html"><![CDATA[(green-labs.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tabby - 크로스 플랫폼 터미널]]></title>
-        <id>https://tabby.sh/</id>
-        <link href="https://tabby.sh/"/>
-        <updated>2021-11-25T01:56:01.105Z</updated>
-        <content type="html"><![CDATA[(tabby.sh)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빌게이츠의 2021년 추천서적 5권]]></title>
