@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-29T06:15:10.211Z</updated>
+    <updated>2021-11-29T07:13:07.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(gatesnotes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electron Fiddle - 일렉트론을 빠르고 쉽게]]></title>
-        <id>https://github.com/electron/fiddle</id>
-        <link href="https://github.com/electron/fiddle"/>
-        <updated>2021-11-26T01:52:56.027Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[QOI - O(n) 무손실 이미지 압축]]></title>
         <id>https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression</id>
         <link href="https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression"/>
         <updated>2021-11-25T01:56:01.116Z</updated>
         <content type="html"><![CDATA[(phoboslab.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron Fiddle - 일렉트론을 빠르고 쉽게]]></title>
+        <id>https://github.com/electron/fiddle</id>
+        <link href="https://github.com/electron/fiddle"/>
+        <updated>2021-11-26T01:52:56.027Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenLGTV - LG TV 펌웨어의 오픈소스 프로젝트]]></title>
