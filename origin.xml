@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-29T01:55:36.535Z</updated>
+    <updated>2021-11-29T02:28:14.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[AWS 외부로의 데이터 전송 요금 인하]]></title>
-        <id>https://aws.amazon.com/ko/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/</id>
-        <link href="https://aws.amazon.com/ko/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/"/>
-        <updated>2021-11-29T00:37:40.282Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+        <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
+        <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
+        <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
+        <updated>2021-11-29T02:27:35.936Z</updated>
+        <content type="html"><![CDATA[(incolumitas.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Micronaut - JVM기반의 MSA/서버리스 개발용 풀스택 프레임워크]]></title>
@@ -25,6 +25,13 @@
         <link href="https://www.inkandswitch.com/peritext/"/>
         <updated>2021-11-29T01:54:47.977Z</updated>
         <content type="html"><![CDATA[(inkandswitch.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS 외부로의 데이터 전송 요금 인하]]></title>
+        <id>https://aws.amazon.com/ko/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/</id>
+        <link href="https://aws.amazon.com/ko/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/"/>
+        <updated>2021-11-29T00:37:40.282Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes Cluster API 1.0 프로덕션 레디]]></title>
@@ -74,6 +81,13 @@
         <link href="https://github.com/google/filament"/>
         <updated>2021-11-27T01:52:23.182Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
+        <id>https://green-labs.github.io/the-macro</id>
+        <link href="https://green-labs.github.io/the-macro"/>
+        <updated>2021-11-29T00:37:40.320Z</updated>
+        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IDE의 미래]]></title>
@@ -130,19 +144,5 @@
         <link href="https://openlgtv.github.io/"/>
         <updated>2021-11-26T00:37:00.960Z</updated>
         <content type="html"><![CDATA[(openlgtv.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clojure 매크로 소개글]]></title>
-        <id>https://green-labs.github.io/the-macro</id>
-        <link href="https://green-labs.github.io/the-macro"/>
-        <updated>2021-11-29T00:37:40.320Z</updated>
-        <content type="html"><![CDATA[(green-labs.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jovo - 보이스 & 채팅을 위한 프레임워크]]></title>
-        <id>https://github.com/jovotech/jovo-framework</id>
-        <link href="https://github.com/jovotech/jovo-framework"/>
-        <updated>2021-11-25T01:56:01.117Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
