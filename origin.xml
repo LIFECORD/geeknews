@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-29T22:12:18.900Z</updated>
+    <updated>2021-11-29T23:12:38.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[(green-labs.github.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Electron Fiddle - 일렉트론을 빠르고 쉽게]]></title>
+        <id>https://github.com/electron/fiddle</id>
+        <link href="https://github.com/electron/fiddle"/>
+        <updated>2021-11-26T01:52:56.027Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[goormIDE - 지금, AI 코드 자동 완성을 경험해 볼 때]]></title>
         <id>https://blog.goorm.io/codevisor/</id>
         <link href="https://blog.goorm.io/codevisor/"/>
@@ -130,13 +137,6 @@
         <link href="https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression"/>
         <updated>2021-11-25T01:56:01.116Z</updated>
         <content type="html"><![CDATA[(phoboslab.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electron Fiddle - 일렉트론을 빠르고 쉽게]]></title>
-        <id>https://github.com/electron/fiddle</id>
-        <link href="https://github.com/electron/fiddle"/>
-        <updated>2021-11-26T01:52:56.027Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jovo - 보이스 & 채팅을 위한 프레임워크]]></title>
