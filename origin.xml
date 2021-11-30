@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-30T11:09:23.686Z</updated>
+    <updated>2021-11-30T12:15:42.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[(lorenzopieri.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
-        <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
-        <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
-        <updated>2021-11-29T02:27:35.936Z</updated>
-        <content type="html"><![CDATA[(incolumitas.com)]]></content>
+        <title type="html"><![CDATA[ESG 평가는 AI로 어떻게 도약하고 있을까?]]></title>
+        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222582546454&amp;categoryNo=0&amp;parentCategoryNo=0&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=1&amp;from=menu&amp;userTopListOpen=true&amp;userTopListCount=5&amp;userTopListManageOpen=false&amp;userTopListCurrentPage=1</id>
+        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222582546454&amp;categoryNo=0&amp;parentCategoryNo=0&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=1&amp;from=menu&amp;userTopListOpen=true&amp;userTopListCount=5&amp;userTopListManageOpen=false&amp;userTopListCurrentPage=1"/>
+        <updated>2021-11-30T12:15:01.024Z</updated>
+        <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마케터를 위한 2022년용 새로운 콘텐츠 타입들]]></title>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(contentmarketinginstitute.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
+        <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
+        <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
+        <updated>2021-11-29T02:27:35.936Z</updated>
+        <content type="html"><![CDATA[(incolumitas.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[퇴고의 기술 - 개발자의 기술문서 작성법]]></title>
         <id>https://tech.kakaoenterprise.com/125</id>
         <link href="https://tech.kakaoenterprise.com/125"/>
@@ -62,18 +69,18 @@
         <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kubernetes Cluster API 1.0 프로덕션 레디]]></title>
-        <id>https://www.cncf.io/blog/2021/10/06/kubernetes-cluster-api-reaches-production-readiness-with-version-1-0/</id>
-        <link href="https://www.cncf.io/blog/2021/10/06/kubernetes-cluster-api-reaches-production-readiness-with-version-1-0/"/>
-        <updated>2021-11-29T01:54:47.978Z</updated>
-        <content type="html"><![CDATA[(cncf.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peritext - Rich Text를 위한 CRDT]]></title>
         <id>https://www.inkandswitch.com/peritext/</id>
         <link href="https://www.inkandswitch.com/peritext/"/>
         <updated>2021-11-29T01:54:47.977Z</updated>
         <content type="html"><![CDATA[(inkandswitch.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Cluster API 1.0 프로덕션 레디]]></title>
+        <id>https://www.cncf.io/blog/2021/10/06/kubernetes-cluster-api-reaches-production-readiness-with-version-1-0/</id>
+        <link href="https://www.cncf.io/blog/2021/10/06/kubernetes-cluster-api-reaches-production-readiness-with-version-1-0/"/>
+        <updated>2021-11-29T01:54:47.978Z</updated>
+        <content type="html"><![CDATA[(cncf.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Micronaut - JVM기반의 MSA/서버리스 개발용 풀스택 프레임워크]]></title>
@@ -104,18 +111,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[닌텐도64용 젤다의 전설 풀 디컴파일 완료]]></title>
-        <id>https://www.videogameschronicle.com/news/zelda-64-has-been-fully-decompiled-potentially-opening-the-door-for-mods-and-ports/</id>
-        <link href="https://www.videogameschronicle.com/news/zelda-64-has-been-fully-decompiled-potentially-opening-the-door-for-mods-and-ports/"/>
-        <updated>2021-11-28T01:52:00.045Z</updated>
-        <content type="html"><![CDATA[(videogameschronicle.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[맥도널드 아이스크림 기계를 더 똑똑하게 만든 회사 Kytch]]></title>
         <id>https://xguru.net/2238</id>
         <link href="https://xguru.net/2238"/>
         <updated>2021-11-28T01:52:00.045Z</updated>
         <content type="html"><![CDATA[(xguru.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[닌텐도64용 젤다의 전설 풀 디컴파일 완료]]></title>
+        <id>https://www.videogameschronicle.com/news/zelda-64-has-been-fully-decompiled-potentially-opening-the-door-for-mods-and-ports/</id>
+        <link href="https://www.videogameschronicle.com/news/zelda-64-has-been-fully-decompiled-potentially-opening-the-door-for-mods-and-ports/"/>
+        <updated>2021-11-28T01:52:00.045Z</updated>
+        <content type="html"><![CDATA[(videogameschronicle.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 Filament - 멀티플랫폼용 실시간 물리 렌더링 엔진]]></title>
@@ -137,12 +144,5 @@
         <link href="https://green-labs.github.io/the-macro"/>
         <updated>2021-11-29T00:37:40.320Z</updated>
         <content type="html"><![CDATA[(green-labs.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IDE의 미래]]></title>
-        <id>https://news.ycombinator.com/item?id=29304667</id>
-        <link href="https://news.ycombinator.com/item?id=29304667"/>
-        <updated>2021-11-24T17:18:43.768Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
 </feed>
