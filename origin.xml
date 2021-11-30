@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-30T15:13:28.965Z</updated>
+    <updated>2021-11-30T16:17:28.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(contentmarketinginstitute.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로봇 주방의 자동화 레벨]]></title>
-        <id>https://lorenzopieri.com/kitchen_levels/</id>
-        <link href="https://lorenzopieri.com/kitchen_levels/"/>
-        <updated>2021-11-30T02:16:01.242Z</updated>
-        <content type="html"><![CDATA[(lorenzopieri.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
         <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
         <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
         <updated>2021-11-29T02:27:35.936Z</updated>
         <content type="html"><![CDATA[(incolumitas.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로봇 주방의 자동화 레벨]]></title>
+        <id>https://lorenzopieri.com/kitchen_levels/</id>
+        <link href="https://lorenzopieri.com/kitchen_levels/"/>
+        <updated>2021-11-30T02:16:01.242Z</updated>
+        <content type="html"><![CDATA[(lorenzopieri.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ESG 평가는 AI로 어떻게 도약하고 있을까?]]></title>
