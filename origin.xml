@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-29T23:12:38.507Z</updated>
+    <updated>2021-11-30T00:40:10.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마케터를 위한 2022년용 새로운 콘텐츠 타입들]]></title>
+        <id>https://contentmarketinginstitute.com/2021/11/fresh-content-types-marketer-consider/</id>
+        <link href="https://contentmarketinginstitute.com/2021/11/fresh-content-types-marketer-consider/"/>
+        <updated>2021-11-30T00:39:29.273Z</updated>
+        <content type="html"><![CDATA[(contentmarketinginstitute.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
         <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
         <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
         <updated>2021-11-29T02:27:35.936Z</updated>
         <content type="html"><![CDATA[(incolumitas.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fleet - JetBrains의 차세대 IDE 공개]]></title>
+        <id>https://www.jetbrains.com/ko-kr/fleet/</id>
+        <link href="https://www.jetbrains.com/ko-kr/fleet/"/>
+        <updated>2021-11-30T00:39:29.274Z</updated>
+        <content type="html"><![CDATA[(jetbrains.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Peritext - Rich Text를 위한 CRDT]]></title>
@@ -27,18 +41,18 @@
         <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS 외부로의 데이터 전송 요금 인하]]></title>
-        <id>https://aws.amazon.com/ko/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/</id>
-        <link href="https://aws.amazon.com/ko/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/"/>
-        <updated>2021-11-29T00:37:40.282Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kubernetes Cluster API 1.0 프로덕션 레디]]></title>
         <id>https://www.cncf.io/blog/2021/10/06/kubernetes-cluster-api-reaches-production-readiness-with-version-1-0/</id>
         <link href="https://www.cncf.io/blog/2021/10/06/kubernetes-cluster-api-reaches-production-readiness-with-version-1-0/"/>
         <updated>2021-11-29T01:54:47.978Z</updated>
         <content type="html"><![CDATA[(cncf.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS 외부로의 데이터 전송 요금 인하]]></title>
+        <id>https://aws.amazon.com/ko/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/</id>
+        <link href="https://aws.amazon.com/ko/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/"/>
+        <updated>2021-11-29T00:37:40.282Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Micronaut - JVM기반의 MSA/서버리스 개발용 풀스택 프레임워크]]></title>
@@ -62,18 +76,18 @@
         <content type="html"><![CDATA[(videogameschronicle.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맥도널드 아이스크림 기계를 더 똑똑하게 만든 회사 Kytch]]></title>
-        <id>https://xguru.net/2238</id>
-        <link href="https://xguru.net/2238"/>
-        <updated>2021-11-28T01:52:00.045Z</updated>
-        <content type="html"><![CDATA[(xguru.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1인 SaaS 개발자를 위한 도구 추천]]></title>
         <id>https://news.ycombinator.com/item?id=29297229</id>
         <link href="https://news.ycombinator.com/item?id=29297229"/>
         <updated>2021-11-23T01:53:46.891Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맥도널드 아이스크림 기계를 더 똑똑하게 만든 회사 Kytch]]></title>
+        <id>https://xguru.net/2238</id>
+        <link href="https://xguru.net/2238"/>
+        <updated>2021-11-28T01:52:00.045Z</updated>
+        <content type="html"><![CDATA[(xguru.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 Filament - 멀티플랫폼용 실시간 물리 렌더링 엔진]]></title>
@@ -118,13 +132,6 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[goormIDE - 지금, AI 코드 자동 완성을 경험해 볼 때]]></title>
-        <id>https://blog.goorm.io/codevisor/</id>
-        <link href="https://blog.goorm.io/codevisor/"/>
-        <updated>2021-11-26T01:52:56.024Z</updated>
-        <content type="html"><![CDATA[(blog.goorm.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[빌게이츠의 2021년 추천서적 5권]]></title>
         <id>https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021</id>
         <link href="https://www.gatesnotes.com/About-Bill-Gates/Holiday-Books-2021"/>
@@ -132,17 +139,10 @@
         <content type="html"><![CDATA[(gatesnotes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[QOI - O(n) 무손실 이미지 압축]]></title>
-        <id>https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression</id>
-        <link href="https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression"/>
-        <updated>2021-11-25T01:56:01.116Z</updated>
-        <content type="html"><![CDATA[(phoboslab.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jovo - 보이스 & 채팅을 위한 프레임워크]]></title>
-        <id>https://github.com/jovotech/jovo-framework</id>
-        <link href="https://github.com/jovotech/jovo-framework"/>
-        <updated>2021-11-29T12:18:03.977Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[goormIDE - 지금, AI 코드 자동 완성을 경험해 볼 때]]></title>
+        <id>https://blog.goorm.io/codevisor/</id>
+        <link href="https://blog.goorm.io/codevisor/"/>
+        <updated>2021-11-26T01:52:56.024Z</updated>
+        <content type="html"><![CDATA[(blog.goorm.io)]]></content>
     </entry>
 </feed>
