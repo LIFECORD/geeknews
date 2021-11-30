@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-30T05:10:14.576Z</updated>
+    <updated>2021-11-30T06:12:56.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(tinycapital.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 저작권법에 Disney가 끼친 영향]]></title>
-        <id>https://online.yu.edu/cardozo/blog/disney-influence-copyright-law</id>
-        <link href="https://online.yu.edu/cardozo/blog/disney-influence-copyright-law"/>
-        <updated>2021-11-30T02:16:01.236Z</updated>
-        <content type="html"><![CDATA[(online.yu.edu)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[마케터를 위한 2022년용 새로운 콘텐츠 타입들]]></title>
         <id>https://contentmarketinginstitute.com/2021/11/fresh-content-types-marketer-consider/</id>
         <link href="https://contentmarketinginstitute.com/2021/11/fresh-content-types-marketer-consider/"/>
@@ -34,11 +27,25 @@
         <content type="html"><![CDATA[(contentmarketinginstitute.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[미국 저작권법에 Disney가 끼친 영향]]></title>
+        <id>https://online.yu.edu/cardozo/blog/disney-influence-copyright-law</id>
+        <link href="https://online.yu.edu/cardozo/blog/disney-influence-copyright-law"/>
+        <updated>2021-11-30T02:16:01.236Z</updated>
+        <content type="html"><![CDATA[(online.yu.edu)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
         <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
         <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
         <updated>2021-11-29T02:27:35.936Z</updated>
         <content type="html"><![CDATA[(incolumitas.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
+        <id>https://engineering.ab180.co/stories/migrating-python-application-to-arm</id>
+        <link href="https://engineering.ab180.co/stories/migrating-python-application-to-arm"/>
+        <updated>2021-11-30T06:12:20.655Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로봇 주방의 자동화 레벨]]></title>
@@ -137,12 +144,5 @@
         <link href="https://news.ycombinator.com/item?id=29304667"/>
         <updated>2021-11-24T17:18:43.768Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tabby - 크로스 플랫폼 터미널]]></title>
-        <id>https://tabby.sh/</id>
-        <link href="https://tabby.sh/"/>
-        <updated>2021-11-25T01:56:01.105Z</updated>
-        <content type="html"><![CDATA[(tabby.sh)]]></content>
     </entry>
 </feed>
