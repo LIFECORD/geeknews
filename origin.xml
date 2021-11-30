@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-11-30T02:16:45.757Z</updated>
+    <updated>2021-11-30T03:11:33.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(tinycapital.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마케터를 위한 2022년용 새로운 콘텐츠 타입들]]></title>
-        <id>https://contentmarketinginstitute.com/2021/11/fresh-content-types-marketer-consider/</id>
-        <link href="https://contentmarketinginstitute.com/2021/11/fresh-content-types-marketer-consider/"/>
-        <updated>2021-11-30T00:39:29.273Z</updated>
-        <content type="html"><![CDATA[(contentmarketinginstitute.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[미국 저작권법에 Disney가 끼친 영향]]></title>
         <id>https://online.yu.edu/cardozo/blog/disney-influence-copyright-law</id>
         <link href="https://online.yu.edu/cardozo/blog/disney-influence-copyright-law"/>
         <updated>2021-11-30T02:16:01.236Z</updated>
         <content type="html"><![CDATA[(online.yu.edu)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케터를 위한 2022년용 새로운 콘텐츠 타입들]]></title>
+        <id>https://contentmarketinginstitute.com/2021/11/fresh-content-types-marketer-consider/</id>
+        <link href="https://contentmarketinginstitute.com/2021/11/fresh-content-types-marketer-consider/"/>
+        <updated>2021-11-30T00:39:29.273Z</updated>
+        <content type="html"><![CDATA[(contentmarketinginstitute.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(lorenzopieri.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peritext - Rich Text를 위한 CRDT]]></title>
-        <id>https://www.inkandswitch.com/peritext/</id>
-        <link href="https://www.inkandswitch.com/peritext/"/>
-        <updated>2021-11-29T01:54:47.977Z</updated>
-        <content type="html"><![CDATA[(inkandswitch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[퇴고의 기술 - 개발자의 기술문서 작성법]]></title>
         <id>https://tech.kakaoenterprise.com/125</id>
         <link href="https://tech.kakaoenterprise.com/125"/>
         <updated>2021-11-28T00:38:27.741Z</updated>
         <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peritext - Rich Text를 위한 CRDT]]></title>
+        <id>https://www.inkandswitch.com/peritext/</id>
+        <link href="https://www.inkandswitch.com/peritext/"/>
+        <updated>2021-11-29T01:54:47.977Z</updated>
+        <content type="html"><![CDATA[(inkandswitch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes Cluster API 1.0 프로덕션 레디]]></title>
