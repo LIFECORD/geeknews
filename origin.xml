@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-01T12:19:27.228Z</updated>
+    <updated>2021-12-01T13:20:50.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(chrome.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fluent Search - Windows 용 강력한 종합 검색/창 전환 유틸리티]]></title>
-        <id>https://fluentsearch.net/</id>
-        <link href="https://fluentsearch.net/"/>
-        <updated>2021-11-30T13:10:23.471Z</updated>
-        <content type="html"><![CDATA[(fluentsearch.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pglet - 백엔드 개발자를 위한 Web UI 프레임워크]]></title>
         <id>https://github.com/pglet/pglet</id>
         <link href="https://github.com/pglet/pglet"/>
         <updated>2021-12-01T03:12:31.591Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fluent Search - Windows 용 강력한 종합 검색/창 전환 유틸리티]]></title>
+        <id>https://fluentsearch.net/</id>
+        <link href="https://fluentsearch.net/"/>
+        <updated>2021-11-30T13:10:23.471Z</updated>
+        <content type="html"><![CDATA[(fluentsearch.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
