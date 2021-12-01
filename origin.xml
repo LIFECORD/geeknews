@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-01T02:01:41.498Z</updated>
+    <updated>2021-12-01T02:37:39.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(blog.asciinema.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fluent Search - Windows 용 강력한 종합 검색/창 전환 유틸리티]]></title>
-        <id>https://fluentsearch.net/</id>
-        <link href="https://fluentsearch.net/"/>
-        <updated>2021-11-30T13:10:23.471Z</updated>
-        <content type="html"><![CDATA[(fluentsearch.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
         <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
         <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
         <updated>2021-12-01T02:00:59.212Z</updated>
         <content type="html"><![CDATA[(chrome.google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fluent Search - Windows 용 강력한 종합 검색/창 전환 유틸리티]]></title>
+        <id>https://fluentsearch.net/</id>
+        <link href="https://fluentsearch.net/"/>
+        <updated>2021-11-30T13:10:23.471Z</updated>
+        <content type="html"><![CDATA[(fluentsearch.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ESG 평가는 AI로 어떻게 도약하고 있을까?]]></title>
-        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222582546454&amp;categoryNo=0&amp;parentCategoryNo=0&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=1&amp;from=menu&amp;userTopListOpen=true&amp;userTopListCount=5&amp;userTopListManageOpen=false&amp;userTopListCurrentPage=1</id>
-        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222582546454&amp;categoryNo=0&amp;parentCategoryNo=0&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=1&amp;from=menu&amp;userTopListOpen=true&amp;userTopListCount=5&amp;userTopListManageOpen=false&amp;userTopListCurrentPage=1"/>
-        <updated>2021-11-30T12:15:01.024Z</updated>
-        <content type="html"><![CDATA[(blog.naver.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lorem Faces - AI로 자동 생성된 아바타용 얼굴들]]></title>
         <id>https://loremfaces.com/</id>
         <link href="https://loremfaces.com/"/>
         <updated>2021-11-28T00:38:27.734Z</updated>
         <content type="html"><![CDATA[(loremfaces.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESG 평가는 AI로 어떻게 도약하고 있을까?]]></title>
+        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222582546454&amp;categoryNo=0&amp;parentCategoryNo=0&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=1&amp;from=menu&amp;userTopListOpen=true&amp;userTopListCount=5&amp;userTopListManageOpen=false&amp;userTopListCurrentPage=1</id>
+        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222582546454&amp;categoryNo=0&amp;parentCategoryNo=0&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=1&amp;from=menu&amp;userTopListOpen=true&amp;userTopListCount=5&amp;userTopListManageOpen=false&amp;userTopListCurrentPage=1"/>
+        <updated>2021-11-30T12:15:01.024Z</updated>
+        <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[맥도널드 아이스크림 기계를 더 똑똑하게 만든 회사 Kytch]]></title>
