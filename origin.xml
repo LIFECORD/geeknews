@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-01T22:12:27.943Z</updated>
+    <updated>2021-12-01T23:12:32.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(jetbrains.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PHP 재단 설립]]></title>
-        <id>https://opencollective.com/phpfoundation</id>
-        <link href="https://opencollective.com/phpfoundation"/>
-        <updated>2021-12-01T00:39:44.232Z</updated>
-        <content type="html"><![CDATA[(opencollective.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
         <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
         <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
         <updated>2021-11-29T02:27:35.936Z</updated>
         <content type="html"><![CDATA[(incolumitas.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 재단 설립]]></title>
+        <id>https://opencollective.com/phpfoundation</id>
+        <link href="https://opencollective.com/phpfoundation"/>
+        <updated>2021-12-01T00:39:44.232Z</updated>
+        <content type="html"><![CDATA[(opencollective.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tiny - 당신의 '훌륭한' 비즈니스를 삽니다]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(loremfaces.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맥도널드 아이스크림 기계를 더 똑똑하게 만든 회사 Kytch]]></title>
-        <id>https://xguru.net/2238</id>
-        <link href="https://xguru.net/2238"/>
-        <updated>2021-12-01T15:12:34.364Z</updated>
-        <content type="html"><![CDATA[(xguru.net)]]></content>
+        <title type="html"><![CDATA[Tabby - 크로스 플랫폼 터미널]]></title>
+        <id>https://tabby.sh/</id>
+        <link href="https://tabby.sh/"/>
+        <updated>2021-12-01T23:11:51.823Z</updated>
+        <content type="html"><![CDATA[(tabby.sh)]]></content>
     </entry>
 </feed>
