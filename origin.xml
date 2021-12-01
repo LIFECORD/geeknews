@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-01T09:13:04.568Z</updated>
+    <updated>2021-12-01T10:13:26.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(contentmarketinginstitute.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로봇 주방의 자동화 레벨]]></title>
-        <id>https://lorenzopieri.com/kitchen_levels/</id>
-        <link href="https://lorenzopieri.com/kitchen_levels/"/>
-        <updated>2021-11-30T02:16:01.242Z</updated>
-        <content type="html"><![CDATA[(lorenzopieri.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[퇴고의 기술 - 개발자의 기술문서 작성법]]></title>
         <id>https://tech.kakaoenterprise.com/125</id>
         <link href="https://tech.kakaoenterprise.com/125"/>
         <updated>2021-11-28T00:38:27.741Z</updated>
         <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로봇 주방의 자동화 레벨]]></title>
+        <id>https://lorenzopieri.com/kitchen_levels/</id>
+        <link href="https://lorenzopieri.com/kitchen_levels/"/>
+        <updated>2021-11-30T02:16:01.242Z</updated>
+        <content type="html"><![CDATA[(lorenzopieri.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes Cluster API 1.0 프로덕션 레디]]></title>
