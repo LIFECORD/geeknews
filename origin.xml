@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-01T20:13:21.586Z</updated>
+    <updated>2021-12-01T21:11:33.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(tinycapital.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 저작권법에 Disney가 끼친 영향]]></title>
-        <id>https://online.yu.edu/cardozo/blog/disney-influence-copyright-law</id>
-        <link href="https://online.yu.edu/cardozo/blog/disney-influence-copyright-law"/>
-        <updated>2021-11-30T02:16:01.236Z</updated>
-        <content type="html"><![CDATA[(online.yu.edu)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[퇴고의 기술 - 개발자의 기술문서 작성법]]></title>
         <id>https://tech.kakaoenterprise.com/125</id>
         <link href="https://tech.kakaoenterprise.com/125"/>
         <updated>2021-11-28T00:38:27.741Z</updated>
         <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 저작권법에 Disney가 끼친 영향]]></title>
+        <id>https://online.yu.edu/cardozo/blog/disney-influence-copyright-law</id>
+        <link href="https://online.yu.edu/cardozo/blog/disney-influence-copyright-law"/>
+        <updated>2021-11-30T02:16:01.236Z</updated>
+        <content type="html"><![CDATA[(online.yu.edu)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영국 규제당국, Meta가 인수했던 Giphy를 매각하라고 명령]]></title>
