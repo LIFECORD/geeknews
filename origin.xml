@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-01T14:12:15.298Z</updated>
+    <updated>2021-12-01T15:13:16.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(chrome.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pglet - 백엔드 개발자를 위한 Web UI 프레임워크]]></title>
-        <id>https://github.com/pglet/pglet</id>
-        <link href="https://github.com/pglet/pglet"/>
-        <updated>2021-12-01T03:12:31.591Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fluent Search - Windows 용 강력한 종합 검색/창 전환 유틸리티]]></title>
         <id>https://fluentsearch.net/</id>
         <link href="https://fluentsearch.net/"/>
         <updated>2021-11-30T13:10:23.471Z</updated>
         <content type="html"><![CDATA[(fluentsearch.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pglet - 백엔드 개발자를 위한 Web UI 프레임워크]]></title>
+        <id>https://github.com/pglet/pglet</id>
+        <link href="https://github.com/pglet/pglet"/>
+        <updated>2021-12-01T03:12:31.591Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(opencollective.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tiny - 당신의 '훌륭한' 비즈니스를 삽니다]]></title>
-        <id>https://www.tinycapital.com/</id>
-        <link href="https://www.tinycapital.com/"/>
-        <updated>2021-11-30T01:46:13.144Z</updated>
-        <content type="html"><![CDATA[(tinycapital.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
         <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
         <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
         <updated>2021-11-29T02:27:35.936Z</updated>
         <content type="html"><![CDATA[(incolumitas.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny - 당신의 '훌륭한' 비즈니스를 삽니다]]></title>
+        <id>https://www.tinycapital.com/</id>
+        <link href="https://www.tinycapital.com/"/>
+        <updated>2021-11-30T01:46:13.144Z</updated>
+        <content type="html"><![CDATA[(tinycapital.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영국 규제당국, Meta가 인수했던 Giphy를 매각하라고 명령]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(loremfaces.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ESG 평가는 AI로 어떻게 도약하고 있을까?]]></title>
-        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222582546454&amp;categoryNo=0&amp;parentCategoryNo=0&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=1&amp;from=menu&amp;userTopListOpen=true&amp;userTopListCount=5&amp;userTopListManageOpen=false&amp;userTopListCurrentPage=1</id>
-        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222582546454&amp;categoryNo=0&amp;parentCategoryNo=0&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=1&amp;from=menu&amp;userTopListOpen=true&amp;userTopListCount=5&amp;userTopListManageOpen=false&amp;userTopListCurrentPage=1"/>
-        <updated>2021-11-30T12:15:01.024Z</updated>
-        <content type="html"><![CDATA[(blog.naver.com)]]></content>
+        <title type="html"><![CDATA[맥도널드 아이스크림 기계를 더 똑똑하게 만든 회사 Kytch]]></title>
+        <id>https://xguru.net/2238</id>
+        <link href="https://xguru.net/2238"/>
+        <updated>2021-12-01T15:12:34.364Z</updated>
+        <content type="html"><![CDATA[(xguru.net)]]></content>
     </entry>
 </feed>
