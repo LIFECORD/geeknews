@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-01T02:37:39.064Z</updated>
+    <updated>2021-12-01T03:13:12.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://www.jetbrains.com/ko-kr/fleet/"/>
         <updated>2021-11-30T00:39:29.274Z</updated>
         <content type="html"><![CDATA[(jetbrains.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pglet - 백엔드 개발자를 위한 Web UI 프레임워크]]></title>
+        <id>https://github.com/pglet/pglet</id>
+        <link href="https://github.com/pglet/pglet"/>
+        <updated>2021-12-01T03:12:31.591Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영국 규제당국, Meta가 인수했던 Giphy를 매각하라고 명령]]></title>
@@ -137,12 +144,5 @@
         <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222582546454&amp;categoryNo=0&amp;parentCategoryNo=0&amp;viewDate=&amp;currentPage=1&amp;postListTopCurrentPage=1&amp;from=menu&amp;userTopListOpen=true&amp;userTopListCount=5&amp;userTopListManageOpen=false&amp;userTopListCurrentPage=1"/>
         <updated>2021-11-30T12:15:01.024Z</updated>
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맥도널드 아이스크림 기계를 더 똑똑하게 만든 회사 Kytch]]></title>
-        <id>https://xguru.net/2238</id>
-        <link href="https://xguru.net/2238"/>
-        <updated>2021-11-28T01:52:00.045Z</updated>
-        <content type="html"><![CDATA[(xguru.net)]]></content>
     </entry>
 </feed>
