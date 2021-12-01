@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-01T00:40:22.836Z</updated>
+    <updated>2021-12-01T02:01:41.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Asciinema 3.0 - 4배 작고, 50배 빠르게]]></title>
+        <id>https://blog.asciinema.org/post/smaller-faster/</id>
+        <link href="https://blog.asciinema.org/post/smaller-faster/"/>
+        <updated>2021-12-01T02:00:59.209Z</updated>
+        <content type="html"><![CDATA[(blog.asciinema.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fluent Search - Windows 용 강력한 종합 검색/창 전환 유틸리티]]></title>
         <id>https://fluentsearch.net/</id>
         <link href="https://fluentsearch.net/"/>
         <updated>2021-11-30T13:10:23.471Z</updated>
         <content type="html"><![CDATA[(fluentsearch.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
+        <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
+        <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
+        <updated>2021-12-01T02:00:59.212Z</updated>
+        <content type="html"><![CDATA[(chrome.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
@@ -27,11 +41,11 @@
         <content type="html"><![CDATA[(jetbrains.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PHP 재단 설립]]></title>
-        <id>https://opencollective.com/phpfoundation</id>
-        <link href="https://opencollective.com/phpfoundation"/>
-        <updated>2021-12-01T00:39:44.232Z</updated>
-        <content type="html"><![CDATA[(opencollective.com)]]></content>
+        <title type="html"><![CDATA[영국 규제당국, Meta가 인수했던 Giphy를 매각하라고 명령]]></title>
+        <id>https://www.axios.com/uk-regulators-order-facebook-meta-giphy-sale-457ccd20-f28e-4631-a508-a88639b1b121.html</id>
+        <link href="https://www.axios.com/uk-regulators-order-facebook-meta-giphy-sale-457ccd20-f28e-4631-a508-a88639b1b121.html"/>
+        <updated>2021-12-01T02:00:59.216Z</updated>
+        <content type="html"><![CDATA[(axios.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tiny - 당신의 '훌륭한' 비즈니스를 삽니다]]></title>
@@ -39,6 +53,13 @@
         <link href="https://www.tinycapital.com/"/>
         <updated>2021-11-30T01:46:13.144Z</updated>
         <content type="html"><![CDATA[(tinycapital.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 재단 설립]]></title>
+        <id>https://opencollective.com/phpfoundation</id>
+        <link href="https://opencollective.com/phpfoundation"/>
+        <updated>2021-12-01T00:39:44.232Z</updated>
+        <content type="html"><![CDATA[(opencollective.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
@@ -123,26 +144,5 @@
         <link href="https://xguru.net/2238"/>
         <updated>2021-11-28T01:52:00.045Z</updated>
         <content type="html"><![CDATA[(xguru.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닌텐도64용 젤다의 전설 풀 디컴파일 완료]]></title>
-        <id>https://www.videogameschronicle.com/news/zelda-64-has-been-fully-decompiled-potentially-opening-the-door-for-mods-and-ports/</id>
-        <link href="https://www.videogameschronicle.com/news/zelda-64-has-been-fully-decompiled-potentially-opening-the-door-for-mods-and-ports/"/>
-        <updated>2021-11-28T01:52:00.045Z</updated>
-        <content type="html"><![CDATA[(videogameschronicle.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 Filament - 멀티플랫폼용 실시간 물리 렌더링 엔진]]></title>
-        <id>https://github.com/google/filament</id>
-        <link href="https://github.com/google/filament"/>
-        <updated>2021-11-27T01:52:23.182Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevLake - DevOps를 위한 오픈소스 Data Lake]]></title>
-        <id>https://github.com/merico-dev/lake</id>
-        <link href="https://github.com/merico-dev/lake"/>
-        <updated>2021-11-27T01:52:23.190Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
