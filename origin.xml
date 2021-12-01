@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-01T16:18:07.864Z</updated>
+    <updated>2021-12-01T17:20:37.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(cncf.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Micronaut - JVM기반의 MSA/서버리스 개발용 풀스택 프레임워크]]></title>
-        <id>https://micronaut.io/</id>
-        <link href="https://micronaut.io/"/>
-        <updated>2021-11-29T01:54:47.976Z</updated>
-        <content type="html"><![CDATA[(micronaut.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peritext - Rich Text를 위한 CRDT]]></title>
         <id>https://www.inkandswitch.com/peritext/</id>
         <link href="https://www.inkandswitch.com/peritext/"/>
         <updated>2021-11-29T01:54:47.977Z</updated>
         <content type="html"><![CDATA[(inkandswitch.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Micronaut - JVM기반의 MSA/서버리스 개발용 풀스택 프레임워크]]></title>
+        <id>https://micronaut.io/</id>
+        <link href="https://micronaut.io/"/>
+        <updated>2021-11-29T01:54:47.976Z</updated>
+        <content type="html"><![CDATA[(micronaut.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS 외부로의 데이터 전송 요금 인하]]></title>
