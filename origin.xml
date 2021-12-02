@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-02T10:12:46.490Z</updated>
+    <updated>2021-12-02T11:10:55.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(chrome.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS re:Invent 주요 출시 소식 요약 전체 보기]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/"/>
-        <updated>2021-12-02T00:37:39.323Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
         <id>https://engineering.ab180.co/stories/migrating-python-application-to-arm</id>
         <link href="https://engineering.ab180.co/stories/migrating-python-application-to-arm"/>
         <updated>2021-11-30T06:12:20.655Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS re:Invent 주요 출시 소식 요약 전체 보기]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/"/>
+        <updated>2021-12-02T00:37:39.323Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pglet - 백엔드 개발자를 위한 Web UI 프레임워크]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(jetbrains.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Square, 회사 이름을 Block 으로 변경]]></title>
-        <id>https://squareup.com/us/en/press/square-changes-name-to-block</id>
-        <link href="https://squareup.com/us/en/press/square-changes-name-to-block"/>
-        <updated>2021-12-02T03:12:14.161Z</updated>
-        <content type="html"><![CDATA[(squareup.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
         <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
         <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
         <updated>2021-11-29T02:27:35.936Z</updated>
         <content type="html"><![CDATA[(incolumitas.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Square, 회사 이름을 Block 으로 변경]]></title>
+        <id>https://squareup.com/us/en/press/square-changes-name-to-block</id>
+        <link href="https://squareup.com/us/en/press/square-changes-name-to-block"/>
+        <updated>2021-12-02T03:12:14.161Z</updated>
+        <content type="html"><![CDATA[(squareup.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tiny - 당신의 '훌륭한' 비즈니스를 삽니다]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(tinycapital.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PHP 재단 설립]]></title>
-        <id>https://opencollective.com/phpfoundation</id>
-        <link href="https://opencollective.com/phpfoundation"/>
-        <updated>2021-12-01T00:39:44.232Z</updated>
-        <content type="html"><![CDATA[(opencollective.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[퇴고의 기술 - 개발자의 기술문서 작성법]]></title>
         <id>https://tech.kakaoenterprise.com/125</id>
         <link href="https://tech.kakaoenterprise.com/125"/>
         <updated>2021-11-28T00:38:27.741Z</updated>
         <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 재단 설립]]></title>
+        <id>https://opencollective.com/phpfoundation</id>
+        <link href="https://opencollective.com/phpfoundation"/>
+        <updated>2021-12-01T00:39:44.232Z</updated>
+        <content type="html"><![CDATA[(opencollective.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국 저작권법에 Disney가 끼친 영향]]></title>
