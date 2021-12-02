@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-02T18:14:39.062Z</updated>
+    <updated>2021-12-02T19:10:47.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(fluentsearch.net)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Asciinema 3.0 - 4배 작고, 50배 빠르게]]></title>
+        <id>https://blog.asciinema.org/post/smaller-faster/</id>
+        <link href="https://blog.asciinema.org/post/smaller-faster/"/>
+        <updated>2021-12-01T02:00:59.209Z</updated>
+        <content type="html"><![CDATA[(blog.asciinema.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
         <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
         <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
@@ -46,13 +53,6 @@
         <link href="https://engineering.ab180.co/stories/migrating-python-application-to-arm"/>
         <updated>2021-11-30T06:12:20.655Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asciinema 3.0 - 4배 작고, 50배 빠르게]]></title>
-        <id>https://blog.asciinema.org/post/smaller-faster/</id>
-        <link href="https://blog.asciinema.org/post/smaller-faster/"/>
-        <updated>2021-12-01T02:00:59.209Z</updated>
-        <content type="html"><![CDATA[(blog.asciinema.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fleet - JetBrains의 차세대 IDE 공개]]></title>
