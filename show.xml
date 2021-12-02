@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-12-02T14:12:01.411Z</updated>
+    <updated>2021-12-02T15:11:23.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -66,13 +66,6 @@
         <id>https://news.hada.io/topic?id=5292</id>
         <link href="https://news.hada.io/topic?id=5292"/>
         <updated>2021-10-31T04:14:40.875Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Screen Recorder]]></title>
-        <id>https://news.hada.io/topic?id=4981</id>
-        <link href="https://news.hada.io/topic?id=4981"/>
-        <updated>2021-09-28T01:34:39.742Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
