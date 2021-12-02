@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-02T22:13:31.713Z</updated>
+    <updated>2021-12-02T23:12:24.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(blog.asciinema.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
-        <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
-        <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
-        <updated>2021-12-01T02:00:59.212Z</updated>
-        <content type="html"><![CDATA[(chrome.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
         <id>https://engineering.ab180.co/stories/migrating-python-application-to-arm</id>
         <link href="https://engineering.ab180.co/stories/migrating-python-application-to-arm"/>
         <updated>2021-11-30T06:12:20.655Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
+        <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
+        <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
+        <updated>2021-12-01T02:00:59.212Z</updated>
+        <content type="html"><![CDATA[(chrome.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fleet - JetBrains의 차세대 IDE 공개]]></title>
