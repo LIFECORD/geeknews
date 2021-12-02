@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-02T02:29:03.566Z</updated>
+    <updated>2021-12-02T03:12:52.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://github.com/jesseduffield/lazygit"/>
         <updated>2021-12-02T01:55:44.431Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 디자인 툴 설문조사]]></title>
+        <id>https://uxtools.co/survey-2021</id>
+        <link href="https://uxtools.co/survey-2021"/>
+        <updated>2021-12-02T03:12:14.159Z</updated>
+        <content type="html"><![CDATA[(uxtools.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS Private 5G - 사설 5G 셀룰러 망 구축하기]]></title>
@@ -25,6 +32,13 @@
         <link href="https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/"/>
         <updated>2021-12-02T00:37:39.323Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Square, 회사 이름을 Block 으로 변경]]></title>
+        <id>https://squareup.com/us/en/press/square-changes-name-to-block</id>
+        <link href="https://squareup.com/us/en/press/square-changes-name-to-block"/>
+        <updated>2021-12-02T03:12:14.161Z</updated>
+        <content type="html"><![CDATA[(squareup.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Asciinema 3.0 - 4배 작고, 50배 빠르게]]></title>
@@ -130,19 +144,5 @@
         <link href="https://www.cncf.io/blog/2021/10/06/kubernetes-cluster-api-reaches-production-readiness-with-version-1-0/"/>
         <updated>2021-11-29T01:54:47.978Z</updated>
         <content type="html"><![CDATA[(cncf.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peritext - Rich Text를 위한 CRDT]]></title>
-        <id>https://www.inkandswitch.com/peritext/</id>
-        <link href="https://www.inkandswitch.com/peritext/"/>
-        <updated>2021-11-29T01:54:47.977Z</updated>
-        <content type="html"><![CDATA[(inkandswitch.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micronaut - JVM기반의 MSA/서버리스 개발용 풀스택 프레임워크]]></title>
-        <id>https://micronaut.io/</id>
-        <link href="https://micronaut.io/"/>
-        <updated>2021-11-29T01:54:47.976Z</updated>
-        <content type="html"><![CDATA[(micronaut.io)]]></content>
     </entry>
 </feed>
