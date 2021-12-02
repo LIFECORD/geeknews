@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-02T17:20:02.507Z</updated>
+    <updated>2021-12-02T18:14:39.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Square, 회사 이름을 Block 으로 변경]]></title>
-        <id>https://squareup.com/us/en/press/square-changes-name-to-block</id>
-        <link href="https://squareup.com/us/en/press/square-changes-name-to-block"/>
-        <updated>2021-12-02T03:12:14.161Z</updated>
-        <content type="html"><![CDATA[(squareup.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PHP 재단 설립]]></title>
         <id>https://opencollective.com/phpfoundation</id>
         <link href="https://opencollective.com/phpfoundation"/>
         <updated>2021-12-01T00:39:44.232Z</updated>
         <content type="html"><![CDATA[(opencollective.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Square, 회사 이름을 Block 으로 변경]]></title>
+        <id>https://squareup.com/us/en/press/square-changes-name-to-block</id>
+        <link href="https://squareup.com/us/en/press/square-changes-name-to-block"/>
+        <updated>2021-12-02T03:12:14.161Z</updated>
+        <content type="html"><![CDATA[(squareup.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로봇 주방의 자동화 레벨]]></title>
