@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-02T12:19:16.852Z</updated>
+    <updated>2021-12-02T13:19:58.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS re:Invent 주요 출시 소식 요약 전체 보기]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/"/>
-        <updated>2021-12-02T00:37:39.323Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fleet - JetBrains의 차세대 IDE 공개]]></title>
         <id>https://www.jetbrains.com/ko-kr/fleet/</id>
         <link href="https://www.jetbrains.com/ko-kr/fleet/"/>
@@ -74,6 +67,13 @@
         <link href="https://github.com/pglet/pglet"/>
         <updated>2021-12-01T03:12:31.591Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS re:Invent 주요 출시 소식 요약 전체 보기]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/"/>
+        <updated>2021-12-02T00:37:39.323Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
