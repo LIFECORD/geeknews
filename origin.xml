@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-03T12:18:25.333Z</updated>
+    <updated>2021-12-03T13:19:43.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(almanac.httparchive.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Amazon EC2 M1 맥 인스턴스 프리뷰 발표]]></title>
+        <id>https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/</id>
+        <link href="https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/"/>
+        <updated>2021-12-03T00:37:28.726Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: Show GN: Discovery platform for upcoming NFTs]]></title>
         <id>https://news.hada.io/topic?id=5481</id>
         <link href="https://news.hada.io/topic?id=5481"/>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[(sealaunch.xyz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon EC2 M1 맥 인스턴스 프리뷰 발표]]></title>
-        <id>https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/</id>
-        <link href="https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/"/>
-        <updated>2021-12-03T00:37:28.726Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+        <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
+        <id>https://github.com/jesseduffield/lazygit</id>
+        <link href="https://github.com/jesseduffield/lazygit"/>
+        <updated>2021-12-02T01:55:44.431Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[rails기반 React SSR기반에서 클라이언트 서버로 분리하기까지]]></title>
@@ -52,13 +59,6 @@
         <id>https://github.com/microsoft/react-native-test-app</id>
         <link href="https://github.com/microsoft/react-native-test-app"/>
         <updated>2021-12-03T01:55:05.248Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
-        <id>https://github.com/jesseduffield/lazygit</id>
-        <link href="https://github.com/jesseduffield/lazygit"/>
-        <updated>2021-12-02T01:55:44.431Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -130,17 +130,17 @@
         <updated>2021-12-03T00:37:28.743Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS re:Invent 주요 출시 소식 요약 전체 보기]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/"/>
-        <updated>2021-12-02T00:37:39.323Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pglet - 백엔드 개발자를 위한 Web UI 프레임워크]]></title>
         <id>https://github.com/pglet/pglet</id>
         <link href="https://github.com/pglet/pglet"/>
         <updated>2021-12-01T03:12:31.591Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS re:Invent 주요 출시 소식 요약 전체 보기]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/"/>
+        <updated>2021-12-02T00:37:39.323Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
 </feed>
