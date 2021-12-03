@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-03T13:19:43.756Z</updated>
+    <updated>2021-12-03T14:11:48.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Show GN: Discovery platform for upcoming NFTs]]></title>
-        <id>https://news.hada.io/topic?id=5481</id>
-        <link href="https://news.hada.io/topic?id=5481"/>
-        <updated>2021-12-03T11:09:55.444Z</updated>
-        <content type="html"><![CDATA[(sealaunch.xyz)]]></content>
+        <title type="html"><![CDATA[rails기반 React SSR기반에서 클라이언트 서버로 분리하기까지]]></title>
+        <id>https://www.bucketplace.co.kr/post/2021-12-03-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-msa-phase-1-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC%EC%9E%91%EC%97%85/</id>
+        <link href="https://www.bucketplace.co.kr/post/2021-12-03-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-msa-phase-1-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC%EC%9E%91%EC%97%85/"/>
+        <updated>2021-12-03T06:13:59.264Z</updated>
+        <content type="html"><![CDATA[(bucketplace.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rails기반 React SSR기반에서 클라이언트 서버로 분리하기까지]]></title>
-        <id>https://www.bucketplace.co.kr/post/2021-12-03-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-msa-phase-1-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC%EC%9E%91%EC%97%85/</id>
-        <link href="https://www.bucketplace.co.kr/post/2021-12-03-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-msa-phase-1-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC%EC%9E%91%EC%97%85/"/>
-        <updated>2021-12-03T06:13:59.264Z</updated>
-        <content type="html"><![CDATA[(bucketplace.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[React Native Test App - 모든 플랫폼용 테스트앱을 패키지로 제공]]></title>
         <id>https://github.com/microsoft/react-native-test-app</id>
         <link href="https://github.com/microsoft/react-native-test-app"/>
         <updated>2021-12-03T01:55:05.248Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Show GN: Discovery platform for upcoming NFTs]]></title>
+        <id>https://news.hada.io/topic?id=5481</id>
+        <link href="https://news.hada.io/topic?id=5481"/>
+        <updated>2021-12-03T11:09:55.444Z</updated>
+        <content type="html"><![CDATA[(sealaunch.xyz)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -130,17 +130,17 @@
         <updated>2021-12-03T00:37:28.743Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pglet - 백엔드 개발자를 위한 Web UI 프레임워크]]></title>
-        <id>https://github.com/pglet/pglet</id>
-        <link href="https://github.com/pglet/pglet"/>
-        <updated>2021-12-01T03:12:31.591Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS re:Invent 주요 출시 소식 요약 전체 보기]]></title>
         <id>https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/</id>
         <link href="https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/"/>
         <updated>2021-12-02T00:37:39.323Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pglet - 백엔드 개발자를 위한 Web UI 프레임워크]]></title>
+        <id>https://github.com/pglet/pglet</id>
+        <link href="https://github.com/pglet/pglet"/>
+        <updated>2021-12-01T03:12:31.591Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
