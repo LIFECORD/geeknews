@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-03T22:11:57.194Z</updated>
+    <updated>2021-12-03T23:12:21.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -137,10 +137,10 @@
         <content type="html"><![CDATA[(tinycapital.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS re:Invent 주요 출시 소식 요약 전체 보기]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/"/>
-        <updated>2021-12-02T00:37:39.323Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+        <title type="html"><![CDATA[퇴고의 기술 - 개발자의 기술문서 작성법]]></title>
+        <id>https://tech.kakaoenterprise.com/125</id>
+        <link href="https://tech.kakaoenterprise.com/125"/>
+        <updated>2021-12-03T23:11:39.177Z</updated>
+        <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
     </entry>
 </feed>
