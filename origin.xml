@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-03T18:13:59.320Z</updated>
+    <updated>2021-12-03T19:10:18.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -75,18 +75,18 @@
         <content type="html"><![CDATA[(fluentsearch.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
-        <id>https://engineering.ab180.co/stories/migrating-python-application-to-arm</id>
-        <link href="https://engineering.ab180.co/stories/migrating-python-application-to-arm"/>
-        <updated>2021-11-30T06:12:20.655Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Private 5G - 사설 5G 셀룰러 망 구축하기]]></title>
         <id>https://aws.amazon.com/ko/private5g/</id>
         <link href="https://aws.amazon.com/ko/private5g/"/>
         <updated>2021-12-02T01:55:44.433Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
+        <id>https://engineering.ab180.co/stories/migrating-python-application-to-arm</id>
+        <link href="https://engineering.ab180.co/stories/migrating-python-application-to-arm"/>
+        <updated>2021-11-30T06:12:20.655Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Asciinema 3.0 - 4배 작고, 50배 빠르게]]></title>
