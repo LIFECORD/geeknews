@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-03T09:12:51.274Z</updated>
+    <updated>2021-12-03T10:13:24.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[(jetbrains.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
+        <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
+        <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
+        <updated>2021-11-29T02:27:35.936Z</updated>
+        <content type="html"><![CDATA[(incolumitas.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: CRUD / CSV import 를 지원하는 빠르게 만들 수 있는 db 오픈소스 툴 추천해주세요]]></title>
         <id>https://news.hada.io/topic?id=5468</id>
         <link href="https://news.hada.io/topic?id=5468"/>
@@ -121,13 +128,6 @@
         <link href="https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/"/>
         <updated>2021-12-02T00:37:39.323Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
-        <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
-        <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
-        <updated>2021-11-29T02:27:35.936Z</updated>
-        <content type="html"><![CDATA[(incolumitas.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pglet - 백엔드 개발자를 위한 Web UI 프레임워크]]></title>
