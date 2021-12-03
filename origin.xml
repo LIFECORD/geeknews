@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-03T04:15:27.313Z</updated>
+    <updated>2021-12-03T05:11:41.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(strapi.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon EC2 M1 맥 인스턴스 프리뷰 발표]]></title>
-        <id>https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/</id>
-        <link href="https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/"/>
-        <updated>2021-12-03T00:37:28.726Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
         <id>https://github.com/openreplay/openreplay</id>
         <link href="https://github.com/openreplay/openreplay"/>
         <updated>2021-12-03T01:55:05.248Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 M1 맥 인스턴스 프리뷰 발표]]></title>
+        <id>https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/</id>
+        <link href="https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/"/>
+        <updated>2021-12-03T00:37:28.726Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 Web Almanac - 웹의 현재 보고서]]></title>
