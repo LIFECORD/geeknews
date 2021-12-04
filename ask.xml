@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-12-04T09:12:49.606Z</updated>
+    <updated>2021-12-04T10:13:24.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -84,16 +84,16 @@
         <updated>2021-10-29T01:53:05.388Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5325</id>
-        <link href="https://news.hada.io/topic?id=5325"/>
-        <updated>2021-11-05T01:55:41.085Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 서울을 벗어난 삶에대해 어떻게 생각하시나요?]]></title>
         <id>https://news.hada.io/topic?id=5067</id>
         <link href="https://news.hada.io/topic?id=5067"/>
         <updated>2021-09-28T01:34:45.881Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5325</id>
+        <link href="https://news.hada.io/topic?id=5325"/>
+        <updated>2021-11-05T01:55:41.085Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 유튜브에서 얻은 정보를 어떻게 저장하시나요?]]></title>
