@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-04T05:12:50.023Z</updated>
+    <updated>2021-12-04T06:14:24.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla, 어린이용 ATV Cybersquad 발매]]></title>
-        <id>https://shop.tesla.com/product/cyberquad-for-kids</id>
-        <link href="https://shop.tesla.com/product/cyberquad-for-kids"/>
-        <updated>2021-12-04T04:14:43.936Z</updated>
-        <content type="html"><![CDATA[(shop.tesla.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
         <id>https://github.com/openreplay/openreplay</id>
         <link href="https://github.com/openreplay/openreplay"/>
         <updated>2021-12-03T01:55:05.248Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla, 어린이용 ATV Cybersquad 발매]]></title>
+        <id>https://shop.tesla.com/product/cyberquad-for-kids</id>
+        <link href="https://shop.tesla.com/product/cyberquad-for-kids"/>
+        <updated>2021-12-04T04:14:43.936Z</updated>
+        <content type="html"><![CDATA[(shop.tesla.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Boox Mira Pro - 25.3인치 e-Ink 모니터]]></title>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(shop.boox.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미 연방거래위원회(FTC), Nvidia의 ARM 인수를 막기 위한 소송을 제기]]></title>
-        <id>https://www.ftc.gov/news-events/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger</id>
-        <link href="https://www.ftc.gov/news-events/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger"/>
-        <updated>2021-12-04T01:54:25.930Z</updated>
-        <content type="html"><![CDATA[(ftc.gov)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Strapi v4 릴리즈 - 오픈소스 헤드리스 CMS]]></title>
         <id>https://strapi.io/blog/announcing-strapi-v4</id>
         <link href="https://strapi.io/blog/announcing-strapi-v4"/>
@@ -55,17 +48,24 @@
         <content type="html"><![CDATA[(strapi.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
-        <id>https://github.com/jesseduffield/lazygit</id>
-        <link href="https://github.com/jesseduffield/lazygit"/>
-        <updated>2021-12-02T01:55:44.431Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[미 연방거래위원회(FTC), Nvidia의 ARM 인수를 막기 위한 소송을 제기]]></title>
+        <id>https://www.ftc.gov/news-events/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger</id>
+        <link href="https://www.ftc.gov/news-events/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger"/>
+        <updated>2021-12-04T01:54:25.930Z</updated>
+        <content type="html"><![CDATA[(ftc.gov)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[React Native Test App - 모든 플랫폼용 테스트앱을 패키지로 제공]]></title>
         <id>https://github.com/microsoft/react-native-test-app</id>
         <link href="https://github.com/microsoft/react-native-test-app"/>
         <updated>2021-12-03T01:55:05.248Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
+        <id>https://github.com/jesseduffield/lazygit</id>
+        <link href="https://github.com/jesseduffield/lazygit"/>
+        <updated>2021-12-02T01:55:44.431Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -110,13 +110,6 @@
         <updated>2021-12-03T01:55:05.233Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rails기반 React SSR기반에서 클라이언트 서버로 분리하기까지]]></title>
-        <id>https://www.bucketplace.co.kr/post/2021-12-03-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-msa-phase-1-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC%EC%9E%91%EC%97%85/</id>
-        <link href="https://www.bucketplace.co.kr/post/2021-12-03-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-msa-phase-1-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC%EC%9E%91%EC%97%85/"/>
-        <updated>2021-12-03T06:13:59.264Z</updated>
-        <content type="html"><![CDATA[(bucketplace.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Asciinema 3.0 - 4배 작고, 50배 빠르게]]></title>
         <id>https://blog.asciinema.org/post/smaller-faster/</id>
         <link href="https://blog.asciinema.org/post/smaller-faster/"/>
@@ -136,6 +129,13 @@
         <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
         <updated>2021-11-29T02:27:35.936Z</updated>
         <content type="html"><![CDATA[(incolumitas.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rails기반 React SSR기반에서 클라이언트 서버로 분리하기까지]]></title>
+        <id>https://www.bucketplace.co.kr/post/2021-12-03-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-msa-phase-1-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC%EC%9E%91%EC%97%85/</id>
+        <link href="https://www.bucketplace.co.kr/post/2021-12-03-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-msa-phase-1-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC%EC%9E%91%EC%97%85/"/>
+        <updated>2021-12-03T06:13:59.264Z</updated>
+        <content type="html"><![CDATA[(bucketplace.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fleet - JetBrains의 차세대 IDE 공개]]></title>
