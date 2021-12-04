@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-04T00:38:10.318Z</updated>
+    <updated>2021-12-04T01:55:04.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Boox Mira Pro - 25.3인치 e-Ink 모니터]]></title>
+        <id>https://shop.boox.com/products/mira</id>
+        <link href="https://shop.boox.com/products/mira"/>
+        <updated>2021-12-04T01:54:25.910Z</updated>
+        <content type="html"><![CDATA[(shop.boox.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미 연방거래위원회(FTC), Nvidia의 ARM 인수를 막기 위한 소송을 제기]]></title>
+        <id>https://www.ftc.gov/news-events/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger</id>
+        <link href="https://www.ftc.gov/news-events/press-releases/2021/12/ftc-sues-block-40-billion-semiconductor-chip-merger"/>
+        <updated>2021-12-04T01:54:25.930Z</updated>
+        <content type="html"><![CDATA[(ftc.gov)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안드로이드, 연말을 맞아 새로운 기능들 공개]]></title>
         <id>https://blog.google/products/android/new-features-december-2021/</id>
@@ -48,18 +62,18 @@
         <content type="html"><![CDATA[(almanac.httparchive.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 디자인 툴 설문조사]]></title>
-        <id>https://uxtools.co/survey-2021</id>
-        <link href="https://uxtools.co/survey-2021"/>
-        <updated>2021-12-02T03:12:14.159Z</updated>
-        <content type="html"><![CDATA[(uxtools.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon EC2 M1 맥 인스턴스 프리뷰 발표]]></title>
         <id>https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/</id>
         <link href="https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/"/>
         <updated>2021-12-03T00:37:28.726Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 디자인 툴 설문조사]]></title>
+        <id>https://uxtools.co/survey-2021</id>
+        <link href="https://uxtools.co/survey-2021"/>
+        <updated>2021-12-02T03:12:14.159Z</updated>
+        <content type="html"><![CDATA[(uxtools.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -129,18 +143,5 @@
         <link href="https://github.com/pglet/pglet"/>
         <updated>2021-12-01T03:12:31.591Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: CRUD / CSV import 를 지원하는 빠르게 만들 수 있는 db 오픈소스 툴 추천해주세요]]></title>
-        <id>https://news.hada.io/topic?id=5468</id>
-        <link href="https://news.hada.io/topic?id=5468"/>
-        <updated>2021-12-03T00:37:28.743Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiny - 당신의 '훌륭한' 비즈니스를 삽니다]]></title>
-        <id>https://www.tinycapital.com/</id>
-        <link href="https://www.tinycapital.com/"/>
-        <updated>2021-12-03T15:12:45.837Z</updated>
-        <content type="html"><![CDATA[(tinycapital.com)]]></content>
     </entry>
 </feed>
