@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-04T04:15:24.006Z</updated>
+    <updated>2021-12-04T05:12:50.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(shop.tesla.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boox Mira Pro - 25.3인치 e-Ink 모니터]]></title>
-        <id>https://shop.boox.com/products/mira</id>
-        <link href="https://shop.boox.com/products/mira"/>
-        <updated>2021-12-04T01:54:25.910Z</updated>
-        <content type="html"><![CDATA[(shop.boox.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
         <id>https://github.com/openreplay/openreplay</id>
         <link href="https://github.com/openreplay/openreplay"/>
         <updated>2021-12-03T01:55:05.248Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boox Mira Pro - 25.3인치 e-Ink 모니터]]></title>
+        <id>https://shop.boox.com/products/mira</id>
+        <link href="https://shop.boox.com/products/mira"/>
+        <updated>2021-12-04T01:54:25.910Z</updated>
+        <content type="html"><![CDATA[(shop.boox.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미 연방거래위원회(FTC), Nvidia의 ARM 인수를 막기 위한 소송을 제기]]></title>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[(fluentsearch.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5474</id>
-        <link href="https://news.hada.io/topic?id=5474"/>
-        <updated>2021-12-03T01:55:05.233Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
         <id>https://engineering.ab180.co/stories/migrating-python-application-to-arm</id>
         <link href="https://engineering.ab180.co/stories/migrating-python-application-to-arm"/>
         <updated>2021-11-30T06:12:20.655Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5474</id>
+        <link href="https://news.hada.io/topic?id=5474"/>
+        <updated>2021-12-03T01:55:05.233Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[rails기반 React SSR기반에서 클라이언트 서버로 분리하기까지]]></title>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(chrome.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fleet - JetBrains의 차세대 IDE 공개]]></title>
-        <id>https://www.jetbrains.com/ko-kr/fleet/</id>
-        <link href="https://www.jetbrains.com/ko-kr/fleet/"/>
-        <updated>2021-11-30T00:39:29.274Z</updated>
-        <content type="html"><![CDATA[(jetbrains.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
         <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
         <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
         <updated>2021-11-29T02:27:35.936Z</updated>
         <content type="html"><![CDATA[(incolumitas.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fleet - JetBrains의 차세대 IDE 공개]]></title>
+        <id>https://www.jetbrains.com/ko-kr/fleet/</id>
+        <link href="https://www.jetbrains.com/ko-kr/fleet/"/>
+        <updated>2021-11-30T00:39:29.274Z</updated>
+        <content type="html"><![CDATA[(jetbrains.com)]]></content>
     </entry>
 </feed>
