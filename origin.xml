@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-04T08:14:28.869Z</updated>
+    <updated>2021-12-04T09:12:49.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(strapi.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Boox Mira Pro - 25.3인치 e-Ink 모니터]]></title>
-        <id>https://shop.boox.com/products/mira</id>
-        <link href="https://shop.boox.com/products/mira"/>
-        <updated>2021-12-04T01:54:25.910Z</updated>
-        <content type="html"><![CDATA[(shop.boox.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[React Native Test App - 모든 플랫폼용 테스트앱을 패키지로 제공]]></title>
         <id>https://github.com/microsoft/react-native-test-app</id>
         <link href="https://github.com/microsoft/react-native-test-app"/>
@@ -60,6 +53,13 @@
         <link href="https://github.com/jesseduffield/lazygit"/>
         <updated>2021-12-02T01:55:44.431Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boox Mira Pro - 25.3인치 e-Ink 모니터]]></title>
+        <id>https://shop.boox.com/products/mira</id>
+        <link href="https://shop.boox.com/products/mira"/>
+        <updated>2021-12-04T01:54:25.910Z</updated>
+        <content type="html"><![CDATA[(shop.boox.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미 연방거래위원회(FTC), Nvidia의 ARM 인수를 막기 위한 소송을 제기]]></title>
@@ -111,10 +111,11 @@
         <content type="html"><![CDATA[(chrome.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5474</id>
-        <link href="https://news.hada.io/topic?id=5474"/>
-        <updated>2021-12-03T01:55:05.233Z</updated>
+        <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
+        <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
+        <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
+        <updated>2021-11-29T02:27:35.936Z</updated>
+        <content type="html"><![CDATA[(incolumitas.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Asciinema 3.0 - 4배 작고, 50배 빠르게]]></title>
@@ -124,11 +125,10 @@
         <content type="html"><![CDATA[(blog.asciinema.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
-        <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
-        <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
-        <updated>2021-11-29T02:27:35.936Z</updated>
-        <content type="html"><![CDATA[(incolumitas.com)]]></content>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5474</id>
+        <link href="https://news.hada.io/topic?id=5474"/>
+        <updated>2021-12-03T01:55:05.233Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fleet - JetBrains의 차세대 IDE 공개]]></title>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(jetbrains.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[rails기반 React SSR기반에서 클라이언트 서버로 분리하기까지]]></title>
-        <id>https://www.bucketplace.co.kr/post/2021-12-03-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-msa-phase-1-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC%EC%9E%91%EC%97%85/</id>
-        <link href="https://www.bucketplace.co.kr/post/2021-12-03-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-msa-phase-1-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%B6%84%EB%A6%AC%EC%9E%91%EC%97%85/"/>
-        <updated>2021-12-03T06:13:59.264Z</updated>
-        <content type="html"><![CDATA[(bucketplace.co.kr)]]></content>
+        <title type="html"><![CDATA[AWS Private 5G - 사설 5G 셀룰러 망 구축하기]]></title>
+        <id>https://aws.amazon.com/ko/private5g/</id>
+        <link href="https://aws.amazon.com/ko/private5g/"/>
+        <updated>2021-12-04T09:12:11.325Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
 </feed>
