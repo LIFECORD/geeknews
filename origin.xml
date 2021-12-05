@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-05T06:14:17.360Z</updated>
+    <updated>2021-12-05T07:12:55.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Polly.js - HTTP를 녹화/재생하는 라이브러리]]></title>
-        <id>https://github.com/Netflix/pollyjs</id>
-        <link href="https://github.com/Netflix/pollyjs"/>
-        <updated>2021-12-05T02:02:15.537Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Zinc 검색 엔진 - 경량 ElasticSearch 대체제]]></title>
         <id>https://github.com/prabhatsharma/zinc</id>
         <link href="https://github.com/prabhatsharma/zinc"/>
+        <updated>2021-12-05T02:02:15.537Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polly.js - HTTP를 녹화/재생하는 라이브러리]]></title>
+        <id>https://github.com/Netflix/pollyjs</id>
+        <link href="https://github.com/Netflix/pollyjs"/>
         <updated>2021-12-05T02:02:15.537Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
