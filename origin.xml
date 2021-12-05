@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-05T11:10:23.006Z</updated>
+    <updated>2021-12-05T12:18:03.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,17 +76,17 @@
         <content type="html"><![CDATA[(uxtools.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 지금까지 만나보셨던 탁월한 개발자들의 공통적인 특징은 무엇이었나요?]]></title>
-        <id>https://news.hada.io/topic?id=5483</id>
-        <link href="https://news.hada.io/topic?id=5483"/>
-        <updated>2021-12-05T03:12:22.275Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fluent Search - Windows 용 강력한 종합 검색/창 전환 유틸리티]]></title>
         <id>https://fluentsearch.net/</id>
         <link href="https://fluentsearch.net/"/>
         <updated>2021-11-30T13:10:23.471Z</updated>
         <content type="html"><![CDATA[(fluentsearch.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 지금까지 만나보셨던 탁월한 개발자들의 공통적인 특징은 무엇이었나요?]]></title>
+        <id>https://news.hada.io/topic?id=5483</id>
+        <link href="https://news.hada.io/topic?id=5483"/>
+        <updated>2021-12-05T03:12:22.275Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
-        <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
-        <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
-        <updated>2021-12-01T02:00:59.212Z</updated>
-        <content type="html"><![CDATA[(chrome.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
         <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
         <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
         <updated>2021-11-29T02:27:35.936Z</updated>
         <content type="html"><![CDATA[(incolumitas.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
+        <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
+        <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
+        <updated>2021-12-01T02:00:59.212Z</updated>
+        <content type="html"><![CDATA[(chrome.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 Web Almanac - 웹의 현재 보고서]]></title>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(blog.asciinema.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon EC2 M1 맥 인스턴스 프리뷰 발표]]></title>
-        <id>https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/</id>
-        <link href="https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/"/>
-        <updated>2021-12-03T00:37:28.726Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[퇴고의 기술 - 개발자의 기술문서 작성법]]></title>
         <id>https://tech.kakaoenterprise.com/125</id>
         <link href="https://tech.kakaoenterprise.com/125"/>
         <updated>2021-12-04T20:12:42.384Z</updated>
         <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EC2 M1 맥 인스턴스 프리뷰 발표]]></title>
+        <id>https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/</id>
+        <link href="https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/"/>
+        <updated>2021-12-03T00:37:28.726Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
 </feed>
