@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-04T23:12:35.012Z</updated>
+    <updated>2021-12-05T00:41:17.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
+        <id>https://github.com/openreplay/openreplay</id>
+        <link href="https://github.com/openreplay/openreplay"/>
+        <updated>2021-12-03T01:55:05.248Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스마트폰 하나로 번호 2개 `e심` 연내 발표]]></title>
         <id>http://www.dt.co.kr/contents.html?article_no=2021120302101131029001</id>
@@ -13,10 +20,10 @@
         <content type="html"><![CDATA[(dt.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
-        <id>https://github.com/openreplay/openreplay</id>
-        <link href="https://github.com/openreplay/openreplay"/>
-        <updated>2021-12-03T01:55:05.248Z</updated>
+        <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
+        <id>https://github.com/jesseduffield/lazygit</id>
+        <link href="https://github.com/jesseduffield/lazygit"/>
+        <updated>2021-12-02T01:55:44.431Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -27,25 +34,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
-        <id>https://github.com/jesseduffield/lazygit</id>
-        <link href="https://github.com/jesseduffield/lazygit"/>
-        <updated>2021-12-02T01:55:44.431Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Strapi v4 릴리즈 - 오픈소스 헤드리스 CMS]]></title>
         <id>https://strapi.io/blog/announcing-strapi-v4</id>
         <link href="https://strapi.io/blog/announcing-strapi-v4"/>
         <updated>2021-12-03T00:37:28.727Z</updated>
         <content type="html"><![CDATA[(strapi.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안드로이드, 연말을 맞아 새로운 기능들 공개]]></title>
-        <id>https://blog.google/products/android/new-features-december-2021/</id>
-        <link href="https://blog.google/products/android/new-features-december-2021/"/>
-        <updated>2021-12-04T00:37:29.907Z</updated>
-        <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 디자인 툴 설문조사]]></title>
@@ -55,11 +48,11 @@
         <content type="html"><![CDATA[(uxtools.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 Web Almanac - 웹의 현재 보고서]]></title>
-        <id>https://almanac.httparchive.org/en/2021/</id>
-        <link href="https://almanac.httparchive.org/en/2021/"/>
-        <updated>2021-12-03T01:55:05.248Z</updated>
-        <content type="html"><![CDATA[(almanac.httparchive.org)]]></content>
+        <title type="html"><![CDATA[안드로이드, 연말을 맞아 새로운 기능들 공개]]></title>
+        <id>https://blog.google/products/android/new-features-december-2021/</id>
+        <link href="https://blog.google/products/android/new-features-december-2021/"/>
+        <updated>2021-12-04T00:37:29.907Z</updated>
+        <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fluent Search - Windows 용 강력한 종합 검색/창 전환 유틸리티]]></title>
@@ -69,11 +62,11 @@
         <content type="html"><![CDATA[(fluentsearch.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
-        <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
-        <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
-        <updated>2021-12-01T02:00:59.212Z</updated>
-        <content type="html"><![CDATA[(chrome.google.com)]]></content>
+        <title type="html"><![CDATA[2021 Web Almanac - 웹의 현재 보고서]]></title>
+        <id>https://almanac.httparchive.org/en/2021/</id>
+        <link href="https://almanac.httparchive.org/en/2021/"/>
+        <updated>2021-12-03T01:55:05.248Z</updated>
+        <content type="html"><![CDATA[(almanac.httparchive.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
@@ -83,18 +76,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
+        <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
+        <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
+        <updated>2021-12-01T02:00:59.212Z</updated>
+        <content type="html"><![CDATA[(chrome.google.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
         <id>https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/</id>
         <link href="https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/"/>
         <updated>2021-11-29T02:27:35.936Z</updated>
         <content type="html"><![CDATA[(incolumitas.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 M1 맥 인스턴스 프리뷰 발표]]></title>
-        <id>https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/</id>
-        <link href="https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/"/>
-        <updated>2021-12-03T00:37:28.726Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fleet - JetBrains의 차세대 IDE 공개]]></title>
@@ -111,6 +104,20 @@
         <content type="html"><![CDATA[(blog.asciinema.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Amazon EC2 M1 맥 인스턴스 프리뷰 발표]]></title>
+        <id>https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/</id>
+        <link href="https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/"/>
+        <updated>2021-12-03T00:37:28.726Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퇴고의 기술 - 개발자의 기술문서 작성법]]></title>
+        <id>https://tech.kakaoenterprise.com/125</id>
+        <link href="https://tech.kakaoenterprise.com/125"/>
+        <updated>2021-12-04T20:12:42.384Z</updated>
+        <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tesla, 어린이용 ATV Cybersquad 발매]]></title>
         <id>https://shop.tesla.com/product/cyberquad-for-kids</id>
         <link href="https://shop.tesla.com/product/cyberquad-for-kids"/>
@@ -125,24 +132,16 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퇴고의 기술 - 개발자의 기술문서 작성법]]></title>
-        <id>https://tech.kakaoenterprise.com/125</id>
-        <link href="https://tech.kakaoenterprise.com/125"/>
-        <updated>2021-12-04T20:12:42.384Z</updated>
-        <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boox Mira Pro - 25.3인치 e-Ink 모니터]]></title>
-        <id>https://shop.boox.com/products/mira</id>
-        <link href="https://shop.boox.com/products/mira"/>
-        <updated>2021-12-04T01:54:25.910Z</updated>
-        <content type="html"><![CDATA[(shop.boox.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pglet - 백엔드 개발자를 위한 Web UI 프레임워크]]></title>
         <id>https://github.com/pglet/pglet</id>
         <link href="https://github.com/pglet/pglet"/>
         <updated>2021-12-04T23:11:55.063Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5474</id>
+        <link href="https://news.hada.io/topic?id=5474"/>
+        <updated>2021-12-05T00:40:35.195Z</updated>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-12-04T23:12:35.016Z</updated>
+    <updated>2021-12-05T00:41:17.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -42,16 +42,16 @@
         <updated>2021-11-19T00:37:49.044Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5362</id>
-        <link href="https://news.hada.io/topic?id=5362"/>
-        <updated>2021-11-12T00:38:24.483Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 주변의 누군가 개발자가 되는 것에 대해 진지하게 물어본다면 뭐라고 대답해주실 건가요?]]></title>
         <id>https://news.hada.io/topic?id=5296</id>
         <link href="https://news.hada.io/topic?id=5296"/>
         <updated>2021-11-01T01:57:18.833Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5362</id>
+        <link href="https://news.hada.io/topic?id=5362"/>
+        <updated>2021-11-12T00:38:24.483Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 코더에서 CEO가 되는 것에 대한 리소스가 뭐가 있을까요?]]></title>
