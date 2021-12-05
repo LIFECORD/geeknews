@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-05T02:02:53.264Z</updated>
+    <updated>2021-12-05T03:13:06.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[안드로이드, 연말을 맞아 새로운 기능들 공개]]></title>
+        <id>https://blog.google/products/android/new-features-december-2021/</id>
+        <link href="https://blog.google/products/android/new-features-december-2021/"/>
+        <updated>2021-12-04T00:37:29.907Z</updated>
+        <content type="html"><![CDATA[(blog.google)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
         <id>https://github.com/jesseduffield/lazygit</id>
         <link href="https://github.com/jesseduffield/lazygit"/>
@@ -62,18 +69,17 @@
         <content type="html"><![CDATA[(strapi.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 지금까지 만나보셨던 탁월한 개발자들의 공통적인 특징은 무엇이었나요?]]></title>
+        <id>https://news.hada.io/topic?id=5483</id>
+        <link href="https://news.hada.io/topic?id=5483"/>
+        <updated>2021-12-05T03:12:22.275Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2021 디자인 툴 설문조사]]></title>
         <id>https://uxtools.co/survey-2021</id>
         <link href="https://uxtools.co/survey-2021"/>
         <updated>2021-12-02T03:12:14.159Z</updated>
         <content type="html"><![CDATA[(uxtools.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안드로이드, 연말을 맞아 새로운 기능들 공개]]></title>
-        <id>https://blog.google/products/android/new-features-december-2021/</id>
-        <link href="https://blog.google/products/android/new-features-december-2021/"/>
-        <updated>2021-12-04T00:37:29.907Z</updated>
-        <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fluent Search - Windows 용 강력한 종합 검색/창 전환 유틸리티]]></title>
@@ -137,12 +143,5 @@
         <link href="https://tech.kakaoenterprise.com/125"/>
         <updated>2021-12-04T20:12:42.384Z</updated>
         <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Private 5G - 사설 5G 셀룰러 망 구축하기]]></title>
-        <id>https://aws.amazon.com/ko/private5g/</id>
-        <link href="https://aws.amazon.com/ko/private5g/"/>
-        <updated>2021-12-04T09:12:11.325Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
 </feed>
