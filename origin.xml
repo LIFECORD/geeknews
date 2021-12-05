@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-05T00:41:17.726Z</updated>
+    <updated>2021-12-05T02:02:53.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Polly.js - HTTP를 녹화/재생하는 라이브러리]]></title>
+        <id>https://github.com/Netflix/pollyjs</id>
+        <link href="https://github.com/Netflix/pollyjs"/>
+        <updated>2021-12-05T02:02:15.537Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zinc 검색 엔진 - 경량 ElasticSearch 대체제]]></title>
+        <id>https://github.com/prabhatsharma/zinc</id>
+        <link href="https://github.com/prabhatsharma/zinc"/>
+        <updated>2021-12-05T02:02:15.537Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 3.0 릴리즈]]></title>
+        <id>https://www.blender.org/download/releases/3-0/</id>
+        <link href="https://www.blender.org/download/releases/3-0/"/>
+        <updated>2021-12-05T02:02:15.537Z</updated>
+        <content type="html"><![CDATA[(blender.org)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
         <id>https://github.com/openreplay/openreplay</id>
@@ -20,17 +41,17 @@
         <content type="html"><![CDATA[(dt.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
-        <id>https://github.com/jesseduffield/lazygit</id>
-        <link href="https://github.com/jesseduffield/lazygit"/>
-        <updated>2021-12-02T01:55:44.431Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[React Native Test App - 모든 플랫폼용 테스트앱을 패키지로 제공]]></title>
         <id>https://github.com/microsoft/react-native-test-app</id>
         <link href="https://github.com/microsoft/react-native-test-app"/>
         <updated>2021-12-03T01:55:05.248Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
+        <id>https://github.com/jesseduffield/lazygit</id>
+        <link href="https://github.com/jesseduffield/lazygit"/>
+        <updated>2021-12-02T01:55:44.431Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -118,30 +139,10 @@
         <content type="html"><![CDATA[(tech.kakaoenterprise.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tesla, 어린이용 ATV Cybersquad 발매]]></title>
-        <id>https://shop.tesla.com/product/cyberquad-for-kids</id>
-        <link href="https://shop.tesla.com/product/cyberquad-for-kids"/>
-        <updated>2021-12-04T04:14:43.936Z</updated>
-        <content type="html"><![CDATA[(shop.tesla.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Private 5G - 사설 5G 셀룰러 망 구축하기]]></title>
         <id>https://aws.amazon.com/ko/private5g/</id>
         <link href="https://aws.amazon.com/ko/private5g/"/>
         <updated>2021-12-04T09:12:11.325Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pglet - 백엔드 개발자를 위한 Web UI 프레임워크]]></title>
-        <id>https://github.com/pglet/pglet</id>
-        <link href="https://github.com/pglet/pglet"/>
-        <updated>2021-12-04T23:11:55.063Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5474</id>
-        <link href="https://news.hada.io/topic?id=5474"/>
-        <updated>2021-12-05T00:40:35.195Z</updated>
     </entry>
 </feed>
