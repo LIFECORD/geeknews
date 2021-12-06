@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-05T23:12:12.142Z</updated>
+    <updated>2021-12-06T00:40:14.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Engo HUD AR 글래스 - 싸이클/러닝용 스마트 안경 사용기]]></title>
+        <id>https://painandcycling.com/engo-hud-ar-glasses</id>
+        <link href="https://painandcycling.com/engo-hud-ar-glasses"/>
+        <updated>2021-12-06T00:39:35.901Z</updated>
+        <content type="html"><![CDATA[(painandcycling.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zinc 검색 엔진 - 경량 ElasticSearch 대체제]]></title>
         <id>https://github.com/prabhatsharma/zinc</id>
@@ -62,18 +69,18 @@
         <content type="html"><![CDATA[(uxtools.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Strapi v4 릴리즈 - 오픈소스 헤드리스 CMS]]></title>
-        <id>https://strapi.io/blog/announcing-strapi-v4</id>
-        <link href="https://strapi.io/blog/announcing-strapi-v4"/>
-        <updated>2021-12-03T00:37:28.727Z</updated>
-        <content type="html"><![CDATA[(strapi.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fluent Search - Windows 용 강력한 종합 검색/창 전환 유틸리티]]></title>
         <id>https://fluentsearch.net/</id>
         <link href="https://fluentsearch.net/"/>
         <updated>2021-11-30T13:10:23.471Z</updated>
         <content type="html"><![CDATA[(fluentsearch.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strapi v4 릴리즈 - 오픈소스 헤드리스 CMS]]></title>
+        <id>https://strapi.io/blog/announcing-strapi-v4</id>
+        <link href="https://strapi.io/blog/announcing-strapi-v4"/>
+        <updated>2021-12-03T00:37:28.727Z</updated>
+        <content type="html"><![CDATA[(strapi.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
@@ -136,12 +143,5 @@
         <link href="https://www.tinycapital.com/"/>
         <updated>2021-12-05T15:11:22.428Z</updated>
         <content type="html"><![CDATA[(tinycapital.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon EC2 M1 맥 인스턴스 프리뷰 발표]]></title>
-        <id>https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/</id>
-        <link href="https://aws.amazon.com/ko/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/"/>
-        <updated>2021-12-03T00:37:28.726Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
 </feed>
