@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-06T02:33:08.145Z</updated>
+    <updated>2021-12-06T03:12:57.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blender 3.0 릴리즈]]></title>
-        <id>https://www.blender.org/download/releases/3-0/</id>
-        <link href="https://www.blender.org/download/releases/3-0/"/>
-        <updated>2021-12-05T02:02:15.537Z</updated>
-        <content type="html"><![CDATA[(blender.org)]]></content>
+        <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
+        <id>https://github.com/openreplay/openreplay</id>
+        <link href="https://github.com/openreplay/openreplay"/>
+        <updated>2021-12-03T01:55:05.248Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
-        <id>https://github.com/openreplay/openreplay</id>
-        <link href="https://github.com/openreplay/openreplay"/>
-        <updated>2021-12-03T01:55:05.248Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[Blender 3.0 릴리즈]]></title>
+        <id>https://www.blender.org/download/releases/3-0/</id>
+        <link href="https://www.blender.org/download/releases/3-0/"/>
+        <updated>2021-12-05T02:02:15.537Z</updated>
+        <content type="html"><![CDATA[(blender.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[React Native Test App - 모든 플랫폼용 테스트앱을 패키지로 제공]]></title>
