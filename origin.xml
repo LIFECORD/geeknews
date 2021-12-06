@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-06T13:20:57.397Z</updated>
+    <updated>2021-12-06T14:11:47.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(incolumitas.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blender 3.0 릴리즈]]></title>
-        <id>https://www.blender.org/download/releases/3-0/</id>
-        <link href="https://www.blender.org/download/releases/3-0/"/>
-        <updated>2021-12-05T02:02:15.537Z</updated>
-        <content type="html"><![CDATA[(blender.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스마트폰 하나로 번호 2개 `e심` 연내 발표]]></title>
         <id>http://www.dt.co.kr/contents.html?article_no=2021120302101131029001</id>
         <link href="http://www.dt.co.kr/contents.html?article_no=2021120302101131029001"/>
         <updated>2021-12-04T04:14:43.933Z</updated>
         <content type="html"><![CDATA[(dt.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 3.0 릴리즈]]></title>
+        <id>https://www.blender.org/download/releases/3-0/</id>
+        <link href="https://www.blender.org/download/releases/3-0/"/>
+        <updated>2021-12-05T02:02:15.537Z</updated>
+        <content type="html"><![CDATA[(blender.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
