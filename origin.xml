@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-06T04:15:34.066Z</updated>
+    <updated>2021-12-06T05:12:29.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(allthingsdistributed.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pg_graphql - PostgreSQL용 GraphQL 확장]]></title>
-        <id>https://github.com/supabase/pg_graphql</id>
-        <link href="https://github.com/supabase/pg_graphql"/>
-        <updated>2021-12-06T01:58:15.430Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이]]></title>
         <id>https://guacamole.apache.org/</id>
         <link href="https://guacamole.apache.org/"/>
         <updated>2021-12-06T01:58:15.430Z</updated>
         <content type="html"><![CDATA[(guacamole.apache.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pg_graphql - PostgreSQL용 GraphQL 확장]]></title>
+        <id>https://github.com/supabase/pg_graphql</id>
+        <link href="https://github.com/supabase/pg_graphql"/>
+        <updated>2021-12-06T01:58:15.430Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Markdown-it - 빠르고 확장가능한 마크다운 파서]]></title>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
+        <id>https://github.com/openreplay/openreplay</id>
+        <link href="https://github.com/openreplay/openreplay"/>
+        <updated>2021-12-03T01:55:05.248Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
         <id>https://github.com/jesseduffield/lazygit</id>
         <link href="https://github.com/jesseduffield/lazygit"/>
@@ -62,9 +69,9 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
-        <id>https://github.com/openreplay/openreplay</id>
-        <link href="https://github.com/openreplay/openreplay"/>
+        <title type="html"><![CDATA[React Native Test App - 모든 플랫폼용 테스트앱을 패키지로 제공]]></title>
+        <id>https://github.com/microsoft/react-native-test-app</id>
+        <link href="https://github.com/microsoft/react-native-test-app"/>
         <updated>2021-12-03T01:55:05.248Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
@@ -74,13 +81,6 @@
         <link href="https://www.blender.org/download/releases/3-0/"/>
         <updated>2021-12-05T02:02:15.537Z</updated>
         <content type="html"><![CDATA[(blender.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Native Test App - 모든 플랫폼용 테스트앱을 패키지로 제공]]></title>
-        <id>https://github.com/microsoft/react-native-test-app</id>
-        <link href="https://github.com/microsoft/react-native-test-app"/>
-        <updated>2021-12-03T01:55:05.248Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스마트폰 하나로 번호 2개 `e심` 연내 발표]]></title>
