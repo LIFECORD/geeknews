@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-06T08:14:55.504Z</updated>
+    <updated>2021-12-06T09:13:21.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Engo HUD AR 글래스 - 싸이클/러닝용 스마트 안경 사용기]]></title>
-        <id>https://painandcycling.com/engo-hud-ar-glasses</id>
-        <link href="https://painandcycling.com/engo-hud-ar-glasses"/>
-        <updated>2021-12-06T00:39:35.901Z</updated>
-        <content type="html"><![CDATA[(painandcycling.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zinc 검색 엔진 - 경량 ElasticSearch 대체제]]></title>
         <id>https://github.com/prabhatsharma/zinc</id>
         <link href="https://github.com/prabhatsharma/zinc"/>
         <updated>2021-12-05T02:02:15.537Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engo HUD AR 글래스 - 싸이클/러닝용 스마트 안경 사용기]]></title>
+        <id>https://painandcycling.com/engo-hud-ar-glasses</id>
+        <link href="https://painandcycling.com/engo-hud-ar-glasses"/>
+        <updated>2021-12-06T00:39:35.901Z</updated>
+        <content type="html"><![CDATA[(painandcycling.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Polly.js - HTTP를 녹화/재생하는 라이브러리]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(uxtools.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스마트폰 하나로 번호 2개 `e심` 연내 발표]]></title>
-        <id>http://www.dt.co.kr/contents.html?article_no=2021120302101131029001</id>
-        <link href="http://www.dt.co.kr/contents.html?article_no=2021120302101131029001"/>
-        <updated>2021-12-04T04:14:43.933Z</updated>
-        <content type="html"><![CDATA[(dt.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fluent Search - Windows 용 강력한 종합 검색/창 전환 유틸리티]]></title>
         <id>https://fluentsearch.net/</id>
         <link href="https://fluentsearch.net/"/>
         <updated>2021-11-30T13:10:23.471Z</updated>
         <content type="html"><![CDATA[(fluentsearch.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마트폰 하나로 번호 2개 `e심` 연내 발표]]></title>
+        <id>http://www.dt.co.kr/contents.html?article_no=2021120302101131029001</id>
+        <link href="http://www.dt.co.kr/contents.html?article_no=2021120302101131029001"/>
+        <updated>2021-12-04T04:14:43.933Z</updated>
+        <content type="html"><![CDATA[(dt.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(strapi.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
-        <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
-        <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
-        <updated>2021-12-01T02:00:59.212Z</updated>
-        <content type="html"><![CDATA[(chrome.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
         <id>https://engineering.ab180.co/stories/migrating-python-application-to-arm</id>
         <link href="https://engineering.ab180.co/stories/migrating-python-application-to-arm"/>
         <updated>2021-11-30T06:12:20.655Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
+        <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
+        <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
+        <updated>2021-12-01T02:00:59.212Z</updated>
+        <content type="html"><![CDATA[(chrome.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fleet - JetBrains의 차세대 IDE 공개]]></title>
