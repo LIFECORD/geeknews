@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-06T12:19:23.910Z</updated>
+    <updated>2021-12-06T13:20:57.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,16 +34,16 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zinc 검색 엔진 - 경량 ElasticSearch 대체제]]></title>
-        <id>https://github.com/prabhatsharma/zinc</id>
-        <link href="https://github.com/prabhatsharma/zinc"/>
+        <title type="html"><![CDATA[Polly.js - HTTP를 녹화/재생하는 라이브러리]]></title>
+        <id>https://github.com/Netflix/pollyjs</id>
+        <link href="https://github.com/Netflix/pollyjs"/>
         <updated>2021-12-05T02:02:15.537Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Polly.js - HTTP를 녹화/재생하는 라이브러리]]></title>
-        <id>https://github.com/Netflix/pollyjs</id>
-        <link href="https://github.com/Netflix/pollyjs"/>
+        <title type="html"><![CDATA[Zinc 검색 엔진 - 경량 ElasticSearch 대체제]]></title>
+        <id>https://github.com/prabhatsharma/zinc</id>
+        <link href="https://github.com/prabhatsharma/zinc"/>
         <updated>2021-12-05T02:02:15.537Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(jetbrains.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Strapi v4 릴리즈 - 오픈소스 헤드리스 CMS]]></title>
-        <id>https://strapi.io/blog/announcing-strapi-v4</id>
-        <link href="https://strapi.io/blog/announcing-strapi-v4"/>
-        <updated>2021-12-03T00:37:28.727Z</updated>
-        <content type="html"><![CDATA[(strapi.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
         <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
         <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
         <updated>2021-12-01T02:00:59.212Z</updated>
         <content type="html"><![CDATA[(chrome.google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strapi v4 릴리즈 - 오픈소스 헤드리스 CMS]]></title>
+        <id>https://strapi.io/blog/announcing-strapi-v4</id>
+        <link href="https://strapi.io/blog/announcing-strapi-v4"/>
+        <updated>2021-12-03T00:37:28.727Z</updated>
+        <content type="html"><![CDATA[(strapi.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Asciinema 3.0 - 4배 작고, 50배 빠르게]]></title>
