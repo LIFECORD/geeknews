@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-06T05:12:29.640Z</updated>
+    <updated>2021-12-06T06:15:41.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,17 +55,17 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
-        <id>https://github.com/openreplay/openreplay</id>
-        <link href="https://github.com/openreplay/openreplay"/>
-        <updated>2021-12-03T01:55:05.248Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
         <id>https://github.com/jesseduffield/lazygit</id>
         <link href="https://github.com/jesseduffield/lazygit"/>
         <updated>2021-12-02T01:55:44.431Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
+        <id>https://github.com/openreplay/openreplay</id>
+        <link href="https://github.com/openreplay/openreplay"/>
+        <updated>2021-12-03T01:55:05.248Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
