@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-06T16:15:19.744Z</updated>
+    <updated>2021-12-06T17:10:58.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[(uxtools.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스마트폰 하나로 번호 2개 `e심` 연내 발표]]></title>
-        <id>http://www.dt.co.kr/contents.html?article_no=2021120302101131029001</id>
-        <link href="http://www.dt.co.kr/contents.html?article_no=2021120302101131029001"/>
-        <updated>2021-12-04T04:14:43.933Z</updated>
-        <content type="html"><![CDATA[(dt.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Python x ARM: Graviton2 실전 도입기]]></title>
         <id>https://engineering.ab180.co/stories/migrating-python-application-to-arm</id>
         <link href="https://engineering.ab180.co/stories/migrating-python-application-to-arm"/>
@@ -111,6 +104,13 @@
         <content type="html"><![CDATA[(jetbrains.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[스마트폰 하나로 번호 2개 `e심` 연내 발표]]></title>
+        <id>http://www.dt.co.kr/contents.html?article_no=2021120302101131029001</id>
+        <link href="http://www.dt.co.kr/contents.html?article_no=2021120302101131029001"/>
+        <updated>2021-12-04T04:14:43.933Z</updated>
+        <content type="html"><![CDATA[(dt.co.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
         <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
         <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(chrome.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blender 3.0 릴리즈]]></title>
-        <id>https://www.blender.org/download/releases/3-0/</id>
-        <link href="https://www.blender.org/download/releases/3-0/"/>
-        <updated>2021-12-05T02:02:15.537Z</updated>
-        <content type="html"><![CDATA[(blender.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Strapi v4 릴리즈 - 오픈소스 헤드리스 CMS]]></title>
         <id>https://strapi.io/blog/announcing-strapi-v4</id>
         <link href="https://strapi.io/blog/announcing-strapi-v4"/>
         <updated>2021-12-03T00:37:28.727Z</updated>
         <content type="html"><![CDATA[(strapi.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 3.0 릴리즈]]></title>
+        <id>https://www.blender.org/download/releases/3-0/</id>
+        <link href="https://www.blender.org/download/releases/3-0/"/>
+        <updated>2021-12-05T02:02:15.537Z</updated>
+        <content type="html"><![CDATA[(blender.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Asciinema 3.0 - 4배 작고, 50배 빠르게]]></title>
