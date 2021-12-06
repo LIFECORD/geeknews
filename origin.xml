@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-06T06:15:41.899Z</updated>
+    <updated>2021-12-06T07:12:53.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(blender.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스마트폰 하나로 번호 2개 `e심` 연내 발표]]></title>
-        <id>http://www.dt.co.kr/contents.html?article_no=2021120302101131029001</id>
-        <link href="http://www.dt.co.kr/contents.html?article_no=2021120302101131029001"/>
-        <updated>2021-12-04T04:14:43.933Z</updated>
-        <content type="html"><![CDATA[(dt.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021 디자인 툴 설문조사]]></title>
         <id>https://uxtools.co/survey-2021</id>
         <link href="https://uxtools.co/survey-2021"/>
         <updated>2021-12-02T03:12:14.159Z</updated>
         <content type="html"><![CDATA[(uxtools.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스마트폰 하나로 번호 2개 `e심` 연내 발표]]></title>
+        <id>http://www.dt.co.kr/contents.html?article_no=2021120302101131029001</id>
+        <link href="http://www.dt.co.kr/contents.html?article_no=2021120302101131029001"/>
+        <updated>2021-12-04T04:14:43.933Z</updated>
+        <content type="html"><![CDATA[(dt.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fluent Search - Windows 용 강력한 종합 검색/창 전환 유틸리티]]></title>
