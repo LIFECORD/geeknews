@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-07T11:11:08.728Z</updated>
+    <updated>2021-12-07T12:20:12.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소니, Xbox 게임패스 경쟁 서비스 준비 중]]></title>
-        <id>https://www.bloomberg.com/news/articles/2021-12-03/playstation-plans-new-service-to-take-on-xbox-game-pass</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-12-03/playstation-plans-new-service-to-take-on-xbox-game-pass"/>
-        <updated>2021-12-07T08:14:58.485Z</updated>
-        <content type="html"><![CDATA[(bloomberg.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Polly.js - HTTP를 녹화/재생하는 라이브러리]]></title>
         <id>https://github.com/Netflix/pollyjs</id>
         <link href="https://github.com/Netflix/pollyjs"/>
@@ -95,6 +88,13 @@
         <link href="https://github.com/markdown-it/markdown-it"/>
         <updated>2021-12-06T01:58:15.431Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소니, Xbox 게임패스 경쟁 서비스 준비 중]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-12-03/playstation-plans-new-service-to-take-on-xbox-game-pass</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-12-03/playstation-plans-new-service-to-take-on-xbox-game-pass"/>
+        <updated>2021-12-07T08:14:58.485Z</updated>
+        <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
