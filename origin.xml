@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-07T10:14:50.558Z</updated>
+    <updated>2021-12-07T11:11:08.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,17 +27,17 @@
         <content type="html"><![CDATA[(tiktok.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GraphJin - 빠른 GraphQL API 만들기]]></title>
-        <id>https://github.com/dosco/graphjin</id>
-        <link href="https://github.com/dosco/graphjin"/>
-        <updated>2021-12-07T08:14:58.471Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Uutils - GNU Coreutils를 Rust로 재작성]]></title>
         <id>https://github.com/uutils/coreutils</id>
         <link href="https://github.com/uutils/coreutils"/>
         <updated>2021-12-07T08:14:58.477Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphJin - 빠른 GraphQL API 만들기]]></title>
+        <id>https://github.com/dosco/graphjin</id>
+        <link href="https://github.com/dosco/graphjin"/>
+        <updated>2021-12-07T08:14:58.471Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Polly.js - HTTP를 녹화/재생하는 라이브러리]]></title>
+        <id>https://github.com/Netflix/pollyjs</id>
+        <link href="https://github.com/Netflix/pollyjs"/>
+        <updated>2021-12-05T02:02:15.537Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Markdown-it - 빠르고 확장가능한 마크다운 파서]]></title>
         <id>https://github.com/markdown-it/markdown-it</id>
         <link href="https://github.com/markdown-it/markdown-it"/>
@@ -90,10 +97,10 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Polly.js - HTTP를 녹화/재생하는 라이브러리]]></title>
-        <id>https://github.com/Netflix/pollyjs</id>
-        <link href="https://github.com/Netflix/pollyjs"/>
-        <updated>2021-12-05T02:02:15.537Z</updated>
+        <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
+        <id>https://github.com/openreplay/openreplay</id>
+        <link href="https://github.com/openreplay/openreplay"/>
+        <updated>2021-12-03T01:55:05.248Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -102,13 +109,6 @@
         <link href="https://painandcycling.com/engo-hud-ar-glasses"/>
         <updated>2021-12-06T00:39:35.901Z</updated>
         <content type="html"><![CDATA[(painandcycling.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
-        <id>https://github.com/openreplay/openreplay</id>
-        <link href="https://github.com/openreplay/openreplay"/>
-        <updated>2021-12-03T01:55:05.248Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
