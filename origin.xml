@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-07T14:12:33.583Z</updated>
+    <updated>2021-12-07T15:13:34.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년에 뭐 하세요? 클라우드에서 개발 하실래요? (Cloud-based development)]]></title>
-        <id>https://world.hey.com/bach/2022-cloud-based-development-ccaa2733</id>
-        <link href="https://world.hey.com/bach/2022-cloud-based-development-ccaa2733"/>
-        <updated>2021-12-07T08:14:58.471Z</updated>
-        <content type="html"><![CDATA[(world.hey.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이]]></title>
         <id>https://guacamole.apache.org/</id>
         <link href="https://guacamole.apache.org/"/>
         <updated>2021-12-06T01:58:15.430Z</updated>
         <content type="html"><![CDATA[(guacamole.apache.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년에 뭐 하세요? 클라우드에서 개발 하실래요? (Cloud-based development)]]></title>
+        <id>https://world.hey.com/bach/2022-cloud-based-development-ccaa2733</id>
+        <link href="https://world.hey.com/bach/2022-cloud-based-development-ccaa2733"/>
+        <updated>2021-12-07T08:14:58.471Z</updated>
+        <content type="html"><![CDATA[(world.hey.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존 CTO의 2022년부터 그 이후 기술 예측]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(uxtools.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fluent Search - Windows 용 강력한 종합 검색/창 전환 유틸리티]]></title>
-        <id>https://fluentsearch.net/</id>
-        <link href="https://fluentsearch.net/"/>
-        <updated>2021-11-30T13:10:23.471Z</updated>
-        <content type="html"><![CDATA[(fluentsearch.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
         <id>https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/</id>
         <link href="https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/"/>
         <updated>2021-12-01T02:00:59.212Z</updated>
         <content type="html"><![CDATA[(chrome.google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strapi v4 릴리즈 - 오픈소스 헤드리스 CMS]]></title>
+        <id>https://strapi.io/blog/announcing-strapi-v4</id>
+        <link href="https://strapi.io/blog/announcing-strapi-v4"/>
+        <updated>2021-12-07T15:12:51.670Z</updated>
+        <content type="html"><![CDATA[(strapi.io)]]></content>
     </entry>
 </feed>
