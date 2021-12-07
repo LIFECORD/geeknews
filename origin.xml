@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-07T13:24:01.784Z</updated>
+    <updated>2021-12-07T14:12:33.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틱톡에서 3자리수 전환율 광고 만들기]]></title>
-        <id>https://www.tiktok.com/business/en-US/blog/creative-that-drives-conversions</id>
-        <link href="https://www.tiktok.com/business/en-US/blog/creative-that-drives-conversions"/>
-        <updated>2021-12-07T08:14:58.470Z</updated>
-        <content type="html"><![CDATA[(tiktok.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Uutils - GNU Coreutils를 Rust로 재작성]]></title>
         <id>https://github.com/uutils/coreutils</id>
         <link href="https://github.com/uutils/coreutils"/>
         <updated>2021-12-07T08:14:58.477Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틱톡에서 3자리수 전환율 광고 만들기]]></title>
+        <id>https://www.tiktok.com/business/en-US/blog/creative-that-drives-conversions</id>
+        <link href="https://www.tiktok.com/business/en-US/blog/creative-that-drives-conversions"/>
+        <updated>2021-12-07T08:14:58.470Z</updated>
+        <content type="html"><![CDATA[(tiktok.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GraphJin - 빠른 GraphQL API 만들기]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이]]></title>
-        <id>https://guacamole.apache.org/</id>
-        <link href="https://guacamole.apache.org/"/>
-        <updated>2021-12-06T01:58:15.430Z</updated>
-        <content type="html"><![CDATA[(guacamole.apache.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년에 뭐 하세요? 클라우드에서 개발 하실래요? (Cloud-based development)]]></title>
         <id>https://world.hey.com/bach/2022-cloud-based-development-ccaa2733</id>
         <link href="https://world.hey.com/bach/2022-cloud-based-development-ccaa2733"/>
         <updated>2021-12-07T08:14:58.471Z</updated>
         <content type="html"><![CDATA[(world.hey.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이]]></title>
+        <id>https://guacamole.apache.org/</id>
+        <link href="https://guacamole.apache.org/"/>
+        <updated>2021-12-06T01:58:15.430Z</updated>
+        <content type="html"><![CDATA[(guacamole.apache.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존 CTO의 2022년부터 그 이후 기술 예측]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Engo HUD AR 글래스 - 싸이클/러닝용 스마트 안경 사용기]]></title>
-        <id>https://painandcycling.com/engo-hud-ar-glasses</id>
-        <link href="https://painandcycling.com/engo-hud-ar-glasses"/>
-        <updated>2021-12-06T00:39:35.901Z</updated>
-        <content type="html"><![CDATA[(painandcycling.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
         <id>https://github.com/jesseduffield/lazygit</id>
         <link href="https://github.com/jesseduffield/lazygit"/>
@@ -123,6 +116,13 @@
         <link href="https://github.com/microsoft/react-native-test-app"/>
         <updated>2021-12-03T01:55:05.248Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engo HUD AR 글래스 - 싸이클/러닝용 스마트 안경 사용기]]></title>
+        <id>https://painandcycling.com/engo-hud-ar-glasses</id>
+        <link href="https://painandcycling.com/engo-hud-ar-glasses"/>
+        <updated>2021-12-06T00:39:35.901Z</updated>
+        <content type="html"><![CDATA[(painandcycling.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 디자인 툴 설문조사]]></title>
