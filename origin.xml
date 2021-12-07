@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-07T17:22:12.470Z</updated>
+    <updated>2021-12-07T18:14:54.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Engo HUD AR 글래스 - 싸이클/러닝용 스마트 안경 사용기]]></title>
-        <id>https://painandcycling.com/engo-hud-ar-glasses</id>
-        <link href="https://painandcycling.com/engo-hud-ar-glasses"/>
-        <updated>2021-12-06T00:39:35.901Z</updated>
-        <content type="html"><![CDATA[(painandcycling.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021 디자인 툴 설문조사]]></title>
         <id>https://uxtools.co/survey-2021</id>
         <link href="https://uxtools.co/survey-2021"/>
         <updated>2021-12-02T03:12:14.159Z</updated>
         <content type="html"><![CDATA[(uxtools.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engo HUD AR 글래스 - 싸이클/러닝용 스마트 안경 사용기]]></title>
+        <id>https://painandcycling.com/engo-hud-ar-glasses</id>
+        <link href="https://painandcycling.com/engo-hud-ar-glasses"/>
+        <updated>2021-12-06T00:39:35.901Z</updated>
+        <content type="html"><![CDATA[(painandcycling.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Automa - 크롬 브라우저 자동화 확장]]></title>
