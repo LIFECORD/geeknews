@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-08T00:40:52.281Z</updated>
+    <updated>2021-12-08T01:59:38.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Diskitude - 내 윈도우의 용량은 누가 잡아먹나]]></title>
+        <id>http://madebyevan.com/diskitude/</id>
+        <link href="http://madebyevan.com/diskitude/"/>
+        <updated>2021-12-08T01:58:59.791Z</updated>
+        <content type="html"><![CDATA[(madebyevan.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[re:Invent 2021에서 추가된 새 EC2 인스턴스 타입들]]></title>
         <id>https://aws-native.com/new-ec2-instance-types-of-reinvent-2021</id>
         <link href="https://aws-native.com/new-ec2-instance-types-of-reinvent-2021"/>
         <updated>2021-12-08T00:40:09.428Z</updated>
         <content type="html"><![CDATA[(aws-native.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threadit - 비동기 협업 도구]]></title>
+        <id>https://www.threadit.area120.com/</id>
+        <link href="https://www.threadit.area120.com/"/>
+        <updated>2021-12-08T01:58:59.792Z</updated>
+        <content type="html"><![CDATA[(threadit.area120.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
@@ -20,18 +34,18 @@
         <content type="html"><![CDATA[(lqez.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MiroTalk SFU - 오픈소스 Zoom/Teams 대체제]]></title>
-        <id>https://github.com/miroslavpejic85/mirotalksfu</id>
-        <link href="https://github.com/miroslavpejic85/mirotalksfu"/>
-        <updated>2021-12-07T08:14:58.467Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PiBox Mini - 라즈베리 Pi 스토리지 서버]]></title>
         <id>https://pibox.io/</id>
         <link href="https://pibox.io/"/>
         <updated>2021-12-08T00:40:09.442Z</updated>
         <content type="html"><![CDATA[(pibox.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MiroTalk SFU - 오픈소스 Zoom/Teams 대체제]]></title>
+        <id>https://github.com/miroslavpejic85/mirotalksfu</id>
+        <link href="https://github.com/miroslavpejic85/mirotalksfu"/>
+        <updated>2021-12-07T08:14:58.467Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fe - 이더리움을 위한 스마트 컨트랙트 언어]]></title>
@@ -130,19 +144,5 @@
         <link href="https://github.com/jesseduffield/lazygit"/>
         <updated>2021-12-02T01:55:44.431Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Native Test App - 모든 플랫폼용 테스트앱을 패키지로 제공]]></title>
-        <id>https://github.com/microsoft/react-native-test-app</id>
-        <link href="https://github.com/microsoft/react-native-test-app"/>
-        <updated>2021-12-03T01:55:05.248Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 디자인 툴 설문조사]]></title>
-        <id>https://uxtools.co/survey-2021</id>
-        <link href="https://uxtools.co/survey-2021"/>
-        <updated>2021-12-02T03:12:14.159Z</updated>
-        <content type="html"><![CDATA[(uxtools.co)]]></content>
     </entry>
 </feed>
