@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-08T22:12:35.086Z</updated>
+    <updated>2021-12-08T23:12:35.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년에 뭐 하세요? 클라우드에서 개발 하실래요? (Cloud-based development)]]></title>
-        <id>https://world.hey.com/bach/2022-cloud-based-development-ccaa2733</id>
-        <link href="https://world.hey.com/bach/2022-cloud-based-development-ccaa2733"/>
-        <updated>2021-12-07T08:14:58.471Z</updated>
-        <content type="html"><![CDATA[(world.hey.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[pg_graphql - PostgreSQL용 GraphQL 확장]]></title>
         <id>https://github.com/supabase/pg_graphql</id>
         <link href="https://github.com/supabase/pg_graphql"/>
         <updated>2021-12-06T01:58:15.430Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년에 뭐 하세요? 클라우드에서 개발 하실래요? (Cloud-based development)]]></title>
+        <id>https://world.hey.com/bach/2022-cloud-based-development-ccaa2733</id>
+        <link href="https://world.hey.com/bach/2022-cloud-based-development-ccaa2733"/>
+        <updated>2021-12-07T08:14:58.471Z</updated>
+        <content type="html"><![CDATA[(world.hey.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zinc 검색 엔진 - 경량 ElasticSearch 대체제]]></title>
