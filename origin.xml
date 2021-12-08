@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-08T11:11:02.676Z</updated>
+    <updated>2021-12-08T12:19:13.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,17 +48,17 @@
         <content type="html"><![CDATA[(pibox.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fe - 이더리움을 위한 스마트 컨트랙트 언어]]></title>
-        <id>https://github.com/ethereum/fe</id>
-        <link href="https://github.com/ethereum/fe"/>
-        <updated>2021-12-08T00:40:09.442Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Uutils - GNU Coreutils를 Rust로 재작성]]></title>
         <id>https://github.com/uutils/coreutils</id>
         <link href="https://github.com/uutils/coreutils"/>
         <updated>2021-12-07T08:14:58.477Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fe - 이더리움을 위한 스마트 컨트랙트 언어]]></title>
+        <id>https://github.com/ethereum/fe</id>
+        <link href="https://github.com/ethereum/fe"/>
+        <updated>2021-12-08T00:40:09.442Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
-        <id>https://github.com/openreplay/openreplay</id>
-        <link href="https://github.com/openreplay/openreplay"/>
-        <updated>2021-12-03T01:55:05.248Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lazygit - 심플한 터미널 Git UI]]></title>
         <id>https://github.com/jesseduffield/lazygit</id>
         <link href="https://github.com/jesseduffield/lazygit"/>
         <updated>2021-12-02T01:55:44.431Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Replay - 오픈소스 세션 재생 스택]]></title>
+        <id>https://github.com/openreplay/openreplay</id>
+        <link href="https://github.com/openreplay/openreplay"/>
+        <updated>2021-12-03T01:55:05.248Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
