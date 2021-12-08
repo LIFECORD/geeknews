@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-08T17:20:21.279Z</updated>
+    <updated>2021-12-08T18:14:49.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(madebyevan.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Threadit - 비동기 협업 도구]]></title>
-        <id>https://www.threadit.area120.com/</id>
-        <link href="https://www.threadit.area120.com/"/>
-        <updated>2021-12-08T01:58:59.792Z</updated>
-        <content type="html"><![CDATA[(threadit.area120.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
         <id>https://lqez.dev/blog/how-to-hire-cto.html</id>
         <link href="https://lqez.dev/blog/how-to-hire-cto.html"/>
         <updated>2021-12-07T08:14:58.467Z</updated>
         <content type="html"><![CDATA[(lqez.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threadit - 비동기 협업 도구]]></title>
+        <id>https://www.threadit.area120.com/</id>
+        <link href="https://www.threadit.area120.com/"/>
+        <updated>2021-12-08T01:58:59.792Z</updated>
+        <content type="html"><![CDATA[(threadit.area120.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MiroTalk SFU - 오픈소스 Zoom/Teams 대체제]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(pibox.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uutils - GNU Coreutils를 Rust로 재작성]]></title>
-        <id>https://github.com/uutils/coreutils</id>
-        <link href="https://github.com/uutils/coreutils"/>
-        <updated>2021-12-07T08:14:58.477Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이]]></title>
         <id>https://guacamole.apache.org/</id>
         <link href="https://guacamole.apache.org/"/>
         <updated>2021-12-06T01:58:15.430Z</updated>
         <content type="html"><![CDATA[(guacamole.apache.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uutils - GNU Coreutils를 Rust로 재작성]]></title>
+        <id>https://github.com/uutils/coreutils</id>
+        <link href="https://github.com/uutils/coreutils"/>
+        <updated>2021-12-07T08:14:58.477Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[틱톡에서 3자리수 전환율 광고 만들기]]></title>
