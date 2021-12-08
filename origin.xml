@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-08T12:19:13.377Z</updated>
+    <updated>2021-12-08T13:21:11.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fe - 이더리움을 위한 스마트 컨트랙트 언어]]></title>
-        <id>https://github.com/ethereum/fe</id>
-        <link href="https://github.com/ethereum/fe"/>
-        <updated>2021-12-08T00:40:09.442Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[틱톡에서 3자리수 전환율 광고 만들기]]></title>
         <id>https://www.tiktok.com/business/en-US/blog/creative-that-drives-conversions</id>
         <link href="https://www.tiktok.com/business/en-US/blog/creative-that-drives-conversions"/>
         <updated>2021-12-07T08:14:58.470Z</updated>
         <content type="html"><![CDATA[(tiktok.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fe - 이더리움을 위한 스마트 컨트랙트 언어]]></title>
+        <id>https://github.com/ethereum/fe</id>
+        <link href="https://github.com/ethereum/fe"/>
+        <updated>2021-12-08T00:40:09.442Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이]]></title>
