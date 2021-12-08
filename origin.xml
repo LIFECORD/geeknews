@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-08T15:13:44.824Z</updated>
+    <updated>2021-12-08T16:16:17.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(tiktok.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fe - 이더리움을 위한 스마트 컨트랙트 언어]]></title>
-        <id>https://github.com/ethereum/fe</id>
-        <link href="https://github.com/ethereum/fe"/>
-        <updated>2021-12-08T00:40:09.442Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아마존 CTO의 2022년부터 그 이후 기술 예측]]></title>
         <id>https://www.allthingsdistributed.com/2021/12/tech-prediction-for-2022-and-beyond.html</id>
         <link href="https://www.allthingsdistributed.com/2021/12/tech-prediction-for-2022-and-beyond.html"/>
         <updated>2021-12-06T02:32:30.748Z</updated>
         <content type="html"><![CDATA[(allthingsdistributed.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fe - 이더리움을 위한 스마트 컨트랙트 언어]]></title>
+        <id>https://github.com/ethereum/fe</id>
+        <link href="https://github.com/ethereum/fe"/>
+        <updated>2021-12-08T00:40:09.442Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GraphJin - 빠른 GraphQL API 만들기]]></title>
