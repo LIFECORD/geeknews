@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-08T16:16:17.405Z</updated>
+    <updated>2021-12-08T17:20:21.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(lqez.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[re:Invent 2021에서 추가된 새 EC2 인스턴스 타입들]]></title>
-        <id>https://aws-native.com/new-ec2-instance-types-of-reinvent-2021</id>
-        <link href="https://aws-native.com/new-ec2-instance-types-of-reinvent-2021"/>
-        <updated>2021-12-08T00:40:09.428Z</updated>
-        <content type="html"><![CDATA[(aws-native.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MiroTalk SFU - 오픈소스 Zoom/Teams 대체제]]></title>
         <id>https://github.com/miroslavpejic85/mirotalksfu</id>
         <link href="https://github.com/miroslavpejic85/mirotalksfu"/>
         <updated>2021-12-07T08:14:58.467Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[re:Invent 2021에서 추가된 새 EC2 인스턴스 타입들]]></title>
+        <id>https://aws-native.com/new-ec2-instance-types-of-reinvent-2021</id>
+        <link href="https://aws-native.com/new-ec2-instance-types-of-reinvent-2021"/>
+        <updated>2021-12-08T00:40:09.428Z</updated>
+        <content type="html"><![CDATA[(aws-native.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PiBox Mini - 라즈베리 Pi 스토리지 서버]]></title>
