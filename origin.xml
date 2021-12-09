@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-09T04:15:55.847Z</updated>
+    <updated>2021-12-09T05:12:14.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[방어적(Defensive) CSS]]></title>
-        <id>https://ishadeed.com/article/defensive-css/</id>
-        <link href="https://ishadeed.com/article/defensive-css/"/>
-        <updated>2021-12-09T01:57:35.447Z</updated>
-        <content type="html"><![CDATA[(ishadeed.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
         <id>https://microstudio.dev/</id>
         <link href="https://microstudio.dev/"/>
         <updated>2021-12-09T01:57:35.447Z</updated>
         <content type="html"><![CDATA[(microstudio.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방어적(Defensive) CSS]]></title>
+        <id>https://ishadeed.com/article/defensive-css/</id>
+        <link href="https://ishadeed.com/article/defensive-css/"/>
+        <updated>2021-12-09T01:57:35.447Z</updated>
+        <content type="html"><![CDATA[(ishadeed.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Firefox 95 릴리즈]]></title>
@@ -32,6 +32,13 @@
         <link href="https://news.hada.io/topic?id=5516"/>
         <updated>2021-12-09T04:15:17.103Z</updated>
         <content type="html"><![CDATA[(zake.gg)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
+        <id>https://github.com/yousefed/SyncedStore</id>
+        <link href="https://github.com/yousefed/SyncedStore"/>
+        <updated>2021-12-09T05:11:34.730Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이 달의 CT 스캔 : 에어팟의 진화]]></title>
@@ -130,13 +137,6 @@
         <link href="https://github.com/supabase/pg_graphql"/>
         <updated>2021-12-06T01:58:15.430Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년에 뭐 하세요? 클라우드에서 개발 하실래요? (Cloud-based development)]]></title>
-        <id>https://world.hey.com/bach/2022-cloud-based-development-ccaa2733</id>
-        <link href="https://world.hey.com/bach/2022-cloud-based-development-ccaa2733"/>
-        <updated>2021-12-07T08:14:58.471Z</updated>
-        <content type="html"><![CDATA[(world.hey.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zinc 검색 엔진 - 경량 ElasticSearch 대체제]]></title>
