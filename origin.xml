@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-09T12:19:06.689Z</updated>
+    <updated>2021-12-09T13:21:49.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Zinc 검색 엔진 - 경량 ElasticSearch 대체제]]></title>
+        <id>https://github.com/prabhatsharma/zinc</id>
+        <link href="https://github.com/prabhatsharma/zinc"/>
+        <updated>2021-12-09T13:20:28.344Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022년에 뭐 하세요? 클라우드에서 개발 하실래요? (Cloud-based development)]]></title>
         <id>https://world.hey.com/bach/2022-cloud-based-development-ccaa2733</id>
         <link href="https://world.hey.com/bach/2022-cloud-based-development-ccaa2733"/>
         <updated>2021-12-09T07:12:09.590Z</updated>
         <content type="html"><![CDATA[(world.hey.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphJin - 빠른 GraphQL API 만들기]]></title>
-        <id>https://github.com/dosco/graphjin</id>
-        <link href="https://github.com/dosco/graphjin"/>
-        <updated>2021-12-07T08:14:58.471Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
