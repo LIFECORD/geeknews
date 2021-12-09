@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-09T07:12:52.863Z</updated>
+    <updated>2021-12-09T08:14:45.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(ishadeed.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
-        <id>https://microstudio.dev/</id>
-        <link href="https://microstudio.dev/"/>
-        <updated>2021-12-09T01:57:35.447Z</updated>
-        <content type="html"><![CDATA[(microstudio.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
         <id>https://github.com/yousefed/SyncedStore</id>
         <link href="https://github.com/yousefed/SyncedStore"/>
         <updated>2021-12-09T05:11:34.730Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
+        <id>https://microstudio.dev/</id>
+        <link href="https://microstudio.dev/"/>
+        <updated>2021-12-09T01:57:35.447Z</updated>
+        <content type="html"><![CDATA[(microstudio.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 게임을 발견하고, 플레이를 공유하는 제이크]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(mozilla.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이 달의 CT 스캔 : 에어팟의 진화]]></title>
-        <id>https://scanofthemonth.com/</id>
-        <link href="https://scanofthemonth.com/"/>
-        <updated>2021-12-09T01:57:35.449Z</updated>
-        <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Diskitude - 내 윈도우의 용량은 누가 잡아먹나]]></title>
         <id>http://madebyevan.com/diskitude/</id>
         <link href="http://madebyevan.com/diskitude/"/>
         <updated>2021-12-08T01:58:59.791Z</updated>
         <content type="html"><![CDATA[(madebyevan.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 달의 CT 스캔 : 에어팟의 진화]]></title>
+        <id>https://scanofthemonth.com/</id>
+        <link href="https://scanofthemonth.com/"/>
+        <updated>2021-12-09T01:57:35.449Z</updated>
+        <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
