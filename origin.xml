@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-09T20:13:38.080Z</updated>
+    <updated>2021-12-09T21:11:10.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[re:Invent 2021에서 추가된 새 EC2 인스턴스 타입들]]></title>
-        <id>https://aws-native.com/new-ec2-instance-types-of-reinvent-2021</id>
-        <link href="https://aws-native.com/new-ec2-instance-types-of-reinvent-2021"/>
-        <updated>2021-12-08T00:40:09.428Z</updated>
-        <content type="html"><![CDATA[(aws-native.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이]]></title>
         <id>https://guacamole.apache.org/</id>
         <link href="https://guacamole.apache.org/"/>
         <updated>2021-12-06T01:58:15.430Z</updated>
         <content type="html"><![CDATA[(guacamole.apache.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[re:Invent 2021에서 추가된 새 EC2 인스턴스 타입들]]></title>
+        <id>https://aws-native.com/new-ec2-instance-types-of-reinvent-2021</id>
+        <link href="https://aws-native.com/new-ec2-instance-types-of-reinvent-2021"/>
+        <updated>2021-12-08T00:40:09.428Z</updated>
+        <content type="html"><![CDATA[(aws-native.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존 CTO의 2022년부터 그 이후 기술 예측]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(tiktok.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PiBox Mini - 라즈베리 Pi 스토리지 서버]]></title>
-        <id>https://pibox.io/</id>
-        <link href="https://pibox.io/"/>
-        <updated>2021-12-08T00:40:09.442Z</updated>
-        <content type="html"><![CDATA[(pibox.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Uutils - GNU Coreutils를 Rust로 재작성]]></title>
         <id>https://github.com/uutils/coreutils</id>
         <link href="https://github.com/uutils/coreutils"/>
         <updated>2021-12-07T08:14:58.477Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PiBox Mini - 라즈베리 Pi 스토리지 서버]]></title>
+        <id>https://pibox.io/</id>
+        <link href="https://pibox.io/"/>
+        <updated>2021-12-08T00:40:09.442Z</updated>
+        <content type="html"><![CDATA[(pibox.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 연말에 뭐 하실 건가요?]]></title>
