@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-09T01:58:12.167Z</updated>
+    <updated>2021-12-09T02:32:43.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://ishadeed.com/article/defensive-css/"/>
         <updated>2021-12-09T01:57:35.447Z</updated>
         <content type="html"><![CDATA[(ishadeed.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 95 릴리즈]]></title>
+        <id>https://www.mozilla.org/en-US/firefox/95.0/releasenotes/</id>
+        <link href="https://www.mozilla.org/en-US/firefox/95.0/releasenotes/"/>
+        <updated>2021-12-09T02:32:06.129Z</updated>
+        <content type="html"><![CDATA[(mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
@@ -90,18 +97,18 @@
         <content type="html"><![CDATA[(allthingsdistributed.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틱톡에서 3자리수 전환율 광고 만들기]]></title>
-        <id>https://www.tiktok.com/business/en-US/blog/creative-that-drives-conversions</id>
-        <link href="https://www.tiktok.com/business/en-US/blog/creative-that-drives-conversions"/>
-        <updated>2021-12-07T08:14:58.470Z</updated>
-        <content type="html"><![CDATA[(tiktok.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fe - 이더리움을 위한 스마트 컨트랙트 언어]]></title>
         <id>https://github.com/ethereum/fe</id>
         <link href="https://github.com/ethereum/fe"/>
         <updated>2021-12-08T00:40:09.442Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틱톡에서 3자리수 전환율 광고 만들기]]></title>
+        <id>https://www.tiktok.com/business/en-US/blog/creative-that-drives-conversions</id>
+        <link href="https://www.tiktok.com/business/en-US/blog/creative-that-drives-conversions"/>
+        <updated>2021-12-07T08:14:58.470Z</updated>
+        <content type="html"><![CDATA[(tiktok.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GraphJin - 빠른 GraphQL API 만들기]]></title>
@@ -137,11 +144,5 @@
         <link href="https://github.com/Netflix/pollyjs"/>
         <updated>2021-12-05T02:02:15.537Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
-        <id>https://news.hada.io/topic?id=5498</id>
-        <link href="https://news.hada.io/topic?id=5498"/>
-        <updated>2021-12-09T01:57:35.472Z</updated>
     </entry>
 </feed>
