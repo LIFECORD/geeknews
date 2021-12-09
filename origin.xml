@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-09T22:11:43.873Z</updated>
+    <updated>2021-12-09T23:12:48.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[방어적(Defensive) CSS]]></title>
-        <id>https://ishadeed.com/article/defensive-css/</id>
-        <link href="https://ishadeed.com/article/defensive-css/"/>
-        <updated>2021-12-09T01:57:35.447Z</updated>
-        <content type="html"><![CDATA[(ishadeed.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
         <id>https://microstudio.dev/</id>
         <link href="https://microstudio.dev/"/>
         <updated>2021-12-09T01:57:35.447Z</updated>
         <content type="html"><![CDATA[(microstudio.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방어적(Defensive) CSS]]></title>
+        <id>https://ishadeed.com/article/defensive-css/</id>
+        <link href="https://ishadeed.com/article/defensive-css/"/>
+        <updated>2021-12-09T01:57:35.447Z</updated>
+        <content type="html"><![CDATA[(ishadeed.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
