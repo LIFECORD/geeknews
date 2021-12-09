@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-09T19:10:38.954Z</updated>
+    <updated>2021-12-09T20:13:38.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -124,17 +124,17 @@
         <updated>2021-12-09T06:14:02.712Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fe - 이더리움을 위한 스마트 컨트랙트 언어]]></title>
-        <id>https://github.com/ethereum/fe</id>
-        <link href="https://github.com/ethereum/fe"/>
-        <updated>2021-12-08T00:40:09.442Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zinc 검색 엔진 - 경량 ElasticSearch 대체제]]></title>
         <id>https://github.com/prabhatsharma/zinc</id>
         <link href="https://github.com/prabhatsharma/zinc"/>
         <updated>2021-12-09T13:20:28.344Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fe - 이더리움을 위한 스마트 컨트랙트 언어]]></title>
+        <id>https://github.com/ethereum/fe</id>
+        <link href="https://github.com/ethereum/fe"/>
+        <updated>2021-12-08T00:40:09.442Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
