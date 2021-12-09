@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-09T05:12:14.372Z</updated>
+    <updated>2021-12-09T06:14:37.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
-        <id>https://microstudio.dev/</id>
-        <link href="https://microstudio.dev/"/>
-        <updated>2021-12-09T01:57:35.447Z</updated>
-        <content type="html"><![CDATA[(microstudio.dev)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[방어적(Defensive) CSS]]></title>
         <id>https://ishadeed.com/article/defensive-css/</id>
         <link href="https://ishadeed.com/article/defensive-css/"/>
         <updated>2021-12-09T01:57:35.447Z</updated>
         <content type="html"><![CDATA[(ishadeed.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
+        <id>https://github.com/yousefed/SyncedStore</id>
+        <link href="https://github.com/yousefed/SyncedStore"/>
+        <updated>2021-12-09T05:11:34.730Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
+        <id>https://microstudio.dev/</id>
+        <link href="https://microstudio.dev/"/>
+        <updated>2021-12-09T01:57:35.447Z</updated>
+        <content type="html"><![CDATA[(microstudio.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Firefox 95 릴리즈]]></title>
@@ -32,13 +39,6 @@
         <link href="https://news.hada.io/topic?id=5516"/>
         <updated>2021-12-09T04:15:17.103Z</updated>
         <content type="html"><![CDATA[(zake.gg)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
-        <id>https://github.com/yousefed/SyncedStore</id>
-        <link href="https://github.com/yousefed/SyncedStore"/>
-        <updated>2021-12-09T05:11:34.730Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이 달의 CT 스캔 : 에어팟의 진화]]></title>
@@ -125,6 +125,12 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 연말에 뭐 하실 건가요?]]></title>
+        <id>https://news.hada.io/topic?id=5510</id>
+        <link href="https://news.hada.io/topic?id=5510"/>
+        <updated>2021-12-09T06:14:02.712Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GraphJin - 빠른 GraphQL API 만들기]]></title>
         <id>https://github.com/dosco/graphjin</id>
         <link href="https://github.com/dosco/graphjin"/>
@@ -136,13 +142,6 @@
         <id>https://github.com/supabase/pg_graphql</id>
         <link href="https://github.com/supabase/pg_graphql"/>
         <updated>2021-12-06T01:58:15.430Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zinc 검색 엔진 - 경량 ElasticSearch 대체제]]></title>
-        <id>https://github.com/prabhatsharma/zinc</id>
-        <link href="https://github.com/prabhatsharma/zinc"/>
-        <updated>2021-12-05T02:02:15.537Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
