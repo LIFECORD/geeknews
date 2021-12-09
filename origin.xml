@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-08T23:12:35.011Z</updated>
+    <updated>2021-12-09T00:39:06.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(aws-native.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PiBox Mini - 라즈베리 Pi 스토리지 서버]]></title>
-        <id>https://pibox.io/</id>
-        <link href="https://pibox.io/"/>
-        <updated>2021-12-08T00:40:09.442Z</updated>
-        <content type="html"><![CDATA[(pibox.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이]]></title>
         <id>https://guacamole.apache.org/</id>
         <link href="https://guacamole.apache.org/"/>
@@ -60,6 +53,13 @@
         <link href="https://github.com/uutils/coreutils"/>
         <updated>2021-12-07T08:14:58.477Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PiBox Mini - 라즈베리 Pi 스토리지 서버]]></title>
+        <id>https://pibox.io/</id>
+        <link href="https://pibox.io/"/>
+        <updated>2021-12-08T00:40:09.442Z</updated>
+        <content type="html"><![CDATA[(pibox.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[틱톡에서 3자리수 전환율 광고 만들기]]></title>
