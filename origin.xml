@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-09T16:17:38.111Z</updated>
+    <updated>2021-12-09T17:20:33.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(zake.gg)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox 95 릴리즈]]></title>
-        <id>https://www.mozilla.org/en-US/firefox/95.0/releasenotes/</id>
-        <link href="https://www.mozilla.org/en-US/firefox/95.0/releasenotes/"/>
-        <updated>2021-12-09T02:32:06.129Z</updated>
-        <content type="html"><![CDATA[(mozilla.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Diskitude - 내 윈도우의 용량은 누가 잡아먹나]]></title>
         <id>http://madebyevan.com/diskitude/</id>
         <link href="http://madebyevan.com/diskitude/"/>
         <updated>2021-12-08T01:58:59.791Z</updated>
         <content type="html"><![CDATA[(madebyevan.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 95 릴리즈]]></title>
+        <id>https://www.mozilla.org/en-US/firefox/95.0/releasenotes/</id>
+        <link href="https://www.mozilla.org/en-US/firefox/95.0/releasenotes/"/>
+        <updated>2021-12-09T02:32:06.129Z</updated>
+        <content type="html"><![CDATA[(mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이 달의 CT 스캔 : 에어팟의 진화]]></title>
-        <id>https://scanofthemonth.com/</id>
-        <link href="https://scanofthemonth.com/"/>
-        <updated>2021-12-09T01:57:35.449Z</updated>
-        <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Threadit - 비동기 협업 도구]]></title>
         <id>https://www.threadit.area120.com/</id>
         <link href="https://www.threadit.area120.com/"/>
         <updated>2021-12-08T01:58:59.792Z</updated>
         <content type="html"><![CDATA[(threadit.area120.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 달의 CT 스캔 : 에어팟의 진화]]></title>
+        <id>https://scanofthemonth.com/</id>
+        <link href="https://scanofthemonth.com/"/>
+        <updated>2021-12-09T01:57:35.449Z</updated>
+        <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[re:Invent 2021에서 추가된 새 EC2 인스턴스 타입들]]></title>
@@ -111,17 +111,17 @@
         <content type="html"><![CDATA[(pibox.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 연말에 뭐 하실 건가요?]]></title>
-        <id>https://news.hada.io/topic?id=5510</id>
-        <link href="https://news.hada.io/topic?id=5510"/>
-        <updated>2021-12-09T06:14:02.712Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Uutils - GNU Coreutils를 Rust로 재작성]]></title>
         <id>https://github.com/uutils/coreutils</id>
         <link href="https://github.com/uutils/coreutils"/>
         <updated>2021-12-07T08:14:58.477Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 연말에 뭐 하실 건가요?]]></title>
+        <id>https://news.hada.io/topic?id=5510</id>
+        <link href="https://news.hada.io/topic?id=5510"/>
+        <updated>2021-12-09T06:14:02.712Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fe - 이더리움을 위한 스마트 컨트랙트 언어]]></title>
