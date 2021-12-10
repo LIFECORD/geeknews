@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-10T07:12:19.086Z</updated>
+    <updated>2021-12-10T08:14:31.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <updated>2021-12-10T05:11:13.996Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Go의 Defer와 Rust의 Drop]]></title>
-        <id>https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af</id>
-        <link href="https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af"/>
-        <updated>2021-12-10T03:12:18.230Z</updated>
-        <content type="html"><![CDATA[(dev.to)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
         <id>https://news.hada.io/topic?id=5521</id>
         <link href="https://news.hada.io/topic?id=5521"/>
@@ -52,11 +45,11 @@
         <content type="html"><![CDATA[(ishadeed.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 외부 결제 허용에 관한 지연 요청 승인]]></title>
-        <id>https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/</id>
-        <link href="https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/"/>
-        <updated>2021-12-10T01:54:06.624Z</updated>
-        <content type="html"><![CDATA[(9to5mac.com)]]></content>
+        <title type="html"><![CDATA[Go의 Defer와 Rust의 Drop]]></title>
+        <id>https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af</id>
+        <link href="https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af"/>
+        <updated>2021-12-10T03:12:18.230Z</updated>
+        <content type="html"><![CDATA[(dev.to)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
@@ -66,6 +59,13 @@
         <content type="html"><![CDATA[(microstudio.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[애플, 외부 결제 허용에 관한 지연 요청 승인]]></title>
+        <id>https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/</id>
+        <link href="https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/"/>
+        <updated>2021-12-10T01:54:06.624Z</updated>
+        <content type="html"><![CDATA[(9to5mac.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글 플레이 앱 제목에 넣을 수 없는 단어에 "광고 없음" 도 추가]]></title>
         <id>https://support.google.com/googleplay/android-developer/answer/9898684?hl=ko</id>
         <link href="https://support.google.com/googleplay/android-developer/answer/9898684?hl=ko"/>
@@ -73,18 +73,18 @@
         <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존, Alexa.com을 2022/5/1에 운영 중지 예정]]></title>
-        <id>https://support.alexa.com/hc/en-us/articles/4410503838999</id>
-        <link href="https://support.alexa.com/hc/en-us/articles/4410503838999"/>
-        <updated>2021-12-10T00:39:16.165Z</updated>
-        <content type="html"><![CDATA[(support.alexa.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 게임을 발견하고, 플레이를 공유하는 제이크]]></title>
         <id>https://news.hada.io/topic?id=5516</id>
         <link href="https://news.hada.io/topic?id=5516"/>
         <updated>2021-12-09T04:15:17.103Z</updated>
         <content type="html"><![CDATA[(zake.gg)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존, Alexa.com을 2022/5/1에 운영 중지 예정]]></title>
+        <id>https://support.alexa.com/hc/en-us/articles/4410503838999</id>
+        <link href="https://support.alexa.com/hc/en-us/articles/4410503838999"/>
+        <updated>2021-12-10T00:39:16.165Z</updated>
+        <content type="html"><![CDATA[(support.alexa.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
