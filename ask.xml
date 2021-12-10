@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-12-10T04:15:17.242Z</updated>
+    <updated>2021-12-10T05:11:48.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 일기를 쓰는데 가장 괜찮은 앱, 프로그램, 웹 서비스는 어떤걸까요?]]></title>
-        <id>https://news.hada.io/topic?id=5526</id>
-        <link href="https://news.hada.io/topic?id=5526"/>
-        <updated>2021-12-10T03:12:38.377Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 온라인 페어작업을 위한 도구나 방법으로 추천해주실 만한 게 있을까요?]]></title>
         <id>https://news.hada.io/topic?id=5525</id>
         <link href="https://news.hada.io/topic?id=5525"/>
         <updated>2021-12-10T03:12:38.372Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 일기를 쓰는데 가장 괜찮은 앱, 프로그램, 웹 서비스는 어떤걸까요?]]></title>
+        <id>https://news.hada.io/topic?id=5526</id>
+        <link href="https://news.hada.io/topic?id=5526"/>
+        <updated>2021-12-10T03:12:38.377Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
