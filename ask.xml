@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-12-10T03:13:02.264Z</updated>
+    <updated>2021-12-10T04:15:17.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 일기를 쓰는데 가장 괜찮은 앱, 프로그램, 웹 서비스는 어떤걸까요?]]></title>
+        <id>https://news.hada.io/topic?id=5526</id>
+        <link href="https://news.hada.io/topic?id=5526"/>
+        <updated>2021-12-10T03:12:38.377Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 온라인 페어작업을 위한 도구나 방법으로 추천해주실 만한 게 있을까요?]]></title>
         <id>https://news.hada.io/topic?id=5525</id>
@@ -16,12 +22,6 @@
         <id>https://news.hada.io/topic?id=5521</id>
         <link href="https://news.hada.io/topic?id=5521"/>
         <updated>2021-12-10T01:54:23.638Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 일기를 쓰는데 가장 괜찮은 앱, 프로그램, 웹 서비스는 어떤걸까요?]]></title>
-        <id>https://news.hada.io/topic?id=5526</id>
-        <link href="https://news.hada.io/topic?id=5526"/>
-        <updated>2021-12-10T03:12:38.377Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 연말에 감사인사 보내는 좋은 서비스가 있을까요?]]></title>
@@ -78,16 +78,16 @@
         <updated>2021-09-28T01:34:45.879Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 주변의 누군가 개발자가 되는 것에 대해 진지하게 물어본다면 뭐라고 대답해주실 건가요?]]></title>
-        <id>https://news.hada.io/topic?id=5296</id>
-        <link href="https://news.hada.io/topic?id=5296"/>
-        <updated>2021-11-01T01:57:18.833Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 이직할 때 어떻게 회사를 고르시나요?]]></title>
         <id>https://news.hada.io/topic?id=5082</id>
         <link href="https://news.hada.io/topic?id=5082"/>
         <updated>2021-09-28T01:34:45.867Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 주변의 누군가 개발자가 되는 것에 대해 진지하게 물어본다면 뭐라고 대답해주실 건가요?]]></title>
+        <id>https://news.hada.io/topic?id=5296</id>
+        <link href="https://news.hada.io/topic?id=5296"/>
+        <updated>2021-11-01T01:57:18.833Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>

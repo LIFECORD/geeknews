@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-10T03:13:02.259Z</updated>
+    <updated>2021-12-10T04:15:17.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 온라인 페어작업을 위한 도구나 방법으로 추천해주실 만한 게 있을까요?]]></title>
+        <id>https://news.hada.io/topic?id=5525</id>
+        <link href="https://news.hada.io/topic?id=5525"/>
+        <updated>2021-12-10T04:14:38.831Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Discord의 새 Premium 멤버쉽, 창작자들이 서버로 수익을 낼 수 있게 지원]]></title>
         <id>https://www.theverge.com/2021/12/7/22822042/discord-premium-memberships-creators-monetize-servers-feature</id>
@@ -26,6 +32,13 @@
         <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Go의 Defer와 Rust의 Drop]]></title>
+        <id>https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af</id>
+        <link href="https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af"/>
+        <updated>2021-12-10T03:12:18.230Z</updated>
+        <content type="html"><![CDATA[(dev.to)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플, 외부 결제 허용에 관한 지연 요청 승인]]></title>
         <id>https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/</id>
         <link href="https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/"/>
@@ -40,13 +53,6 @@
         <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존, Alexa.com을 2022/5/1에 운영 중지 예정]]></title>
-        <id>https://support.alexa.com/hc/en-us/articles/4410503838999</id>
-        <link href="https://support.alexa.com/hc/en-us/articles/4410503838999"/>
-        <updated>2021-12-10T00:39:16.165Z</updated>
-        <content type="html"><![CDATA[(support.alexa.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[방어적(Defensive) CSS]]></title>
         <id>https://ishadeed.com/article/defensive-css/</id>
         <link href="https://ishadeed.com/article/defensive-css/"/>
@@ -54,18 +60,18 @@
         <content type="html"><![CDATA[(ishadeed.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아마존, Alexa.com을 2022/5/1에 운영 중지 예정]]></title>
+        <id>https://support.alexa.com/hc/en-us/articles/4410503838999</id>
+        <link href="https://support.alexa.com/hc/en-us/articles/4410503838999"/>
+        <updated>2021-12-10T00:39:16.165Z</updated>
+        <content type="html"><![CDATA[(support.alexa.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
         <id>https://microstudio.dev/</id>
         <link href="https://microstudio.dev/"/>
         <updated>2021-12-09T01:57:35.447Z</updated>
         <content type="html"><![CDATA[(microstudio.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go의 Defer와 Rust의 Drop]]></title>
-        <id>https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af</id>
-        <link href="https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af"/>
-        <updated>2021-12-10T03:12:18.230Z</updated>
-        <content type="html"><![CDATA[(dev.to)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
@@ -135,12 +141,5 @@
         <link href="https://guacamole.apache.org/"/>
         <updated>2021-12-06T01:58:15.430Z</updated>
         <content type="html"><![CDATA[(guacamole.apache.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[re:Invent 2021에서 추가된 새 EC2 인스턴스 타입들]]></title>
-        <id>https://aws-native.com/new-ec2-instance-types-of-reinvent-2021</id>
-        <link href="https://aws-native.com/new-ec2-instance-types-of-reinvent-2021"/>
-        <updated>2021-12-08T00:40:09.428Z</updated>
-        <content type="html"><![CDATA[(aws-native.com)]]></content>
     </entry>
 </feed>
