@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-10T19:10:29.930Z</updated>
+    <updated>2021-12-10T20:12:36.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -19,17 +19,17 @@
         <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 일기를 쓰는데 가장 괜찮은 앱, 프로그램, 웹 서비스는 어떤걸까요?]]></title>
-        <id>https://news.hada.io/topic?id=5526</id>
-        <link href="https://news.hada.io/topic?id=5526"/>
-        <updated>2021-12-10T05:11:13.996Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[방어적(Defensive) CSS]]></title>
         <id>https://ishadeed.com/article/defensive-css/</id>
         <link href="https://ishadeed.com/article/defensive-css/"/>
         <updated>2021-12-09T01:57:35.447Z</updated>
         <content type="html"><![CDATA[(ishadeed.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 일기를 쓰는데 가장 괜찮은 앱, 프로그램, 웹 서비스는 어떤걸까요?]]></title>
+        <id>https://news.hada.io/topic?id=5526</id>
+        <link href="https://news.hada.io/topic?id=5526"/>
+        <updated>2021-12-10T05:11:13.996Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
@@ -80,18 +80,18 @@
         <content type="html"><![CDATA[(dev.to)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 외부 결제 허용에 관한 지연 요청 승인]]></title>
-        <id>https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/</id>
-        <link href="https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/"/>
-        <updated>2021-12-10T01:54:06.624Z</updated>
-        <content type="html"><![CDATA[(9to5mac.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
         <id>https://lqez.dev/blog/how-to-hire-cto.html</id>
         <link href="https://lqez.dev/blog/how-to-hire-cto.html"/>
         <updated>2021-12-07T08:14:58.467Z</updated>
         <content type="html"><![CDATA[(lqez.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 외부 결제 허용에 관한 지연 요청 승인]]></title>
+        <id>https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/</id>
+        <link href="https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/"/>
+        <updated>2021-12-10T01:54:06.624Z</updated>
+        <content type="html"><![CDATA[(9to5mac.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 플레이 앱 제목에 넣을 수 없는 단어에 "광고 없음" 도 추가]]></title>
