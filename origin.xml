@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-10T01:54:43.255Z</updated>
+    <updated>2021-12-10T02:28:08.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://github.blog/2021-12-08-improving-github-code-search/"/>
         <updated>2021-12-10T00:39:16.165Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방어적(Defensive) CSS]]></title>
+        <id>https://ishadeed.com/article/defensive-css/</id>
+        <link href="https://ishadeed.com/article/defensive-css/"/>
+        <updated>2021-12-09T01:57:35.447Z</updated>
+        <content type="html"><![CDATA[(ishadeed.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
@@ -41,13 +48,6 @@
         <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방어적(Defensive) CSS]]></title>
-        <id>https://ishadeed.com/article/defensive-css/</id>
-        <link href="https://ishadeed.com/article/defensive-css/"/>
-        <updated>2021-12-09T01:57:35.447Z</updated>
-        <content type="html"><![CDATA[(ishadeed.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아마존, Alexa.com을 2022/5/1에 운영 중지 예정]]></title>
         <id>https://support.alexa.com/hc/en-us/articles/4410503838999</id>
         <link href="https://support.alexa.com/hc/en-us/articles/4410503838999"/>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(zake.gg)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
-        <id>https://lqez.dev/blog/how-to-hire-cto.html</id>
-        <link href="https://lqez.dev/blog/how-to-hire-cto.html"/>
-        <updated>2021-12-07T08:14:58.467Z</updated>
-        <content type="html"><![CDATA[(lqez.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Diskitude - 내 윈도우의 용량은 누가 잡아먹나]]></title>
         <id>http://madebyevan.com/diskitude/</id>
         <link href="http://madebyevan.com/diskitude/"/>
         <updated>2021-12-08T01:58:59.791Z</updated>
         <content type="html"><![CDATA[(madebyevan.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
+        <id>https://lqez.dev/blog/how-to-hire-cto.html</id>
+        <link href="https://lqez.dev/blog/how-to-hire-cto.html"/>
+        <updated>2021-12-07T08:14:58.467Z</updated>
+        <content type="html"><![CDATA[(lqez.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Firefox 95 릴리즈]]></title>
