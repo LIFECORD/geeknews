@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-09T23:12:48.760Z</updated>
+    <updated>2021-12-10T00:39:57.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://microstudio.dev/"/>
         <updated>2021-12-09T01:57:35.447Z</updated>
         <content type="html"><![CDATA[(microstudio.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Code Search 기술 프리뷰 공개]]></title>
+        <id>https://github.blog/2021-12-08-improving-github-code-search/</id>
+        <link href="https://github.blog/2021-12-08-improving-github-code-search/"/>
+        <updated>2021-12-10T00:39:16.165Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존, Alexa.com을 2022/5/1에 운영 중지 예정]]></title>
+        <id>https://support.alexa.com/hc/en-us/articles/4410503838999</id>
+        <link href="https://support.alexa.com/hc/en-us/articles/4410503838999"/>
+        <updated>2021-12-10T00:39:16.165Z</updated>
+        <content type="html"><![CDATA[(support.alexa.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방어적(Defensive) CSS]]></title>
@@ -128,20 +142,6 @@
         <id>https://github.com/prabhatsharma/zinc</id>
         <link href="https://github.com/prabhatsharma/zinc"/>
         <updated>2021-12-09T13:20:28.344Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fe - 이더리움을 위한 스마트 컨트랙트 언어]]></title>
-        <id>https://github.com/ethereum/fe</id>
-        <link href="https://github.com/ethereum/fe"/>
-        <updated>2021-12-08T00:40:09.442Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pg_graphql - PostgreSQL용 GraphQL 확장]]></title>
-        <id>https://github.com/supabase/pg_graphql</id>
-        <link href="https://github.com/supabase/pg_graphql"/>
-        <updated>2021-12-09T22:11:07.682Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
