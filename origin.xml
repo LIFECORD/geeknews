@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-10T11:11:55.602Z</updated>
+    <updated>2021-12-10T12:19:43.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -39,17 +39,17 @@
         <content type="html"><![CDATA[(ishadeed.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5521</id>
-        <link href="https://news.hada.io/topic?id=5521"/>
-        <updated>2021-12-10T03:12:18.203Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
         <id>https://microstudio.dev/</id>
         <link href="https://microstudio.dev/"/>
         <updated>2021-12-09T01:57:35.447Z</updated>
         <content type="html"><![CDATA[(microstudio.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5521</id>
+        <link href="https://news.hada.io/topic?id=5521"/>
+        <updated>2021-12-10T03:12:18.203Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go의 Defer와 Rust의 Drop]]></title>
