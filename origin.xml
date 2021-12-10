@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-10T20:12:36.740Z</updated>
+    <updated>2021-12-10T21:10:59.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -46,18 +46,18 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NoteApps.info - 27종의 노트 앱 및 서비스 비교]]></title>
-        <id>https://www.noteapps.info/</id>
-        <link href="https://www.noteapps.info/"/>
-        <updated>2021-12-10T14:11:37.907Z</updated>
-        <content type="html"><![CDATA[(noteapps.info)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 게임을 발견하고, 플레이를 공유하는 제이크]]></title>
         <id>https://news.hada.io/topic?id=5516</id>
         <link href="https://news.hada.io/topic?id=5516"/>
         <updated>2021-12-09T04:15:17.103Z</updated>
         <content type="html"><![CDATA[(zake.gg)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NoteApps.info - 27종의 노트 앱 및 서비스 비교]]></title>
+        <id>https://www.noteapps.info/</id>
+        <link href="https://www.noteapps.info/"/>
+        <updated>2021-12-10T14:11:37.907Z</updated>
+        <content type="html"><![CDATA[(noteapps.info)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -136,9 +136,10 @@
         <content type="html"><![CDATA[(threadit.area120.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 연말에 감사인사 보내는 좋은 서비스가 있을까요?]]></title>
-        <id>https://news.hada.io/topic?id=5517</id>
-        <link href="https://news.hada.io/topic?id=5517"/>
-        <updated>2021-12-10T03:12:18.234Z</updated>
+        <title type="html"><![CDATA[Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이]]></title>
+        <id>https://guacamole.apache.org/</id>
+        <link href="https://guacamole.apache.org/"/>
+        <updated>2021-12-10T21:10:20.287Z</updated>
+        <content type="html"><![CDATA[(guacamole.apache.org)]]></content>
     </entry>
 </feed>
