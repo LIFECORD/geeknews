@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-11T15:12:21.665Z</updated>
+    <updated>2021-12-11T16:17:14.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(happy-type.web.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NoteApps.info - 27종의 노트 앱 및 서비스 비교]]></title>
-        <id>https://www.noteapps.info/</id>
-        <link href="https://www.noteapps.info/"/>
-        <updated>2021-12-10T14:11:37.907Z</updated>
-        <content type="html"><![CDATA[(noteapps.info)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[방어적(Defensive) CSS]]></title>
         <id>https://ishadeed.com/article/defensive-css/</id>
         <link href="https://ishadeed.com/article/defensive-css/"/>
         <updated>2021-12-09T01:57:35.447Z</updated>
         <content type="html"><![CDATA[(ishadeed.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NoteApps.info - 27종의 노트 앱 및 서비스 비교]]></title>
+        <id>https://www.noteapps.info/</id>
+        <link href="https://www.noteapps.info/"/>
+        <updated>2021-12-10T14:11:37.907Z</updated>
+        <content type="html"><![CDATA[(noteapps.info)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 온라인 페어작업을 위한 도구나 방법으로 추천해주실 만한 게 있을까요?]]></title>
@@ -109,18 +109,18 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 외부 결제 허용에 관한 지연 요청 승인]]></title>
-        <id>https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/</id>
-        <link href="https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/"/>
-        <updated>2021-12-10T01:54:06.624Z</updated>
-        <content type="html"><![CDATA[(9to5mac.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Diskitude - 내 윈도우의 용량은 누가 잡아먹나]]></title>
         <id>http://madebyevan.com/diskitude/</id>
         <link href="http://madebyevan.com/diskitude/"/>
         <updated>2021-12-08T01:58:59.791Z</updated>
         <content type="html"><![CDATA[(madebyevan.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 외부 결제 허용에 관한 지연 요청 승인]]></title>
+        <id>https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/</id>
+        <link href="https://9to5mac.com/2021/12/08/apple-granted-delay-in-complying-with-app-store-changes-required-by-epic-ruling/"/>
+        <updated>2021-12-10T01:54:06.624Z</updated>
+        <content type="html"><![CDATA[(9to5mac.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -136,10 +136,10 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Go의 Defer와 Rust의 Drop]]></title>
-        <id>https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af</id>
-        <link href="https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af"/>
-        <updated>2021-12-10T03:12:18.230Z</updated>
-        <content type="html"><![CDATA[(dev.to)]]></content>
+        <title type="html"><![CDATA[Threadit - 비동기 협업 도구]]></title>
+        <id>https://www.threadit.area120.com/</id>
+        <link href="https://www.threadit.area120.com/"/>
+        <updated>2021-12-11T16:16:23.087Z</updated>
+        <content type="html"><![CDATA[(threadit.area120.com)]]></content>
     </entry>
 </feed>
