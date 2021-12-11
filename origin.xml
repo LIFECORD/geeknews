@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-11T03:12:00.402Z</updated>
+    <updated>2021-12-11T04:15:47.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -115,18 +115,18 @@
         <content type="html"><![CDATA[(lqez.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Go의 Defer와 Rust의 Drop]]></title>
-        <id>https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af</id>
-        <link href="https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af"/>
-        <updated>2021-12-10T03:12:18.230Z</updated>
-        <content type="html"><![CDATA[(dev.to)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Diskitude - 내 윈도우의 용량은 누가 잡아먹나]]></title>
         <id>http://madebyevan.com/diskitude/</id>
         <link href="http://madebyevan.com/diskitude/"/>
         <updated>2021-12-08T01:58:59.791Z</updated>
         <content type="html"><![CDATA[(madebyevan.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go의 Defer와 Rust의 Drop]]></title>
+        <id>https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af</id>
+        <link href="https://dev.to/mark_saward/go-footguns-go-defer-and-rust-drop-17af"/>
+        <updated>2021-12-10T03:12:18.230Z</updated>
+        <content type="html"><![CDATA[(dev.to)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MiroTalk SFU - 오픈소스 Zoom/Teams 대체제]]></title>
