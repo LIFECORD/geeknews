@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-11T16:17:14.413Z</updated>
+    <updated>2021-12-11T17:17:45.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,12 +55,6 @@
         <content type="html"><![CDATA[(noteapps.info)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 온라인 페어작업을 위한 도구나 방법으로 추천해주실 만한 게 있을까요?]]></title>
-        <id>https://news.hada.io/topic?id=5525</id>
-        <link href="https://news.hada.io/topic?id=5525"/>
-        <updated>2021-12-10T04:14:38.831Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
         <id>https://microstudio.dev/</id>
         <link href="https://microstudio.dev/"/>
@@ -68,11 +62,24 @@
         <content type="html"><![CDATA[(microstudio.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 온라인 페어작업을 위한 도구나 방법으로 추천해주실 만한 게 있을까요?]]></title>
+        <id>https://news.hada.io/topic?id=5525</id>
+        <link href="https://news.hada.io/topic?id=5525"/>
+        <updated>2021-12-10T04:14:38.831Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GitHub Code Search 기술 프리뷰 공개]]></title>
         <id>https://github.blog/2021-12-08-improving-github-code-search/</id>
         <link href="https://github.blog/2021-12-08-improving-github-code-search/"/>
         <updated>2021-12-10T00:39:16.165Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
+        <id>https://github.com/yousefed/SyncedStore</id>
+        <link href="https://github.com/yousefed/SyncedStore"/>
+        <updated>2021-12-09T05:11:34.730Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 게임을 발견하고, 플레이를 공유하는 제이크]]></title>
@@ -86,13 +93,6 @@
         <id>https://news.hada.io/topic?id=5526</id>
         <link href="https://news.hada.io/topic?id=5526"/>
         <updated>2021-12-10T05:11:13.996Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
-        <id>https://github.com/yousefed/SyncedStore</id>
-        <link href="https://github.com/yousefed/SyncedStore"/>
-        <updated>2021-12-09T05:11:34.730Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
@@ -123,17 +123,17 @@
         <content type="html"><![CDATA[(9to5mac.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5521</id>
-        <link href="https://news.hada.io/topic?id=5521"/>
-        <updated>2021-12-10T03:12:18.203Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MiroTalk SFU - 오픈소스 Zoom/Teams 대체제]]></title>
         <id>https://github.com/miroslavpejic85/mirotalksfu</id>
         <link href="https://github.com/miroslavpejic85/mirotalksfu"/>
         <updated>2021-12-11T02:30:31.285Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5521</id>
+        <link href="https://news.hada.io/topic?id=5521"/>
+        <updated>2021-12-10T03:12:18.203Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Threadit - 비동기 협업 도구]]></title>
