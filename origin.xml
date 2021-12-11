@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-11T20:12:33.020Z</updated>
+    <updated>2021-12-11T21:10:28.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -68,18 +68,18 @@
         <updated>2021-12-10T04:14:38.831Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Code Search 기술 프리뷰 공개]]></title>
-        <id>https://github.blog/2021-12-08-improving-github-code-search/</id>
-        <link href="https://github.blog/2021-12-08-improving-github-code-search/"/>
-        <updated>2021-12-10T00:39:16.165Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
         <id>https://github.com/yousefed/SyncedStore</id>
         <link href="https://github.com/yousefed/SyncedStore"/>
         <updated>2021-12-09T05:11:34.730Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Code Search 기술 프리뷰 공개]]></title>
+        <id>https://github.blog/2021-12-08-improving-github-code-search/</id>
+        <link href="https://github.blog/2021-12-08-improving-github-code-search/"/>
+        <updated>2021-12-10T00:39:16.165Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 게임을 발견하고, 플레이를 공유하는 제이크]]></title>
