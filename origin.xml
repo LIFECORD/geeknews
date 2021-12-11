@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-11T07:12:49.692Z</updated>
+    <updated>2021-12-11T08:14:18.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[애플 앱 스토어, 사용자 정의 제품 페이지 생성 기능 추가]]></title>
-        <id>https://developer.apple.com/kr/news/?id=2xnhx92t</id>
-        <link href="https://developer.apple.com/kr/news/?id=2xnhx92t"/>
-        <updated>2021-12-11T01:55:06.585Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[자바스크립트는 왜 프로토타입을 선택했을까]]></title>
         <id>https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42</id>
         <link href="https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42"/>
         <updated>2021-12-11T00:36:34.464Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 앱 스토어, 사용자 정의 제품 페이지 생성 기능 추가]]></title>
+        <id>https://developer.apple.com/kr/news/?id=2xnhx92t</id>
+        <link href="https://developer.apple.com/kr/news/?id=2xnhx92t"/>
+        <updated>2021-12-11T01:55:06.585Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NFT가 궁금한 당신을 위한 꼼꼼 가이드]]></title>
@@ -88,18 +88,18 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
-        <id>https://github.com/yousefed/SyncedStore</id>
-        <link href="https://github.com/yousefed/SyncedStore"/>
-        <updated>2021-12-09T05:11:34.730Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
         <id>https://lqez.dev/blog/how-to-hire-cto.html</id>
         <link href="https://lqez.dev/blog/how-to-hire-cto.html"/>
         <updated>2021-12-07T08:14:58.467Z</updated>
         <content type="html"><![CDATA[(lqez.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
+        <id>https://github.com/yousefed/SyncedStore</id>
+        <link href="https://github.com/yousefed/SyncedStore"/>
+        <updated>2021-12-09T05:11:34.730Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, 외부 결제 허용에 관한 지연 요청 승인]]></title>
