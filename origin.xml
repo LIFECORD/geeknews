@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-12T03:12:25.768Z</updated>
+    <updated>2021-12-12T04:15:42.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(ishadeed.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NoteApps.info - 27종의 노트 앱 및 서비스 비교]]></title>
+        <id>https://www.noteapps.info/</id>
+        <link href="https://www.noteapps.info/"/>
+        <updated>2021-12-10T14:11:37.907Z</updated>
+        <content type="html"><![CDATA[(noteapps.info)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[microStudio - 온라인 무료 게임엔진]]></title>
         <id>https://microstudio.dev/</id>
         <link href="https://microstudio.dev/"/>
@@ -82,13 +89,6 @@
         <updated>2021-12-10T04:14:38.831Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NoteApps.info - 27종의 노트 앱 및 서비스 비교]]></title>
-        <id>https://www.noteapps.info/</id>
-        <link href="https://www.noteapps.info/"/>
-        <updated>2021-12-10T14:11:37.907Z</updated>
-        <content type="html"><![CDATA[(noteapps.info)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
         <id>https://github.com/yousefed/SyncedStore</id>
         <link href="https://github.com/yousefed/SyncedStore"/>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 게임을 발견하고, 플레이를 공유하는 제이크]]></title>
-        <id>https://news.hada.io/topic?id=5516</id>
-        <link href="https://news.hada.io/topic?id=5516"/>
-        <updated>2021-12-09T04:15:17.103Z</updated>
-        <content type="html"><![CDATA[(zake.gg)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
         <id>https://lqez.dev/blog/how-to-hire-cto.html</id>
         <link href="https://lqez.dev/blog/how-to-hire-cto.html"/>
         <updated>2021-12-07T08:14:58.467Z</updated>
         <content type="html"><![CDATA[(lqez.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 게임을 발견하고, 플레이를 공유하는 제이크]]></title>
+        <id>https://news.hada.io/topic?id=5516</id>
+        <link href="https://news.hada.io/topic?id=5516"/>
+        <updated>2021-12-09T04:15:17.103Z</updated>
+        <content type="html"><![CDATA[(zake.gg)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Code Search 기술 프리뷰 공개]]></title>
