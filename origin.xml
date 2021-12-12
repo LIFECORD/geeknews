@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-12T11:10:20.194Z</updated>
+    <updated>2021-12-12T12:18:05.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[(microstudio.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
+        <id>https://github.com/yousefed/SyncedStore</id>
+        <link href="https://github.com/yousefed/SyncedStore"/>
+        <updated>2021-12-09T05:11:34.730Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: 해피타입 - 매일 아침 명언 타이핑]]></title>
         <id>https://news.hada.io/topic?id=5530</id>
         <link href="https://news.hada.io/topic?id=5530"/>
@@ -87,13 +94,6 @@
         <id>https://news.hada.io/topic?id=5525</id>
         <link href="https://news.hada.io/topic?id=5525"/>
         <updated>2021-12-10T04:14:38.831Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
-        <id>https://github.com/yousefed/SyncedStore</id>
-        <link href="https://github.com/yousefed/SyncedStore"/>
-        <updated>2021-12-09T05:11:34.730Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
@@ -124,17 +124,17 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 일기를 쓰는데 가장 괜찮은 앱, 프로그램, 웹 서비스는 어떤걸까요?]]></title>
-        <id>https://news.hada.io/topic?id=5526</id>
-        <link href="https://news.hada.io/topic?id=5526"/>
-        <updated>2021-12-10T05:11:13.996Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Diskitude - 내 윈도우의 용량은 누가 잡아먹나]]></title>
         <id>http://madebyevan.com/diskitude/</id>
         <link href="http://madebyevan.com/diskitude/"/>
         <updated>2021-12-08T01:58:59.791Z</updated>
         <content type="html"><![CDATA[(madebyevan.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 일기를 쓰는데 가장 괜찮은 앱, 프로그램, 웹 서비스는 어떤걸까요?]]></title>
+        <id>https://news.hada.io/topic?id=5526</id>
+        <link href="https://news.hada.io/topic?id=5526"/>
+        <updated>2021-12-10T05:11:13.996Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Discord의 새 Premium 멤버쉽, 창작자들이 서버로 수익을 낼 수 있게 지원]]></title>
