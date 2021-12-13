@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-13T05:11:56.441Z</updated>
+    <updated>2021-12-13T06:15:27.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(ben-evans.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오라클, Ampere Arm A1 인스턴스 평생 무료로 제공]]></title>
-        <id>https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/</id>
-        <link href="https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/"/>
-        <updated>2021-12-13T00:38:43.979Z</updated>
-        <content type="html"><![CDATA[(servethehome.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이 웹사이트는 48% 배터리가 남아있습니다]]></title>
         <id>https://solar.lowtechmagazine.com/power.html</id>
         <link href="https://solar.lowtechmagazine.com/power.html"/>
         <updated>2021-12-13T01:57:23.668Z</updated>
         <content type="html"><![CDATA[(solar.lowtechmagazine.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오라클, Ampere Arm A1 인스턴스 평생 무료로 제공]]></title>
+        <id>https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/</id>
+        <link href="https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/"/>
+        <updated>2021-12-13T00:38:43.979Z</updated>
+        <content type="html"><![CDATA[(servethehome.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Turborepo - 고성능 빌드 시스템]]></title>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(unrealengine.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CVE-2021-44228 – log4j - 취약점 보고]]></title>
+        <id>https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/</id>
+        <link href="https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/"/>
+        <updated>2021-12-11T11:10:29.110Z</updated>
+        <content type="html"><![CDATA[(unit42.paloaltonetworks.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[when - 터미널에서 타임존별 시간 계산하기]]></title>
         <id>https://github.com/mitsuhiko/when</id>
         <link href="https://github.com/mitsuhiko/when"/>
@@ -67,13 +74,6 @@
         <link href="https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42"/>
         <updated>2021-12-11T00:36:34.464Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CVE-2021-44228 – log4j - 취약점 보고]]></title>
-        <id>https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/</id>
-        <link href="https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/"/>
-        <updated>2021-12-11T11:10:29.110Z</updated>
-        <content type="html"><![CDATA[(unit42.paloaltonetworks.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cool Cats NFT를 구축하면서 배운 것]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(microstudio.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
-        <id>https://github.com/yousefed/SyncedStore</id>
-        <link href="https://github.com/yousefed/SyncedStore"/>
-        <updated>2021-12-09T05:11:34.730Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
         <id>https://lqez.dev/blog/how-to-hire-cto.html</id>
         <link href="https://lqez.dev/blog/how-to-hire-cto.html"/>
         <updated>2021-12-07T08:14:58.467Z</updated>
         <content type="html"><![CDATA[(lqez.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
+        <id>https://github.com/yousefed/SyncedStore</id>
+        <link href="https://github.com/yousefed/SyncedStore"/>
+        <updated>2021-12-09T05:11:34.730Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 앱 스토어, 사용자 정의 제품 페이지 생성 기능 추가]]></title>
