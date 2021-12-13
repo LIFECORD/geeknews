@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-13T02:32:17.319Z</updated>
+    <updated>2021-12-13T03:13:09.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT가 궁금한 당신을 위한 꼼꼼 가이드]]></title>
-        <id>https://www.hani.co.kr/arti/economy/it/1022399.html</id>
-        <link href="https://www.hani.co.kr/arti/economy/it/1022399.html"/>
-        <updated>2021-12-11T00:36:34.473Z</updated>
-        <content type="html"><![CDATA[(hani.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
         <id>https://lqez.dev/blog/how-to-hire-cto.html</id>
         <link href="https://lqez.dev/blog/how-to-hire-cto.html"/>
         <updated>2021-12-07T08:14:58.467Z</updated>
         <content type="html"><![CDATA[(lqez.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT가 궁금한 당신을 위한 꼼꼼 가이드]]></title>
+        <id>https://www.hani.co.kr/arti/economy/it/1022399.html</id>
+        <link href="https://www.hani.co.kr/arti/economy/it/1022399.html"/>
+        <updated>2021-12-11T00:36:34.473Z</updated>
+        <content type="html"><![CDATA[(hani.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 해피타입 - 매일 아침 명언 타이핑]]></title>
