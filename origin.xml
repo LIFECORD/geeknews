@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-13T17:19:14.168Z</updated>
+    <updated>2021-12-13T18:14:38.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(microstudio.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 앱 스토어, 사용자 정의 제품 페이지 생성 기능 추가]]></title>
-        <id>https://developer.apple.com/kr/news/?id=2xnhx92t</id>
-        <link href="https://developer.apple.com/kr/news/?id=2xnhx92t"/>
-        <updated>2021-12-11T01:55:06.585Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CTO는 어떻게 뽑을까]]></title>
         <id>https://lqez.dev/blog/how-to-hire-cto.html</id>
         <link href="https://lqez.dev/blog/how-to-hire-cto.html"/>
         <updated>2021-12-07T08:14:58.467Z</updated>
         <content type="html"><![CDATA[(lqez.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 앱 스토어, 사용자 정의 제품 페이지 생성 기능 추가]]></title>
+        <id>https://developer.apple.com/kr/news/?id=2xnhx92t</id>
+        <link href="https://developer.apple.com/kr/news/?id=2xnhx92t"/>
+        <updated>2021-12-11T01:55:06.585Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SyncedStore CRDT - React/Vue용 실시간 협동 지원 라이브러리]]></title>
