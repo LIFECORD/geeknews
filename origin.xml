@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-13T06:15:27.780Z</updated>
+    <updated>2021-12-13T07:12:51.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[에디슨이 썼던 창의력을 강화하는 잠자는 기술]]></title>
-        <id>https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot</id>
-        <link href="https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot"/>
-        <updated>2021-12-13T01:57:23.668Z</updated>
-        <content type="html"><![CDATA[(livescience.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Tech in 2022: 미래를 향한 3단계]]></title>
         <id>https://www.ben-evans.com/presentations</id>
         <link href="https://www.ben-evans.com/presentations"/>
         <updated>2021-12-13T05:11:10.196Z</updated>
         <content type="html"><![CDATA[(ben-evans.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에디슨이 썼던 창의력을 강화하는 잠자는 기술]]></title>
+        <id>https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot</id>
+        <link href="https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot"/>
+        <updated>2021-12-13T01:57:23.668Z</updated>
+        <content type="html"><![CDATA[(livescience.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이 웹사이트는 48% 배터리가 남아있습니다]]></title>
