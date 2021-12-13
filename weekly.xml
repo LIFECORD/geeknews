@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews Weekly</title>
-    <updated>2021-12-12T23:12:02.282Z</updated>
+    <updated>2021-12-13T00:39:54.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CTO를 어떻게 뽑을까?]]></title>
+        <id>https://news.hada.io/weekly/202150</id>
+        <link href="https://news.hada.io/weekly/202150"/>
+        <updated>2021-12-13T00:39:10.703Z</updated>
+        <content type="html"><![CDATA[<td class="fitwidth keepall">127. </td><td class="fitwidth">202150</td><td width="*">&nbsp;<a href="/weekly/202150" class="u keepall"> CTO를 어떻게 뽑을까?</a></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대규모로 웹 스크래핑하기]]></title>
         <id>https://news.hada.io/weekly/202149</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/weekly/202131"/>
         <updated>2021-10-04T01:59:29.677Z</updated>
         <content type="html"><![CDATA[<td class="fitwidth keepall">108. </td><td class="fitwidth">202131</td><td width="*">&nbsp;<a href="/weekly/202131" class="u keepall"> 다음 스타트업의 대세는 커뮤니티 주도형이 될 것</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자 온보딩 가이드와 GeekNews Ask 오픈]]></title>
-        <id>https://news.hada.io/weekly/202130</id>
-        <link href="https://news.hada.io/weekly/202130"/>
-        <updated>2021-10-04T01:59:29.682Z</updated>
-        <content type="html"><![CDATA[<td class="fitwidth keepall">107. </td><td class="fitwidth">202130</td><td width="*">&nbsp;<a href="/weekly/202130" class="u keepall"> 개발자 온보딩 가이드와 GeekNews Ask 오픈</a></td>]]></content>
     </entry>
 </feed>
