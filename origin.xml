@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-14T10:13:40.222Z</updated>
+    <updated>2021-12-14T11:10:37.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(theguardian.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[log4j 보안 취약점 동작원리 및 jenkins 서버 확인 방법]]></title>
-        <id>https://www.popit.kr/log4j-%EB%B3%B4%EC%95%88-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC-%EB%B0%8F-jenkins-%EC%84%9C%EB%B2%84-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95/</id>
-        <link href="https://www.popit.kr/log4j-%EB%B3%B4%EC%95%88-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC-%EB%B0%8F-jenkins-%EC%84%9C%EB%B2%84-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95/"/>
-        <updated>2021-12-14T04:14:56.089Z</updated>
-        <content type="html"><![CDATA[(popit.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tech in 2022: 미래를 향한 3단계]]></title>
         <id>https://www.ben-evans.com/presentations</id>
         <link href="https://www.ben-evans.com/presentations"/>
         <updated>2021-12-13T05:11:10.196Z</updated>
         <content type="html"><![CDATA[(ben-evans.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[log4j 보안 취약점 동작원리 및 jenkins 서버 확인 방법]]></title>
+        <id>https://www.popit.kr/log4j-%EB%B3%B4%EC%95%88-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC-%EB%B0%8F-jenkins-%EC%84%9C%EB%B2%84-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95/</id>
+        <link href="https://www.popit.kr/log4j-%EB%B3%B4%EC%95%88-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC-%EB%B0%8F-jenkins-%EC%84%9C%EB%B2%84-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95/"/>
+        <updated>2021-12-14T04:14:56.089Z</updated>
+        <content type="html"><![CDATA[(popit.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dracula - 227+개의 앱/쉘을 위한 다크모드 테마]]></title>
