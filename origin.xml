@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-14T16:17:49.981Z</updated>
+    <updated>2021-12-14T17:19:45.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(theguardian.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[log4j 보안 취약점 동작원리 및 jenkins 서버 확인 방법]]></title>
-        <id>https://www.popit.kr/log4j-%EB%B3%B4%EC%95%88-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC-%EB%B0%8F-jenkins-%EC%84%9C%EB%B2%84-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95/</id>
-        <link href="https://www.popit.kr/log4j-%EB%B3%B4%EC%95%88-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC-%EB%B0%8F-jenkins-%EC%84%9C%EB%B2%84-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95/"/>
-        <updated>2021-12-14T04:14:56.089Z</updated>
-        <content type="html"><![CDATA[(popit.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[에디슨이 썼던 창의력을 강화하는 잠자는 기술]]></title>
         <id>https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot</id>
         <link href="https://www.livescience.com/little-known-sleep-stage-may-be-creative-sweet-spot"/>
         <updated>2021-12-13T01:57:23.668Z</updated>
         <content type="html"><![CDATA[(livescience.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[log4j 보안 취약점 동작원리 및 jenkins 서버 확인 방법]]></title>
+        <id>https://www.popit.kr/log4j-%EB%B3%B4%EC%95%88-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC-%EB%B0%8F-jenkins-%EC%84%9C%EB%B2%84-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95/</id>
+        <link href="https://www.popit.kr/log4j-%EB%B3%B4%EC%95%88-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC-%EB%B0%8F-jenkins-%EC%84%9C%EB%B2%84-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95/"/>
+        <updated>2021-12-14T04:14:56.089Z</updated>
+        <content type="html"><![CDATA[(popit.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오라클, Ampere Arm A1 인스턴스 평생 무료로 제공]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JetBrains Compose Multiplatform 1.0.0 정식 릴리즈]]></title>
-        <id>https://www.jetbrains.com/ko-kr/lp/compose-mpp/</id>
-        <link href="https://www.jetbrains.com/ko-kr/lp/compose-mpp/"/>
-        <updated>2021-12-13T01:57:23.668Z</updated>
-        <content type="html"><![CDATA[(jetbrains.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CVE-2021-44228 – log4j - 취약점 보고]]></title>
         <id>https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/</id>
         <link href="https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/"/>
         <updated>2021-12-11T11:10:29.110Z</updated>
         <content type="html"><![CDATA[(unit42.paloaltonetworks.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JetBrains Compose Multiplatform 1.0.0 정식 릴리즈]]></title>
+        <id>https://www.jetbrains.com/ko-kr/lp/compose-mpp/</id>
+        <link href="https://www.jetbrains.com/ko-kr/lp/compose-mpp/"/>
+        <updated>2021-12-13T01:57:23.668Z</updated>
+        <content type="html"><![CDATA[(jetbrains.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deno 가 TC39 에 합류]]></title>
