@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-14T13:19:54.223Z</updated>
+    <updated>2021-12-14T14:11:36.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(solar.lowtechmagazine.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deno 가 TC39 에 합류]]></title>
-        <id>https://deno.com/blog/deno-joins-tc39</id>
-        <link href="https://deno.com/blog/deno-joins-tc39"/>
-        <updated>2021-12-14T02:00:34.369Z</updated>
-        <content type="html"><![CDATA[(deno.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[자바스크립트는 왜 프로토타입을 선택했을까]]></title>
         <id>https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42</id>
         <link href="https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42"/>
         <updated>2021-12-11T00:36:34.464Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno 가 TC39 에 합류]]></title>
+        <id>https://deno.com/blog/deno-joins-tc39</id>
+        <link href="https://deno.com/blog/deno-joins-tc39"/>
+        <updated>2021-12-14T02:00:34.369Z</updated>
+        <content type="html"><![CDATA[(deno.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JetBrains Compose Multiplatform 1.0.0 정식 릴리즈]]></title>
