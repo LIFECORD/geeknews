@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-14T20:13:09.889Z</updated>
+    <updated>2021-12-14T21:09:56.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(servethehome.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Turborepo - 고성능 빌드 시스템]]></title>
+        <id>https://github.com/vercel/turborepo</id>
+        <link href="https://github.com/vercel/turborepo"/>
+        <updated>2021-12-13T01:57:23.668Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dracula - 227+개의 앱/쉘을 위한 다크모드 테마]]></title>
         <id>https://draculatheme.com/</id>
         <link href="https://draculatheme.com/"/>
@@ -59,13 +66,6 @@
         <id>https://github.com/cloudgraphdev/cli</id>
         <link href="https://github.com/cloudgraphdev/cli"/>
         <updated>2021-12-14T00:40:58.868Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turborepo - 고성능 빌드 시스템]]></title>
-        <id>https://github.com/vercel/turborepo</id>
-        <link href="https://github.com/vercel/turborepo"/>
-        <updated>2021-12-13T01:57:23.668Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
