@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-15T20:14:40.657Z</updated>
+    <updated>2021-12-15T21:11:03.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(livescience.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Excel 월드컵 FMWC 2021 최종 승자 발표]]></title>
-        <id>https://www.pcworld.com/article/559001/the-future-of-esports-is-microsoft-excel-and-its-on-espn.html</id>
-        <link href="https://www.pcworld.com/article/559001/the-future-of-esports-is-microsoft-excel-and-its-on-espn.html"/>
-        <updated>2021-12-15T02:31:04.841Z</updated>
-        <content type="html"><![CDATA[(pcworld.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오라클, Ampere Arm A1 인스턴스 평생 무료로 제공]]></title>
         <id>https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/</id>
         <link href="https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/"/>
         <updated>2021-12-13T00:38:43.979Z</updated>
         <content type="html"><![CDATA[(servethehome.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excel 월드컵 FMWC 2021 최종 승자 발표]]></title>
+        <id>https://www.pcworld.com/article/559001/the-future-of-esports-is-microsoft-excel-and-its-on-espn.html</id>
+        <link href="https://www.pcworld.com/article/559001/the-future-of-esports-is-microsoft-excel-and-its-on-espn.html"/>
+        <updated>2021-12-15T02:31:04.841Z</updated>
+        <content type="html"><![CDATA[(pcworld.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Turborepo - 고성능 빌드 시스템]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CloudGraph - AWS/Azure 정보 취득용 GraphQL API]]></title>
-        <id>https://github.com/cloudgraphdev/cli</id>
-        <link href="https://github.com/cloudgraphdev/cli"/>
-        <updated>2021-12-14T00:40:58.868Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이 웹사이트는 48% 배터리가 남아있습니다]]></title>
         <id>https://solar.lowtechmagazine.com/power.html</id>
         <link href="https://solar.lowtechmagazine.com/power.html"/>
         <updated>2021-12-13T01:57:23.668Z</updated>
         <content type="html"><![CDATA[(solar.lowtechmagazine.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CloudGraph - AWS/Azure 정보 취득용 GraphQL API]]></title>
+        <id>https://github.com/cloudgraphdev/cli</id>
+        <link href="https://github.com/cloudgraphdev/cli"/>
+        <updated>2021-12-14T00:40:58.868Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[log4j 보안 취약점 동작원리 및 jenkins 서버 확인 방법]]></title>
