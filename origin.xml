@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-15T06:14:11.457Z</updated>
+    <updated>2021-12-15T07:13:10.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(intel.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deno 가 TC39 에 합류]]></title>
-        <id>https://deno.com/blog/deno-joins-tc39</id>
-        <link href="https://deno.com/blog/deno-joins-tc39"/>
-        <updated>2021-12-14T02:00:34.369Z</updated>
-        <content type="html"><![CDATA[(deno.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CVE-2021-44228 – log4j - 취약점 보고]]></title>
         <id>https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/</id>
         <link href="https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/"/>
         <updated>2021-12-11T11:10:29.110Z</updated>
         <content type="html"><![CDATA[(unit42.paloaltonetworks.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno 가 TC39 에 합류]]></title>
+        <id>https://deno.com/blog/deno-joins-tc39</id>
+        <link href="https://deno.com/blog/deno-joins-tc39"/>
+        <updated>2021-12-14T02:00:34.369Z</updated>
+        <content type="html"><![CDATA[(deno.com)]]></content>
     </entry>
 </feed>
