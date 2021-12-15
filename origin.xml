@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-15T08:14:40.857Z</updated>
+    <updated>2021-12-15T09:12:53.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Graviton2 평가시 고려해야할 것들]]></title>
-        <id>https://www.intel.co.kr/content/www/kr/ko/products/performance/cloud-facts.html</id>
-        <link href="https://www.intel.co.kr/content/www/kr/ko/products/performance/cloud-facts.html"/>
-        <updated>2021-12-14T02:38:34.832Z</updated>
-        <content type="html"><![CDATA[(intel.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CVE-2021-44228 – log4j - 취약점 보고]]></title>
         <id>https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/</id>
         <link href="https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/"/>
         <updated>2021-12-11T11:10:29.110Z</updated>
         <content type="html"><![CDATA[(unit42.paloaltonetworks.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Graviton2 평가시 고려해야할 것들]]></title>
+        <id>https://www.intel.co.kr/content/www/kr/ko/products/performance/cloud-facts.html</id>
+        <link href="https://www.intel.co.kr/content/www/kr/ko/products/performance/cloud-facts.html"/>
+        <updated>2021-12-14T02:38:34.832Z</updated>
+        <content type="html"><![CDATA[(intel.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deno 가 TC39 에 합류]]></title>
