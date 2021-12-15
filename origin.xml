@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-15T05:11:53.265Z</updated>
+    <updated>2021-12-15T06:14:11.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(pcworld.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Toyota, 스마트키 원격시동 하려면 월 $8 구독 서비스 가입 필요]]></title>
-        <id>https://arstechnica.com/cars/2021/12/toyota-owners-have-to-pay-8-mo-to-keep-using-their-key-fob-for-remote-start/</id>
-        <link href="https://arstechnica.com/cars/2021/12/toyota-owners-have-to-pay-8-mo-to-keep-using-their-key-fob-for-remote-start/"/>
-        <updated>2021-12-15T02:31:04.840Z</updated>
-        <content type="html"><![CDATA[(arstechnica.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[객체지향 시스템과 패러다임 그리고 철학]]></title>
         <id>https://black7375.tistory.com/86</id>
         <link href="https://black7375.tistory.com/86"/>
@@ -60,6 +53,13 @@
         <link href="https://www.ben-evans.com/presentations"/>
         <updated>2021-12-13T05:11:10.196Z</updated>
         <content type="html"><![CDATA[(ben-evans.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toyota, 스마트키 원격시동 하려면 월 $8 구독 서비스 가입 필요]]></title>
+        <id>https://arstechnica.com/cars/2021/12/toyota-owners-have-to-pay-8-mo-to-keep-using-their-key-fob-for-remote-start/</id>
+        <link href="https://arstechnica.com/cars/2021/12/toyota-owners-have-to-pay-8-mo-to-keep-using-their-key-fob-for-remote-start/"/>
+        <updated>2021-12-15T02:31:04.840Z</updated>
+        <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에디슨이 썼던 창의력을 강화하는 잠자는 기술]]></title>
