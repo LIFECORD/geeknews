@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-15T04:15:33.814Z</updated>
+    <updated>2021-12-15T05:11:53.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(fonts.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유니티와 함께하는 메타버스 입문서]]></title>
-        <id>http://www.unitysquare.co.kr/growwith/resource/form?id=149</id>
-        <link href="http://www.unitysquare.co.kr/growwith/resource/form?id=149"/>
-        <updated>2021-12-15T01:56:53.362Z</updated>
-        <content type="html"><![CDATA[(unitysquare.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Jax - 고성능 머신러닝 라이브러리]]></title>
         <id>https://github.com/google/jax</id>
         <link href="https://github.com/google/jax"/>
         <updated>2021-12-15T03:12:06.469Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니티와 함께하는 메타버스 입문서]]></title>
+        <id>http://www.unitysquare.co.kr/growwith/resource/form?id=149</id>
+        <link href="http://www.unitysquare.co.kr/growwith/resource/form?id=149"/>
+        <updated>2021-12-15T01:56:53.362Z</updated>
+        <content type="html"><![CDATA[(unitysquare.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Excel 월드컵 FMWC 2021 최종 승자 발표]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[log4j 보안 취약점 동작원리 및 jenkins 서버 확인 방법]]></title>
-        <id>https://www.popit.kr/log4j-%EB%B3%B4%EC%95%88-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC-%EB%B0%8F-jenkins-%EC%84%9C%EB%B2%84-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95/</id>
-        <link href="https://www.popit.kr/log4j-%EB%B3%B4%EC%95%88-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC-%EB%B0%8F-jenkins-%EC%84%9C%EB%B2%84-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95/"/>
-        <updated>2021-12-14T04:14:56.089Z</updated>
-        <content type="html"><![CDATA[(popit.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오라클, Ampere Arm A1 인스턴스 평생 무료로 제공]]></title>
         <id>https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/</id>
         <link href="https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/"/>
         <updated>2021-12-13T00:38:43.979Z</updated>
         <content type="html"><![CDATA[(servethehome.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[log4j 보안 취약점 동작원리 및 jenkins 서버 확인 방법]]></title>
+        <id>https://www.popit.kr/log4j-%EB%B3%B4%EC%95%88-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC-%EB%B0%8F-jenkins-%EC%84%9C%EB%B2%84-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95/</id>
+        <link href="https://www.popit.kr/log4j-%EB%B3%B4%EC%95%88-%EC%B7%A8%EC%95%BD%EC%A0%90-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC-%EB%B0%8F-jenkins-%EC%84%9C%EB%B2%84-%ED%99%95%EC%9D%B8-%EB%B0%A9%EB%B2%95/"/>
+        <updated>2021-12-14T04:14:56.089Z</updated>
+        <content type="html"><![CDATA[(popit.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가디언의 2022년 기술 예측]]></title>
