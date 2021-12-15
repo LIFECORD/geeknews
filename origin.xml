@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-15T07:13:10.631Z</updated>
+    <updated>2021-12-15T08:14:40.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(livescience.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CloudGraph - AWS/Azure 정보 취득용 GraphQL API]]></title>
-        <id>https://github.com/cloudgraphdev/cli</id>
-        <link href="https://github.com/cloudgraphdev/cli"/>
-        <updated>2021-12-14T00:40:58.868Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오라클, Ampere Arm A1 인스턴스 평생 무료로 제공]]></title>
         <id>https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/</id>
         <link href="https://www.servethehome.com/oracle-cloud-giving-away-ampere-arm-a1-instances-always-free/"/>
         <updated>2021-12-13T00:38:43.979Z</updated>
         <content type="html"><![CDATA[(servethehome.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CloudGraph - AWS/Azure 정보 취득용 GraphQL API]]></title>
+        <id>https://github.com/cloudgraphdev/cli</id>
+        <link href="https://github.com/cloudgraphdev/cli"/>
+        <updated>2021-12-14T00:40:58.868Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[log4j 보안 취약점 동작원리 및 jenkins 서버 확인 방법]]></title>
