@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-12-15T00:39:26.352Z</updated>
+    <updated>2021-12-15T01:57:30.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -24,16 +24,16 @@
         <updated>2021-12-07T08:15:16.693Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5521</id>
-        <link href="https://news.hada.io/topic?id=5521"/>
-        <updated>2021-12-10T01:54:23.638Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 이번 연말에 뭐 하실 건가요?]]></title>
         <id>https://news.hada.io/topic?id=5510</id>
         <link href="https://news.hada.io/topic?id=5510"/>
         <updated>2021-12-08T07:12:22.682Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5521</id>
+        <link href="https://news.hada.io/topic?id=5521"/>
+        <updated>2021-12-10T01:54:23.638Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 연말에 감사인사 보내는 좋은 서비스가 있을까요?]]></title>
