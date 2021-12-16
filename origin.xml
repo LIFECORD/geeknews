@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-16T07:12:52.286Z</updated>
+    <updated>2021-12-16T08:14:55.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(lunasec.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리눅스 X Server에 맥북과 같은 터치패드 제스쳐 기능 추가]]></title>
-        <id>https://www.gitclear.com/blog/linux_touchpad_update_december_2021</id>
-        <link href="https://www.gitclear.com/blog/linux_touchpad_update_december_2021"/>
-        <updated>2021-12-16T01:56:58.415Z</updated>
-        <content type="html"><![CDATA[(gitclear.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Fonts Knowledge]]></title>
         <id>https://fonts.google.com/knowledge</id>
         <link href="https://fonts.google.com/knowledge"/>
         <updated>2021-12-15T00:38:39.459Z</updated>
         <content type="html"><![CDATA[(fonts.google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리눅스 X Server에 맥북과 같은 터치패드 제스쳐 기능 추가]]></title>
+        <id>https://www.gitclear.com/blog/linux_touchpad_update_december_2021</id>
+        <link href="https://www.gitclear.com/blog/linux_touchpad_update_december_2021"/>
+        <updated>2021-12-16T01:56:58.415Z</updated>
+        <content type="html"><![CDATA[(gitclear.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Jax - 고성능 머신러닝 라이브러리]]></title>
