@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-16T20:13:24.745Z</updated>
+    <updated>2021-12-16T21:11:19.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(freesound.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pico.css - 미니멀 CSS 프레임워크]]></title>
-        <id>https://picocss.com/</id>
-        <link href="https://picocss.com/"/>
-        <updated>2021-12-16T01:56:58.415Z</updated>
-        <content type="html"><![CDATA[(picocss.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Imagor - 빠른 이미지 프로세싱 서버]]></title>
         <id>https://github.com/cshum/imagor</id>
         <link href="https://github.com/cshum/imagor"/>
         <updated>2021-12-15T00:38:39.459Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pico.css - 미니멀 CSS 프레임워크]]></title>
+        <id>https://picocss.com/</id>
+        <link href="https://picocss.com/"/>
+        <updated>2021-12-16T01:56:58.415Z</updated>
+        <content type="html"><![CDATA[(picocss.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Log4Shell 업데이트 : log4j 두번째 취약점 발견]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(pcworld.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가디언의 2022년 기술 예측]]></title>
-        <id>https://www.theguardian.com/technology/2021/dec/12/10-tech-predictions-for-2022-twitter-uber-nfts-virtual-reality</id>
-        <link href="https://www.theguardian.com/technology/2021/dec/12/10-tech-predictions-for-2022-twitter-uber-nfts-virtual-reality"/>
-        <updated>2021-12-14T02:00:34.366Z</updated>
-        <content type="html"><![CDATA[(theguardian.com)]]></content>
+        <title type="html"><![CDATA[CVE-2021-44228 – log4j - 취약점 보고]]></title>
+        <id>https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/</id>
+        <link href="https://unit42.paloaltonetworks.com/apache-log4j-vulnerability-cve-2021-44228/"/>
+        <updated>2021-12-16T21:10:41.453Z</updated>
+        <content type="html"><![CDATA[(unit42.paloaltonetworks.com)]]></content>
     </entry>
 </feed>
