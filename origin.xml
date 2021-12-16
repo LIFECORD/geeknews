@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-16T18:14:26.277Z</updated>
+    <updated>2021-12-16T19:10:37.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CloudGraph - AWS/Azure 정보 취득용 GraphQL API]]></title>
-        <id>https://github.com/cloudgraphdev/cli</id>
-        <link href="https://github.com/cloudgraphdev/cli"/>
-        <updated>2021-12-14T00:40:58.868Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이 웹사이트는 48% 배터리가 남아있습니다]]></title>
         <id>https://solar.lowtechmagazine.com/power.html</id>
         <link href="https://solar.lowtechmagazine.com/power.html"/>
         <updated>2021-12-13T01:57:23.668Z</updated>
         <content type="html"><![CDATA[(solar.lowtechmagazine.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CloudGraph - AWS/Azure 정보 취득용 GraphQL API]]></title>
+        <id>https://github.com/cloudgraphdev/cli</id>
+        <link href="https://github.com/cloudgraphdev/cli"/>
+        <updated>2021-12-14T00:40:58.868Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자바스크립트는 왜 프로토타입을 선택했을까]]></title>
