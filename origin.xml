@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-17T05:11:53.547Z</updated>
+    <updated>2021-12-17T06:15:03.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -116,18 +116,18 @@
         <content type="html"><![CDATA[(black7375.tistory.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리눅스 X Server에 맥북과 같은 터치패드 제스쳐 기능 추가]]></title>
-        <id>https://www.gitclear.com/blog/linux_touchpad_update_december_2021</id>
-        <link href="https://www.gitclear.com/blog/linux_touchpad_update_december_2021"/>
-        <updated>2021-12-16T01:56:58.415Z</updated>
-        <content type="html"><![CDATA[(gitclear.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tech in 2022: 미래를 향한 3단계]]></title>
         <id>https://www.ben-evans.com/presentations</id>
         <link href="https://www.ben-evans.com/presentations"/>
         <updated>2021-12-13T05:11:10.196Z</updated>
         <content type="html"><![CDATA[(ben-evans.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리눅스 X Server에 맥북과 같은 터치패드 제스쳐 기능 추가]]></title>
+        <id>https://www.gitclear.com/blog/linux_touchpad_update_december_2021</id>
+        <link href="https://www.gitclear.com/blog/linux_touchpad_update_december_2021"/>
+        <updated>2021-12-16T01:56:58.415Z</updated>
+        <content type="html"><![CDATA[(gitclear.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에디슨이 썼던 창의력을 강화하는 잠자는 기술]]></title>
