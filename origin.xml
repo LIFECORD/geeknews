@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-17T09:12:51.536Z</updated>
+    <updated>2021-12-17T10:13:20.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(2021.stateofcss.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rails 7.0 릴리즈]]></title>
-        <id>https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision</id>
-        <link href="https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision"/>
-        <updated>2021-12-17T02:00:58.145Z</updated>
-        <content type="html"><![CDATA[(rubyonrails.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가]]></title>
         <id>https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28</id>
         <link href="https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28"/>
         <updated>2021-12-16T00:39:04.550Z</updated>
         <content type="html"><![CDATA[(blog.devgenius.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rails 7.0 릴리즈]]></title>
+        <id>https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision</id>
+        <link href="https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision"/>
+        <updated>2021-12-17T02:00:58.145Z</updated>
+        <content type="html"><![CDATA[(rubyonrails.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GD.CSS - GovUK 스타일의 미니멀 CSS 프레임워크]]></title>
@@ -102,18 +102,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유니티와 함께하는 메타버스 입문서]]></title>
-        <id>http://www.unitysquare.co.kr/growwith/resource/form?id=149</id>
-        <link href="http://www.unitysquare.co.kr/growwith/resource/form?id=149"/>
-        <updated>2021-12-15T01:56:53.362Z</updated>
-        <content type="html"><![CDATA[(unitysquare.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[객체지향 시스템과 패러다임 그리고 철학]]></title>
         <id>https://black7375.tistory.com/86</id>
         <link href="https://black7375.tistory.com/86"/>
         <updated>2021-12-13T16:16:56.242Z</updated>
         <content type="html"><![CDATA[(black7375.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니티와 함께하는 메타버스 입문서]]></title>
+        <id>http://www.unitysquare.co.kr/growwith/resource/form?id=149</id>
+        <link href="http://www.unitysquare.co.kr/growwith/resource/form?id=149"/>
+        <updated>2021-12-15T01:56:53.362Z</updated>
+        <content type="html"><![CDATA[(unitysquare.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tech in 2022: 미래를 향한 3단계]]></title>
