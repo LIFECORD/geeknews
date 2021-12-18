@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-18T17:19:49.044Z</updated>
+    <updated>2021-12-18T18:13:55.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[PNG Parser Differential]]></title>
-        <id>https://www.da.vidbuchanan.co.uk/widgets/pngdiff/</id>
-        <link href="https://www.da.vidbuchanan.co.uk/widgets/pngdiff/"/>
-        <updated>2021-12-18T03:13:41.581Z</updated>
-        <content type="html"><![CDATA[(da.vidbuchanan.co.uk)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Polars - Rust/Python 용 빠른 DataFrame 라이브러리]]></title>
         <id>https://www.pola.rs/</id>
         <link href="https://www.pola.rs/"/>
         <updated>2021-12-18T03:13:41.584Z</updated>
         <content type="html"><![CDATA[(pola.rs)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PNG Parser Differential]]></title>
+        <id>https://www.da.vidbuchanan.co.uk/widgets/pngdiff/</id>
+        <link href="https://www.da.vidbuchanan.co.uk/widgets/pngdiff/"/>
+        <updated>2021-12-18T03:13:41.581Z</updated>
+        <content type="html"><![CDATA[(da.vidbuchanan.co.uk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[State of CSS 2021 보고서]]></title>
