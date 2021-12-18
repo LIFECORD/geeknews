@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-18T14:11:54.051Z</updated>
+    <updated>2021-12-18T15:12:36.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(blog.devgenius.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[밸브, "Steam Deck용 독점 게임은 없을 것"]]></title>
-        <id>https://wccftech.com/steam-deck-wont-have-any-exclusive-games-valve-confirms/</id>
-        <link href="https://wccftech.com/steam-deck-wont-have-any-exclusive-games-valve-confirms/"/>
-        <updated>2021-12-18T02:01:58.923Z</updated>
-        <content type="html"><![CDATA[(wccftech.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[freesound - 약 50만개의 무료 소리/효과 DB]]></title>
         <id>https://freesound.org/</id>
         <link href="https://freesound.org/"/>
         <updated>2021-12-16T01:56:58.413Z</updated>
         <content type="html"><![CDATA[(freesound.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밸브, "Steam Deck용 독점 게임은 없을 것"]]></title>
+        <id>https://wccftech.com/steam-deck-wont-have-any-exclusive-games-valve-confirms/</id>
+        <link href="https://wccftech.com/steam-deck-wont-have-any-exclusive-games-valve-confirms/"/>
+        <updated>2021-12-18T02:01:58.923Z</updated>
+        <content type="html"><![CDATA[(wccftech.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Imagor - 빠른 이미지 프로세싱 서버]]></title>
