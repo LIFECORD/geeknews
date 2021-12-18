@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-18T07:11:59.288Z</updated>
+    <updated>2021-12-18T08:14:14.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google Jax - 고성능 머신러닝 라이브러리]]></title>
+        <id>https://github.com/google/jax</id>
+        <link href="https://github.com/google/jax"/>
+        <updated>2021-12-15T03:12:06.469Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[객체지향 시스템과 패러다임 그리고 철학]]></title>
         <id>https://black7375.tistory.com/86</id>
         <link href="https://black7375.tistory.com/86"/>
@@ -124,11 +131,11 @@
         <content type="html"><![CDATA[(ben-evans.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Jax - 고성능 머신러닝 라이브러리]]></title>
-        <id>https://github.com/google/jax</id>
-        <link href="https://github.com/google/jax"/>
-        <updated>2021-12-15T03:12:06.469Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[유니티와 함께하는 메타버스 입문서]]></title>
+        <id>http://www.unitysquare.co.kr/growwith/resource/form?id=149</id>
+        <link href="http://www.unitysquare.co.kr/growwith/resource/form?id=149"/>
+        <updated>2021-12-18T06:14:25.771Z</updated>
+        <content type="html"><![CDATA[(unitysquare.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Log4Shell 업데이트 : log4j 두번째 취약점 발견]]></title>
@@ -136,12 +143,5 @@
         <link href="https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/"/>
         <updated>2021-12-16T00:39:04.550Z</updated>
         <content type="html"><![CDATA[(lunasec.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니티와 함께하는 메타버스 입문서]]></title>
-        <id>http://www.unitysquare.co.kr/growwith/resource/form?id=149</id>
-        <link href="http://www.unitysquare.co.kr/growwith/resource/form?id=149"/>
-        <updated>2021-12-18T06:14:25.771Z</updated>
-        <content type="html"><![CDATA[(unitysquare.co.kr)]]></content>
     </entry>
 </feed>
