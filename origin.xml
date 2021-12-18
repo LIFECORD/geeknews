@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-18T15:12:36.628Z</updated>
+    <updated>2021-12-18T16:16:59.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(pola.rs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[동영상] Power On: The Story of Xbox]]></title>
-        <id>https://www.youtube.com/playlist?list=PL0il2l-B_WwadxfTkK3-NLoYNcQEHdBGO</id>
-        <link href="https://www.youtube.com/playlist?list=PL0il2l-B_WwadxfTkK3-NLoYNcQEHdBGO"/>
-        <updated>2021-12-17T13:17:37.158Z</updated>
-        <content type="html"><![CDATA[(youtube.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[State of CSS 2021 보고서]]></title>
         <id>https://2021.stateofcss.com/ko-KR/</id>
         <link href="https://2021.stateofcss.com/ko-KR/"/>
         <updated>2021-12-17T00:41:17.637Z</updated>
         <content type="html"><![CDATA[(2021.stateofcss.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[동영상] Power On: The Story of Xbox]]></title>
+        <id>https://www.youtube.com/playlist?list=PL0il2l-B_WwadxfTkK3-NLoYNcQEHdBGO</id>
+        <link href="https://www.youtube.com/playlist?list=PL0il2l-B_WwadxfTkK3-NLoYNcQEHdBGO"/>
+        <updated>2021-12-17T13:17:37.158Z</updated>
+        <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가]]></title>
