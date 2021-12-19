@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-19T09:12:31.484Z</updated>
+    <updated>2021-12-19T10:12:36.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -82,6 +82,13 @@
         <updated>2021-12-17T00:41:17.663Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[logo-ls - 파일 아이콘과 Git 연동 기능 내장 ls]]></title>
+        <id>https://github.com/Yash-Handa/logo-ls</id>
+        <link href="https://github.com/Yash-Handa/logo-ls"/>
+        <updated>2021-12-17T02:00:58.145Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google Fonts Knowledge]]></title>
         <id>https://fonts.google.com/knowledge</id>
         <link href="https://fonts.google.com/knowledge"/>
@@ -103,11 +110,11 @@
         <content type="html"><![CDATA[(picocss.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[logo-ls - 파일 아이콘과 Git 연동 기능 내장 ls]]></title>
-        <id>https://github.com/Yash-Handa/logo-ls</id>
-        <link href="https://github.com/Yash-Handa/logo-ls"/>
-        <updated>2021-12-17T02:00:58.145Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[객체지향 시스템과 패러다임 그리고 철학]]></title>
+        <id>https://black7375.tistory.com/86</id>
+        <link href="https://black7375.tistory.com/86"/>
+        <updated>2021-12-13T16:16:56.242Z</updated>
+        <content type="html"><![CDATA[(black7375.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[밸브, "Steam Deck용 독점 게임은 없을 것"]]></title>
@@ -115,13 +122,6 @@
         <link href="https://wccftech.com/steam-deck-wont-have-any-exclusive-games-valve-confirms/"/>
         <updated>2021-12-18T02:01:58.923Z</updated>
         <content type="html"><![CDATA[(wccftech.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[객체지향 시스템과 패러다임 그리고 철학]]></title>
-        <id>https://black7375.tistory.com/86</id>
-        <link href="https://black7375.tistory.com/86"/>
-        <updated>2021-12-13T16:16:56.242Z</updated>
-        <content type="html"><![CDATA[(black7375.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tech in 2022: 미래를 향한 3단계]]></title>
