@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-19T19:10:37.189Z</updated>
+    <updated>2021-12-19T20:12:59.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PNG Parser Differential]]></title>
-        <id>https://www.da.vidbuchanan.co.uk/widgets/pngdiff/</id>
-        <link href="https://www.da.vidbuchanan.co.uk/widgets/pngdiff/"/>
-        <updated>2021-12-18T03:13:41.581Z</updated>
-        <content type="html"><![CDATA[(da.vidbuchanan.co.uk)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가]]></title>
         <id>https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28</id>
         <link href="https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28"/>
         <updated>2021-12-16T00:39:04.550Z</updated>
         <content type="html"><![CDATA[(blog.devgenius.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PNG Parser Differential]]></title>
+        <id>https://www.da.vidbuchanan.co.uk/widgets/pngdiff/</id>
+        <link href="https://www.da.vidbuchanan.co.uk/widgets/pngdiff/"/>
+        <updated>2021-12-18T03:13:41.581Z</updated>
+        <content type="html"><![CDATA[(da.vidbuchanan.co.uk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[freesound - 약 50만개의 무료 소리/효과 DB]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(pola.rs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create-React-App 5.0 릴리즈]]></title>
-        <id>https://github.com/facebook/create-react-app/releases/tag/v5.0.0</id>
-        <link href="https://github.com/facebook/create-react-app/releases/tag/v5.0.0"/>
-        <updated>2021-12-19T02:04:02.456Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[State of CSS 2021 보고서]]></title>
         <id>https://2021.stateofcss.com/ko-KR/</id>
         <link href="https://2021.stateofcss.com/ko-KR/"/>
         <updated>2021-12-17T00:41:17.637Z</updated>
         <content type="html"><![CDATA[(2021.stateofcss.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create-React-App 5.0 릴리즈]]></title>
+        <id>https://github.com/facebook/create-react-app/releases/tag/v5.0.0</id>
+        <link href="https://github.com/facebook/create-react-app/releases/tag/v5.0.0"/>
+        <updated>2021-12-19T02:04:02.456Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[동영상] Power On: The Story of Xbox]]></title>
