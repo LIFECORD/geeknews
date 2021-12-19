@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-19T08:14:03.915Z</updated>
+    <updated>2021-12-19T09:12:31.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PNG Parser Differential]]></title>
-        <id>https://www.da.vidbuchanan.co.uk/widgets/pngdiff/</id>
-        <link href="https://www.da.vidbuchanan.co.uk/widgets/pngdiff/"/>
-        <updated>2021-12-18T03:13:41.581Z</updated>
-        <content type="html"><![CDATA[(da.vidbuchanan.co.uk)]]></content>
+        <title type="html"><![CDATA[Create-React-App 5.0 릴리즈]]></title>
+        <id>https://github.com/facebook/create-react-app/releases/tag/v5.0.0</id>
+        <link href="https://github.com/facebook/create-react-app/releases/tag/v5.0.0"/>
+        <updated>2021-12-19T02:04:02.456Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Polars - Rust/Python 용 빠른 DataFrame 라이브러리]]></title>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(pola.rs)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PNG Parser Differential]]></title>
+        <id>https://www.da.vidbuchanan.co.uk/widgets/pngdiff/</id>
+        <link href="https://www.da.vidbuchanan.co.uk/widgets/pngdiff/"/>
+        <updated>2021-12-18T03:13:41.581Z</updated>
+        <content type="html"><![CDATA[(da.vidbuchanan.co.uk)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가]]></title>
         <id>https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28</id>
         <link href="https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28"/>
@@ -41,11 +48,11 @@
         <content type="html"><![CDATA[(blog.devgenius.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Create-React-App 5.0 릴리즈]]></title>
-        <id>https://github.com/facebook/create-react-app/releases/tag/v5.0.0</id>
-        <link href="https://github.com/facebook/create-react-app/releases/tag/v5.0.0"/>
-        <updated>2021-12-19T02:04:02.456Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
+        <title type="html"><![CDATA[freesound - 약 50만개의 무료 소리/효과 DB]]></title>
+        <id>https://freesound.org/</id>
+        <link href="https://freesound.org/"/>
+        <updated>2021-12-16T01:56:58.413Z</updated>
+        <content type="html"><![CDATA[(freesound.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[State of CSS 2021 보고서]]></title>
@@ -53,13 +60,6 @@
         <link href="https://2021.stateofcss.com/ko-KR/"/>
         <updated>2021-12-17T00:41:17.637Z</updated>
         <content type="html"><![CDATA[(2021.stateofcss.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freesound - 약 50만개의 무료 소리/효과 DB]]></title>
-        <id>https://freesound.org/</id>
-        <link href="https://freesound.org/"/>
-        <updated>2021-12-16T01:56:58.413Z</updated>
-        <content type="html"><![CDATA[(freesound.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[동영상] Power On: The Story of Xbox]]></title>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(ben-evans.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google Jax - 고성능 머신러닝 라이브러리]]></title>
+        <id>https://github.com/google/jax</id>
+        <link href="https://github.com/google/jax"/>
+        <updated>2021-12-19T09:11:53.134Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글, 새로운 AR 기기와 OS를 개발중]]></title>
         <id>https://arstechnica.com/gadgets/2021/12/google-is-building-a-new-augmented-reality-device-and-operating-system/</id>
         <link href="https://arstechnica.com/gadgets/2021/12/google-is-building-a-new-augmented-reality-device-and-operating-system/"/>
         <updated>2021-12-17T02:00:58.145Z</updated>
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rails 7.0 릴리즈]]></title>
-        <id>https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision</id>
-        <link href="https://rubyonrails.org/2021/12/15/Rails-7-fulfilling-a-vision"/>
-        <updated>2021-12-19T08:13:27.532Z</updated>
-        <content type="html"><![CDATA[(rubyonrails.org)]]></content>
     </entry>
 </feed>
