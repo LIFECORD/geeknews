@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-20T21:11:18.150Z</updated>
+    <updated>2021-12-20T22:13:24.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -96,18 +96,18 @@
         <content type="html"><![CDATA[(da.vidbuchanan.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
-        <id>https://news.hada.io/topic?id=5583</id>
-        <link href="https://news.hada.io/topic?id=5583"/>
-        <updated>2021-12-20T04:15:33.969Z</updated>
-        <content type="html"><![CDATA[(bookmory.web.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Polars - Rust/Python 용 빠른 DataFrame 라이브러리]]></title>
         <id>https://www.pola.rs/</id>
         <link href="https://www.pola.rs/"/>
         <updated>2021-12-18T03:13:41.584Z</updated>
         <content type="html"><![CDATA[(pola.rs)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
+        <id>https://news.hada.io/topic?id=5583</id>
+        <link href="https://news.hada.io/topic?id=5583"/>
+        <updated>2021-12-20T04:15:33.969Z</updated>
+        <content type="html"><![CDATA[(bookmory.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Imagor - 빠른 이미지 프로세싱 서버]]></title>
