@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-20T10:13:55.257Z</updated>
+    <updated>2021-12-20T11:10:46.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -124,6 +124,13 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tech in 2022: 미래를 향한 3단계]]></title>
+        <id>https://www.ben-evans.com/presentations</id>
+        <link href="https://www.ben-evans.com/presentations"/>
+        <updated>2021-12-20T05:12:45.628Z</updated>
+        <content type="html"><![CDATA[(ben-evans.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 재택환경에서 어떤 책상을 사용하시나요?]]></title>
         <id>https://news.hada.io/topic?id=5562</id>
         <link href="https://news.hada.io/topic?id=5562"/>
@@ -135,12 +142,5 @@
         <link href="https://fonts.google.com/knowledge"/>
         <updated>2021-12-15T00:38:39.459Z</updated>
         <content type="html"><![CDATA[(fonts.google.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech in 2022: 미래를 향한 3단계]]></title>
-        <id>https://www.ben-evans.com/presentations</id>
-        <link href="https://www.ben-evans.com/presentations"/>
-        <updated>2021-12-20T05:12:45.628Z</updated>
-        <content type="html"><![CDATA[(ben-evans.com)]]></content>
     </entry>
 </feed>
