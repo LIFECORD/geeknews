@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-20T18:14:33.977Z</updated>
+    <updated>2021-12-20T19:11:23.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -89,18 +89,18 @@
         <content type="html"><![CDATA[(2021.stateofcss.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
-        <id>https://news.hada.io/topic?id=5583</id>
-        <link href="https://news.hada.io/topic?id=5583"/>
-        <updated>2021-12-20T04:15:33.969Z</updated>
-        <content type="html"><![CDATA[(bookmory.web.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PNG Parser Differential]]></title>
         <id>https://www.da.vidbuchanan.co.uk/widgets/pngdiff/</id>
         <link href="https://www.da.vidbuchanan.co.uk/widgets/pngdiff/"/>
         <updated>2021-12-18T03:13:41.581Z</updated>
         <content type="html"><![CDATA[(da.vidbuchanan.co.uk)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
+        <id>https://news.hada.io/topic?id=5583</id>
+        <link href="https://news.hada.io/topic?id=5583"/>
+        <updated>2021-12-20T04:15:33.969Z</updated>
+        <content type="html"><![CDATA[(bookmory.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Polars - Rust/Python 용 빠른 DataFrame 라이브러리]]></title>
@@ -131,16 +131,16 @@
         <content type="html"><![CDATA[(fonts.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 재택환경에서 어떤 책상을 사용하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5562</id>
-        <link href="https://news.hada.io/topic?id=5562"/>
-        <updated>2021-12-17T00:41:17.663Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[객체지향 시스템과 패러다임 그리고 철학]]></title>
         <id>https://black7375.tistory.com/86</id>
         <link href="https://black7375.tistory.com/86"/>
         <updated>2021-12-20T17:21:36.391Z</updated>
         <content type="html"><![CDATA[(black7375.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 재택환경에서 어떤 책상을 사용하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5562</id>
+        <link href="https://news.hada.io/topic?id=5562"/>
+        <updated>2021-12-17T00:41:17.663Z</updated>
     </entry>
 </feed>
