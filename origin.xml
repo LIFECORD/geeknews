@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-21T08:15:06.801Z</updated>
+    <updated>2021-12-21T09:13:14.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(stibee.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애자일 안한 이야기 (39p Slide)]]></title>
-        <id>https://www.slideshare.net/gyumee/ss-250847726</id>
-        <link href="https://www.slideshare.net/gyumee/ss-250847726"/>
-        <updated>2021-12-21T02:02:38.328Z</updated>
-        <content type="html"><![CDATA[(slideshare.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PullRequest - Code Review as a Service]]></title>
         <id>https://www.pullrequest.com/</id>
         <link href="https://www.pullrequest.com/"/>
@@ -41,17 +34,17 @@
         <content type="html"><![CDATA[(pullrequest.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[애자일 안한 이야기 (39p Slide)]]></title>
+        <id>https://www.slideshare.net/gyumee/ss-250847726</id>
+        <link href="https://www.slideshare.net/gyumee/ss-250847726"/>
+        <updated>2021-12-21T02:02:38.328Z</updated>
+        <content type="html"><![CDATA[(slideshare.net)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 콘텐츠는 ?]]></title>
         <id>https://news.hada.io/topic?id=5591</id>
         <link href="https://news.hada.io/topic?id=5591"/>
         <updated>2021-12-21T06:14:31.562Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
-        <id>https://opensubscriptionplatforms.com/</id>
-        <link href="https://opensubscriptionplatforms.com/"/>
-        <updated>2021-12-21T02:02:38.343Z</updated>
-        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
@@ -61,17 +54,24 @@
         <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3주만에 '노션'으로 데이팅 서비스 만들기 - 노션 이력서 소개팅]]></title>
-        <id>https://7pictures.notion.site/3-323e2d82044c4aef95c1a011639a5743</id>
-        <link href="https://7pictures.notion.site/3-323e2d82044c4aef95c1a011639a5743"/>
-        <updated>2021-12-20T16:18:28.286Z</updated>
-        <content type="html"><![CDATA[(7pictures.notion.site)]]></content>
+        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
+        <id>https://opensubscriptionplatforms.com/</id>
+        <link href="https://opensubscriptionplatforms.com/"/>
+        <updated>2021-12-21T02:02:38.343Z</updated>
+        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 남들에게 꼭 추천하는 책이 있으신가요?]]></title>
         <id>https://news.hada.io/topic?id=5582</id>
         <link href="https://news.hada.io/topic?id=5582"/>
         <updated>2021-12-20T04:15:33.970Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3주만에 '노션'으로 데이팅 서비스 만들기 - 노션 이력서 소개팅]]></title>
+        <id>https://7pictures.notion.site/3-323e2d82044c4aef95c1a011639a5743</id>
+        <link href="https://7pictures.notion.site/3-323e2d82044c4aef95c1a011639a5743"/>
+        <updated>2021-12-20T16:18:28.286Z</updated>
+        <content type="html"><![CDATA[(7pictures.notion.site)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 PyTorch 와 TensorFlow 비교]]></title>
@@ -130,17 +130,17 @@
         <content type="html"><![CDATA[(freesound.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
-        <id>https://news.hada.io/topic?id=5583</id>
-        <link href="https://news.hada.io/topic?id=5583"/>
-        <updated>2021-12-20T04:15:33.969Z</updated>
-        <content type="html"><![CDATA[(bookmory.web.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[State of CSS 2021 보고서]]></title>
         <id>https://2021.stateofcss.com/ko-KR/</id>
         <link href="https://2021.stateofcss.com/ko-KR/"/>
         <updated>2021-12-17T00:41:17.637Z</updated>
         <content type="html"><![CDATA[(2021.stateofcss.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
+        <id>https://news.hada.io/topic?id=5583</id>
+        <link href="https://news.hada.io/topic?id=5583"/>
+        <updated>2021-12-20T04:15:33.969Z</updated>
+        <content type="html"><![CDATA[(bookmory.web.app)]]></content>
     </entry>
 </feed>
