@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-21T06:15:09.093Z</updated>
+    <updated>2021-12-21T07:13:05.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,12 @@
         <content type="html"><![CDATA[(pullrequest.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 콘텐츠는 ?]]></title>
+        <id>https://news.hada.io/topic?id=5591</id>
+        <link href="https://news.hada.io/topic?id=5591"/>
+        <updated>2021-12-21T06:14:31.562Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
         <id>https://opensubscriptionplatforms.com/</id>
         <link href="https://opensubscriptionplatforms.com/"/>
@@ -60,12 +66,6 @@
         <link href="https://7pictures.notion.site/3-323e2d82044c4aef95c1a011639a5743"/>
         <updated>2021-12-20T16:18:28.286Z</updated>
         <content type="html"><![CDATA[(7pictures.notion.site)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 콘텐츠는 ?]]></title>
-        <id>https://news.hada.io/topic?id=5591</id>
-        <link href="https://news.hada.io/topic?id=5591"/>
-        <updated>2021-12-21T06:14:31.562Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 남들에게 꼭 추천하는 책이 있으신가요?]]></title>
