@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-21T02:03:21.893Z</updated>
+    <updated>2021-12-21T03:14:00.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
-        <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
-        <link href="https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g=="/>
-        <updated>2021-12-21T00:41:57.237Z</updated>
-        <content type="html"><![CDATA[(stibee.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Omnizart - 음악 전체를 필사(Transcribe)해주는 오픈소스]]></title>
         <id>https://github.com/Music-and-Culture-Technology-Lab/omnizart</id>
@@ -20,11 +13,32 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
+        <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
+        <link href="https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g=="/>
+        <updated>2021-12-21T00:41:57.237Z</updated>
+        <content type="html"><![CDATA[(stibee.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP Toolkit - HTTP 디버깅용 오픈소스]]></title>
+        <id>https://httptoolkit.tech/</id>
+        <link href="https://httptoolkit.tech/"/>
+        <updated>2021-12-21T03:13:23.017Z</updated>
+        <content type="html"><![CDATA[(httptoolkit.tech)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애자일 안한 이야기 (39p Slide)]]></title>
         <id>https://www.slideshare.net/gyumee/ss-250847726</id>
         <link href="https://www.slideshare.net/gyumee/ss-250847726"/>
         <updated>2021-12-21T02:02:38.328Z</updated>
         <content type="html"><![CDATA[(slideshare.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
+        <id>https://opensubscriptionplatforms.com/</id>
+        <link href="https://opensubscriptionplatforms.com/"/>
+        <updated>2021-12-21T02:02:38.343Z</updated>
+        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
@@ -47,11 +61,11 @@
         <updated>2021-12-20T04:15:33.970Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
-        <id>https://opensubscriptionplatforms.com/</id>
-        <link href="https://opensubscriptionplatforms.com/"/>
-        <updated>2021-12-21T02:02:38.343Z</updated>
-        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
+        <title type="html"><![CDATA[PullRequest - Code Review as a Service]]></title>
+        <id>https://www.pullrequest.com/</id>
+        <link href="https://www.pullrequest.com/"/>
+        <updated>2021-12-21T03:13:23.026Z</updated>
+        <content type="html"><![CDATA[(pullrequest.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 PyTorch 와 TensorFlow 비교]]></title>
@@ -96,18 +110,18 @@
         <content type="html"><![CDATA[(newspeppermint.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
-        <id>https://news.hada.io/topic?id=5583</id>
-        <link href="https://news.hada.io/topic?id=5583"/>
-        <updated>2021-12-20T04:15:33.969Z</updated>
-        <content type="html"><![CDATA[(bookmory.web.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가]]></title>
         <id>https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28</id>
         <link href="https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28"/>
         <updated>2021-12-16T00:39:04.550Z</updated>
         <content type="html"><![CDATA[(blog.devgenius.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
+        <id>https://news.hada.io/topic?id=5583</id>
+        <link href="https://news.hada.io/topic?id=5583"/>
+        <updated>2021-12-20T04:15:33.969Z</updated>
+        <content type="html"><![CDATA[(bookmory.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[freesound - 약 50만개의 무료 소리/효과 DB]]></title>
@@ -129,19 +143,5 @@
         <link href="https://www.da.vidbuchanan.co.uk/widgets/pngdiff/"/>
         <updated>2021-12-18T03:13:41.581Z</updated>
         <content type="html"><![CDATA[(da.vidbuchanan.co.uk)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polars - Rust/Python 용 빠른 DataFrame 라이브러리]]></title>
-        <id>https://www.pola.rs/</id>
-        <link href="https://www.pola.rs/"/>
-        <updated>2021-12-18T03:13:41.584Z</updated>
-        <content type="html"><![CDATA[(pola.rs)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imagor - 빠른 이미지 프로세싱 서버]]></title>
-        <id>https://github.com/cshum/imagor</id>
-        <link href="https://github.com/cshum/imagor"/>
-        <updated>2021-12-15T00:38:39.459Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
