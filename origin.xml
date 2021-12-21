@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-21T15:13:27.007Z</updated>
+    <updated>2021-12-21T16:18:37.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -54,18 +54,18 @@
         <updated>2021-12-20T04:15:33.970Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
-        <id>https://opensubscriptionplatforms.com/</id>
-        <link href="https://opensubscriptionplatforms.com/"/>
-        <updated>2021-12-21T02:02:38.343Z</updated>
-        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3주만에 '노션'으로 데이팅 서비스 만들기 - 노션 이력서 소개팅]]></title>
         <id>https://7pictures.notion.site/3-323e2d82044c4aef95c1a011639a5743</id>
         <link href="https://7pictures.notion.site/3-323e2d82044c4aef95c1a011639a5743"/>
         <updated>2021-12-20T16:18:28.286Z</updated>
         <content type="html"><![CDATA[(7pictures.notion.site)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
+        <id>https://opensubscriptionplatforms.com/</id>
+        <link href="https://opensubscriptionplatforms.com/"/>
+        <updated>2021-12-21T02:02:38.343Z</updated>
+        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 콘텐츠는 ?]]></title>
