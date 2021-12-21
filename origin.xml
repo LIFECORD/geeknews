@@ -2,22 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-21T00:42:36.984Z</updated>
+    <updated>2021-12-21T02:03:21.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
-        <id>https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409</id>
-        <link href="https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409"/>
-        <updated>2021-12-20T02:41:19.675Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 남들에게 꼭 추천하는 책이 있으신가요?]]></title>
-        <id>https://news.hada.io/topic?id=5582</id>
-        <link href="https://news.hada.io/topic?id=5582"/>
-        <updated>2021-12-20T04:15:33.970Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
         <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
@@ -26,11 +13,45 @@
         <content type="html"><![CDATA[(stibee.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Omnizart - 음악 전체를 필사(Transcribe)해주는 오픈소스]]></title>
+        <id>https://github.com/Music-and-Culture-Technology-Lab/omnizart</id>
+        <link href="https://github.com/Music-and-Culture-Technology-Lab/omnizart"/>
+        <updated>2021-12-21T02:02:38.322Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애자일 안한 이야기 (39p Slide)]]></title>
+        <id>https://www.slideshare.net/gyumee/ss-250847726</id>
+        <link href="https://www.slideshare.net/gyumee/ss-250847726"/>
+        <updated>2021-12-21T02:02:38.328Z</updated>
+        <content type="html"><![CDATA[(slideshare.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
+        <id>https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409</id>
+        <link href="https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409"/>
+        <updated>2021-12-20T02:41:19.675Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3주만에 '노션'으로 데이팅 서비스 만들기 - 노션 이력서 소개팅]]></title>
         <id>https://7pictures.notion.site/3-323e2d82044c4aef95c1a011639a5743</id>
         <link href="https://7pictures.notion.site/3-323e2d82044c4aef95c1a011639a5743"/>
         <updated>2021-12-20T16:18:28.286Z</updated>
         <content type="html"><![CDATA[(7pictures.notion.site)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 남들에게 꼭 추천하는 책이 있으신가요?]]></title>
+        <id>https://news.hada.io/topic?id=5582</id>
+        <link href="https://news.hada.io/topic?id=5582"/>
+        <updated>2021-12-20T04:15:33.970Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
+        <id>https://opensubscriptionplatforms.com/</id>
+        <link href="https://opensubscriptionplatforms.com/"/>
+        <updated>2021-12-21T02:02:38.343Z</updated>
+        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 PyTorch 와 TensorFlow 비교]]></title>
@@ -122,26 +143,5 @@
         <link href="https://github.com/cshum/imagor"/>
         <updated>2021-12-15T00:38:39.459Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[동영상] Power On: The Story of Xbox]]></title>
-        <id>https://www.youtube.com/playlist?list=PL0il2l-B_WwadxfTkK3-NLoYNcQEHdBGO</id>
-        <link href="https://www.youtube.com/playlist?list=PL0il2l-B_WwadxfTkK3-NLoYNcQEHdBGO"/>
-        <updated>2021-12-17T13:17:37.158Z</updated>
-        <content type="html"><![CDATA[(youtube.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Fonts Knowledge]]></title>
-        <id>https://fonts.google.com/knowledge</id>
-        <link href="https://fonts.google.com/knowledge"/>
-        <updated>2021-12-15T00:38:39.459Z</updated>
-        <content type="html"><![CDATA[(fonts.google.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[객체지향 시스템과 패러다임 그리고 철학]]></title>
-        <id>https://black7375.tistory.com/86</id>
-        <link href="https://black7375.tistory.com/86"/>
-        <updated>2021-12-20T17:21:36.391Z</updated>
-        <content type="html"><![CDATA[(black7375.tistory.com)]]></content>
     </entry>
 </feed>
