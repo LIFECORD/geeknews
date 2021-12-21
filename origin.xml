@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-21T05:13:36.232Z</updated>
+    <updated>2021-12-21T06:15:09.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Omnizart - 음악 전체를 필사(Transcribe)해주는 오픈소스]]></title>
-        <id>https://github.com/Music-and-Culture-Technology-Lab/omnizart</id>
-        <link href="https://github.com/Music-and-Culture-Technology-Lab/omnizart"/>
-        <updated>2021-12-21T02:02:38.322Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[HTTP Toolkit - HTTP 디버깅용 오픈소스]]></title>
         <id>https://httptoolkit.tech/</id>
         <link href="https://httptoolkit.tech/"/>
         <updated>2021-12-21T03:13:23.017Z</updated>
         <content type="html"><![CDATA[(httptoolkit.tech)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnizart - 음악 전체를 필사(Transcribe)해주는 오픈소스]]></title>
+        <id>https://github.com/Music-and-Culture-Technology-Lab/omnizart</id>
+        <link href="https://github.com/Music-and-Culture-Technology-Lab/omnizart"/>
+        <updated>2021-12-21T02:02:38.322Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(pullrequest.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
+        <id>https://opensubscriptionplatforms.com/</id>
+        <link href="https://opensubscriptionplatforms.com/"/>
+        <updated>2021-12-21T02:02:38.343Z</updated>
+        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
         <id>https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409</id>
         <link href="https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409"/>
@@ -55,11 +62,10 @@
         <content type="html"><![CDATA[(7pictures.notion.site)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
-        <id>https://opensubscriptionplatforms.com/</id>
-        <link href="https://opensubscriptionplatforms.com/"/>
-        <updated>2021-12-21T02:02:38.343Z</updated>
-        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
+        <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 콘텐츠는 ?]]></title>
+        <id>https://news.hada.io/topic?id=5591</id>
+        <link href="https://news.hada.io/topic?id=5591"/>
+        <updated>2021-12-21T06:14:31.562Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 남들에게 꼭 추천하는 책이 있으신가요?]]></title>
@@ -136,12 +142,5 @@
         <link href="https://2021.stateofcss.com/ko-KR/"/>
         <updated>2021-12-17T00:41:17.637Z</updated>
         <content type="html"><![CDATA[(2021.stateofcss.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PNG Parser Differential]]></title>
-        <id>https://www.da.vidbuchanan.co.uk/widgets/pngdiff/</id>
-        <link href="https://www.da.vidbuchanan.co.uk/widgets/pngdiff/"/>
-        <updated>2021-12-18T03:13:41.581Z</updated>
-        <content type="html"><![CDATA[(da.vidbuchanan.co.uk)]]></content>
     </entry>
 </feed>
