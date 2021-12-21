@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-21T22:12:28.687Z</updated>
+    <updated>2021-12-21T23:12:45.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -102,18 +102,18 @@
         <content type="html"><![CDATA[(blog.devgenius.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kinesis Advantage 360 Pro 인체공학 키보드]]></title>
-        <id>https://kinesis-ergo.com/keyboards/advantage360/</id>
-        <link href="https://kinesis-ergo.com/keyboards/advantage360/"/>
-        <updated>2021-12-20T02:00:57.298Z</updated>
-        <content type="html"><![CDATA[(kinesis-ergo.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[freesound - 약 50만개의 무료 소리/효과 DB]]></title>
         <id>https://freesound.org/</id>
         <link href="https://freesound.org/"/>
         <updated>2021-12-16T01:56:58.413Z</updated>
         <content type="html"><![CDATA[(freesound.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kinesis Advantage 360 Pro 인체공학 키보드]]></title>
+        <id>https://kinesis-ergo.com/keyboards/advantage360/</id>
+        <link href="https://kinesis-ergo.com/keyboards/advantage360/"/>
+        <updated>2021-12-20T02:00:57.298Z</updated>
+        <content type="html"><![CDATA[(kinesis-ergo.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Overpass - 셀프호스트 스트리밍 플랫폼]]></title>
