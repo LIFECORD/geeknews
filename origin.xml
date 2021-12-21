@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-20T23:12:56.858Z</updated>
+    <updated>2021-12-21T00:42:36.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -17,6 +17,13 @@
         <id>https://news.hada.io/topic?id=5582</id>
         <link href="https://news.hada.io/topic?id=5582"/>
         <updated>2021-12-20T04:15:33.970Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
+        <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
+        <link href="https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g=="/>
+        <updated>2021-12-21T00:41:57.237Z</updated>
+        <content type="html"><![CDATA[(stibee.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3주만에 '노션'으로 데이팅 서비스 만들기 - 노션 이력서 소개팅]]></title>
@@ -68,6 +75,13 @@
         <content type="html"><![CDATA[(newspeppermint.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
+        <id>https://news.hada.io/topic?id=5583</id>
+        <link href="https://news.hada.io/topic?id=5583"/>
+        <updated>2021-12-20T04:15:33.969Z</updated>
+        <content type="html"><![CDATA[(bookmory.web.app)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가]]></title>
         <id>https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28</id>
         <link href="https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28"/>
@@ -110,13 +124,6 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
-        <id>https://news.hada.io/topic?id=5583</id>
-        <link href="https://news.hada.io/topic?id=5583"/>
-        <updated>2021-12-20T04:15:33.969Z</updated>
-        <content type="html"><![CDATA[(bookmory.web.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[동영상] Power On: The Story of Xbox]]></title>
         <id>https://www.youtube.com/playlist?list=PL0il2l-B_WwadxfTkK3-NLoYNcQEHdBGO</id>
         <link href="https://www.youtube.com/playlist?list=PL0il2l-B_WwadxfTkK3-NLoYNcQEHdBGO"/>
@@ -136,11 +143,5 @@
         <link href="https://black7375.tistory.com/86"/>
         <updated>2021-12-20T17:21:36.391Z</updated>
         <content type="html"><![CDATA[(black7375.tistory.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 재택환경에서 어떤 책상을 사용하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5562</id>
-        <link href="https://news.hada.io/topic?id=5562"/>
-        <updated>2021-12-17T00:41:17.663Z</updated>
     </entry>
 </feed>
