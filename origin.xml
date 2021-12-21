@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-21T09:13:14.775Z</updated>
+    <updated>2021-12-21T10:13:55.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,12 +41,6 @@
         <content type="html"><![CDATA[(slideshare.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 콘텐츠는 ?]]></title>
-        <id>https://news.hada.io/topic?id=5591</id>
-        <link href="https://news.hada.io/topic?id=5591"/>
-        <updated>2021-12-21T06:14:31.562Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
         <id>https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409</id>
         <link href="https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409"/>
@@ -54,17 +48,23 @@
         <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
-        <id>https://opensubscriptionplatforms.com/</id>
-        <link href="https://opensubscriptionplatforms.com/"/>
-        <updated>2021-12-21T02:02:38.343Z</updated>
-        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
+        <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 콘텐츠는 ?]]></title>
+        <id>https://news.hada.io/topic?id=5591</id>
+        <link href="https://news.hada.io/topic?id=5591"/>
+        <updated>2021-12-21T06:14:31.562Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 남들에게 꼭 추천하는 책이 있으신가요?]]></title>
         <id>https://news.hada.io/topic?id=5582</id>
         <link href="https://news.hada.io/topic?id=5582"/>
         <updated>2021-12-20T04:15:33.970Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
+        <id>https://opensubscriptionplatforms.com/</id>
+        <link href="https://opensubscriptionplatforms.com/"/>
+        <updated>2021-12-21T02:02:38.343Z</updated>
+        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3주만에 '노션'으로 데이팅 서비스 만들기 - 노션 이력서 소개팅]]></title>
@@ -95,13 +95,6 @@
         <content type="html"><![CDATA[(usebottles.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kinesis Advantage 360 Pro 인체공학 키보드]]></title>
-        <id>https://kinesis-ergo.com/keyboards/advantage360/</id>
-        <link href="https://kinesis-ergo.com/keyboards/advantage360/"/>
-        <updated>2021-12-20T02:00:57.298Z</updated>
-        <content type="html"><![CDATA[(kinesis-ergo.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Overpass - 셀프호스트 스트리밍 플랫폼]]></title>
         <id>https://github.com/GOATS2K/overpass</id>
         <link href="https://github.com/GOATS2K/overpass"/>
@@ -109,11 +102,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팬데믹이 테크 산업을 어떻게 바꾸고 있는가?]]></title>
-        <id>https://newspeppermint.com/2021/12/15/%ED%8C%AC%EB%8D%B0%EB%AF%B9%EC%9D%B4-%ED%85%8C%ED%81%AC-%EC%82%B0%EC%97%85%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EA%BE%B8%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80</id>
-        <link href="https://newspeppermint.com/2021/12/15/%ED%8C%AC%EB%8D%B0%EB%AF%B9%EC%9D%B4-%ED%85%8C%ED%81%AC-%EC%82%B0%EC%97%85%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EA%BE%B8%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80"/>
-        <updated>2021-12-19T02:04:02.453Z</updated>
-        <content type="html"><![CDATA[(newspeppermint.com)]]></content>
+        <title type="html"><![CDATA[Kinesis Advantage 360 Pro 인체공학 키보드]]></title>
+        <id>https://kinesis-ergo.com/keyboards/advantage360/</id>
+        <link href="https://kinesis-ergo.com/keyboards/advantage360/"/>
+        <updated>2021-12-20T02:00:57.298Z</updated>
+        <content type="html"><![CDATA[(kinesis-ergo.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가]]></title>
@@ -121,6 +114,13 @@
         <link href="https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28"/>
         <updated>2021-12-16T00:39:04.550Z</updated>
         <content type="html"><![CDATA[(blog.devgenius.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팬데믹이 테크 산업을 어떻게 바꾸고 있는가?]]></title>
+        <id>https://newspeppermint.com/2021/12/15/%ED%8C%AC%EB%8D%B0%EB%AF%B9%EC%9D%B4-%ED%85%8C%ED%81%AC-%EC%82%B0%EC%97%85%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EA%BE%B8%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80</id>
+        <link href="https://newspeppermint.com/2021/12/15/%ED%8C%AC%EB%8D%B0%EB%AF%B9%EC%9D%B4-%ED%85%8C%ED%81%AC-%EC%82%B0%EC%97%85%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%94%EA%BE%B8%EA%B3%A0-%EC%9E%88%EB%8A%94%EA%B0%80"/>
+        <updated>2021-12-19T02:04:02.453Z</updated>
+        <content type="html"><![CDATA[(newspeppermint.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[freesound - 약 50만개의 무료 소리/효과 DB]]></title>
