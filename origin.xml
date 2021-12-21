@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-21T04:16:00.282Z</updated>
+    <updated>2021-12-21T05:13:36.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
-        <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
-        <link href="https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g=="/>
-        <updated>2021-12-21T00:41:57.237Z</updated>
-        <content type="html"><![CDATA[(stibee.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HTTP Toolkit - HTTP 디버깅용 오픈소스]]></title>
         <id>https://httptoolkit.tech/</id>
         <link href="https://httptoolkit.tech/"/>
         <updated>2021-12-21T03:13:23.017Z</updated>
         <content type="html"><![CDATA[(httptoolkit.tech)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
+        <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
+        <link href="https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g=="/>
+        <updated>2021-12-21T00:41:57.237Z</updated>
+        <content type="html"><![CDATA[(stibee.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애자일 안한 이야기 (39p Slide)]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[(slideshare.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
-        <id>https://opensubscriptionplatforms.com/</id>
-        <link href="https://opensubscriptionplatforms.com/"/>
-        <updated>2021-12-21T02:02:38.343Z</updated>
-        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
+        <title type="html"><![CDATA[PullRequest - Code Review as a Service]]></title>
+        <id>https://www.pullrequest.com/</id>
+        <link href="https://www.pullrequest.com/"/>
+        <updated>2021-12-21T03:13:23.026Z</updated>
+        <content type="html"><![CDATA[(pullrequest.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
@@ -55,17 +55,17 @@
         <content type="html"><![CDATA[(7pictures.notion.site)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
+        <id>https://opensubscriptionplatforms.com/</id>
+        <link href="https://opensubscriptionplatforms.com/"/>
+        <updated>2021-12-21T02:02:38.343Z</updated>
+        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 남들에게 꼭 추천하는 책이 있으신가요?]]></title>
         <id>https://news.hada.io/topic?id=5582</id>
         <link href="https://news.hada.io/topic?id=5582"/>
         <updated>2021-12-20T04:15:33.970Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PullRequest - Code Review as a Service]]></title>
-        <id>https://www.pullrequest.com/</id>
-        <link href="https://www.pullrequest.com/"/>
-        <updated>2021-12-21T03:13:23.026Z</updated>
-        <content type="html"><![CDATA[(pullrequest.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 PyTorch 와 TensorFlow 비교]]></title>
