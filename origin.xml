@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-22T17:21:56.356Z</updated>
+    <updated>2021-12-22T18:15:32.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -40,20 +40,6 @@
         <updated>2021-12-22T05:12:49.490Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리액트 네이티브로 13년 된 네이티브 앱 전환하기]]></title>
-        <id>https://ridicorp.com/story/react-native-ridibooks-ap/</id>
-        <link href="https://ridicorp.com/story/react-native-ridibooks-ap/"/>
-        <updated>2021-12-22T08:15:02.161Z</updated>
-        <content type="html"><![CDATA[(ridicorp.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 아이디어를 NFT로 만드는 서비스]]></title>
-        <id>https://news.hada.io/topic?id=5600</id>
-        <link href="https://news.hada.io/topic?id=5600"/>
-        <updated>2021-12-22T15:12:16.052Z</updated>
-        <content type="html"><![CDATA[(ideatonft.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HTTP Toolkit - HTTP 디버깅용 오픈소스]]></title>
         <id>https://httptoolkit.tech/</id>
         <link href="https://httptoolkit.tech/"/>
@@ -61,11 +47,25 @@
         <content type="html"><![CDATA[(httptoolkit.tech)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[리액트 네이티브로 13년 된 네이티브 앱 전환하기]]></title>
+        <id>https://ridicorp.com/story/react-native-ridibooks-ap/</id>
+        <link href="https://ridicorp.com/story/react-native-ridibooks-ap/"/>
+        <updated>2021-12-22T08:15:02.161Z</updated>
+        <content type="html"><![CDATA[(ridicorp.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Omnizart - 음악 전체를 필사(Transcribe)해주는 오픈소스]]></title>
         <id>https://github.com/Music-and-Culture-Technology-Lab/omnizart</id>
         <link href="https://github.com/Music-and-Culture-Technology-Lab/omnizart"/>
         <updated>2021-12-21T02:02:38.322Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 아이디어를 NFT로 만드는 서비스]]></title>
+        <id>https://news.hada.io/topic?id=5600</id>
+        <link href="https://news.hada.io/topic?id=5600"/>
+        <updated>2021-12-22T15:12:16.052Z</updated>
+        <content type="html"><![CDATA[(ideatonft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트렌드 코리아 2022 "TIGER OR CAT"]]></title>
@@ -89,18 +89,18 @@
         <content type="html"><![CDATA[(stibee.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애자일 안한 이야기 (39p Slide)]]></title>
-        <id>https://www.slideshare.net/gyumee/ss-250847726</id>
-        <link href="https://www.slideshare.net/gyumee/ss-250847726"/>
-        <updated>2021-12-21T02:02:38.328Z</updated>
-        <content type="html"><![CDATA[(slideshare.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
         <id>https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409</id>
         <link href="https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409"/>
         <updated>2021-12-20T02:41:19.675Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애자일 안한 이야기 (39p Slide)]]></title>
+        <id>https://www.slideshare.net/gyumee/ss-250847726</id>
+        <link href="https://www.slideshare.net/gyumee/ss-250847726"/>
+        <updated>2021-12-21T02:02:38.328Z</updated>
+        <content type="html"><![CDATA[(slideshare.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 남들에게 꼭 추천하는 책이 있으신가요?]]></title>
