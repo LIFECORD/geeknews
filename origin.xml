@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-22T04:15:51.184Z</updated>
+    <updated>2021-12-22T05:13:33.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -32,6 +32,12 @@
         <link href="https://github.com/Shopify/react-native-skia"/>
         <updated>2021-12-22T02:01:59.143Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 지름은?]]></title>
+        <id>https://news.hada.io/topic?id=5594</id>
+        <link href="https://news.hada.io/topic?id=5594"/>
+        <updated>2021-12-22T05:12:49.490Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[GSH - Windows를 위한 POSIX shell]]></title>
@@ -128,13 +134,6 @@
         <id>https://news.hada.io/topic?id=5591</id>
         <link href="https://news.hada.io/topic?id=5591"/>
         <updated>2021-12-21T06:14:31.562Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bottles - 리눅스에서 윈도우 소프트웨어를 쉽게 실행하기]]></title>
-        <id>https://usebottles.com/</id>
-        <link href="https://usebottles.com/"/>
-        <updated>2021-12-20T02:00:57.298Z</updated>
-        <content type="html"><![CDATA[(usebottles.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
