@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-22T12:19:31.047Z</updated>
+    <updated>2021-12-22T13:22:31.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -47,18 +47,18 @@
         <updated>2021-12-22T05:12:49.490Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트렌드 코리아 2022 "TIGER OR CAT"]]></title>
-        <id>https://brunch.co.kr/@sangsangplanet/64</id>
-        <link href="https://brunch.co.kr/@sangsangplanet/64"/>
-        <updated>2021-12-22T02:01:59.145Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HTTP Toolkit - HTTP 디버깅용 오픈소스]]></title>
         <id>https://httptoolkit.tech/</id>
         <link href="https://httptoolkit.tech/"/>
         <updated>2021-12-21T03:13:23.017Z</updated>
         <content type="html"><![CDATA[(httptoolkit.tech)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트렌드 코리아 2022 "TIGER OR CAT"]]></title>
+        <id>https://brunch.co.kr/@sangsangplanet/64</id>
+        <link href="https://brunch.co.kr/@sangsangplanet/64"/>
+        <updated>2021-12-22T02:01:59.145Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Omnizart - 음악 전체를 필사(Transcribe)해주는 오픈소스]]></title>
@@ -68,18 +68,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
-        <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
-        <link href="https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g=="/>
-        <updated>2021-12-21T00:41:57.237Z</updated>
-        <content type="html"><![CDATA[(stibee.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GSH - Windows를 위한 POSIX shell]]></title>
         <id>https://github.com/AdaCore/gsh</id>
         <link href="https://github.com/AdaCore/gsh"/>
         <updated>2021-12-22T04:15:13.081Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
+        <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
+        <link href="https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g=="/>
+        <updated>2021-12-21T00:41:57.237Z</updated>
+        <content type="html"><![CDATA[(stibee.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애자일 안한 이야기 (39p Slide)]]></title>
