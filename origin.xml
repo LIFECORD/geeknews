@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-22T16:22:33.697Z</updated>
+    <updated>2021-12-22T17:21:56.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -40,18 +40,18 @@
         <updated>2021-12-22T05:12:49.490Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 아이디어를 NFT로 만드는 서비스]]></title>
-        <id>https://news.hada.io/topic?id=5600</id>
-        <link href="https://news.hada.io/topic?id=5600"/>
-        <updated>2021-12-22T15:12:16.052Z</updated>
-        <content type="html"><![CDATA[(ideatonft.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[리액트 네이티브로 13년 된 네이티브 앱 전환하기]]></title>
         <id>https://ridicorp.com/story/react-native-ridibooks-ap/</id>
         <link href="https://ridicorp.com/story/react-native-ridibooks-ap/"/>
         <updated>2021-12-22T08:15:02.161Z</updated>
         <content type="html"><![CDATA[(ridicorp.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 아이디어를 NFT로 만드는 서비스]]></title>
+        <id>https://news.hada.io/topic?id=5600</id>
+        <link href="https://news.hada.io/topic?id=5600"/>
+        <updated>2021-12-22T15:12:16.052Z</updated>
+        <content type="html"><![CDATA[(ideatonft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HTTP Toolkit - HTTP 디버깅용 오픈소스]]></title>
