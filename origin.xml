@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-22T22:12:32.845Z</updated>
+    <updated>2021-12-22T23:12:39.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -61,18 +61,18 @@
         <content type="html"><![CDATA[(ridicorp.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트렌드 코리아 2022 "TIGER OR CAT"]]></title>
-        <id>https://brunch.co.kr/@sangsangplanet/64</id>
-        <link href="https://brunch.co.kr/@sangsangplanet/64"/>
-        <updated>2021-12-22T02:01:59.145Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
         <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
         <link href="https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g=="/>
         <updated>2021-12-21T00:41:57.237Z</updated>
         <content type="html"><![CDATA[(stibee.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트렌드 코리아 2022 "TIGER OR CAT"]]></title>
+        <id>https://brunch.co.kr/@sangsangplanet/64</id>
+        <link href="https://brunch.co.kr/@sangsangplanet/64"/>
+        <updated>2021-12-22T02:01:59.145Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
