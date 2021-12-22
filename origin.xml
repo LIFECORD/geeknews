@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-22T02:02:37.847Z</updated>
+    <updated>2021-12-22T03:13:35.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디자인 시스템의 성공과 실패에 대한 6가지 질문]]></title>
+        <id>https://uxdesign.cc/6-questions-to-fail-or-succeed-with-design-systems-2ffada4ab388</id>
+        <link href="https://uxdesign.cc/6-questions-to-fail-or-succeed-with-design-systems-2ffada4ab388"/>
+        <updated>2021-12-22T03:12:57.145Z</updated>
+        <content type="html"><![CDATA[(uxdesign.cc)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컨슈머 트렌드 2022 보고서]]></title>
+        <id>https://newconsumer.com/trends/</id>
+        <link href="https://newconsumer.com/trends/"/>
+        <updated>2021-12-22T03:12:57.146Z</updated>
+        <content type="html"><![CDATA[(newconsumer.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Native Skia]]></title>
         <id>https://github.com/Shopify/react-native-skia</id>
@@ -41,18 +55,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
-        <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
-        <link href="https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g=="/>
-        <updated>2021-12-21T00:41:57.237Z</updated>
-        <content type="html"><![CDATA[(stibee.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애자일 안한 이야기 (39p Slide)]]></title>
         <id>https://www.slideshare.net/gyumee/ss-250847726</id>
         <link href="https://www.slideshare.net/gyumee/ss-250847726"/>
         <updated>2021-12-21T02:02:38.328Z</updated>
         <content type="html"><![CDATA[(slideshare.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
+        <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
+        <link href="https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g=="/>
+        <updated>2021-12-21T00:41:57.237Z</updated>
+        <content type="html"><![CDATA[(stibee.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
@@ -128,19 +142,5 @@
         <link href="https://freesound.org/"/>
         <updated>2021-12-16T01:56:58.413Z</updated>
         <content type="html"><![CDATA[(freesound.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinesis Advantage 360 Pro 인체공학 키보드]]></title>
-        <id>https://kinesis-ergo.com/keyboards/advantage360/</id>
-        <link href="https://kinesis-ergo.com/keyboards/advantage360/"/>
-        <updated>2021-12-20T02:00:57.298Z</updated>
-        <content type="html"><![CDATA[(kinesis-ergo.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overpass - 셀프호스트 스트리밍 플랫폼]]></title>
-        <id>https://github.com/GOATS2K/overpass</id>
-        <link href="https://github.com/GOATS2K/overpass"/>
-        <updated>2021-12-19T02:04:02.453Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
