@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-22T06:15:19.915Z</updated>
+    <updated>2021-12-22T07:12:22.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -68,18 +68,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애자일 안한 이야기 (39p Slide)]]></title>
-        <id>https://www.slideshare.net/gyumee/ss-250847726</id>
-        <link href="https://www.slideshare.net/gyumee/ss-250847726"/>
-        <updated>2021-12-21T02:02:38.328Z</updated>
-        <content type="html"><![CDATA[(slideshare.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
         <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
         <link href="https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g=="/>
         <updated>2021-12-21T00:41:57.237Z</updated>
         <content type="html"><![CDATA[(stibee.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애자일 안한 이야기 (39p Slide)]]></title>
+        <id>https://www.slideshare.net/gyumee/ss-250847726</id>
+        <link href="https://www.slideshare.net/gyumee/ss-250847726"/>
+        <updated>2021-12-21T02:02:38.328Z</updated>
+        <content type="html"><![CDATA[(slideshare.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
