@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-22T13:22:31.995Z</updated>
+    <updated>2021-12-22T14:12:56.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -61,17 +61,17 @@
         <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Omnizart - 음악 전체를 필사(Transcribe)해주는 오픈소스]]></title>
-        <id>https://github.com/Music-and-Culture-Technology-Lab/omnizart</id>
-        <link href="https://github.com/Music-and-Culture-Technology-Lab/omnizart"/>
-        <updated>2021-12-21T02:02:38.322Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GSH - Windows를 위한 POSIX shell]]></title>
         <id>https://github.com/AdaCore/gsh</id>
         <link href="https://github.com/AdaCore/gsh"/>
         <updated>2021-12-22T04:15:13.081Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omnizart - 음악 전체를 필사(Transcribe)해주는 오픈소스]]></title>
+        <id>https://github.com/Music-and-Culture-Technology-Lab/omnizart</id>
+        <link href="https://github.com/Music-and-Culture-Technology-Lab/omnizart"/>
+        <updated>2021-12-21T02:02:38.322Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
