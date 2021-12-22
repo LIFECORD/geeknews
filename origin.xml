@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-22T03:13:35.453Z</updated>
+    <updated>2021-12-22T04:15:51.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(newconsumer.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LunaNotes - 유튜브 보면서 노트 남기는 크롬 확장]]></title>
+        <id>https://www.lunanotes.io/</id>
+        <link href="https://www.lunanotes.io/"/>
+        <updated>2021-12-22T02:01:59.144Z</updated>
+        <content type="html"><![CDATA[(lunanotes.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[React Native Skia]]></title>
         <id>https://github.com/Shopify/react-native-skia</id>
         <link href="https://github.com/Shopify/react-native-skia"/>
@@ -27,11 +34,11 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LunaNotes - 유튜브 보면서 노트 남기는 크롬 확장]]></title>
-        <id>https://www.lunanotes.io/</id>
-        <link href="https://www.lunanotes.io/"/>
-        <updated>2021-12-22T02:01:59.144Z</updated>
-        <content type="html"><![CDATA[(lunanotes.io)]]></content>
+        <title type="html"><![CDATA[GSH - Windows를 위한 POSIX shell]]></title>
+        <id>https://github.com/AdaCore/gsh</id>
+        <link href="https://github.com/AdaCore/gsh"/>
+        <updated>2021-12-22T04:15:13.081Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트렌드 코리아 2022 "TIGER OR CAT"]]></title>
@@ -89,18 +96,18 @@
         <content type="html"><![CDATA[(pullrequest.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
-        <id>https://opensubscriptionplatforms.com/</id>
-        <link href="https://opensubscriptionplatforms.com/"/>
-        <updated>2021-12-21T02:02:38.343Z</updated>
-        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3주만에 '노션'으로 데이팅 서비스 만들기 - 노션 이력서 소개팅]]></title>
         <id>https://7pictures.notion.site/3-323e2d82044c4aef95c1a011639a5743</id>
         <link href="https://7pictures.notion.site/3-323e2d82044c4aef95c1a011639a5743"/>
         <updated>2021-12-20T16:18:28.286Z</updated>
         <content type="html"><![CDATA[(7pictures.notion.site)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Subscription Platforms - 구독 플랫폼들의 개방 여부 확인]]></title>
+        <id>https://opensubscriptionplatforms.com/</id>
+        <link href="https://opensubscriptionplatforms.com/"/>
+        <updated>2021-12-21T02:02:38.343Z</updated>
+        <content type="html"><![CDATA[(opensubscriptionplatforms.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 PyTorch 와 TensorFlow 비교]]></title>
@@ -130,17 +137,10 @@
         <content type="html"><![CDATA[(usebottles.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가]]></title>
-        <id>https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28</id>
-        <link href="https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28"/>
-        <updated>2021-12-16T00:39:04.550Z</updated>
-        <content type="html"><![CDATA[(blog.devgenius.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[freesound - 약 50만개의 무료 소리/효과 DB]]></title>
-        <id>https://freesound.org/</id>
-        <link href="https://freesound.org/"/>
-        <updated>2021-12-16T01:56:58.413Z</updated>
-        <content type="html"><![CDATA[(freesound.org)]]></content>
+        <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
+        <id>https://news.hada.io/topic?id=5583</id>
+        <link href="https://news.hada.io/topic?id=5583"/>
+        <updated>2021-12-22T04:15:13.111Z</updated>
+        <content type="html"><![CDATA[(bookmory.web.app)]]></content>
     </entry>
 </feed>
