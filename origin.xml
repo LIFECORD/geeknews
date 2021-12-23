@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-23T03:13:18.524Z</updated>
+    <updated>2021-12-23T04:15:49.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,25 @@
         <content type="html"><![CDATA[(spacecadet.ventures)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tor Snowflake - 인터넷 검열 회피 도구]]></title>
-        <id>https://snowflake.torproject.org/</id>
-        <link href="https://snowflake.torproject.org/"/>
-        <updated>2021-12-23T02:00:05.287Z</updated>
-        <content type="html"><![CDATA[(snowflake.torproject.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SVG에 도전하는 TinyVG]]></title>
         <id>https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8</id>
         <link href="https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8"/>
         <updated>2021-12-23T02:00:05.287Z</updated>
         <content type="html"><![CDATA[(zig.news)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animated Drawings - 아이들 그림을 애니메이트 하기]]></title>
+        <id>https://sketch.metademolab.com/</id>
+        <link href="https://sketch.metademolab.com/"/>
+        <updated>2021-12-23T02:00:05.288Z</updated>
+        <content type="html"><![CDATA[(sketch.metademolab.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tor Snowflake - 인터넷 검열 회피 도구]]></title>
+        <id>https://snowflake.torproject.org/</id>
+        <link href="https://snowflake.torproject.org/"/>
+        <updated>2021-12-23T02:00:05.287Z</updated>
+        <content type="html"><![CDATA[(snowflake.torproject.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디자인 시스템의 성공과 실패에 대한 6가지 질문]]></title>
@@ -60,13 +67,6 @@
         <link href="https://ridicorp.com/story/react-native-ridibooks-ap/"/>
         <updated>2021-12-22T08:15:02.161Z</updated>
         <content type="html"><![CDATA[(ridicorp.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animated Drawings - 아이들 그림을 애니메이트 하기]]></title>
-        <id>https://sketch.metademolab.com/</id>
-        <link href="https://sketch.metademolab.com/"/>
-        <updated>2021-12-23T02:00:05.288Z</updated>
-        <content type="html"><![CDATA[(sketch.metademolab.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LunaNotes - 유튜브 보면서 노트 남기는 크롬 확장]]></title>
@@ -110,18 +110,18 @@
         <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
-        <id>https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409</id>
-        <link href="https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409"/>
-        <updated>2021-12-20T02:41:19.675Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
         <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
         <link href="https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g=="/>
         <updated>2021-12-21T00:41:57.237Z</updated>
         <content type="html"><![CDATA[(stibee.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
+        <id>https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409</id>
+        <link href="https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409"/>
+        <updated>2021-12-20T02:41:19.675Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 남들에게 꼭 추천하는 책이 있으신가요?]]></title>
