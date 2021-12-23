@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-23T09:12:34.477Z</updated>
+    <updated>2021-12-23T10:13:38.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(skillsoft.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tor Snowflake - 인터넷 검열 회피 도구]]></title>
+        <id>https://snowflake.torproject.org/</id>
+        <link href="https://snowflake.torproject.org/"/>
+        <updated>2021-12-23T02:00:05.287Z</updated>
+        <content type="html"><![CDATA[(snowflake.torproject.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022 업계 트렌드 모음]]></title>
         <id>https://spacecadet.ventures/2022roundup/</id>
         <link href="https://spacecadet.ventures/2022roundup/"/>
@@ -32,13 +39,6 @@
         <link href="https://sketch.metademolab.com/"/>
         <updated>2021-12-23T02:00:05.288Z</updated>
         <content type="html"><![CDATA[(sketch.metademolab.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tor Snowflake - 인터넷 검열 회피 도구]]></title>
-        <id>https://snowflake.torproject.org/</id>
-        <link href="https://snowflake.torproject.org/"/>
-        <updated>2021-12-23T02:00:05.287Z</updated>
-        <content type="html"><![CDATA[(snowflake.torproject.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SVG에 도전하는 TinyVG]]></title>
