@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-11T16:28:05.738Z</updated>
+    <updated>2022-01-11T17:28:39.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(blog.polyhaven.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넷플릭스가 촬영용으로 승인한 카메라 기기들]]></title>
-        <id>https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture</id>
-        <link href="https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture"/>
-        <updated>2022-01-11T06:07:09.896Z</updated>
-        <content type="html"><![CDATA[(partnerhelp.netflixstudios.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
         <id>https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/</id>
         <link href="https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/"/>
         <updated>2022-01-11T06:07:09.907Z</updated>
         <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스가 촬영용으로 승인한 카메라 기기들]]></title>
+        <id>https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture</id>
+        <link href="https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture"/>
+        <updated>2022-01-11T06:07:09.896Z</updated>
+        <content type="html"><![CDATA[(partnerhelp.netflixstudios.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BookStack - 컨플루언스 대체용 오픈소스 위키 플랫폼]]></title>
@@ -125,17 +125,17 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MiniVM - 작고 빠른 크로스랭귀지 VM 오픈소스]]></title>
-        <id>https://github.com/FastVM/minivm</id>
-        <link href="https://github.com/FastVM/minivm"/>
-        <updated>2022-01-11T06:07:09.923Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Netmaker - WireGuard 기반 오픈소스 VPN 플랫폼]]></title>
         <id>https://github.com/gravitl/netmaker</id>
         <link href="https://github.com/gravitl/netmaker"/>
         <updated>2022-01-11T06:07:09.926Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MiniVM - 작고 빠른 크로스랭귀지 VM 오픈소스]]></title>
+        <id>https://github.com/FastVM/minivm</id>
+        <link href="https://github.com/FastVM/minivm"/>
+        <updated>2022-01-11T06:07:09.923Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
