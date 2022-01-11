@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-11T06:39:19.124Z</updated>
+    <updated>2022-01-11T07:17:52.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(blog.crunchydata.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이메일의 SPF/DKIM/DMARC가 어떻게 동작하는지 인터랙티브하게 보기]]></title>
-        <id>https://www.learndmarc.com/</id>
-        <link href="https://www.learndmarc.com/"/>
-        <updated>2022-01-11T06:07:09.895Z</updated>
-        <content type="html"><![CDATA[(learndmarc.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[넷플릭스가 촬영용으로 승인한 카메라 기기들]]></title>
         <id>https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture</id>
         <link href="https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture"/>
         <updated>2022-01-11T06:07:09.896Z</updated>
         <content type="html"><![CDATA[(partnerhelp.netflixstudios.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이메일의 SPF/DKIM/DMARC가 어떻게 동작하는지 인터랙티브하게 보기]]></title>
+        <id>https://www.learndmarc.com/</id>
+        <link href="https://www.learndmarc.com/"/>
+        <updated>2022-01-11T06:07:09.895Z</updated>
+        <content type="html"><![CDATA[(learndmarc.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[월50만원($400)으로 80TB 트래픽과 5M 페이지뷰를 처리하는 방법]]></title>
