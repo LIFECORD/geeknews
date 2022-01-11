@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-12-23T10:13:38.223Z</updated>
+    <updated>2022-01-11T06:07:49.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 노트가든 모바일-편하게 노트 정리하고, 바로 테스트, SR 알고리즘으로 최적의 주기로 복습까지 도와주...]]></title>
+        <id>https://news.hada.io/topic?id=5686</id>
+        <link href="https://news.hada.io/topic?id=5686"/>
+        <updated>2022-01-11T06:07:22.337Z</updated>
+        <content type="html"><![CDATA[(notegarden.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 라즈베리파이로 주식투자하기]]></title>
+        <id>https://news.hada.io/topic?id=5658</id>
+        <link href="https://news.hada.io/topic?id=5658"/>
+        <updated>2022-01-11T06:07:22.337Z</updated>
+        <content type="html"><![CDATA[(beefproj.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 리모클: 타임존 비주얼라이저 (시차 변환기)]]></title>
+        <id>https://news.hada.io/topic?id=5700</id>
+        <link href="https://news.hada.io/topic?id=5700"/>
+        <updated>2022-01-11T06:07:22.343Z</updated>
+        <content type="html"><![CDATA[(remocle.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
         <id>https://news.hada.io/topic?id=5583</id>
@@ -34,18 +55,18 @@
         <content type="html"><![CDATA[(hexoul.github.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: 디스콰이엇 메이커로그]]></title>
+        <id>https://news.hada.io/topic?id=5637</id>
+        <link href="https://news.hada.io/topic?id=5637"/>
+        <updated>2022-01-11T06:07:22.349Z</updated>
+        <content type="html"><![CDATA[(disquiet.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: edge-yacht - Cloudflare Workers에서 동작하는 멀티플레이어 게임]]></title>
         <id>https://news.hada.io/topic?id=5305</id>
         <link href="https://news.hada.io/topic?id=5305"/>
         <updated>2021-11-02T05:10:22.546Z</updated>
         <content type="html"><![CDATA[(yacht.seokmin.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 한·중·일 전산학 용어 대조]]></title>
-        <id>https://news.hada.io/topic?id=5165</id>
-        <link href="https://news.hada.io/topic?id=5165"/>
-        <updated>2021-10-09T05:09:43.534Z</updated>
-        <content type="html"><![CDATA[(cjk-compsci-terms.netlify.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 포브 - 매일 아침 7시에 동기부여를 줄 수 있는 글귀를 이메일로 전송해주는 서비스]]></title>
@@ -67,26 +88,5 @@
         <link href="https://news.hada.io/topic?id=5292"/>
         <updated>2021-10-31T04:14:40.875Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 화상회의/녹화/AI받아쓰기 한 번에 브라우저에서 ATEND]]></title>
-        <id>https://news.hada.io/topic?id=5141</id>
-        <link href="https://news.hada.io/topic?id=5141"/>
-        <updated>2021-10-05T07:11:25.652Z</updated>
-        <content type="html"><![CDATA[(atend.ai)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Frost - Flask 기반의 여러 Built-In 기능이 있는 REST API 서버 템플릿]]></title>
-        <id>https://news.hada.io/topic?id=5125</id>
-        <link href="https://news.hada.io/topic?id=5125"/>
-        <updated>2021-10-02T08:12:40.241Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 미니앱을 만들 수 있는 잼킷을 소개합니다.]]></title>
-        <id>https://news.hada.io/topic?id=5217</id>
-        <link href="https://news.hada.io/topic?id=5217"/>
-        <updated>2021-10-18T03:12:28.758Z</updated>
-        <content type="html"><![CDATA[(opentutorials.org)]]></content>
     </entry>
 </feed>

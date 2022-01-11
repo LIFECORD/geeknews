@@ -2,145 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2021-12-23T10:13:38.217Z</updated>
+    <updated>2022-01-11T06:07:49.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[FlutterFlow - Flutter앱을 드래그앤 드랍으로 개발]]></title>
-        <id>https://flutterflow.io/</id>
-        <link href="https://flutterflow.io/"/>
-        <updated>2021-12-23T02:38:29.283Z</updated>
-        <content type="html"><![CDATA[(flutterflow.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skillsoft가 Codecademy를 6200억원에 인수]]></title>
-        <id>https://www.skillsoft.com/press-releases/skillsoft-to-acquire-codecademy-a-leading-platform-for-learning-high-demand-technical-skills-creating-a-worldwide-community-of-more-than-85-million-learners</id>
-        <link href="https://www.skillsoft.com/press-releases/skillsoft-to-acquire-codecademy-a-leading-platform-for-learning-high-demand-technical-skills-creating-a-worldwide-community-of-more-than-85-million-learners"/>
-        <updated>2021-12-23T03:12:41.040Z</updated>
-        <content type="html"><![CDATA[(skillsoft.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tor Snowflake - 인터넷 검열 회피 도구]]></title>
-        <id>https://snowflake.torproject.org/</id>
-        <link href="https://snowflake.torproject.org/"/>
-        <updated>2021-12-23T02:00:05.287Z</updated>
-        <content type="html"><![CDATA[(snowflake.torproject.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 업계 트렌드 모음]]></title>
-        <id>https://spacecadet.ventures/2022roundup/</id>
-        <link href="https://spacecadet.ventures/2022roundup/"/>
-        <updated>2021-12-23T02:38:29.284Z</updated>
-        <content type="html"><![CDATA[(spacecadet.ventures)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animated Drawings - 아이들 그림을 애니메이트 하기]]></title>
-        <id>https://sketch.metademolab.com/</id>
-        <link href="https://sketch.metademolab.com/"/>
-        <updated>2021-12-23T02:00:05.288Z</updated>
-        <content type="html"><![CDATA[(sketch.metademolab.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG에 도전하는 TinyVG]]></title>
-        <id>https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8</id>
-        <link href="https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8"/>
-        <updated>2021-12-23T02:00:05.287Z</updated>
-        <content type="html"><![CDATA[(zig.news)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디자인 시스템의 성공과 실패에 대한 6가지 질문]]></title>
-        <id>https://uxdesign.cc/6-questions-to-fail-or-succeed-with-design-systems-2ffada4ab388</id>
-        <link href="https://uxdesign.cc/6-questions-to-fail-or-succeed-with-design-systems-2ffada4ab388"/>
-        <updated>2021-12-22T03:12:57.145Z</updated>
-        <content type="html"><![CDATA[(uxdesign.cc)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리액트 네이티브로 13년 된 네이티브 앱 전환하기]]></title>
-        <id>https://ridicorp.com/story/react-native-ridibooks-ap/</id>
-        <link href="https://ridicorp.com/story/react-native-ridibooks-ap/"/>
-        <updated>2021-12-22T08:15:02.161Z</updated>
-        <content type="html"><![CDATA[(ridicorp.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컨슈머 트렌드 2022 보고서]]></title>
-        <id>https://newconsumer.com/trends/</id>
-        <link href="https://newconsumer.com/trends/"/>
-        <updated>2021-12-22T03:12:57.146Z</updated>
-        <content type="html"><![CDATA[(newconsumer.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTP Toolkit - HTTP 디버깅용 오픈소스]]></title>
-        <id>https://httptoolkit.tech/</id>
-        <link href="https://httptoolkit.tech/"/>
-        <updated>2021-12-21T03:13:23.017Z</updated>
-        <content type="html"><![CDATA[(httptoolkit.tech)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LunaNotes - 유튜브 보면서 노트 남기는 크롬 확장]]></title>
-        <id>https://www.lunanotes.io/</id>
-        <link href="https://www.lunanotes.io/"/>
-        <updated>2021-12-22T02:01:59.144Z</updated>
-        <content type="html"><![CDATA[(lunanotes.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Native Skia]]></title>
-        <id>https://github.com/Shopify/react-native-skia</id>
-        <link href="https://github.com/Shopify/react-native-skia"/>
-        <updated>2021-12-22T02:01:59.143Z</updated>
+        <title type="html"><![CDATA[딥러닝 인터뷰 북 [401P e북 PDF]]]></title>
+        <id>https://github.com/BoltzmannEntropy/interviews.ai</id>
+        <link href="https://github.com/BoltzmannEntropy/interviews.ai"/>
+        <updated>2022-01-11T06:07:09.895Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Omnizart - 음악 전체를 필사(Transcribe)해주는 오픈소스]]></title>
-        <id>https://github.com/Music-and-Culture-Technology-Lab/omnizart</id>
-        <link href="https://github.com/Music-and-Culture-Technology-Lab/omnizart"/>
-        <updated>2021-12-21T02:02:38.322Z</updated>
+        <title type="html"><![CDATA[건강한 Postgres DB를 위한 팁]]></title>
+        <id>https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year</id>
+        <link href="https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year"/>
+        <updated>2022-01-11T06:07:09.895Z</updated>
+        <content type="html"><![CDATA[(blog.crunchydata.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이메일의 SPF/DKIM/DMARC가 어떻게 동작하는지 인터랙티브하게 보기]]></title>
+        <id>https://www.learndmarc.com/</id>
+        <link href="https://www.learndmarc.com/"/>
+        <updated>2022-01-11T06:07:09.895Z</updated>
+        <content type="html"><![CDATA[(learndmarc.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스가 촬영용으로 승인한 카메라 기기들]]></title>
+        <id>https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture</id>
+        <link href="https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture"/>
+        <updated>2022-01-11T06:07:09.896Z</updated>
+        <content type="html"><![CDATA[(partnerhelp.netflixstudios.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
+        <id>https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/</id>
+        <link href="https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/"/>
+        <updated>2022-01-11T06:07:09.907Z</updated>
+        <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월50만원($400)으로 80TB 트래픽과 5M 페이지뷰를 처리하는 방법]]></title>
+        <id>https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/</id>
+        <link href="https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/"/>
+        <updated>2022-01-11T06:07:09.907Z</updated>
+        <content type="html"><![CDATA[(blog.polyhaven.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colors.js / Faker.js 개발자가 무한루프 코드를 삽입하고, Repo의 코드를 모두 지움]]></title>
+        <id>https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/</id>
+        <link href="https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/"/>
+        <updated>2022-01-11T06:07:09.909Z</updated>
+        <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BookStack - 컨플루언스 대체용 오픈소스 위키 플랫폼]]></title>
+        <id>https://www.bookstackapp.com/</id>
+        <link href="https://www.bookstackapp.com/"/>
+        <updated>2022-01-11T06:07:09.917Z</updated>
+        <content type="html"><![CDATA[(bookstackapp.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이디어를 SaaS로 만들고 14개월만에 판매한 후기]]></title>
+        <id>https://masilotti.com/idea-to-sold-in-14-months/</id>
+        <link href="https://masilotti.com/idea-to-sold-in-14-months/"/>
+        <updated>2022-01-11T06:07:09.917Z</updated>
+        <content type="html"><![CDATA[(masilotti.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 JavaScript Rising Stars]]></title>
+        <id>https://risingstars.js.org/2021/en</id>
+        <link href="https://risingstars.js.org/2021/en"/>
+        <updated>2022-01-11T06:07:09.918Z</updated>
+        <content type="html"><![CDATA[(risingstars.js.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[참을성 없는 개발자를 위한 JavaScript [e북] 2022 에디션]]></title>
+        <id>https://exploringjs.com/impatient-js/</id>
+        <link href="https://exploringjs.com/impatient-js/"/>
+        <updated>2022-01-11T06:07:09.919Z</updated>
+        <content type="html"><![CDATA[(exploringjs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cooking for Engineers]]></title>
+        <id>http://www.cookingforengineers.com/</id>
+        <link href="http://www.cookingforengineers.com/"/>
+        <updated>2022-01-11T06:07:09.920Z</updated>
+        <content type="html"><![CDATA[(cookingforengineers.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사무실 없이 일 잘하는 법 - 로켓펀치의 자율 근무 문화 가이드북]]></title>
+        <id>https://rocketpunch.notion.site/56ae1abe55af46548dec2c71617b4310</id>
+        <link href="https://rocketpunch.notion.site/56ae1abe55af46548dec2c71617b4310"/>
+        <updated>2022-01-11T06:07:09.921Z</updated>
+        <content type="html"><![CDATA[(rocketpunch.notion.site)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VC들이 추천한 창업자가 꼭 읽어야 할 책들]]></title>
+        <id>https://www.protocol.com/books-for-startup-founders</id>
+        <link href="https://www.protocol.com/books-for-startup-founders"/>
+        <updated>2022-01-11T06:07:09.922Z</updated>
+        <content type="html"><![CDATA[(protocol.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[imap-backup - GMail(IMAP) 계정을 파일로 백업하기]]></title>
+        <id>https://github.com/joeyates/imap-backup</id>
+        <link href="https://github.com/joeyates/imap-backup"/>
+        <updated>2022-01-11T06:07:09.923Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 지름은?]]></title>
-        <id>https://news.hada.io/topic?id=5594</id>
-        <link href="https://news.hada.io/topic?id=5594"/>
-        <updated>2021-12-22T05:12:49.490Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 2021년에 배운 52가지]]></title>
-        <id>https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409</id>
-        <link href="https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2021-8481c4e0d409"/>
-        <updated>2021-12-20T02:41:19.675Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고수들이 본 NFT의 미래]]></title>
-        <id>https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g==</id>
-        <link href="https://stibee.com/api/v1.0/emails/share/RhV-S71Pl5VCt5dR5_H1tPKpxsFs2g=="/>
-        <updated>2021-12-21T00:41:57.237Z</updated>
-        <content type="html"><![CDATA[(stibee.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 남들에게 꼭 추천하는 책이 있으신가요?]]></title>
-        <id>https://news.hada.io/topic?id=5582</id>
-        <link href="https://news.hada.io/topic?id=5582"/>
-        <updated>2021-12-20T04:15:33.970Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트렌드 코리아 2022 "TIGER OR CAT"]]></title>
-        <id>https://brunch.co.kr/@sangsangplanet/64</id>
-        <link href="https://brunch.co.kr/@sangsangplanet/64"/>
-        <updated>2021-12-22T02:01:59.145Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애자일 안한 이야기 (39p Slide)]]></title>
-        <id>https://www.slideshare.net/gyumee/ss-250847726</id>
-        <link href="https://www.slideshare.net/gyumee/ss-250847726"/>
-        <updated>2021-12-21T02:02:38.328Z</updated>
-        <content type="html"><![CDATA[(slideshare.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GSH - Windows를 위한 POSIX shell]]></title>
-        <id>https://github.com/AdaCore/gsh</id>
-        <link href="https://github.com/AdaCore/gsh"/>
-        <updated>2021-12-22T04:15:13.081Z</updated>
+        <title type="html"><![CDATA[MiniVM - 작고 빠른 크로스랭귀지 VM 오픈소스]]></title>
+        <id>https://github.com/FastVM/minivm</id>
+        <link href="https://github.com/FastVM/minivm"/>
+        <updated>2022-01-11T06:07:09.923Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Layout Generator]]></title>
+        <id>https://layout.bradwoods.io/</id>
+        <link href="https://layout.bradwoods.io/"/>
+        <updated>2022-01-11T06:07:09.926Z</updated>
+        <content type="html"><![CDATA[(layout.bradwoods.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netmaker - WireGuard 기반 오픈소스 VPN 플랫폼]]></title>
+        <id>https://github.com/gravitl/netmaker</id>
+        <link href="https://github.com/gravitl/netmaker"/>
+        <updated>2022-01-11T06:07:09.926Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실행중에 실행파일 업그레이드하기]]></title>
+        <id>https://nginx.org/en/docs/control.html#upgrade</id>
+        <link href="https://nginx.org/en/docs/control.html#upgrade"/>
+        <updated>2022-01-11T06:07:09.927Z</updated>
+        <content type="html"><![CDATA[(nginx.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모두를 위한 MLOps 튜토리얼 (한국어)]]></title>
+        <id>https://mlops-for-all.github.io/</id>
+        <link href="https://mlops-for-all.github.io/"/>
+        <updated>2022-01-11T06:07:09.929Z</updated>
+        <content type="html"><![CDATA[(mlops-for-all.github.io)]]></content>
     </entry>
 </feed>

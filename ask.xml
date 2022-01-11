@@ -2,20 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2021-12-23T10:13:38.213Z</updated>
+    <updated>2022-01-11T06:07:49.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Ask GN: Http 요청 관련 툴을 추천해보아요]]></title>
-        <id>https://news.hada.io/topic?id=5607</id>
-        <link href="https://news.hada.io/topic?id=5607"/>
-        <updated>2021-12-23T08:15:41.789Z</updated>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
+        <id>https://news.hada.io/topic?id=5679</id>
+        <link href="https://news.hada.io/topic?id=5679"/>
+        <updated>2022-01-11T06:07:28.400Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 지름은?]]></title>
-        <id>https://news.hada.io/topic?id=5594</id>
-        <link href="https://news.hada.io/topic?id=5594"/>
-        <updated>2021-12-22T02:02:18.053Z</updated>
+        <title type="html"><![CDATA[Ask GN: 읽고 싶은 수많은 기술 글들 어떻게 관리하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5631</id>
+        <link href="https://news.hada.io/topic?id=5631"/>
+        <updated>2022-01-11T06:07:28.400Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5706</id>
+        <link href="https://news.hada.io/topic?id=5706"/>
+        <updated>2022-01-11T06:07:28.401Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 남들에게 꼭 추천하는 책이 있으신가요?]]></title>
@@ -24,10 +30,40 @@
         <updated>2021-12-20T03:13:05.756Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 콘텐츠는 ?]]></title>
-        <id>https://news.hada.io/topic?id=5591</id>
-        <link href="https://news.hada.io/topic?id=5591"/>
-        <updated>2021-12-21T03:13:40.650Z</updated>
+        <title type="html"><![CDATA[Ask GN: 프리랜서 데이터 분석가이신 분 있으신가요?]]></title>
+        <id>https://news.hada.io/topic?id=5673</id>
+        <link href="https://news.hada.io/topic?id=5673"/>
+        <updated>2022-01-11T06:07:28.401Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 새해 계획은 어떤 것인가요?]]></title>
+        <id>https://news.hada.io/topic?id=5666</id>
+        <link href="https://news.hada.io/topic?id=5666"/>
+        <updated>2022-01-11T06:07:28.401Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 유튜브/팟캐스트 에피소드는 ?]]></title>
+        <id>https://news.hada.io/topic?id=5650</id>
+        <link href="https://news.hada.io/topic?id=5650"/>
+        <updated>2022-01-11T06:07:28.401Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 지름은?]]></title>
+        <id>https://news.hada.io/topic?id=5594</id>
+        <link href="https://news.hada.io/topic?id=5594"/>
+        <updated>2021-12-22T02:02:18.053Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 100억이 생긴다면 남은 삶을 어떻게 사실 것 같으신가요?]]></title>
+        <id>https://news.hada.io/topic?id=5644</id>
+        <link href="https://news.hada.io/topic?id=5644"/>
+        <updated>2022-01-11T06:07:28.403Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: Http 요청 관련 툴을 추천해보아요]]></title>
+        <id>https://news.hada.io/topic?id=5607</id>
+        <link href="https://news.hada.io/topic?id=5607"/>
+        <updated>2021-12-23T08:15:41.789Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 재택환경에서 어떤 책상을 사용하시나요?]]></title>
@@ -36,16 +72,10 @@
         <updated>2021-12-16T05:11:21.169Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5564</id>
-        <link href="https://news.hada.io/topic?id=5564"/>
-        <updated>2021-12-17T00:41:33.736Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 온라인 페어작업을 위한 도구나 방법으로 추천해주실 만한 게 있을까요?]]></title>
-        <id>https://news.hada.io/topic?id=5525</id>
-        <link href="https://news.hada.io/topic?id=5525"/>
-        <updated>2021-12-10T03:12:38.372Z</updated>
+        <title type="html"><![CDATA[Ask GN: 이번 주말/연말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5656</id>
+        <link href="https://news.hada.io/topic?id=5656"/>
+        <updated>2022-01-11T06:07:28.413Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
@@ -54,10 +84,22 @@
         <updated>2021-12-07T08:15:16.693Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 일기를 쓰는데 가장 괜찮은 앱, 프로그램, 웹 서비스는 어떤걸까요?]]></title>
-        <id>https://news.hada.io/topic?id=5526</id>
-        <link href="https://news.hada.io/topic?id=5526"/>
-        <updated>2021-12-10T03:12:38.377Z</updated>
+        <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 콘텐츠는 ?]]></title>
+        <id>https://news.hada.io/topic?id=5591</id>
+        <link href="https://news.hada.io/topic?id=5591"/>
+        <updated>2021-12-21T03:13:40.650Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 온라인 페어작업을 위한 도구나 방법으로 추천해주실 만한 게 있을까요?]]></title>
+        <id>https://news.hada.io/topic?id=5525</id>
+        <link href="https://news.hada.io/topic?id=5525"/>
+        <updated>2021-12-10T03:12:38.372Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5611</id>
+        <link href="https://news.hada.io/topic?id=5611"/>
+        <updated>2022-01-11T06:07:28.416Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 연말에 뭐 하실 건가요?]]></title>
@@ -66,16 +108,10 @@
         <updated>2021-12-08T07:12:22.682Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5521</id>
-        <link href="https://news.hada.io/topic?id=5521"/>
-        <updated>2021-12-10T01:54:23.638Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 연말에 감사인사 보내는 좋은 서비스가 있을까요?]]></title>
-        <id>https://news.hada.io/topic?id=5517</id>
-        <link href="https://news.hada.io/topic?id=5517"/>
-        <updated>2021-12-09T04:15:35.264Z</updated>
+        <title type="html"><![CDATA[Ask GN: 일기를 쓰는데 가장 괜찮은 앱, 프로그램, 웹 서비스는 어떤걸까요?]]></title>
+        <id>https://news.hada.io/topic?id=5526</id>
+        <link href="https://news.hada.io/topic?id=5526"/>
+        <updated>2021-12-10T03:12:38.377Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 지금까지 만나보셨던 탁월한 개발자들의 공통적인 특징은 무엇이었나요?]]></title>
@@ -88,41 +124,5 @@
         <id>https://news.hada.io/topic?id=5468</id>
         <link href="https://news.hada.io/topic?id=5468"/>
         <updated>2021-12-01T20:13:00.259Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5474</id>
-        <link href="https://news.hada.io/topic?id=5474"/>
-        <updated>2021-12-03T00:37:47.243Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 입사 할 때 어떤 장비를 받으셨나요?]]></title>
-        <id>https://news.hada.io/topic?id=5354</id>
-        <link href="https://news.hada.io/topic?id=5354"/>
-        <updated>2021-11-10T08:14:25.002Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5435</id>
-        <link href="https://news.hada.io/topic?id=5435"/>
-        <updated>2021-11-26T00:37:20.175Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 주변의 누군가 개발자가 되는 것에 대해 진지하게 물어본다면 뭐라고 대답해주실 건가요?]]></title>
-        <id>https://news.hada.io/topic?id=5296</id>
-        <link href="https://news.hada.io/topic?id=5296"/>
-        <updated>2021-11-01T01:57:18.833Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 지난 10년 간 최고의 결정은 무엇이었나요?]]></title>
-        <id>https://news.hada.io/topic?id=5288</id>
-        <link href="https://news.hada.io/topic?id=5288"/>
-        <updated>2021-10-30T05:10:28.476Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5362</id>
-        <link href="https://news.hada.io/topic?id=5362"/>
-        <updated>2021-11-12T00:38:24.483Z</updated>
     </entry>
 </feed>
