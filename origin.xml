@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-11T19:14:50.588Z</updated>
+    <updated>2022-01-11T20:18:59.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
-        <id>https://news.hada.io/topic?id=5726</id>
-        <link href="https://news.hada.io/topic?id=5726"/>
-        <updated>2022-01-11T12:28:11.029Z</updated>
-        <content type="html"><![CDATA[(theinin.web.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[참을성 없는 개발자를 위한 JavaScript [e북] 2022 에디션]]></title>
         <id>https://exploringjs.com/impatient-js/</id>
         <link href="https://exploringjs.com/impatient-js/"/>
         <updated>2022-01-11T06:07:09.919Z</updated>
         <content type="html"><![CDATA[(exploringjs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
+        <id>https://news.hada.io/topic?id=5726</id>
+        <link href="https://news.hada.io/topic?id=5726"/>
+        <updated>2022-01-11T12:28:11.029Z</updated>
+        <content type="html"><![CDATA[(theinin.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cooking for Engineers]]></title>
