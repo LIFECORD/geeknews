@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-11T22:17:53.395Z</updated>
+    <updated>2022-01-11T23:19:00.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(exploringjs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
-        <id>https://news.hada.io/topic?id=5726</id>
-        <link href="https://news.hada.io/topic?id=5726"/>
-        <updated>2022-01-11T12:28:11.029Z</updated>
-        <content type="html"><![CDATA[(theinin.web.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cooking for Engineers]]></title>
         <id>http://www.cookingforengineers.com/</id>
         <link href="http://www.cookingforengineers.com/"/>
         <updated>2022-01-11T06:07:09.920Z</updated>
         <content type="html"><![CDATA[(cookingforengineers.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
+        <id>https://news.hada.io/topic?id=5726</id>
+        <link href="https://news.hada.io/topic?id=5726"/>
+        <updated>2022-01-11T12:28:11.029Z</updated>
+        <content type="html"><![CDATA[(theinin.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사무실 없이 일 잘하는 법 - 로켓펀치의 자율 근무 문화 가이드북]]></title>
