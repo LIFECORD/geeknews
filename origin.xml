@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-11T08:22:21.202Z</updated>
+    <updated>2022-01-11T09:18:47.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://github.com/BoltzmannEntropy/interviews.ai"/>
         <updated>2022-01-11T06:07:09.895Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이메일의 SPF/DKIM/DMARC가 어떻게 동작하는지 인터랙티브하게 보기]]></title>
+        <id>https://www.learndmarc.com/</id>
+        <link href="https://www.learndmarc.com/"/>
+        <updated>2022-01-11T06:07:09.895Z</updated>
+        <content type="html"><![CDATA[(learndmarc.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[건강한 Postgres DB를 위한 팁]]></title>
@@ -25,13 +32,6 @@
         <link href="https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture"/>
         <updated>2022-01-11T06:07:09.896Z</updated>
         <content type="html"><![CDATA[(partnerhelp.netflixstudios.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이메일의 SPF/DKIM/DMARC가 어떻게 동작하는지 인터랙티브하게 보기]]></title>
-        <id>https://www.learndmarc.com/</id>
-        <link href="https://www.learndmarc.com/"/>
-        <updated>2022-01-11T06:07:09.895Z</updated>
-        <content type="html"><![CDATA[(learndmarc.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[월50만원($400)으로 80TB 트래픽과 5M 페이지뷰를 처리하는 방법]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BookStack - 컨플루언스 대체용 오픈소스 위키 플랫폼]]></title>
-        <id>https://www.bookstackapp.com/</id>
-        <link href="https://www.bookstackapp.com/"/>
-        <updated>2022-01-11T06:07:09.917Z</updated>
-        <content type="html"><![CDATA[(bookstackapp.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021 JavaScript Rising Stars]]></title>
         <id>https://risingstars.js.org/2021/en</id>
         <link href="https://risingstars.js.org/2021/en"/>
         <updated>2022-01-11T06:07:09.918Z</updated>
         <content type="html"><![CDATA[(risingstars.js.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BookStack - 컨플루언스 대체용 오픈소스 위키 플랫폼]]></title>
+        <id>https://www.bookstackapp.com/</id>
+        <link href="https://www.bookstackapp.com/"/>
+        <updated>2022-01-11T06:07:09.917Z</updated>
+        <content type="html"><![CDATA[(bookstackapp.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[참을성 없는 개발자를 위한 JavaScript [e북] 2022 에디션]]></title>
