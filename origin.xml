@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-11T17:28:39.087Z</updated>
+    <updated>2022-01-11T18:21:20.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(partnerhelp.netflixstudios.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BookStack - 컨플루언스 대체용 오픈소스 위키 플랫폼]]></title>
-        <id>https://www.bookstackapp.com/</id>
-        <link href="https://www.bookstackapp.com/"/>
-        <updated>2022-01-11T06:07:09.917Z</updated>
-        <content type="html"><![CDATA[(bookstackapp.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아이디어를 SaaS로 만들고 14개월만에 판매한 후기]]></title>
         <id>https://masilotti.com/idea-to-sold-in-14-months/</id>
         <link href="https://masilotti.com/idea-to-sold-in-14-months/"/>
         <updated>2022-01-11T06:07:09.917Z</updated>
         <content type="html"><![CDATA[(masilotti.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BookStack - 컨플루언스 대체용 오픈소스 위키 플랫폼]]></title>
+        <id>https://www.bookstackapp.com/</id>
+        <link href="https://www.bookstackapp.com/"/>
+        <updated>2022-01-11T06:07:09.917Z</updated>
+        <content type="html"><![CDATA[(bookstackapp.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 JavaScript Rising Stars]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(risingstars.js.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
-        <id>https://news.hada.io/topic?id=5726</id>
-        <link href="https://news.hada.io/topic?id=5726"/>
-        <updated>2022-01-11T12:28:11.029Z</updated>
-        <content type="html"><![CDATA[(theinin.web.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Colors.js / Faker.js 개발자가 무한루프 코드를 삽입하고, Repo의 코드를 모두 지움]]></title>
         <id>https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/</id>
         <link href="https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/"/>
         <updated>2022-01-11T06:07:09.909Z</updated>
         <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
+        <id>https://news.hada.io/topic?id=5726</id>
+        <link href="https://news.hada.io/topic?id=5726"/>
+        <updated>2022-01-11T12:28:11.029Z</updated>
+        <content type="html"><![CDATA[(theinin.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[참을성 없는 개발자를 위한 JavaScript [e북] 2022 에디션]]></title>
@@ -118,17 +118,17 @@
         <content type="html"><![CDATA[(layout.bradwoods.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[imap-backup - GMail(IMAP) 계정을 파일로 백업하기]]></title>
-        <id>https://github.com/joeyates/imap-backup</id>
-        <link href="https://github.com/joeyates/imap-backup"/>
-        <updated>2022-01-11T06:07:09.923Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Netmaker - WireGuard 기반 오픈소스 VPN 플랫폼]]></title>
         <id>https://github.com/gravitl/netmaker</id>
         <link href="https://github.com/gravitl/netmaker"/>
         <updated>2022-01-11T06:07:09.926Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[imap-backup - GMail(IMAP) 계정을 파일로 백업하기]]></title>
+        <id>https://github.com/joeyates/imap-backup</id>
+        <link href="https://github.com/joeyates/imap-backup"/>
+        <updated>2022-01-11T06:07:09.923Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
