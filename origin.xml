@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-11T20:18:59.142Z</updated>
+    <updated>2022-01-11T21:16:36.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(learndmarc.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[건강한 Postgres DB를 위한 팁]]></title>
-        <id>https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year</id>
-        <link href="https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year"/>
-        <updated>2022-01-11T06:07:09.895Z</updated>
-        <content type="html"><![CDATA[(blog.crunchydata.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[월50만원($400)으로 80TB 트래픽과 5M 페이지뷰를 처리하는 방법]]></title>
         <id>https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/</id>
         <link href="https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/"/>
         <updated>2022-01-11T06:07:09.907Z</updated>
         <content type="html"><![CDATA[(blog.polyhaven.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건강한 Postgres DB를 위한 팁]]></title>
+        <id>https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year</id>
+        <link href="https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year"/>
+        <updated>2022-01-11T06:07:09.895Z</updated>
+        <content type="html"><![CDATA[(blog.crunchydata.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[참을성 없는 개발자를 위한 JavaScript [e북] 2022 에디션]]></title>
-        <id>https://exploringjs.com/impatient-js/</id>
-        <link href="https://exploringjs.com/impatient-js/"/>
-        <updated>2022-01-11T06:07:09.919Z</updated>
-        <content type="html"><![CDATA[(exploringjs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
         <id>https://news.hada.io/topic?id=5726</id>
         <link href="https://news.hada.io/topic?id=5726"/>
         <updated>2022-01-11T12:28:11.029Z</updated>
         <content type="html"><![CDATA[(theinin.web.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[참을성 없는 개발자를 위한 JavaScript [e북] 2022 에디션]]></title>
+        <id>https://exploringjs.com/impatient-js/</id>
+        <link href="https://exploringjs.com/impatient-js/"/>
+        <updated>2022-01-11T06:07:09.919Z</updated>
+        <content type="html"><![CDATA[(exploringjs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cooking for Engineers]]></title>
