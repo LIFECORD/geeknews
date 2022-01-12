@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-12T00:59:33.775Z</updated>
+    <updated>2022-01-12T03:20:22.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dura - Git 자동 저장 유틸리티]]></title>
+        <id>https://github.com/tkellogg/dura</id>
+        <link href="https://github.com/tkellogg/dura"/>
+        <updated>2022-01-12T03:19:43.566Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전문가들이 보는 2022년 전망]]></title>
         <id>https://www.visualcapitalist.com/prediction-consensus-what-the-experts-see-coming-in-2022/</id>
         <link href="https://www.visualcapitalist.com/prediction-consensus-what-the-experts-see-coming-in-2022/"/>
         <updated>2022-01-12T00:58:57.275Z</updated>
         <content type="html"><![CDATA[(visualcapitalist.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movie of the Night - Streaming Availability API]]></title>
+        <id>https://www.movieofthenight.com/about/api</id>
+        <link href="https://www.movieofthenight.com/about/api"/>
+        <updated>2022-01-12T03:19:43.580Z</updated>
+        <content type="html"><![CDATA[(movieofthenight.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넥슨그룹 첫 정년퇴직자 '백영진'의 소회]]></title>
+        <id>https://www.inven.co.kr/webzine/news/?news=266901</id>
+        <link href="https://www.inven.co.kr/webzine/news/?news=266901"/>
+        <updated>2022-01-12T03:19:43.581Z</updated>
+        <content type="html"><![CDATA[(inven.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[딥러닝 인터뷰 북 [401P e북 PDF]]]></title>
@@ -34,6 +55,13 @@
         <content type="html"><![CDATA[(learndmarc.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
+        <id>https://news.hada.io/topic?id=5726</id>
+        <link href="https://news.hada.io/topic?id=5726"/>
+        <updated>2022-01-11T12:28:11.029Z</updated>
+        <content type="html"><![CDATA[(theinin.web.app)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
         <id>https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/</id>
         <link href="https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/"/>
@@ -48,6 +76,20 @@
         <content type="html"><![CDATA[(blog.crunchydata.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Firefox 96 릴리즈]]></title>
+        <id>https://www.mozilla.org/en-US/firefox/96.0/releasenotes/</id>
+        <link href="https://www.mozilla.org/en-US/firefox/96.0/releasenotes/"/>
+        <updated>2022-01-12T03:19:43.603Z</updated>
+        <content type="html"><![CDATA[(mozilla.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 한국 앱스토어서 외부결제 허용, 수수료도 인하]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=105&amp;oid=001&amp;aid=0012910012</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=105&amp;oid=001&amp;aid=0012910012"/>
+        <updated>2022-01-12T03:19:43.606Z</updated>
+        <content type="html"><![CDATA[(news.naver.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[넷플릭스가 촬영용으로 승인한 카메라 기기들]]></title>
         <id>https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture</id>
         <link href="https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture"/>
@@ -55,11 +97,11 @@
         <content type="html"><![CDATA[(partnerhelp.netflixstudios.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
-        <id>https://news.hada.io/topic?id=5726</id>
-        <link href="https://news.hada.io/topic?id=5726"/>
-        <updated>2022-01-11T12:28:11.029Z</updated>
-        <content type="html"><![CDATA[(theinin.web.app)]]></content>
+        <title type="html"><![CDATA[Y컴비네이터, 투자금액을 $500K로 상향]]></title>
+        <id>https://blog.ycombinator.com/ycs-standard-deal/</id>
+        <link href="https://blog.ycombinator.com/ycs-standard-deal/"/>
+        <updated>2022-01-12T03:19:43.609Z</updated>
+        <content type="html"><![CDATA[(blog.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BookStack - 컨플루언스 대체용 오픈소스 위키 플랫폼]]></title>
@@ -102,47 +144,5 @@
         <link href="http://www.cookingforengineers.com/"/>
         <updated>2022-01-11T06:07:09.920Z</updated>
         <content type="html"><![CDATA[(cookingforengineers.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사무실 없이 일 잘하는 법 - 로켓펀치의 자율 근무 문화 가이드북]]></title>
-        <id>https://rocketpunch.notion.site/56ae1abe55af46548dec2c71617b4310</id>
-        <link href="https://rocketpunch.notion.site/56ae1abe55af46548dec2c71617b4310"/>
-        <updated>2022-01-11T06:07:09.921Z</updated>
-        <content type="html"><![CDATA[(rocketpunch.notion.site)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VC들이 추천한 창업자가 꼭 읽어야 할 책들]]></title>
-        <id>https://www.protocol.com/books-for-startup-founders</id>
-        <link href="https://www.protocol.com/books-for-startup-founders"/>
-        <updated>2022-01-11T06:07:09.922Z</updated>
-        <content type="html"><![CDATA[(protocol.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Layout Generator]]></title>
-        <id>https://layout.bradwoods.io/</id>
-        <link href="https://layout.bradwoods.io/"/>
-        <updated>2022-01-11T06:07:09.926Z</updated>
-        <content type="html"><![CDATA[(layout.bradwoods.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netmaker - WireGuard 기반 오픈소스 VPN 플랫폼]]></title>
-        <id>https://github.com/gravitl/netmaker</id>
-        <link href="https://github.com/gravitl/netmaker"/>
-        <updated>2022-01-11T06:07:09.926Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[imap-backup - GMail(IMAP) 계정을 파일로 백업하기]]></title>
-        <id>https://github.com/joeyates/imap-backup</id>
-        <link href="https://github.com/joeyates/imap-backup"/>
-        <updated>2022-01-11T06:07:09.923Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MiniVM - 작고 빠른 크로스랭귀지 VM 오픈소스]]></title>
-        <id>https://github.com/FastVM/minivm</id>
-        <link href="https://github.com/FastVM/minivm"/>
-        <updated>2022-01-11T06:07:09.923Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
