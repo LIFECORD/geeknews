@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-12T18:21:13.555Z</updated>
+    <updated>2022-01-12T19:15:30.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(blog.crunchydata.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넷플릭스가 촬영용으로 승인한 카메라 기기들]]></title>
-        <id>https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture</id>
-        <link href="https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture"/>
-        <updated>2022-01-11T06:07:09.896Z</updated>
-        <content type="html"><![CDATA[(partnerhelp.netflixstudios.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Y컴비네이터, 투자금액을 $500K로 상향]]></title>
         <id>https://blog.ycombinator.com/ycs-standard-deal/</id>
         <link href="https://blog.ycombinator.com/ycs-standard-deal/"/>
         <updated>2022-01-12T03:19:43.609Z</updated>
         <content type="html"><![CDATA[(blog.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스가 촬영용으로 승인한 카메라 기기들]]></title>
+        <id>https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture</id>
+        <link href="https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture"/>
+        <updated>2022-01-11T06:07:09.896Z</updated>
+        <content type="html"><![CDATA[(partnerhelp.netflixstudios.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온라인으로 참관한 CES 2022]]></title>
