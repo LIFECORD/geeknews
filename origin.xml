@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-12T19:15:30.370Z</updated>
+    <updated>2022-01-12T20:19:30.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[(blog.crunchydata.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Y컴비네이터, 투자금액을 $500K로 상향]]></title>
-        <id>https://blog.ycombinator.com/ycs-standard-deal/</id>
-        <link href="https://blog.ycombinator.com/ycs-standard-deal/"/>
-        <updated>2022-01-12T03:19:43.609Z</updated>
-        <content type="html"><![CDATA[(blog.ycombinator.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[넷플릭스가 촬영용으로 승인한 카메라 기기들]]></title>
         <id>https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture</id>
         <link href="https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-and-Image-Capture"/>
@@ -104,11 +97,11 @@
         <content type="html"><![CDATA[(partnerhelp.netflixstudios.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온라인으로 참관한 CES 2022]]></title>
-        <id>https://brunch.co.kr/@ioojoo/151</id>
-        <link href="https://brunch.co.kr/@ioojoo/151"/>
-        <updated>2022-01-12T04:23:08.304Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
+        <title type="html"><![CDATA[Y컴비네이터, 투자금액을 $500K로 상향]]></title>
+        <id>https://blog.ycombinator.com/ycs-standard-deal/</id>
+        <link href="https://blog.ycombinator.com/ycs-standard-deal/"/>
+        <updated>2022-01-12T03:19:43.609Z</updated>
+        <content type="html"><![CDATA[(blog.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이디어를 SaaS로 만들고 14개월만에 판매한 후기]]></title>
@@ -116,6 +109,13 @@
         <link href="https://masilotti.com/idea-to-sold-in-14-months/"/>
         <updated>2022-01-11T06:07:09.917Z</updated>
         <content type="html"><![CDATA[(masilotti.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온라인으로 참관한 CES 2022]]></title>
+        <id>https://brunch.co.kr/@ioojoo/151</id>
+        <link href="https://brunch.co.kr/@ioojoo/151"/>
+        <updated>2022-01-12T04:23:08.304Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BookStack - 컨플루언스 대체용 오픈소스 위키 플랫폼]]></title>
