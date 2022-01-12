@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-12T11:15:03.725Z</updated>
+    <updated>2022-01-12T12:29:02.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,20 +69,6 @@
         <content type="html"><![CDATA[(blog.polyhaven.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Y컴비네이터, 투자금액을 $500K로 상향]]></title>
-        <id>https://blog.ycombinator.com/ycs-standard-deal/</id>
-        <link href="https://blog.ycombinator.com/ycs-standard-deal/"/>
-        <updated>2022-01-12T03:19:43.609Z</updated>
-        <content type="html"><![CDATA[(blog.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인으로 참관한 CES 2022]]></title>
-        <id>https://brunch.co.kr/@ioojoo/151</id>
-        <link href="https://brunch.co.kr/@ioojoo/151"/>
-        <updated>2022-01-12T04:23:08.304Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
         <id>https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/</id>
         <link href="https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/"/>
@@ -90,11 +76,25 @@
         <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Y컴비네이터, 투자금액을 $500K로 상향]]></title>
+        <id>https://blog.ycombinator.com/ycs-standard-deal/</id>
+        <link href="https://blog.ycombinator.com/ycs-standard-deal/"/>
+        <updated>2022-01-12T03:19:43.609Z</updated>
+        <content type="html"><![CDATA[(blog.ycombinator.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이메일의 SPF/DKIM/DMARC가 어떻게 동작하는지 인터랙티브하게 보기]]></title>
         <id>https://www.learndmarc.com/</id>
         <link href="https://www.learndmarc.com/"/>
         <updated>2022-01-11T06:07:09.895Z</updated>
         <content type="html"><![CDATA[(learndmarc.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온라인으로 참관한 CES 2022]]></title>
+        <id>https://brunch.co.kr/@ioojoo/151</id>
+        <link href="https://brunch.co.kr/@ioojoo/151"/>
+        <updated>2022-01-12T04:23:08.304Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[건강한 Postgres DB를 위한 팁]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(risingstars.js.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 한국 앱스토어서 외부결제 허용, 수수료도 인하]]></title>
-        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=105&amp;oid=001&amp;aid=0012910012</id>
-        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=105&amp;oid=001&amp;aid=0012910012"/>
-        <updated>2022-01-12T03:19:43.606Z</updated>
-        <content type="html"><![CDATA[(news.naver.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[참을성 없는 개발자를 위한 JavaScript [e북] 2022 에디션]]></title>
         <id>https://exploringjs.com/impatient-js/</id>
         <link href="https://exploringjs.com/impatient-js/"/>
         <updated>2022-01-11T06:07:09.919Z</updated>
         <content type="html"><![CDATA[(exploringjs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 한국 앱스토어서 외부결제 허용, 수수료도 인하]]></title>
+        <id>https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=105&amp;oid=001&amp;aid=0012910012</id>
+        <link href="https://news.naver.com/main/read.naver?mode=LSD&amp;mid=sec&amp;sid1=105&amp;oid=001&amp;aid=0012910012"/>
+        <updated>2022-01-12T03:19:43.606Z</updated>
+        <content type="html"><![CDATA[(news.naver.com)]]></content>
     </entry>
 </feed>
