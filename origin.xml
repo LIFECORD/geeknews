@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-13T03:20:28.934Z</updated>
+    <updated>2022-01-13T04:24:05.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apache PLC4x 개발자, 펀딩 부족으로 커뮤니티 지원은 중단하겠다고 발표]]></title>
-        <id>https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc</id>
-        <link href="https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc"/>
-        <updated>2022-01-13T02:39:07.632Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["회색 데드 존" 없는 아름다운 CSS 그라데이션 만들기]]></title>
         <id>https://www.joshwcomeau.com/css/make-beautiful-gradients/</id>
         <link href="https://www.joshwcomeau.com/css/make-beautiful-gradients/"/>
         <updated>2022-01-13T02:39:07.632Z</updated>
         <content type="html"><![CDATA[(joshwcomeau.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache PLC4x 개발자, 펀딩 부족으로 커뮤니티 지원은 중단하겠다고 발표]]></title>
+        <id>https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc</id>
+        <link href="https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc"/>
+        <updated>2022-01-13T02:39:07.632Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PHP in 2022]]></title>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(stitcher.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dura - Git 자동 저장 유틸리티]]></title>
-        <id>https://github.com/tkellogg/dura</id>
-        <link href="https://github.com/tkellogg/dura"/>
-        <updated>2022-01-12T03:19:43.566Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tinkerstellar - iPad에서 Python 배우기]]></title>
         <id>https://tinkerstellar.com/</id>
         <link href="https://tinkerstellar.com/"/>
         <updated>2022-01-12T05:17:58.185Z</updated>
         <content type="html"><![CDATA[(tinkerstellar.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dura - Git 자동 저장 유틸리티]]></title>
+        <id>https://github.com/tkellogg/dura</id>
+        <link href="https://github.com/tkellogg/dura"/>
+        <updated>2022-01-12T03:19:43.566Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Movie of the Night - Streaming Availability API]]></title>
