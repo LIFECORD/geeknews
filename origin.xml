@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-13T21:16:11.586Z</updated>
+    <updated>2022-01-13T22:18:01.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(mozilla.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Y컴비네이터, 투자금액을 $500K로 상향]]></title>
-        <id>https://blog.ycombinator.com/ycs-standard-deal/</id>
-        <link href="https://blog.ycombinator.com/ycs-standard-deal/"/>
-        <updated>2022-01-12T03:19:43.609Z</updated>
-        <content type="html"><![CDATA[(blog.ycombinator.com)]]></content>
+        <title type="html"><![CDATA[2021 JavaScript Rising Stars]]></title>
+        <id>https://risingstars.js.org/2021/en</id>
+        <link href="https://risingstars.js.org/2021/en"/>
+        <updated>2022-01-13T22:17:22.416Z</updated>
+        <content type="html"><![CDATA[(risingstars.js.org)]]></content>
     </entry>
 </feed>
