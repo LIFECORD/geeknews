@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-14T04:23:50.283Z</updated>
+    <updated>2022-01-14T05:18:37.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(ably.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQIP - SVG 기반 이미지 플레이스홀더]]></title>
-        <id>https://github.com/axe312ger/sqip</id>
-        <link href="https://github.com/axe312ger/sqip"/>
-        <updated>2022-01-14T03:19:29.459Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[dsq - JSON,CSV,Excel,Parquet 등에 SQL쿼리 실행하는 CLI도구]]></title>
         <id>https://datastation.multiprocess.io/blog/2022-01-11-dsq.html</id>
         <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
         <updated>2022-01-14T02:13:10.760Z</updated>
         <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQIP - SVG 기반 이미지 플레이스홀더]]></title>
+        <id>https://github.com/axe312ger/sqip</id>
+        <link href="https://github.com/axe312ger/sqip"/>
+        <updated>2022-01-14T03:19:29.459Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(gist.github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Parcel CSS - 새로운 CSS 파서 & 컴파일러]]></title>
-        <id>https://parceljs.org/blog/parcel-css/</id>
-        <link href="https://parceljs.org/blog/parcel-css/"/>
-        <updated>2022-01-14T02:13:10.769Z</updated>
-        <content type="html"><![CDATA[(parceljs.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cloudflare Radar 2021년 연례 검토]]></title>
         <id>https://radar.cloudflare.com/year-in-review-2021?location=seoul</id>
         <link href="https://radar.cloudflare.com/year-in-review-2021?location=seoul"/>
         <updated>2022-01-14T03:19:29.460Z</updated>
         <content type="html"><![CDATA[(radar.cloudflare.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parcel CSS - 새로운 CSS 파서 & 컴파일러]]></title>
+        <id>https://parceljs.org/blog/parcel-css/</id>
+        <link href="https://parceljs.org/blog/parcel-css/"/>
+        <updated>2022-01-14T02:13:10.769Z</updated>
+        <content type="html"><![CDATA[(parceljs.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["회색 데드 존" 없는 아름다운 CSS 그라데이션 만들기]]></title>
