@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-15T22:17:42.998Z</updated>
+    <updated>2022-01-15T23:17:51.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NodeJS용 Robots.txt 파서]]></title>
-        <id>https://github.com/samclarke/robots-parser</id>
-        <link href="https://github.com/samclarke/robots-parser"/>
-        <updated>2022-01-15T02:11:55.794Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Parcel CSS - 새로운 CSS 파서 & 컴파일러]]></title>
         <id>https://parceljs.org/blog/parcel-css/</id>
         <link href="https://parceljs.org/blog/parcel-css/"/>
@@ -67,13 +60,6 @@
         <link href="https://quantum.country/"/>
         <updated>2022-01-14T12:28:21.041Z</updated>
         <content type="html"><![CDATA[(quantum.country)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(비공식) Login with HN]]></title>
-        <id>https://loginwithhn.com/</id>
-        <link href="https://loginwithhn.com/"/>
-        <updated>2022-01-15T00:57:59.405Z</updated>
-        <content type="html"><![CDATA[(loginwithhn.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[월50만원($400)으로 80TB 트래픽과 5M 페이지뷰를 처리하는 방법]]></title>
@@ -97,6 +83,20 @@
         <content type="html"><![CDATA[(tinkerstellar.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NodeJS용 Robots.txt 파서]]></title>
+        <id>https://github.com/samclarke/robots-parser</id>
+        <link href="https://github.com/samclarke/robots-parser"/>
+        <updated>2022-01-15T02:11:55.794Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(비공식) Login with HN]]></title>
+        <id>https://loginwithhn.com/</id>
+        <link href="https://loginwithhn.com/"/>
+        <updated>2022-01-15T00:57:59.405Z</updated>
+        <content type="html"><![CDATA[(loginwithhn.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[베네딕트 에반스의 2022년 테크 주요 이슈(번역)]]></title>
         <id>https://ebadak.news/2022/01/09/2022-questions/</id>
         <link href="https://ebadak.news/2022/01/09/2022-questions/"/>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare Radar 2021년 연례 검토]]></title>
-        <id>https://radar.cloudflare.com/year-in-review-2021?location=seoul</id>
-        <link href="https://radar.cloudflare.com/year-in-review-2021?location=seoul"/>
-        <updated>2022-01-14T03:19:29.460Z</updated>
-        <content type="html"><![CDATA[(radar.cloudflare.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
         <id>https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/</id>
         <link href="https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/"/>
         <updated>2022-01-11T06:07:09.907Z</updated>
         <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Radar 2021년 연례 검토]]></title>
+        <id>https://radar.cloudflare.com/year-in-review-2021?location=seoul</id>
+        <link href="https://radar.cloudflare.com/year-in-review-2021?location=seoul"/>
+        <updated>2022-01-14T03:19:29.460Z</updated>
+        <content type="html"><![CDATA[(radar.cloudflare.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apache PLC4x 개발자, 펀딩 부족으로 커뮤니티 지원은 중단하겠다고 발표]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(visualcapitalist.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코드 스테이츠, 김인기 대표, 그리고 web3]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2273223998198</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2273223998198"/>
-        <updated>2022-01-15T04:23:44.951Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
+        <title type="html"><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스]]></title>
+        <id>https://news.hada.io/topic?id=5726</id>
+        <link href="https://news.hada.io/topic?id=5726"/>
+        <updated>2022-01-15T23:17:09.699Z</updated>
+        <content type="html"><![CDATA[(theinin.web.app)]]></content>
     </entry>
 </feed>
