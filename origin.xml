@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-16T06:21:41.380Z</updated>
+    <updated>2022-01-16T07:17:14.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코드 스테이츠, 김인기 대표, 그리고 web3]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2273223998198</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2273223998198"/>
-        <updated>2022-01-16T01:02:04.809Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Quantum Country - spaced repetition 을 통해 양자컴퓨터 학습하기]]></title>
         <id>https://quantum.country/</id>
         <link href="https://quantum.country/"/>
         <updated>2022-01-14T12:28:21.041Z</updated>
         <content type="html"><![CDATA[(quantum.country)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코드 스테이츠, 김인기 대표, 그리고 web3]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2273223998198</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2273223998198"/>
+        <updated>2022-01-16T01:02:04.809Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare Radar 2021년 연례 검토]]></title>
