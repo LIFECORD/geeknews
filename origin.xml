@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-16T09:17:49.079Z</updated>
+    <updated>2022-01-16T10:19:41.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(thesun.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Animatize - 객체를 드래깅 해서 애니메이션 만들기]]></title>
-        <id>https://animatize.com/</id>
-        <link href="https://animatize.com/"/>
-        <updated>2022-01-16T01:02:04.793Z</updated>
-        <content type="html"><![CDATA[(animatize.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Looptap - 시간 때우기용 미니멀 게임]]></title>
         <id>https://looptap.vasanthv.com/</id>
         <link href="https://looptap.vasanthv.com/"/>
         <updated>2022-01-16T02:39:56.895Z</updated>
         <content type="html"><![CDATA[(looptap.vasanthv.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animatize - 객체를 드래깅 해서 애니메이션 만들기]]></title>
+        <id>https://animatize.com/</id>
+        <link href="https://animatize.com/"/>
+        <updated>2022-01-16T01:02:04.793Z</updated>
+        <content type="html"><![CDATA[(animatize.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebSocket 핸드북(64p 영문 PDF)]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tinkerstellar - iPad에서 Python 배우기]]></title>
-        <id>https://tinkerstellar.com/</id>
-        <link href="https://tinkerstellar.com/"/>
-        <updated>2022-01-12T05:17:58.185Z</updated>
-        <content type="html"><![CDATA[(tinkerstellar.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어로서 경제적 독립을 향한 나의 여정]]></title>
         <id>https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/</id>
         <link href="https://software.rajivprab.com/2021/12/26/my-path-to-financial-independence-as-a-software-engineer/"/>
         <updated>2022-01-11T06:07:09.907Z</updated>
         <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tinkerstellar - iPad에서 Python 배우기]]></title>
+        <id>https://tinkerstellar.com/</id>
+        <link href="https://tinkerstellar.com/"/>
+        <updated>2022-01-12T05:17:58.185Z</updated>
+        <content type="html"><![CDATA[(tinkerstellar.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베네딕트 에반스의 2022년 테크 주요 이슈(번역)]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코드 스테이츠, 김인기 대표, 그리고 web3]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2273223998198</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2273223998198"/>
-        <updated>2022-01-16T01:02:04.809Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
+        <title type="html"><![CDATA[Cloudflare Radar 2021년 연례 검토]]></title>
+        <id>https://radar.cloudflare.com/year-in-review-2021?location=seoul</id>
+        <link href="https://radar.cloudflare.com/year-in-review-2021?location=seoul"/>
+        <updated>2022-01-16T10:19:00.304Z</updated>
+        <content type="html"><![CDATA[(radar.cloudflare.com)]]></content>
     </entry>
 </feed>
