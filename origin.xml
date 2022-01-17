@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-17T08:23:00.621Z</updated>
+    <updated>2022-01-17T09:19:09.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(openinframap.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온라인 체스 사이트 Lichess의 1년 운영비용은 $420K(5억원)]]></title>
-        <id>https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview</id>
-        <link href="https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview"/>
-        <updated>2022-01-17T02:13:19.559Z</updated>
-        <content type="html"><![CDATA[(docs.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pretendard 커스텀 폰트 도입기]]></title>
         <id>https://blog.dramancompany.com/2022/01/pretendard-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8F%B0%ED%8A%B8-%EB%8F%84%EC%9E%85%EA%B8%B0/</id>
         <link href="https://blog.dramancompany.com/2022/01/pretendard-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%8F%B0%ED%8A%B8-%EB%8F%84%EC%9E%85%EA%B8%B0/"/>
         <updated>2022-01-17T03:20:10.384Z</updated>
         <content type="html"><![CDATA[(blog.dramancompany.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온라인 체스 사이트 Lichess의 1년 운영비용은 $420K(5억원)]]></title>
+        <id>https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview</id>
+        <link href="https://docs.google.com/spreadsheets/d/1Si3PMUJGR9KrpE5lngSkHLJKJkb0ZuI4/preview"/>
+        <updated>2022-01-17T02:13:19.559Z</updated>
+        <content type="html"><![CDATA[(docs.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Instauto - Puppeteer를 이용한 인스타그램 자동화 봇]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(thesun.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[은전한닢 for ElasticSearch 7+]]></title>
-        <id>https://github.com/likejazz/seunjeon-elasticsearch-7</id>
-        <link href="https://github.com/likejazz/seunjeon-elasticsearch-7"/>
-        <updated>2022-01-15T00:57:59.413Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
         <id>https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</id>
         <link href="https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733"/>
         <updated>2022-01-14T03:19:29.459Z</updated>
         <content type="html"><![CDATA[(gist.github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은전한닢 for ElasticSearch 7+]]></title>
+        <id>https://github.com/likejazz/seunjeon-elasticsearch-7</id>
+        <link href="https://github.com/likejazz/seunjeon-elasticsearch-7"/>
+        <updated>2022-01-15T00:57:59.413Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[월50만원($400)으로 80TB 트래픽과 5M 페이지뷰를 처리하는 방법]]></title>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[dsq - JSON,CSV,Excel,Parquet 등에 SQL쿼리 실행하는 CLI도구]]></title>
+        <id>https://datastation.multiprocess.io/blog/2022-01-11-dsq.html</id>
+        <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
+        <updated>2022-01-14T02:13:10.760Z</updated>
+        <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tinkerstellar - iPad에서 Python 배우기]]></title>
         <id>https://tinkerstellar.com/</id>
         <link href="https://tinkerstellar.com/"/>
@@ -137,12 +144,5 @@
         <link href="https://www.joshwcomeau.com/css/make-beautiful-gradients/"/>
         <updated>2022-01-13T02:39:07.632Z</updated>
         <content type="html"><![CDATA[(joshwcomeau.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dsq - JSON,CSV,Excel,Parquet 등에 SQL쿼리 실행하는 CLI도구]]></title>
-        <id>https://datastation.multiprocess.io/blog/2022-01-11-dsq.html</id>
-        <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
-        <updated>2022-01-14T02:13:10.760Z</updated>
-        <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
     </entry>
 </feed>
