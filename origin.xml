@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-17T09:19:09.712Z</updated>
+    <updated>2022-01-17T10:20:23.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[(software.rajivprab.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dsq - JSON,CSV,Excel,Parquet 등에 SQL쿼리 실행하는 CLI도구]]></title>
-        <id>https://datastation.multiprocess.io/blog/2022-01-11-dsq.html</id>
-        <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
-        <updated>2022-01-14T02:13:10.760Z</updated>
-        <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tinkerstellar - iPad에서 Python 배우기]]></title>
         <id>https://tinkerstellar.com/</id>
         <link href="https://tinkerstellar.com/"/>
@@ -144,5 +137,12 @@
         <link href="https://www.joshwcomeau.com/css/make-beautiful-gradients/"/>
         <updated>2022-01-13T02:39:07.632Z</updated>
         <content type="html"><![CDATA[(joshwcomeau.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dsq - JSON,CSV,Excel,Parquet 등에 SQL쿼리 실행하는 CLI도구]]></title>
+        <id>https://datastation.multiprocess.io/blog/2022-01-11-dsq.html</id>
+        <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
+        <updated>2022-01-14T02:13:10.760Z</updated>
+        <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
     </entry>
 </feed>
