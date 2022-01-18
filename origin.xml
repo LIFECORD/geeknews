@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-18T01:01:19.481Z</updated>
+    <updated>2022-01-18T02:14:29.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스큐어모피즘부터 뉴모피즘까지, 스마트폰 UI의 역사]]></title>
+        <id>https://yozm.wishket.com/magazine/detail/1281/</id>
+        <link href="https://yozm.wishket.com/magazine/detail/1281/"/>
+        <updated>2022-01-18T02:13:53.240Z</updated>
+        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신의 앱이 Google Play 정책을 준수하지 않습니다]]></title>
         <id>https://sylviavanos.nl/blog/2021/12/24/google_play_hell.html</id>
@@ -25,6 +32,20 @@
         <link href="https://www.interneteconomist.com/netflix-and-cable-prices/"/>
         <updated>2022-01-18T01:00:40.709Z</updated>
         <content type="html"><![CDATA[(interneteconomist.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3에 대한 나의 첫 인상]]></title>
+        <id>https://moxie.org/2022/01/07/web3-first-impressions.html</id>
+        <link href="https://moxie.org/2022/01/07/web3-first-impressions.html"/>
+        <updated>2022-01-18T02:13:53.256Z</updated>
+        <content type="html"><![CDATA[(moxie.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Essence - 밑바닥부터 새로 만든 오픈소스 데스크탑 OS]]></title>
+        <id>https://nakst.gitlab.io/essence</id>
+        <link href="https://nakst.gitlab.io/essence"/>
+        <updated>2022-01-18T02:13:53.256Z</updated>
+        <content type="html"><![CDATA[(nakst.gitlab.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Rethinking (2022)]]></title>
@@ -104,6 +125,13 @@
         <content type="html"><![CDATA[(looptap.vasanthv.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[은전한닢 for ElasticSearch 7+]]></title>
+        <id>https://github.com/likejazz/seunjeon-elasticsearch-7</id>
+        <link href="https://github.com/likejazz/seunjeon-elasticsearch-7"/>
+        <updated>2022-01-15T00:57:59.413Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿]]></title>
         <id>https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733</id>
         <link href="https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733"/>
@@ -116,33 +144,5 @@
         <link href="https://www.thesun.co.uk/news/17245150/cows-cooped-up-for-winter-get-virtual-reality-goggles/"/>
         <updated>2022-01-16T01:02:04.793Z</updated>
         <content type="html"><![CDATA[(thesun.co.uk)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은전한닢 for ElasticSearch 7+]]></title>
-        <id>https://github.com/likejazz/seunjeon-elasticsearch-7</id>
-        <link href="https://github.com/likejazz/seunjeon-elasticsearch-7"/>
-        <updated>2022-01-15T00:57:59.413Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQIP - SVG 기반 이미지 플레이스홀더]]></title>
-        <id>https://github.com/axe312ger/sqip</id>
-        <link href="https://github.com/axe312ger/sqip"/>
-        <updated>2022-01-14T03:19:29.459Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dsq - JSON,CSV,Excel,Parquet 등에 SQL쿼리 실행하는 CLI도구]]></title>
-        <id>https://datastation.multiprocess.io/blog/2022-01-11-dsq.html</id>
-        <link href="https://datastation.multiprocess.io/blog/2022-01-11-dsq.html"/>
-        <updated>2022-01-14T02:13:10.760Z</updated>
-        <content type="html"><![CDATA[(datastation.multiprocess.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tinkerstellar - iPad에서 Python 배우기]]></title>
-        <id>https://tinkerstellar.com/</id>
-        <link href="https://tinkerstellar.com/"/>
-        <updated>2022-01-12T05:17:58.185Z</updated>
-        <content type="html"><![CDATA[(tinkerstellar.com)]]></content>
     </entry>
 </feed>
