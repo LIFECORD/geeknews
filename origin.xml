@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-19T06:19:54.435Z</updated>
+    <updated>2022-01-19T07:13:35.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PyFlow - 범용 비주얼 스크립팅 프레임워크 for 파이썬]]></title>
-        <id>https://github.com/wonderworks-software/PyFlow</id>
-        <link href="https://github.com/wonderworks-software/PyFlow"/>
-        <updated>2022-01-19T00:53:20.463Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3에 대한 나의 첫 인상]]></title>
         <id>https://moxie.org/2022/01/07/web3-first-impressions.html</id>
         <link href="https://moxie.org/2022/01/07/web3-first-impressions.html"/>
         <updated>2022-01-18T02:13:53.256Z</updated>
         <content type="html"><![CDATA[(moxie.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyFlow - 범용 비주얼 스크립팅 프레임워크 for 파이썬]]></title>
+        <id>https://github.com/wonderworks-software/PyFlow</id>
+        <link href="https://github.com/wonderworks-software/PyFlow"/>
+        <updated>2022-01-19T00:53:20.463Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스마트하게 머신러닝 적용하는 법]]></title>
