@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-01-19T14:15:31.914Z</updated>
+    <updated>2022-01-19T15:17:25.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -42,16 +42,16 @@
         <updated>2022-01-11T06:07:28.401Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 프리랜서 데이터 분석가이신 분 있으신가요?]]></title>
-        <id>https://news.hada.io/topic?id=5673</id>
-        <link href="https://news.hada.io/topic?id=5673"/>
-        <updated>2022-01-11T06:07:28.401Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 2021년 올해 최고의 지름은?]]></title>
         <id>https://news.hada.io/topic?id=5594</id>
         <link href="https://news.hada.io/topic?id=5594"/>
         <updated>2021-12-22T02:02:18.053Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 프리랜서 데이터 분석가이신 분 있으신가요?]]></title>
+        <id>https://news.hada.io/topic?id=5673</id>
+        <link href="https://news.hada.io/topic?id=5673"/>
+        <updated>2022-01-11T06:07:28.401Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 새해 계획은 어떤 것인가요?]]></title>
