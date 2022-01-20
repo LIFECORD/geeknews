@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-20T16:25:23.709Z</updated>
+    <updated>2022-01-20T17:20:35.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -54,18 +54,18 @@
         <updated>2022-01-20T07:15:29.363Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: ago - 칫솔 바꾼지 얼마나 지났지?]]></title>
-        <id>https://news.hada.io/topic?id=5790</id>
-        <link href="https://news.hada.io/topic?id=5790"/>
-        <updated>2022-01-20T10:17:27.191Z</updated>
-        <content type="html"><![CDATA[(agoapp.page.link)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matrix-CRDT - Matrix를 백엔드로 사용하는 실시간 협업 오픈소스]]></title>
         <id>https://github.com/YousefED/Matrix-CRDT</id>
         <link href="https://github.com/YousefED/Matrix-CRDT"/>
         <updated>2022-01-19T01:57:05.109Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: ago - 칫솔 바꾼지 얼마나 지났지?]]></title>
+        <id>https://news.hada.io/topic?id=5790</id>
+        <link href="https://news.hada.io/topic?id=5790"/>
+        <updated>2022-01-20T10:17:27.191Z</updated>
+        <content type="html"><![CDATA[(agoapp.page.link)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Web3에 대한 나의 첫 인상]]></title>
@@ -75,18 +75,18 @@
         <content type="html"><![CDATA[(moxie.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jodd - Unbearable Lightness of Java]]></title>
-        <id>https://jodd.org/</id>
-        <link href="https://jodd.org/"/>
-        <updated>2022-01-20T01:04:45.997Z</updated>
-        <content type="html"><![CDATA[(jodd.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ruby-on-Rails를 사용한 ViteJS]]></title>
         <id>https://www.bootrails.com/blog/vitejs-rails-a-wonderful-combination/</id>
         <link href="https://www.bootrails.com/blog/vitejs-rails-a-wonderful-combination/"/>
         <updated>2022-01-20T14:15:00.135Z</updated>
         <content type="html"><![CDATA[(bootrails.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jodd - Unbearable Lightness of Java]]></title>
+        <id>https://jodd.org/</id>
+        <link href="https://jodd.org/"/>
+        <updated>2022-01-20T01:04:45.997Z</updated>
+        <content type="html"><![CDATA[(jodd.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wine 7.0 릴리즈]]></title>
