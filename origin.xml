@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-22T02:30:48.045Z</updated>
+    <updated>2022-01-22T03:16:58.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Drovp - 드래그&드롭 UI 기반 유틸리티]]></title>
-        <id>https://drovp.app/</id>
-        <link href="https://drovp.app/"/>
-        <updated>2022-01-21T00:54:11.865Z</updated>
-        <content type="html"><![CDATA[(drovp.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[트위터, NFT를 프로필 사진에 이용하는 기능 제공]]></title>
         <id>https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft</id>
         <link href="https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft"/>
         <updated>2022-01-22T02:30:07.014Z</updated>
         <content type="html"><![CDATA[(help.twitter.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drovp - 드래그&드롭 UI 기반 유틸리티]]></title>
+        <id>https://drovp.app/</id>
+        <link href="https://drovp.app/"/>
+        <updated>2022-01-21T00:54:11.865Z</updated>
+        <content type="html"><![CDATA[(drovp.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[50개 디자인 시스템 레퍼런스 for 다음 내 사이드 프로젝트]]></title>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(pijul.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Play Games 베타 시작 - 모바일 게임을 PC에서]]></title>
-        <id>https://play.google.com/googleplaygames</id>
-        <link href="https://play.google.com/googleplaygames"/>
-        <updated>2022-01-21T01:59:56.471Z</updated>
-        <content type="html"><![CDATA[(play.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web3에 대한 나의 첫 인상]]></title>
         <id>https://moxie.org/2022/01/07/web3-first-impressions.html</id>
         <link href="https://moxie.org/2022/01/07/web3-first-impressions.html"/>
@@ -83,18 +76,18 @@
         <content type="html"><![CDATA[(moxie.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google Play Games 베타 시작 - 모바일 게임을 PC에서]]></title>
+        <id>https://play.google.com/googleplaygames</id>
+        <link href="https://play.google.com/googleplaygames"/>
+        <updated>2022-01-21T01:59:56.471Z</updated>
+        <content type="html"><![CDATA[(play.google.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[반려견 산책으로 년 1억을 버는 사람의 이야기]]></title>
         <id>https://thehustle.co/what-its-like-to-make-100k-walking-dogs/</id>
         <link href="https://thehustle.co/what-its-like-to-make-100k-walking-dogs/"/>
         <updated>2022-01-20T07:15:29.361Z</updated>
         <content type="html"><![CDATA[(thehustle.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일본 SaaS Insights 2022 (54p Slide)]]></title>
-        <id>https://docsend.com/view/ttm4fzuh2d9saixj</id>
-        <link href="https://docsend.com/view/ttm4fzuh2d9saixj"/>
-        <updated>2022-01-21T04:22:46.862Z</updated>
-        <content type="html"><![CDATA[(docsend.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Matrix-CRDT - Matrix를 백엔드로 사용하는 실시간 협업 오픈소스]]></title>
@@ -109,6 +102,13 @@
         <link href="https://www.theinformation.com/articles/eight-takeaways-from-the-microsoft-activision-deal"/>
         <updated>2022-01-20T02:37:30.786Z</updated>
         <content type="html"><![CDATA[(theinformation.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본 SaaS Insights 2022 (54p Slide)]]></title>
+        <id>https://docsend.com/view/ttm4fzuh2d9saixj</id>
+        <link href="https://docsend.com/view/ttm4fzuh2d9saixj"/>
+        <updated>2022-01-21T04:22:46.862Z</updated>
+        <content type="html"><![CDATA[(docsend.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 코드명 Iris로 새로운 AR 헤드셋 개발중]]></title>
