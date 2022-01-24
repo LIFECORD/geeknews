@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-24T02:05:50.331Z</updated>
+    <updated>2022-01-24T03:19:51.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(jobsearch.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gitlab Handbook 의 HackerNews 페이지]]></title>
-        <id>https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/hacker-news/</id>
-        <link href="https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/hacker-news/"/>
-        <updated>2022-01-24T02:05:07.053Z</updated>
-        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[페이스북을 떠나며]]></title>
         <id>https://frantic.im/leaving-facebook/</id>
         <link href="https://frantic.im/leaving-facebook/"/>
         <updated>2022-01-24T02:05:07.053Z</updated>
         <content type="html"><![CDATA[(frantic.im)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitlab Handbook 의 HackerNews 페이지]]></title>
+        <id>https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/hacker-news/</id>
+        <link href="https://about.gitlab.com/handbook/marketing/community-relations/developer-evangelism/hacker-news/"/>
+        <updated>2022-01-24T02:05:07.053Z</updated>
+        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HomeLab을 위한 자동화된 셀프호스팅 아키텍처]]></title>
@@ -46,6 +46,13 @@
         <link href="https://lwn.net/Articles/881439/"/>
         <updated>2022-01-24T02:05:07.068Z</updated>
         <content type="html"><![CDATA[(lwn.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떤 노코드 툴을 써야 하나요?]]></title>
+        <id>https://yozm.wishket.com/magazine/detail/1291/</id>
+        <link href="https://yozm.wishket.com/magazine/detail/1291/"/>
+        <updated>2022-01-24T03:19:10.149Z</updated>
+        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fly.io, 소규모 프로젝트를 위한 무료 Postgres DB 제공]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.theinformation.com/articles/eight-takeaways-from-the-microsoft-activision-deal"/>
         <updated>2022-01-20T02:37:30.786Z</updated>
         <content type="html"><![CDATA[(theinformation.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈소스 분산 버전 관리 시스템 Pijul 1.0 베타 공개]]></title>
-        <id>https://pijul.org/posts/2022-01-08-beta/</id>
-        <link href="https://pijul.org/posts/2022-01-08-beta/"/>
-        <updated>2022-01-21T00:54:11.843Z</updated>
-        <content type="html"><![CDATA[(pijul.org)]]></content>
     </entry>
 </feed>
