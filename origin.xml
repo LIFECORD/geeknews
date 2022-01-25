@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-25T07:16:30.327Z</updated>
+    <updated>2022-01-25T08:20:20.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -26,6 +26,13 @@
         <content type="html"><![CDATA[(malwaredefinition.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드]]></title>
+        <id>https://jobsearch.dev/</id>
+        <link href="https://jobsearch.dev/"/>
+        <updated>2022-01-24T00:54:48.397Z</updated>
+        <content type="html"><![CDATA[(jobsearch.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[신규 입사자가 "자리 좀 꾸며도 되나요?" 해서 Yes 했더니 생긴 일]]></title>
         <id>https://twitter.com/mikebeckhamsm/status/1484303008943034372?s=21</id>
         <link href="https://twitter.com/mikebeckhamsm/status/1484303008943034372?s=21"/>
@@ -38,13 +45,6 @@
         <link href="https://wapp.tcl.tk/"/>
         <updated>2022-01-25T01:01:26.301Z</updated>
         <content type="html"><![CDATA[(wapp.tcl.tk)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드]]></title>
-        <id>https://jobsearch.dev/</id>
-        <link href="https://jobsearch.dev/"/>
-        <updated>2022-01-24T00:54:48.397Z</updated>
-        <content type="html"><![CDATA[(jobsearch.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SkyBot - 우리집 위로 날아가는 비행기 사진을 자동으로 추적해 찍는 시스템]]></title>
