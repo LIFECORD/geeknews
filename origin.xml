@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-26T05:15:09.472Z</updated>
+    <updated>2022-01-26T06:21:09.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -75,13 +75,6 @@
         <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신규 입사자가 "자리 좀 꾸며도 되나요?" 해서 Yes 했더니 생긴 일]]></title>
-        <id>https://twitter.com/mikebeckhamsm/status/1484303008943034372?s=21</id>
-        <link href="https://twitter.com/mikebeckhamsm/status/1484303008943034372?s=21"/>
-        <updated>2022-01-25T02:32:30.729Z</updated>
-        <content type="html"><![CDATA[(twitter.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HomeLab을 위한 자동화된 셀프호스팅 아키텍처]]></title>
         <id>https://github.com/khuedoan/homelab</id>
         <link href="https://github.com/khuedoan/homelab"/>
@@ -94,6 +87,13 @@
         <link href="https://frantic.im/leaving-facebook/"/>
         <updated>2022-01-24T02:05:07.053Z</updated>
         <content type="html"><![CDATA[(frantic.im)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신규 입사자가 "자리 좀 꾸며도 되나요?" 해서 Yes 했더니 생긴 일]]></title>
+        <id>https://twitter.com/mikebeckhamsm/status/1484303008943034372?s=21</id>
+        <link href="https://twitter.com/mikebeckhamsm/status/1484303008943034372?s=21"/>
+        <updated>2022-01-25T02:32:30.729Z</updated>
+        <content type="html"><![CDATA[(twitter.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SkyBot - 우리집 위로 날아가는 비행기 사진을 자동으로 추적해 찍는 시스템]]></title>
