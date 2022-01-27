@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-27T02:36:08.968Z</updated>
+    <updated>2022-01-27T03:17:23.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,11 @@
         <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/"/>
-        <updated>2022-01-26T01:00:48.074Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Actions by Example]]></title>
-        <id>https://www.actionsbyexample.com/</id>
-        <link href="https://www.actionsbyexample.com/"/>
-        <updated>2022-01-26T03:16:07.303Z</updated>
-        <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
+        <title type="html"><![CDATA[Plasmic - 비주얼 콘텐츠를 쉽게 만드는 헤드리스 페이지 빌더 오픈소스]]></title>
+        <id>https://github.com/plasmicapp/plasmic</id>
+        <link href="https://github.com/plasmicapp/plasmic"/>
+        <updated>2022-01-27T03:16:48.925Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 리서치(제프 딘)의 미래 ML 테마들]]></title>
@@ -46,6 +39,20 @@
         <link href="https://youtube-kr.googleblog.com/2022/01/letter-from-susan-our-2022-priorities.html"/>
         <updated>2022-01-27T01:59:58.538Z</updated>
         <content type="html"><![CDATA[(youtube-kr.googleblog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/"/>
+        <updated>2022-01-26T01:00:48.074Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions by Example]]></title>
+        <id>https://www.actionsbyexample.com/</id>
+        <link href="https://www.actionsbyexample.com/"/>
+        <updated>2022-01-26T03:16:07.303Z</updated>
+        <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Castled - Reverse ETL 오픈소스]]></title>
@@ -136,12 +143,5 @@
         <link href="https://www.appannie.com/kr/go/state-of-mobile-2022"/>
         <updated>2022-01-25T03:16:58.437Z</updated>
         <content type="html"><![CDATA[(appannie.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkyBot - 우리집 위로 날아가는 비행기 사진을 자동으로 추적해 찍는 시스템]]></title>
-        <id>http://skybot.cam/</id>
-        <link href="http://skybot.cam/"/>
-        <updated>2022-01-25T02:32:30.732Z</updated>
-        <content type="html"><![CDATA[(skybot.cam)]]></content>
     </entry>
 </feed>
