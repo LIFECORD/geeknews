@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-27T02:00:41.594Z</updated>
+    <updated>2022-01-27T02:36:08.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://www.actionsbyexample.com/"/>
         <updated>2022-01-26T03:16:07.303Z</updated>
         <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 리서치(제프 딘)의 미래 ML 테마들]]></title>
+        <id>https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html</id>
+        <link href="https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html"/>
+        <updated>2022-01-27T02:35:30.307Z</updated>
+        <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수잔의 편지 : 유튜브 CEO가 말하는 2022년 우선순위]]></title>
@@ -136,12 +143,5 @@
         <link href="http://skybot.cam/"/>
         <updated>2022-01-25T02:32:30.732Z</updated>
         <content type="html"><![CDATA[(skybot.cam)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wapp - TCL을 위한 웹 어플리케이션 스택]]></title>
-        <id>https://wapp.tcl.tk/</id>
-        <link href="https://wapp.tcl.tk/"/>
-        <updated>2022-01-25T01:01:26.301Z</updated>
-        <content type="html"><![CDATA[(wapp.tcl.tk)]]></content>
     </entry>
 </feed>
