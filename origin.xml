@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-26T23:17:05.024Z</updated>
+    <updated>2022-01-27T00:56:37.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글, FLoC을 대체할 새 "토픽 API" 공개]]></title>
+        <id>https://korea.googleblog.com/2022/01/get-know-new-topics-api-privacy-sandbox.html</id>
+        <link href="https://korea.googleblog.com/2022/01/get-know-new-topics-api-privacy-sandbox.html"/>
+        <updated>2022-01-27T00:55:59.895Z</updated>
+        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
         <id>https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/</id>
@@ -136,12 +143,5 @@
         <link href="https://blog.prototypr.io/50-design-systems-examples-to-learn-from-for-your-next-project-b9949e486702"/>
         <updated>2022-01-26T20:16:37.094Z</updated>
         <content type="html"><![CDATA[(blog.prototypr.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와이어프레이밍, 목업, 프로토타이핑 뭐가 다른건가요?]]></title>
-        <id>https://brunch.co.kr/@ywkim36/67</id>
-        <link href="https://brunch.co.kr/@ywkim36/67"/>
-        <updated>2022-01-24T02:05:07.064Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr)]]></content>
     </entry>
 </feed>
