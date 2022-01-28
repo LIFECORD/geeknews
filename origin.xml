@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-28T00:56:53.953Z</updated>
+    <updated>2022-01-28T02:00:03.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.cbinsights.com/research/report/top-tech-trends-2022/"/>
         <updated>2022-01-28T00:56:10.240Z</updated>
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanilla List - 순수 JavaScript 플러그인 저장소]]></title>
+        <id>https://vanillalist.top/</id>
+        <link href="https://vanillalist.top/"/>
+        <updated>2022-01-28T00:56:10.285Z</updated>
+        <content type="html"><![CDATA[(vanillalist.top)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: PyKIPass - QR체크인 API 래퍼]]></title>
@@ -27,11 +34,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vanilla List - 순수 JavaScript 플러그인 저장소]]></title>
-        <id>https://vanillalist.top/</id>
-        <link href="https://vanillalist.top/"/>
-        <updated>2022-01-28T00:56:10.285Z</updated>
-        <content type="html"><![CDATA[(vanillalist.top)]]></content>
+        <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
+        <id>https://cleanup.pictures/</id>
+        <link href="https://cleanup.pictures/"/>
+        <updated>2022-01-28T01:59:27.629Z</updated>
+        <content type="html"><![CDATA[(cleanup.pictures)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kore - 사용하기 쉬운 C/Python API 기반 웹 플랫폼 오픈소스]]></title>
+        <id>https://kore.io/</id>
+        <link href="https://kore.io/"/>
+        <updated>2022-01-28T01:59:27.630Z</updated>
+        <content type="html"><![CDATA[(kore.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Malloy - 더 나은 SQL by Looker]]></title>
@@ -129,19 +143,5 @@
         <link href="https://velog.io/@teo/frontend"/>
         <updated>2022-01-25T09:16:13.580Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북을 떠나며]]></title>
-        <id>https://frantic.im/leaving-facebook/</id>
-        <link href="https://frantic.im/leaving-facebook/"/>
-        <updated>2022-01-24T02:05:07.053Z</updated>
-        <content type="html"><![CDATA[(frantic.im)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신의 나라에서 Google Analytics는 불법인가요?]]></title>
-        <id>https://isgoogleanalyticsillegal.com/</id>
-        <link href="https://isgoogleanalyticsillegal.com/"/>
-        <updated>2022-01-26T02:09:57.254Z</updated>
-        <content type="html"><![CDATA[(isgoogleanalyticsillegal.com)]]></content>
     </entry>
 </feed>
