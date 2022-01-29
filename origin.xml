@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-29T00:52:47.483Z</updated>
+    <updated>2022-01-29T01:54:01.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://vanillalist.top/"/>
         <updated>2022-01-28T00:56:10.285Z</updated>
         <content type="html"><![CDATA[(vanillalist.top)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
+        <id>https://github.com/ngneat/falso</id>
+        <link href="https://github.com/ngneat/falso"/>
+        <updated>2022-01-29T01:53:25.614Z</updated>
+        <content type="html"><![CDATA[(github.com/ngneat)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, macOS 12.3 베타 에서 Python 2.7 제거]]></title>
+        <id>https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python</id>
+        <link href="https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python"/>
+        <updated>2022-01-29T01:53:25.615Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
@@ -48,18 +62,18 @@
         <content type="html"><![CDATA[(ai.facebook.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 기술 트렌드 by CBInsights (70p PDF)]]></title>
-        <id>https://www.cbinsights.com/research/report/top-tech-trends-2022/</id>
-        <link href="https://www.cbinsights.com/research/report/top-tech-trends-2022/"/>
-        <updated>2022-01-28T00:56:10.240Z</updated>
-        <content type="html"><![CDATA[(cbinsights.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kore - 사용하기 쉬운 C/Python API 기반 웹 플랫폼 오픈소스]]></title>
         <id>https://kore.io/</id>
         <link href="https://kore.io/"/>
         <updated>2022-01-28T01:59:27.630Z</updated>
         <content type="html"><![CDATA[(kore.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 기술 트렌드 by CBInsights (70p PDF)]]></title>
+        <id>https://www.cbinsights.com/research/report/top-tech-trends-2022/</id>
+        <link href="https://www.cbinsights.com/research/report/top-tech-trends-2022/"/>
+        <updated>2022-01-28T00:56:10.240Z</updated>
+        <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
@@ -129,19 +143,5 @@
         <id>https://news.hada.io/topic?id=5816</id>
         <link href="https://news.hada.io/topic?id=5816"/>
         <updated>2022-01-25T02:32:30.729Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HomeLab을 위한 자동화된 셀프호스팅 아키텍처]]></title>
-        <id>https://github.com/khuedoan/homelab</id>
-        <link href="https://github.com/khuedoan/homelab"/>
-        <updated>2022-01-28T11:14:24.718Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, FLoC을 대체할 새 "토픽 API" 공개]]></title>
-        <id>https://korea.googleblog.com/2022/01/get-know-new-topics-api-privacy-sandbox.html</id>
-        <link href="https://korea.googleblog.com/2022/01/get-know-new-topics-api-privacy-sandbox.html"/>
-        <updated>2022-01-27T00:55:59.895Z</updated>
-        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
     </entry>
 </feed>
