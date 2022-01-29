@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-29T20:18:09.248Z</updated>
+    <updated>2022-01-29T21:13:49.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(frantic.im)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, macOS 12.3 베타 에서 Python 2.7 제거]]></title>
-        <id>https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python</id>
-        <link href="https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python"/>
-        <updated>2022-01-29T01:53:25.615Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+        <title type="html"><![CDATA[수잔의 편지 : 유튜브 CEO가 말하는 2022년 우선순위]]></title>
+        <id>https://youtube-kr.googleblog.com/2022/01/letter-from-susan-our-2022-priorities.html</id>
+        <link href="https://youtube-kr.googleblog.com/2022/01/letter-from-susan-our-2022-priorities.html"/>
+        <updated>2022-01-29T21:13:09.884Z</updated>
+        <content type="html"><![CDATA[(youtube-kr.googleblog.com)]]></content>
     </entry>
 </feed>
