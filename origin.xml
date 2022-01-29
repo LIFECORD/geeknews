@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-29T08:19:03.228Z</updated>
+    <updated>2022-01-29T09:16:24.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(kore.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/"/>
+        <updated>2022-01-26T01:00:48.074Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022년 기술 트렌드 by CBInsights (70p PDF)]]></title>
         <id>https://www.cbinsights.com/research/report/top-tech-trends-2022/</id>
         <link href="https://www.cbinsights.com/research/report/top-tech-trends-2022/"/>
@@ -55,11 +62,18 @@
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/"/>
-        <updated>2022-01-26T01:00:48.074Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+        <title type="html"><![CDATA[어떤 기술이 2022년에 "Cutting Edge" 라고 생각하나요?]]></title>
+        <id>https://news.ycombinator.com/item?id=30053761</id>
+        <link href="https://news.ycombinator.com/item?id=30053761"/>
+        <updated>2022-01-27T01:59:58.524Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions by Example]]></title>
+        <id>https://www.actionsbyexample.com/</id>
+        <link href="https://www.actionsbyexample.com/"/>
+        <updated>2022-01-26T03:16:07.303Z</updated>
+        <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, macOS 12.3 베타 에서 Python 2.7 제거]]></title>
@@ -81,20 +95,6 @@
         <link href="https://ui.toast.com/weekly-pick/ko_20220127"/>
         <updated>2022-01-29T00:52:04.616Z</updated>
         <content type="html"><![CDATA[(ui.toast.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떤 기술이 2022년에 "Cutting Edge" 라고 생각하나요?]]></title>
-        <id>https://news.ycombinator.com/item?id=30053761</id>
-        <link href="https://news.ycombinator.com/item?id=30053761"/>
-        <updated>2022-01-27T01:59:58.524Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Actions by Example]]></title>
-        <id>https://www.actionsbyexample.com/</id>
-        <link href="https://www.actionsbyexample.com/"/>
-        <updated>2022-01-26T03:16:07.303Z</updated>
-        <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: PyKIPass - QR체크인 API 래퍼]]></title>
@@ -132,16 +132,16 @@
         <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 개발자로서의 성장이 정체되었다고 느낄 때 어떻게 타개 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5816</id>
+        <link href="https://news.hada.io/topic?id=5816"/>
+        <updated>2022-01-25T02:32:30.729Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[수잔의 편지 : 유튜브 CEO가 말하는 2022년 우선순위]]></title>
         <id>https://youtube-kr.googleblog.com/2022/01/letter-from-susan-our-2022-priorities.html</id>
         <link href="https://youtube-kr.googleblog.com/2022/01/letter-from-susan-our-2022-priorities.html"/>
         <updated>2022-01-27T01:59:58.538Z</updated>
         <content type="html"><![CDATA[(youtube-kr.googleblog.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 개발자로서의 성장이 정체되었다고 느낄 때 어떻게 타개 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5816</id>
-        <link href="https://news.hada.io/topic?id=5816"/>
-        <updated>2022-01-25T02:32:30.729Z</updated>
     </entry>
 </feed>
