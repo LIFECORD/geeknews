@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-30T21:14:30.860Z</updated>
+    <updated>2022-01-30T22:15:36.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://blog.visiodeibc.dev/why-startup-5605ea3ee3fd"/>
         <updated>2022-01-30T15:15:32.452Z</updated>
         <content type="html"><![CDATA[(blog.visiodeibc.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
+        <id>https://github.com/ngneat/falso</id>
+        <link href="https://github.com/ngneat/falso"/>
+        <updated>2022-01-29T01:53:25.614Z</updated>
+        <content type="html"><![CDATA[(github.com/ngneat)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PRQL - 데이터 변환을 위한 더 간단하고 강력한 SQL 제안]]></title>
@@ -25,13 +32,6 @@
         <link href="https://brave.com/web-standards-at-brave/7-googles-topics-api/"/>
         <updated>2022-01-30T00:56:11.992Z</updated>
         <content type="html"><![CDATA[(brave.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
-        <id>https://github.com/ngneat/falso</id>
-        <link href="https://github.com/ngneat/falso"/>
-        <updated>2022-01-29T01:53:25.614Z</updated>
-        <content type="html"><![CDATA[(github.com/ngneat)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(kore.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 기술 트렌드 by CBInsights (70p PDF)]]></title>
-        <id>https://www.cbinsights.com/research/report/top-tech-trends-2022/</id>
-        <link href="https://www.cbinsights.com/research/report/top-tech-trends-2022/"/>
-        <updated>2022-01-28T00:56:10.240Z</updated>
-        <content type="html"><![CDATA[(cbinsights.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[어떤 기술이 2022년에 "Cutting Edge" 라고 생각하나요?]]></title>
         <id>https://news.ycombinator.com/item?id=30053761</id>
         <link href="https://news.ycombinator.com/item?id=30053761"/>
         <updated>2022-01-27T01:59:58.524Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 기술 트렌드 by CBInsights (70p PDF)]]></title>
+        <id>https://www.cbinsights.com/research/report/top-tech-trends-2022/</id>
+        <link href="https://www.cbinsights.com/research/report/top-tech-trends-2022/"/>
+        <updated>2022-01-28T00:56:10.240Z</updated>
+        <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Plasmic - 비주얼 콘텐츠를 쉽게 만드는 헤드리스 페이지 빌더 오픈소스]]></title>
