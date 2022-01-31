@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-31T17:16:57.564Z</updated>
+    <updated>2022-01-31T18:19:05.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(github.com/ngneat)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PRQL - 데이터 변환을 위한 더 간단하고 강력한 SQL 제안]]></title>
-        <id>https://github.com/max-sixty/prql</id>
-        <link href="https://github.com/max-sixty/prql"/>
-        <updated>2022-01-30T01:58:59.085Z</updated>
-        <content type="html"><![CDATA[(github.com/max-sixty)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
         <id>https://cleanup.pictures/</id>
         <link href="https://cleanup.pictures/"/>
         <updated>2022-01-28T01:59:27.629Z</updated>
         <content type="html"><![CDATA[(cleanup.pictures)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRQL - 데이터 변환을 위한 더 간단하고 강력한 SQL 제안]]></title>
+        <id>https://github.com/max-sixty/prql</id>
+        <link href="https://github.com/max-sixty/prql"/>
+        <updated>2022-01-30T01:58:59.085Z</updated>
+        <content type="html"><![CDATA[(github.com/max-sixty)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vanilla List - 순수 JavaScript 플러그인 저장소]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(powerlanguage.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬]]></title>
-        <id>https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text</id>
-        <link href="https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text"/>
-        <updated>2022-01-28T02:38:01.280Z</updated>
-        <content type="html"><![CDATA[(ai.facebook.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Actions by Example]]></title>
         <id>https://www.actionsbyexample.com/</id>
         <link href="https://www.actionsbyexample.com/"/>
         <updated>2022-01-26T03:16:07.303Z</updated>
         <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬]]></title>
+        <id>https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text</id>
+        <link href="https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text"/>
+        <updated>2022-01-28T02:38:01.280Z</updated>
+        <content type="html"><![CDATA[(ai.facebook.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Serverless Framework V3 릴리즈]]></title>
