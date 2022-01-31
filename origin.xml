@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-01-31T15:18:00.057Z</updated>
+    <updated>2022-01-31T16:23:59.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(powerlanguage.co.uk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬]]></title>
-        <id>https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text</id>
-        <link href="https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text"/>
-        <updated>2022-01-28T02:38:01.280Z</updated>
-        <content type="html"><![CDATA[(ai.facebook.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Actions by Example]]></title>
         <id>https://www.actionsbyexample.com/</id>
         <link href="https://www.actionsbyexample.com/"/>
         <updated>2022-01-26T03:16:07.303Z</updated>
         <content type="html"><![CDATA[(actionsbyexample.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data2Vec - 음성,비젼,텍스트에 동작하는 최초의 고성능 자기 지도 학습 알고리듬]]></title>
+        <id>https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text</id>
+        <link href="https://ai.facebook.com/blog/the-first-high-performance-self-supervised-algorithm-that-works-for-speech-vision-and-text"/>
+        <updated>2022-01-28T02:38:01.280Z</updated>
+        <content type="html"><![CDATA[(ai.facebook.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Serverless Framework V3 릴리즈]]></title>
