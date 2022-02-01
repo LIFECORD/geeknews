@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-01T13:19:54.963Z</updated>
+    <updated>2022-02-01T14:15:33.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(nytimes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Pingpop - 하루에 퍼즐 하나 풀기]]></title>
-        <id>https://news.hada.io/topic?id=5869</id>
-        <link href="https://news.hada.io/topic?id=5869"/>
-        <updated>2022-02-01T11:14:21.400Z</updated>
-        <content type="html"><![CDATA[(scon-io.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS 역사로 알아보는 CSS가 어려워진 이유]]></title>
         <id>https://velog.io/@teo/css-history-1</id>
         <link href="https://velog.io/@teo/css-history-1"/>
         <updated>2022-02-01T02:04:19.440Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Pingpop - 하루에 퍼즐 하나 풀기]]></title>
+        <id>https://news.hada.io/topic?id=5869</id>
+        <link href="https://news.hada.io/topic?id=5869"/>
+        <updated>2022-02-01T11:14:21.400Z</updated>
+        <content type="html"><![CDATA[(scon-io.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sony, Destiny 제작사 Bungie를 $3.6B(4.3조원)에 인수]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PRQL - 데이터 변환을 위한 더 간단하고 강력한 SQL 제안]]></title>
-        <id>https://github.com/max-sixty/prql</id>
-        <link href="https://github.com/max-sixty/prql"/>
-        <updated>2022-01-30T01:58:59.085Z</updated>
-        <content type="html"><![CDATA[(github.com/max-sixty)]]></content>
+        <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
+        <id>https://github.com/ngneat/falso</id>
+        <link href="https://github.com/ngneat/falso"/>
+        <updated>2022-01-29T01:53:25.614Z</updated>
+        <content type="html"><![CDATA[(github.com/ngneat)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cleanup Pictures - 사진에서 필요없는 부분 지우기]]></title>
@@ -111,11 +111,11 @@
         <content type="html"><![CDATA[(cleanup.pictures)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Falso - 가짜 데이터 생성 오픈소스]]></title>
-        <id>https://github.com/ngneat/falso</id>
-        <link href="https://github.com/ngneat/falso"/>
-        <updated>2022-01-29T01:53:25.614Z</updated>
-        <content type="html"><![CDATA[(github.com/ngneat)]]></content>
+        <title type="html"><![CDATA[PRQL - 데이터 변환을 위한 더 간단하고 강력한 SQL 제안]]></title>
+        <id>https://github.com/max-sixty/prql</id>
+        <link href="https://github.com/max-sixty/prql"/>
+        <updated>2022-01-30T01:58:59.085Z</updated>
+        <content type="html"><![CDATA[(github.com/max-sixty)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vanilla List - 순수 JavaScript 플러그인 저장소]]></title>
