@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-03T09:16:35.020Z</updated>
+    <updated>2022-02-03T10:17:29.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stockle - 미국 주식 티커로 풀어보는 Wordle]]></title>
-        <id>https://stockle.win/</id>
-        <link href="https://stockle.win/"/>
-        <updated>2022-02-03T04:20:28.109Z</updated>
-        <content type="html"><![CDATA[(stockle.win)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trilium Notes - 개인 KB구축을 위한 계층적 메모 앱 오픈소스]]></title>
         <id>https://github.com/zadam/trilium</id>
         <link href="https://github.com/zadam/trilium"/>
@@ -69,11 +62,11 @@
         <content type="html"><![CDATA[(github.com/zadam)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cool Cats NFT를 구축하면서 배운 것 [번역]]]></title>
-        <id>https://yozm.wishket.com/magazine/detail/1196/</id>
-        <link href="https://yozm.wishket.com/magazine/detail/1196/"/>
-        <updated>2022-02-03T06:19:42.675Z</updated>
-        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
+        <title type="html"><![CDATA[Stockle - 미국 주식 티커로 풀어보는 Wordle]]></title>
+        <id>https://stockle.win/</id>
+        <link href="https://stockle.win/"/>
+        <updated>2022-02-03T04:20:28.109Z</updated>
+        <content type="html"><![CDATA[(stockle.win)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Node.js 에 Fetch API 추가]]></title>
@@ -81,6 +74,13 @@
         <link href="https://github.com/nodejs/node/commit/6ec225392675c92b102d3caad02ee3a157c9d1b7"/>
         <updated>2022-02-02T00:57:24.099Z</updated>
         <content type="html"><![CDATA[(github.com/nodejs)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cool Cats NFT를 구축하면서 배운 것 [번역]]]></title>
+        <id>https://yozm.wishket.com/magazine/detail/1196/</id>
+        <link href="https://yozm.wishket.com/magazine/detail/1196/"/>
+        <updated>2022-02-03T06:19:42.675Z</updated>
+        <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cruise, 운전자 없는 자율주행 차를 대중에 공개하고 승객 모집 시작]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(ryanpickren.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS 15.4 부터 웹 푸시, WebXR, PWA 지원 확장 예정]]></title>
-        <id>https://firt.dev/ios-15.4b</id>
-        <link href="https://firt.dev/ios-15.4b"/>
-        <updated>2022-02-03T00:54:05.019Z</updated>
-        <content type="html"><![CDATA[(firt.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 웹 개발을 재정의할 오픈소스 프로젝트들]]></title>
         <id>https://betterprogramming.pub/5-open-source-projects-which-can-redefine-web-development-in-2022-567e7e2a6d12</id>
         <link href="https://betterprogramming.pub/5-open-source-projects-which-can-redefine-web-development-in-2022-567e7e2a6d12"/>
@@ -123,6 +116,13 @@
         <link href="https://velog.io/@teo/css-history-1"/>
         <updated>2022-02-01T02:04:19.440Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15.4 부터 웹 푸시, WebXR, PWA 지원 확장 예정]]></title>
+        <id>https://firt.dev/ios-15.4b</id>
+        <link href="https://firt.dev/ios-15.4b"/>
+        <updated>2022-02-03T00:54:05.019Z</updated>
+        <content type="html"><![CDATA[(firt.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Roblox의 작년 73시간 장애 포스트모템]]></title>
