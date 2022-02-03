@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-03T12:26:55.305Z</updated>
+    <updated>2022-02-03T13:19:51.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(getcruise.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 웹캠 버그를 찾아서 10만불 상금 받은 이야기]]></title>
-        <id>https://www.ryanpickren.com/safari-uxss</id>
-        <link href="https://www.ryanpickren.com/safari-uxss"/>
-        <updated>2022-02-02T00:57:24.099Z</updated>
-        <content type="html"><![CDATA[(ryanpickren.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cool Cats NFT를 구축하면서 배운 것 [번역]]]></title>
         <id>https://yozm.wishket.com/magazine/detail/1196/</id>
         <link href="https://yozm.wishket.com/magazine/detail/1196/"/>
         <updated>2022-02-03T06:19:42.675Z</updated>
         <content type="html"><![CDATA[(yozm.wishket.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 웹캠 버그를 찾아서 10만불 상금 받은 이야기]]></title>
+        <id>https://www.ryanpickren.com/safari-uxss</id>
+        <link href="https://www.ryanpickren.com/safari-uxss"/>
+        <updated>2022-02-02T00:57:24.099Z</updated>
+        <content type="html"><![CDATA[(ryanpickren.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 웹 개발을 재정의할 오픈소스 프로젝트들]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(blog.roblox.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS 15.4 부터 웹 푸시, WebXR, PWA 지원 확장 예정]]></title>
-        <id>https://firt.dev/ios-15.4b</id>
-        <link href="https://firt.dev/ios-15.4b"/>
-        <updated>2022-02-03T00:54:05.019Z</updated>
-        <content type="html"><![CDATA[(firt.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 우리말 Wordle]]></title>
         <id>https://news.hada.io/topic?id=5866</id>
         <link href="https://news.hada.io/topic?id=5866"/>
         <updated>2022-02-01T07:15:36.275Z</updated>
         <content type="html"><![CDATA[(plan9.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 15.4 부터 웹 푸시, WebXR, PWA 지원 확장 예정]]></title>
+        <id>https://firt.dev/ios-15.4b</id>
+        <link href="https://firt.dev/ios-15.4b"/>
+        <updated>2022-02-03T00:54:05.019Z</updated>
+        <content type="html"><![CDATA[(firt.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕타임스, Wordle 인수]]></title>
