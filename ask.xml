@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-02-04T07:14:03.218Z</updated>
+    <updated>2022-02-04T08:16:36.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5890</id>
-        <link href="https://news.hada.io/topic?id=5890"/>
-        <updated>2022-02-04T00:55:52.895Z</updated>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 여러분은 노트/정보/일정을 관리하실 때 어떤 툴을 사용하나요?]]></title>
         <id>https://news.hada.io/topic?id=5888</id>
         <link href="https://news.hada.io/topic?id=5888"/>
         <updated>2022-02-03T16:25:29.080Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5890</id>
+        <link href="https://news.hada.io/topic?id=5890"/>
+        <updated>2022-02-04T00:55:52.895Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 만족스러운 사이드 프로젝트들의 개발 경험중, 공통점은 어떤 게 있었나요?]]></title>
@@ -54,16 +54,16 @@
         <updated>2021-12-20T03:13:05.756Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=5796</id>
-        <link href="https://news.hada.io/topic?id=5796"/>
-        <updated>2022-01-21T00:54:29.779Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
         <id>https://news.hada.io/topic?id=5679</id>
         <link href="https://news.hada.io/topic?id=5679"/>
         <updated>2022-01-11T06:07:28.400Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=5796</id>
+        <link href="https://news.hada.io/topic?id=5796"/>
+        <updated>2022-01-21T00:54:29.779Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: chip에 프린트된 글자로 칩을 찾을 수 있는 방법이 있나요??]]></title>
