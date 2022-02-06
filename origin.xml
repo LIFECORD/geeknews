@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-06T19:13:03.541Z</updated>
+    <updated>2022-02-06T20:16:40.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(linkedin.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slackware 15.0 릴리즈]]></title>
-        <id>http://www.slackware.com/releasenotes/15.0.php</id>
-        <link href="http://www.slackware.com/releasenotes/15.0.php"/>
-        <updated>2022-02-06T01:04:25.070Z</updated>
-        <content type="html"><![CDATA[(slackware.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 개발 실력을 가장 잘 표현해주는 진짜개발자 이력서]]></title>
         <id>https://news.hada.io/topic?id=5904</id>
         <link href="https://news.hada.io/topic?id=5904"/>
         <updated>2022-02-05T03:14:52.172Z</updated>
         <content type="html"><![CDATA[(realdeveloper.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slackware 15.0 릴리즈]]></title>
+        <id>http://www.slackware.com/releasenotes/15.0.php</id>
+        <link href="http://www.slackware.com/releasenotes/15.0.php"/>
+        <updated>2022-02-06T01:04:25.070Z</updated>
+        <content type="html"><![CDATA[(slackware.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[systemd by Example]]></title>
