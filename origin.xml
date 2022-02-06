@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-06T21:14:50.563Z</updated>
+    <updated>2022-02-06T22:16:28.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(realdeveloper.pro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slackware 15.0 릴리즈]]></title>
-        <id>http://www.slackware.com/releasenotes/15.0.php</id>
-        <link href="http://www.slackware.com/releasenotes/15.0.php"/>
-        <updated>2022-02-06T01:04:25.070Z</updated>
-        <content type="html"><![CDATA[(slackware.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[systemd by Example]]></title>
         <id>https://systemd-by-example.com/</id>
         <link href="https://systemd-by-example.com/"/>
         <updated>2022-02-04T00:55:34.379Z</updated>
         <content type="html"><![CDATA[(systemd-by-example.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slackware 15.0 릴리즈]]></title>
+        <id>http://www.slackware.com/releasenotes/15.0.php</id>
+        <link href="http://www.slackware.com/releasenotes/15.0.php"/>
+        <updated>2022-02-06T01:04:25.070Z</updated>
+        <content type="html"><![CDATA[(slackware.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQL 팁 : 나의 SQL 작성 패턴]]></title>
