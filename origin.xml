@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-07T14:16:25.856Z</updated>
+    <updated>2022-02-07T15:18:41.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(netlify.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 개발 실력을 가장 잘 표현해주는 진짜개발자 이력서]]></title>
-        <id>https://news.hada.io/topic?id=5904</id>
-        <link href="https://news.hada.io/topic?id=5904"/>
-        <updated>2022-02-05T03:14:52.172Z</updated>
-        <content type="html"><![CDATA[(realdeveloper.pro)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Clean Code 라는 건 없습니다]]></title>
         <id>https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code</id>
         <link href="https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code"/>
         <updated>2022-02-03T01:56:39.575Z</updated>
         <content type="html"><![CDATA[(steveonstuff.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 개발 실력을 가장 잘 표현해주는 진짜개발자 이력서]]></title>
+        <id>https://news.hada.io/topic?id=5904</id>
+        <link href="https://news.hada.io/topic?id=5904"/>
+        <updated>2022-02-05T03:14:52.172Z</updated>
+        <content type="html"><![CDATA[(realdeveloper.pro)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FOSDEM 2022 온라인으로 진행중]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(linkedin.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slackware 15.0 릴리즈]]></title>
-        <id>http://www.slackware.com/releasenotes/15.0.php</id>
-        <link href="http://www.slackware.com/releasenotes/15.0.php"/>
-        <updated>2022-02-06T01:04:25.070Z</updated>
-        <content type="html"><![CDATA[(slackware.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[systemd by Example]]></title>
         <id>https://systemd-by-example.com/</id>
         <link href="https://systemd-by-example.com/"/>
         <updated>2022-02-04T00:55:34.379Z</updated>
         <content type="html"><![CDATA[(systemd-by-example.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slackware 15.0 릴리즈]]></title>
+        <id>http://www.slackware.com/releasenotes/15.0.php</id>
+        <link href="http://www.slackware.com/releasenotes/15.0.php"/>
+        <updated>2022-02-06T01:04:25.070Z</updated>
+        <content type="html"><![CDATA[(slackware.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQL 팁 : 나의 SQL 작성 패턴]]></title>
