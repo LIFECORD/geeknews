@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-07T22:16:53.019Z</updated>
+    <updated>2022-02-07T23:17:20.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(messwithdns.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slackware 15.0 릴리즈]]></title>
-        <id>http://www.slackware.com/releasenotes/15.0.php</id>
-        <link href="http://www.slackware.com/releasenotes/15.0.php"/>
-        <updated>2022-02-06T01:04:25.070Z</updated>
-        <content type="html"><![CDATA[(slackware.com)]]></content>
+        <title type="html"><![CDATA[2022년 1월 100% 할인 이벤트 장애 부검]]></title>
+        <id>https://tech.inflab.com/202201-event-postmortem/</id>
+        <link href="https://tech.inflab.com/202201-event-postmortem/"/>
+        <updated>2022-02-07T23:16:43.825Z</updated>
+        <content type="html"><![CDATA[(tech.inflab.com)]]></content>
     </entry>
 </feed>
