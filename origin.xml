@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-09T16:25:20.458Z</updated>
+    <updated>2022-02-09T17:19:37.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Discord, 포럼과 비슷한 새로운 커뮤니티 기능 실험 중]]></title>
-        <id>https://discord.com/blog/a-note-on-upcoming-community-experiments</id>
-        <link href="https://discord.com/blog/a-note-on-upcoming-community-experiments"/>
-        <updated>2022-02-09T01:01:15.958Z</updated>
-        <content type="html"><![CDATA[(discord.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SHA256 알고리듬 단계별 시각화]]></title>
         <id>https://sha256algorithm.com/</id>
         <link href="https://sha256algorithm.com/"/>
         <updated>2022-02-08T01:03:57.432Z</updated>
         <content type="html"><![CDATA[(sha256algorithm.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord, 포럼과 비슷한 새로운 커뮤니티 기능 실험 중]]></title>
+        <id>https://discord.com/blog/a-note-on-upcoming-community-experiments</id>
+        <link href="https://discord.com/blog/a-note-on-upcoming-community-experiments"/>
+        <updated>2022-02-09T01:01:15.958Z</updated>
+        <content type="html"><![CDATA[(discord.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드 리뷰의 목적은 성장이어야 한다]]></title>
