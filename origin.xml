@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-09T17:19:37.157Z</updated>
+    <updated>2022-02-09T18:19:38.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(okky.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adobe가 12개월 구독으로 사용자를 속이는 방법]]></title>
-        <id>https://threadreaderapp.com/thread/1489901640777973768.html</id>
-        <link href="https://threadreaderapp.com/thread/1489901640777973768.html"/>
-        <updated>2022-02-09T02:09:26.488Z</updated>
-        <content type="html"><![CDATA[(threadreaderapp.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
         <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
         <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
         <updated>2022-02-08T06:19:50.949Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe가 12개월 구독으로 사용자를 속이는 방법]]></title>
+        <id>https://threadreaderapp.com/thread/1489901640777973768.html</id>
+        <link href="https://threadreaderapp.com/thread/1489901640777973768.html"/>
+        <updated>2022-02-09T02:09:26.488Z</updated>
+        <content type="html"><![CDATA[(threadreaderapp.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ploomber - 빠르게 데이터 파이프라인을 만들어주는 오픈소스 프레임워크]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(cbc.ca)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[와이 콤비네이터가 학생들에게 하는 조언]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2274659975865</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2274659975865"/>
-        <updated>2022-02-09T06:20:02.957Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SHA256 알고리듬 단계별 시각화]]></title>
         <id>https://sha256algorithm.com/</id>
         <link href="https://sha256algorithm.com/"/>
         <updated>2022-02-08T01:03:57.432Z</updated>
         <content type="html"><![CDATA[(sha256algorithm.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와이 콤비네이터가 학생들에게 하는 조언]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2274659975865</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2274659975865"/>
+        <updated>2022-02-09T06:20:02.957Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Discord, 포럼과 비슷한 새로운 커뮤니티 기능 실험 중]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[펠로톤 이야기]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2275531158327</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2275531158327"/>
-        <updated>2022-02-09T06:20:02.959Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[서버들이 IPv6를 지원해야 할 이유]]></title>
         <id>https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/</id>
         <link href="https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/"/>
@@ -123,6 +116,13 @@
         <link href="https://www.first100users.com/"/>
         <updated>2022-02-07T03:17:00.207Z</updated>
         <content type="html"><![CDATA[(first100users.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펠로톤 이야기]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2275531158327</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2275531158327"/>
+        <updated>2022-02-09T06:20:02.959Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기계식 키보드 끝판 정리]]></title>
