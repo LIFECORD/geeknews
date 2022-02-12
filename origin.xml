@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-12T05:15:19.149Z</updated>
+    <updated>2022-02-12T06:19:09.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-NeoX-20B 에게 사칙연산 질문을 물어봤더니]]></title>
-        <id>https://twitter.com/moyix/status/1491803929801150471</id>
-        <link href="https://twitter.com/moyix/status/1491803929801150471"/>
-        <updated>2022-02-12T02:08:00.282Z</updated>
-        <content type="html"><![CDATA[(twitter.com/moyix)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS 학습 자료 링크모음]]></title>
         <id>https://gist.github.com/serithemage/9993400aa483c95ade954a1e36b1004b</id>
         <link href="https://gist.github.com/serithemage/9993400aa483c95ade954a1e36b1004b"/>
         <updated>2022-02-11T01:02:28.201Z</updated>
         <content type="html"><![CDATA[(gist.github.com/serithemage)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-NeoX-20B 에게 사칙연산 질문을 물어봤더니]]></title>
+        <id>https://twitter.com/moyix/status/1491803929801150471</id>
+        <link href="https://twitter.com/moyix/status/1491803929801150471"/>
+        <updated>2022-02-12T02:08:00.282Z</updated>
+        <content type="html"><![CDATA[(twitter.com/moyix)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[jless - 커맨드라인 JSON 뷰어]]></title>
