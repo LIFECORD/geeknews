@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-13T18:19:43.208Z</updated>
+    <updated>2022-02-13T19:13:48.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,17 +90,17 @@
         <content type="html"><![CDATA[(gyroflow.xyz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=5964</id>
-        <link href="https://news.hada.io/topic?id=5964"/>
-        <updated>2022-02-13T05:13:55.414Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
         <id>https://maxkim-j.github.io/posts/packet-travel</id>
         <link href="https://maxkim-j.github.io/posts/packet-travel"/>
         <updated>2022-02-08T04:19:52.048Z</updated>
         <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=5964</id>
+        <link href="https://news.hada.io/topic?id=5964"/>
+        <updated>2022-02-13T05:13:55.414Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[jless - 커맨드라인 JSON 뷰어]]></title>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(twitter.com/moyix)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글에 합격했습니다]]></title>
-        <id>https://okky.kr/article/1155034</id>
-        <link href="https://okky.kr/article/1155034"/>
-        <updated>2022-02-09T04:20:33.823Z</updated>
-        <content type="html"><![CDATA[(okky.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오버플로우 없이 2개 unsigned int의 평균 구하기]]></title>
         <id>https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223</id>
         <link href="https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223"/>
         <updated>2022-02-13T16:22:29.083Z</updated>
         <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글에 합격했습니다]]></title>
+        <id>https://okky.kr/article/1155034</id>
+        <link href="https://okky.kr/article/1155034"/>
+        <updated>2022-02-09T04:20:33.823Z</updated>
+        <content type="html"><![CDATA[(okky.kr)]]></content>
     </entry>
 </feed>
