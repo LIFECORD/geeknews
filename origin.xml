@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-13T01:02:25.628Z</updated>
+    <updated>2022-02-13T02:31:18.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JavaScript로 프린터 드라이버 작성하기]]></title>
+        <id>https://kubesail.com/blog/2022-02-01-printer-driver-in-javascript</id>
+        <link href="https://kubesail.com/blog/2022-02-01-printer-driver-in-javascript"/>
+        <updated>2022-02-13T01:01:46.425Z</updated>
+        <content type="html"><![CDATA[(kubesail.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firecracker v1.0.0 릴리즈]]></title>
         <id>https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0</id>
         <link href="https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0"/>
         <updated>2022-02-13T01:01:46.415Z</updated>
         <content type="html"><![CDATA[(github.com/firecracker-microvm)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Puppeteer-to-Playwright - 스크립트 변환 도구]]></title>
-        <id>https://github.com/checkly/puppeteer-to-playwright</id>
-        <link href="https://github.com/checkly/puppeteer-to-playwright"/>
-        <updated>2022-02-13T01:01:46.425Z</updated>
-        <content type="html"><![CDATA[(github.com/checkly)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 이해하기 시리즈]]></title>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[(browser.engineering)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript로 프린터 드라이버 작성하기]]></title>
-        <id>https://kubesail.com/blog/2022-02-01-printer-driver-in-javascript</id>
-        <link href="https://kubesail.com/blog/2022-02-01-printer-driver-in-javascript"/>
+        <title type="html"><![CDATA[Puppeteer-to-Playwright - 스크립트 변환 도구]]></title>
+        <id>https://github.com/checkly/puppeteer-to-playwright</id>
+        <link href="https://github.com/checkly/puppeteer-to-playwright"/>
         <updated>2022-02-13T01:01:46.425Z</updated>
-        <content type="html"><![CDATA[(kubesail.com)]]></content>
+        <content type="html"><![CDATA[(github.com/checkly)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EdgeDB 1.0 릴리즈]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(codecaptcha.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-NeoX-20B 에게 사칙연산 질문을 물어봤더니]]></title>
-        <id>https://twitter.com/moyix/status/1491803929801150471</id>
-        <link href="https://twitter.com/moyix/status/1491803929801150471"/>
-        <updated>2022-02-12T02:08:00.282Z</updated>
-        <content type="html"><![CDATA[(twitter.com/moyix)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gyroflow - Gyro를 이용한 비디오 안정화 툴 오픈소스]]></title>
         <id>https://gyroflow.xyz/</id>
         <link href="https://gyroflow.xyz/"/>
         <updated>2022-02-11T01:02:28.207Z</updated>
         <content type="html"><![CDATA[(gyroflow.xyz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-NeoX-20B 에게 사칙연산 질문을 물어봤더니]]></title>
+        <id>https://twitter.com/moyix/status/1491803929801150471</id>
+        <link href="https://twitter.com/moyix/status/1491803929801150471"/>
+        <updated>2022-02-12T02:08:00.282Z</updated>
+        <content type="html"><![CDATA[(twitter.com/moyix)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[jless - 커맨드라인 JSON 뷰어]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(okky.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오버플로우 없이 2개 unsigned int의 평균 구하기]]></title>
-        <id>https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223</id>
-        <link href="https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223"/>
-        <updated>2022-02-10T02:02:37.586Z</updated>
-        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ploomber - 빠르게 데이터 파이프라인을 만들어주는 오픈소스 프레임워크]]></title>
         <id>https://ploomber.io/</id>
         <link href="https://ploomber.io/"/>
         <updated>2022-02-12T03:16:09.367Z</updated>
         <content type="html"><![CDATA[(ploomber.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오버플로우 없이 2개 unsigned int의 평균 구하기]]></title>
+        <id>https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20220207-00/?p=106223"/>
+        <updated>2022-02-10T02:02:37.586Z</updated>
+        <content type="html"><![CDATA[(devblogs.microsoft.com)]]></content>
     </entry>
 </feed>
