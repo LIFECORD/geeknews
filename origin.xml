@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-14T04:21:11.759Z</updated>
+    <updated>2022-02-14T05:15:59.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[WebSockets 대신 Server-Sent Events 사용하기]]></title>
-        <id>https://germano.dev/sse-websockets/</id>
-        <link href="https://germano.dev/sse-websockets/"/>
-        <updated>2022-02-14T01:57:24.971Z</updated>
-        <content type="html"><![CDATA[(germano.dev)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[토리맘의 한글라이즈 프로젝트 - 공식 개발 레퍼런스를 한글로 번역]]></title>
         <id>https://godekdls.github.io/</id>
         <link href="https://godekdls.github.io/"/>
         <updated>2022-02-14T01:57:24.974Z</updated>
         <content type="html"><![CDATA[(godekdls.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebSockets 대신 Server-Sent Events 사용하기]]></title>
+        <id>https://germano.dev/sse-websockets/</id>
+        <link href="https://germano.dev/sse-websockets/"/>
+        <updated>2022-02-14T01:57:24.971Z</updated>
+        <content type="html"><![CDATA[(germano.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS 가상 대기실 솔루션 오픈소스 공개]]></title>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IPA - 개인 정보를 보호하는 광고 어트리뷰션]]></title>
-        <id>https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/</id>
-        <link href="https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/"/>
-        <updated>2022-02-14T01:57:25.007Z</updated>
-        <content type="html"><![CDATA[(blog.mozilla.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lurnby - 웹을 이용한 학습도구 오픈소스]]></title>
         <id>https://github.com/Roznoshchik/Lurnby</id>
         <link href="https://github.com/Roznoshchik/Lurnby"/>
         <updated>2022-02-14T01:57:24.982Z</updated>
         <content type="html"><![CDATA[(github.com/Roznoshchik)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPA - 개인 정보를 보호하는 광고 어트리뷰션]]></title>
+        <id>https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/</id>
+        <link href="https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/"/>
+        <updated>2022-02-14T01:57:25.007Z</updated>
+        <content type="html"><![CDATA[(blog.mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[타입스크립트에서 Type, Interface를 어떻게 사용해야 하는가? [해외글]]]></title>
@@ -53,6 +53,13 @@
         <link href="https://browser.engineering/"/>
         <updated>2022-02-12T13:16:48.293Z</updated>
         <content type="html"><![CDATA[(browser.engineering)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft를 잊지 말아요]]></title>
+        <id>https://luttig.substack.com/p/dont-forget-microsoft</id>
+        <link href="https://luttig.substack.com/p/dont-forget-microsoft"/>
+        <updated>2022-02-14T05:15:22.040Z</updated>
+        <content type="html"><![CDATA[(luttig.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sci-Hub 통계와 데이터베이스]]></title>
@@ -90,13 +97,6 @@
         <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Puppeteer-to-Playwright - 스크립트 변환 도구]]></title>
-        <id>https://github.com/checkly/puppeteer-to-playwright</id>
-        <link href="https://github.com/checkly/puppeteer-to-playwright"/>
-        <updated>2022-02-13T01:01:46.425Z</updated>
-        <content type="html"><![CDATA[(github.com/checkly)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BeeWare - Python 크로스플랫폼 오픈소스]]></title>
         <id>https://beeware.org/</id>
         <link href="https://beeware.org/"/>
@@ -104,11 +104,24 @@
         <content type="html"><![CDATA[(beeware.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Puppeteer-to-Playwright - 스크립트 변환 도구]]></title>
+        <id>https://github.com/checkly/puppeteer-to-playwright</id>
+        <link href="https://github.com/checkly/puppeteer-to-playwright"/>
+        <updated>2022-02-13T01:01:46.425Z</updated>
+        <content type="html"><![CDATA[(github.com/checkly)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플의 새로운 'realityOS' 깃헙 커밋에서 발견]]></title>
         <id>https://arstechnica.com/gadgets/2022/02/devs-discover-realityos-hints-in-apple-logs-and-code/</id>
         <link href="https://arstechnica.com/gadgets/2022/02/devs-discover-realityos-hints-in-apple-logs-and-code/"/>
         <updated>2022-02-12T05:14:42.038Z</updated>
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=5964</id>
+        <link href="https://news.hada.io/topic?id=5964"/>
+        <updated>2022-02-13T05:13:55.414Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021년 최고의 웹 해킹 기술들]]></title>
@@ -130,18 +143,5 @@
         <link href="https://www.codecaptcha.io/"/>
         <updated>2022-02-11T02:31:05.624Z</updated>
         <content type="html"><![CDATA[(codecaptcha.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=5964</id>
-        <link href="https://news.hada.io/topic?id=5964"/>
-        <updated>2022-02-13T05:13:55.414Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
-        <id>https://maxkim-j.github.io/posts/packet-travel</id>
-        <link href="https://maxkim-j.github.io/posts/packet-travel"/>
-        <updated>2022-02-08T04:19:52.048Z</updated>
-        <content type="html"><![CDATA[(maxkim-j.github.io)]]></content>
     </entry>
 </feed>
