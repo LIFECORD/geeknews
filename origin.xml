@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-14T22:16:17.408Z</updated>
+    <updated>2022-02-14T23:17:33.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,16 +132,16 @@
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=5964</id>
-        <link href="https://news.hada.io/topic?id=5964"/>
-        <updated>2022-02-13T05:13:55.414Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CodeCaptcha - 개발자에게만 보이는 링크 만들기]]></title>
         <id>https://www.codecaptcha.io/</id>
         <link href="https://www.codecaptcha.io/"/>
         <updated>2022-02-14T19:16:20.837Z</updated>
         <content type="html"><![CDATA[(codecaptcha.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=5964</id>
+        <link href="https://news.hada.io/topic?id=5964"/>
+        <updated>2022-02-13T05:13:55.414Z</updated>
     </entry>
 </feed>
