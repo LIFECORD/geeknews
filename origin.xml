@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-14T11:15:04.438Z</updated>
+    <updated>2022-02-14T12:26:45.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,11 +104,11 @@
         <content type="html"><![CDATA[(beeware.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Puppeteer-to-Playwright - 스크립트 변환 도구]]></title>
-        <id>https://github.com/checkly/puppeteer-to-playwright</id>
-        <link href="https://github.com/checkly/puppeteer-to-playwright"/>
-        <updated>2022-02-13T01:01:46.425Z</updated>
-        <content type="html"><![CDATA[(github.com/checkly)]]></content>
+        <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
+        <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
+        <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
+        <updated>2022-02-08T06:19:50.949Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플의 새로운 'realityOS' 깃헙 커밋에서 발견]]></title>
@@ -116,13 +116,6 @@
         <link href="https://arstechnica.com/gadgets/2022/02/devs-discover-realityos-hints-in-apple-logs-and-code/"/>
         <updated>2022-02-12T05:14:42.038Z</updated>
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
-        <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
-        <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
-        <updated>2022-02-08T06:19:50.949Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
@@ -136,6 +129,13 @@
         <link href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2021"/>
         <updated>2022-02-11T02:31:05.634Z</updated>
         <content type="html"><![CDATA[(portswigger.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puppeteer-to-Playwright - 스크립트 변환 도구]]></title>
+        <id>https://github.com/checkly/puppeteer-to-playwright</id>
+        <link href="https://github.com/checkly/puppeteer-to-playwright"/>
+        <updated>2022-02-13T01:01:46.425Z</updated>
+        <content type="html"><![CDATA[(github.com/checkly)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
