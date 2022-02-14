@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-14T02:29:00.377Z</updated>
+    <updated>2022-02-14T03:17:13.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://germano.dev/sse-websockets/"/>
         <updated>2022-02-14T01:57:24.971Z</updated>
         <content type="html"><![CDATA[(germano.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토리맘의 한글라이즈 프로젝트 - 공식 개발 레퍼런스를 한글로 번역]]></title>
+        <id>https://godekdls.github.io/</id>
+        <link href="https://godekdls.github.io/"/>
+        <updated>2022-02-14T01:57:24.974Z</updated>
+        <content type="html"><![CDATA[(godekdls.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IPA - 개인 정보를 보호하는 광고 어트리뷰션]]></title>
@@ -27,13 +34,6 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[토리맘의 한글라이즈 프로젝트 - 공식 개발 레퍼런스를 한글로 번역]]></title>
-        <id>https://godekdls.github.io/</id>
-        <link href="https://godekdls.github.io/"/>
-        <updated>2022-02-14T01:57:24.974Z</updated>
-        <content type="html"><![CDATA[(godekdls.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lurnby - 웹을 이용한 학습도구 오픈소스]]></title>
         <id>https://github.com/Roznoshchik/Lurnby</id>
         <link href="https://github.com/Roznoshchik/Lurnby"/>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(dev.to)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sci-Hub 통계와 데이터베이스]]></title>
-        <id>https://sci-hub.ru/databases</id>
-        <link href="https://sci-hub.ru/databases"/>
-        <updated>2022-02-14T02:28:23.068Z</updated>
-        <content type="html"><![CDATA[(sci-hub.ru)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[브라우저 이해하기 시리즈]]></title>
         <id>https://browser.engineering/</id>
         <link href="https://browser.engineering/"/>
         <updated>2022-02-12T13:16:48.293Z</updated>
         <content type="html"><![CDATA[(browser.engineering)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sci-Hub 통계와 데이터베이스]]></title>
+        <id>https://sci-hub.ru/databases</id>
+        <link href="https://sci-hub.ru/databases"/>
+        <updated>2022-02-14T02:28:23.068Z</updated>
+        <content type="html"><![CDATA[(sci-hub.ru)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript로 프린터 드라이버 작성하기]]></title>
@@ -118,10 +118,11 @@
         <content type="html"><![CDATA[(portswigger.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=5964</id>
-        <link href="https://news.hada.io/topic?id=5964"/>
-        <updated>2022-02-13T05:13:55.414Z</updated>
+        <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
+        <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
+        <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
+        <updated>2022-02-08T06:19:50.949Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CodeCaptcha - 개발자에게만 보이는 링크 만들기]]></title>
@@ -131,11 +132,10 @@
         <content type="html"><![CDATA[(codecaptcha.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기]]></title>
-        <id>https://engineering.ab180.co/stories/iam-management-consoleme</id>
-        <link href="https://engineering.ab180.co/stories/iam-management-consoleme"/>
-        <updated>2022-02-08T06:19:50.949Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+        <title type="html"><![CDATA[Ask GN: 여러분의 방에는 어떤 독특하며 애용하는 것이 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=5964</id>
+        <link href="https://news.hada.io/topic?id=5964"/>
+        <updated>2022-02-13T05:13:55.414Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[브라우저 주소창에 URL을 치면 일어나는 일들]]></title>
