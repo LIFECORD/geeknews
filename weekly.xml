@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/weekly</id>
     <title>GeekNews Weekly</title>
-    <updated>2022-02-14T00:56:09.052Z</updated>
+    <updated>2022-02-14T01:58:09.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[WebAssembly에 주목해야 할 이유]]></title>
         <id>https://news.hada.io/weekly/202207</id>
         <link href="https://news.hada.io/weekly/202207"/>
-        <updated>2022-02-14T00:55:56.637Z</updated>
+        <updated>2022-02-14T01:57:54.500Z</updated>
         <content type="html"><![CDATA[<td class="fitwidth keepall">136. </td><td class="fitwidth">202207</td><td width="*">&nbsp;<a href="/weekly/202207" class="u keepall"> WebAssembly에 주목해야 할 이유</a></td>]]></content>
     </entry>
     <entry>
