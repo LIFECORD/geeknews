@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-16T06:20:44.277Z</updated>
+    <updated>2022-02-16T07:15:56.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[2022년 웹 개발에서 고려해야 할 환경]]></title>
-        <id>https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/</id>
-        <link href="https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/"/>
-        <updated>2022-02-16T02:11:25.677Z</updated>
-        <content type="html"><![CDATA[(engineering.linecorp.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[수백명의 사람들과 연락을 유지하는 간단한 시스템 만들기]]></title>
         <id>https://jakobgreenfeld.com/stay-in-touch</id>
         <link href="https://jakobgreenfeld.com/stay-in-touch"/>
         <updated>2022-02-16T01:01:04.537Z</updated>
         <content type="html"><![CDATA[(jakobgreenfeld.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 웹 개발에서 고려해야 할 환경]]></title>
+        <id>https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/</id>
+        <link href="https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/"/>
+        <updated>2022-02-16T02:11:25.677Z</updated>
+        <content type="html"><![CDATA[(engineering.linecorp.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[벨기에, 주4일제를 승인하고 퇴근 후에 상사의 연락을 무시할 권리 부여]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(sso.tax)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[.NET 20주년]]></title>
-        <id>https://dotnet.microsoft.com/en-us/</id>
-        <link href="https://dotnet.microsoft.com/en-us/"/>
-        <updated>2022-02-15T01:05:59.842Z</updated>
-        <content type="html"><![CDATA[(dotnet.microsoft.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sci-Hub 통계와 데이터베이스]]></title>
         <id>https://sci-hub.ru/databases</id>
         <link href="https://sci-hub.ru/databases"/>
         <updated>2022-02-14T02:28:23.068Z</updated>
         <content type="html"><![CDATA[(sci-hub.ru)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NET 20주년]]></title>
+        <id>https://dotnet.microsoft.com/en-us/</id>
+        <link href="https://dotnet.microsoft.com/en-us/"/>
+        <updated>2022-02-15T01:05:59.842Z</updated>
+        <content type="html"><![CDATA[(dotnet.microsoft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IPA - 개인 정보를 보호하는 광고 어트리뷰션]]></title>
