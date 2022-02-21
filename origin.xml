@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-21T09:18:42.884Z</updated>
+    <updated>2022-02-21T10:19:42.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(dial-multiscreen.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 오래된 컴퓨터 매뉴얼을 모으고 읽는 이유]]></title>
-        <id>https://passo.uno/why-collect-read-old-computer-manuals/</id>
-        <link href="https://passo.uno/why-collect-read-old-computer-manuals/"/>
-        <updated>2022-02-18T02:33:10.228Z</updated>
-        <content type="html"><![CDATA[(passo.uno)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft를 잊지 말아요]]></title>
         <id>https://luttig.substack.com/p/dont-forget-microsoft</id>
         <link href="https://luttig.substack.com/p/dont-forget-microsoft"/>
         <updated>2022-02-14T05:15:22.040Z</updated>
         <content type="html"><![CDATA[(luttig.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 오래된 컴퓨터 매뉴얼을 모으고 읽는 이유]]></title>
+        <id>https://passo.uno/why-collect-read-old-computer-manuals/</id>
+        <link href="https://passo.uno/why-collect-read-old-computer-manuals/"/>
+        <updated>2022-02-18T02:33:10.228Z</updated>
+        <content type="html"><![CDATA[(passo.uno)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Script Kit - 모든 것을 자동화하고 단축키 만들기]]></title>
