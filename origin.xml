@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-23T10:19:34.261Z</updated>
+    <updated>2022-02-23T11:14:36.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/"/>
         <updated>2022-02-23T01:07:51.915Z</updated>
         <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waifu Labs V2 - AI가 그리며 커스텀 가능한 일본 애니메이션 스타일 그림 생성기]]></title>
-        <id>https://waifulabs.com/blog/ai-creativity</id>
-        <link href="https://waifulabs.com/blog/ai-creativity"/>
-        <updated>2022-02-23T05:15:57.420Z</updated>
-        <content type="html"><![CDATA[(waifulabs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tally Forms - 무료 TypeForm 대체제]]></title>
@@ -32,6 +25,13 @@
         <link href="https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist"/>
         <updated>2022-02-23T01:07:51.916Z</updated>
         <content type="html"><![CDATA[(biphelps.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waifu Labs V2 - AI가 그리며 커스텀 가능한 일본 애니메이션 스타일 그림 생성기]]></title>
+        <id>https://waifulabs.com/blog/ai-creativity</id>
+        <link href="https://waifulabs.com/blog/ai-creativity"/>
+        <updated>2022-02-23T05:15:57.420Z</updated>
+        <content type="html"><![CDATA[(waifulabs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북은 저소득 국가들의 인터넷 접속을 돕고 있을까?]]></title>
