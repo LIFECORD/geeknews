@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-24T13:22:05.931Z</updated>
+    <updated>2022-02-24T14:17:37.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(technologyreview.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[공식한글] 넷플릭스 문화, 가치관]]></title>
-        <id>https://jobs.netflix.com/culture?lang=%ED%95%9C%EA%B5%AD%EC%96%B4</id>
-        <link href="https://jobs.netflix.com/culture?lang=%ED%95%9C%EA%B5%AD%EC%96%B4"/>
-        <updated>2022-02-21T05:16:02.236Z</updated>
-        <content type="html"><![CDATA[(jobs.netflix.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fred's ImageMagick Scripts]]></title>
         <id>http://www.fmwconcepts.com/imagemagick/crossprocess/index.php</id>
         <link href="http://www.fmwconcepts.com/imagemagick/crossprocess/index.php"/>
         <updated>2022-02-21T02:02:42.769Z</updated>
         <content type="html"><![CDATA[(fmwconcepts.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공식한글] 넷플릭스 문화, 가치관]]></title>
+        <id>https://jobs.netflix.com/culture?lang=%ED%95%9C%EA%B5%AD%EC%96%B4</id>
+        <link href="https://jobs.netflix.com/culture?lang=%ED%95%9C%EA%B5%AD%EC%96%B4"/>
+        <updated>2022-02-21T05:16:02.236Z</updated>
+        <content type="html"><![CDATA[(jobs.netflix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Roboto Serif 폰트 공개]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(github.com/martinvonz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Judyrecords - 무료 미국 법원 사건 및 소송 검색 시스템]]></title>
-        <id>https://www.judyrecords.com/</id>
-        <link href="https://www.judyrecords.com/"/>
-        <updated>2022-02-24T09:16:41.428Z</updated>
-        <content type="html"><![CDATA[(judyrecords.com)]]></content>
+        <title type="html"><![CDATA[자바스크립트 빌드 & 번들러 툴인 vite 문서를 번역했어요]]></title>
+        <id>https://vitejs-kr.github.io/</id>
+        <link href="https://vitejs-kr.github.io/"/>
+        <updated>2022-02-24T14:16:57.487Z</updated>
+        <content type="html"><![CDATA[(vitejs-kr.github.io)]]></content>
     </entry>
 </feed>
