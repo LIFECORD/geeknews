@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-24T01:05:27.674Z</updated>
+    <updated>2022-02-24T02:36:57.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,20 @@
         <content type="html"><![CDATA[(tally.so)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
+        <id>https://github.com/mickael-kerjean/filestash</id>
+        <link href="https://github.com/mickael-kerjean/filestash"/>
+        <updated>2022-02-24T02:36:19.982Z</updated>
+        <content type="html"><![CDATA[(github.com/mickael-kerjean)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waifu Labs V2 - AI가 그리며 커스텀 가능한 일본 애니메이션 스타일 그림 생성기]]></title>
+        <id>https://waifulabs.com/blog/ai-creativity</id>
+        <link href="https://waifulabs.com/blog/ai-creativity"/>
+        <updated>2022-02-23T05:15:57.420Z</updated>
+        <content type="html"><![CDATA[(waifulabs.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유]]></title>
         <id>https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/</id>
         <link href="https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/"/>
@@ -41,18 +55,18 @@
         <content type="html"><![CDATA[(biphelps.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waifu Labs V2 - AI가 그리며 커스텀 가능한 일본 애니메이션 스타일 그림 생성기]]></title>
-        <id>https://waifulabs.com/blog/ai-creativity</id>
-        <link href="https://waifulabs.com/blog/ai-creativity"/>
-        <updated>2022-02-23T05:15:57.420Z</updated>
-        <content type="html"><![CDATA[(waifulabs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[예전엔 엄청 어려웠지만, 지금은 쉬워진 것들]]></title>
         <id>https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/</id>
         <link href="https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/"/>
         <updated>2022-02-21T03:18:10.108Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: K-Startup 사업공고 알림 슬랙 봇]]></title>
+        <id>https://news.hada.io/topic?id=6035</id>
+        <link href="https://news.hada.io/topic?id=6035"/>
+        <updated>2022-02-23T02:34:00.468Z</updated>
+        <content type="html"><![CDATA[(startup-notify.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 검색이 죽어가고 있다]]></title>
@@ -67,13 +81,6 @@
         <link href="https://github.com/gristlabs/grist-core"/>
         <updated>2022-02-22T01:00:20.001Z</updated>
         <content type="html"><![CDATA[(github.com/gristlabs)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: K-Startup 사업공고 알림 슬랙 봇]]></title>
-        <id>https://news.hada.io/topic?id=6035</id>
-        <link href="https://news.hada.io/topic?id=6035"/>
-        <updated>2022-02-23T02:34:00.468Z</updated>
-        <content type="html"><![CDATA[(startup-notify.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북은 저소득 국가들의 인터넷 접속을 돕고 있을까?]]></title>
@@ -97,18 +104,18 @@
         <content type="html"><![CDATA[(fmwconcepts.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 첫 페이지 하단에 위젯 포함하는 테스트 중]]></title>
-        <id>https://9to5google.com/2022/02/16/google-search-widgets/</id>
-        <link href="https://9to5google.com/2022/02/16/google-search-widgets/"/>
-        <updated>2022-02-23T01:07:51.922Z</updated>
-        <content type="html"><![CDATA[(9to5google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chris Lattner가 Swift Core팀을 떠남]]></title>
         <id>https://forums.swift.org/t/core-team-to-form-language-workgroup/55455</id>
         <link href="https://forums.swift.org/t/core-team-to-form-language-workgroup/55455"/>
         <updated>2022-02-22T03:18:28.044Z</updated>
         <content type="html"><![CDATA[(forums.swift.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 첫 페이지 하단에 위젯 포함하는 테스트 중]]></title>
+        <id>https://9to5google.com/2022/02/16/google-search-widgets/</id>
+        <link href="https://9to5google.com/2022/02/16/google-search-widgets/"/>
+        <updated>2022-02-23T01:07:51.922Z</updated>
+        <content type="html"><![CDATA[(9to5google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Roboto Serif 폰트 공개]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.judyrecords.com/"/>
         <updated>2022-02-21T02:02:42.771Z</updated>
         <content type="html"><![CDATA[(judyrecords.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자바스크립트 빌드 & 번들러 툴인 vite 문서를 번역했어요]]></title>
-        <id>https://vitejs-kr.github.io/</id>
-        <link href="https://vitejs-kr.github.io/"/>
-        <updated>2022-02-19T07:15:06.639Z</updated>
-        <content type="html"><![CDATA[(vitejs-kr.github.io)]]></content>
     </entry>
 </feed>
