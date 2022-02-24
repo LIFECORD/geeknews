@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-24T07:17:17.829Z</updated>
+    <updated>2022-02-24T08:20:48.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(web.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
+        <id>https://stylojs.com/</id>
+        <link href="https://stylojs.com/"/>
+        <updated>2022-02-24T05:16:23.999Z</updated>
+        <content type="html"><![CDATA[(stylojs.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
         <id>https://twitter.com/dylayed/status/1496020581610778625</id>
         <link href="https://twitter.com/dylayed/status/1496020581610778625"/>
@@ -32,13 +39,6 @@
         <link href="https://healeycodes.com/when-im-sad-my-computer-sends-me-a-cat"/>
         <updated>2022-02-24T04:21:21.851Z</updated>
         <content type="html"><![CDATA[(healeycodes.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
-        <id>https://stylojs.com/</id>
-        <link href="https://stylojs.com/"/>
-        <updated>2022-02-24T05:16:23.999Z</updated>
-        <content type="html"><![CDATA[(stylojs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tally Forms - 무료 TypeForm 대체제]]></title>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(waifulabs.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
+        <id>https://github.com/mickael-kerjean/filestash</id>
+        <link href="https://github.com/mickael-kerjean/filestash"/>
+        <updated>2022-02-24T02:36:19.982Z</updated>
+        <content type="html"><![CDATA[(github.com/mickael-kerjean)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유]]></title>
         <id>https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/</id>
         <link href="https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/"/>
@@ -74,13 +81,6 @@
         <link href="https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/"/>
         <updated>2022-02-21T03:18:10.108Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
-        <id>https://github.com/mickael-kerjean/filestash</id>
-        <link href="https://github.com/mickael-kerjean/filestash"/>
-        <updated>2022-02-24T02:36:19.982Z</updated>
-        <content type="html"><![CDATA[(github.com/mickael-kerjean)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: K-Startup 사업공고 알림 슬랙 봇]]></title>
