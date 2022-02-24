@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-24T02:36:57.448Z</updated>
+    <updated>2022-02-24T03:16:50.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(forums.swift.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 첫 페이지 하단에 위젯 포함하는 테스트 중]]></title>
-        <id>https://9to5google.com/2022/02/16/google-search-widgets/</id>
-        <link href="https://9to5google.com/2022/02/16/google-search-widgets/"/>
-        <updated>2022-02-23T01:07:51.922Z</updated>
-        <content type="html"><![CDATA[(9to5google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Roboto Serif 폰트 공개]]></title>
         <id>https://material.io/blog/roboto-serif</id>
         <link href="https://material.io/blog/roboto-serif"/>
         <updated>2022-02-22T02:04:11.581Z</updated>
         <content type="html"><![CDATA[(material.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 첫 페이지 하단에 위젯 포함하는 테스트 중]]></title>
+        <id>https://9to5google.com/2022/02/16/google-search-widgets/</id>
+        <link href="https://9to5google.com/2022/02/16/google-search-widgets/"/>
+        <updated>2022-02-23T01:07:51.922Z</updated>
+        <content type="html"><![CDATA[(9to5google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jujutsu - 간단하고 강력한 Git 호환 DVCS]]></title>
