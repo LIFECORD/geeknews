@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-24T12:28:28.925Z</updated>
+    <updated>2022-02-24T13:22:05.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(web.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
-        <id>https://twitter.com/dylayed/status/1496020581610778625</id>
-        <link href="https://twitter.com/dylayed/status/1496020581610778625"/>
-        <updated>2022-02-23T18:18:20.344Z</updated>
-        <content type="html"><![CDATA[(twitter.com/dylayed)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
         <id>https://stylojs.com/</id>
         <link href="https://stylojs.com/"/>
@@ -34,11 +27,25 @@
         <content type="html"><![CDATA[(stylojs.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[리소스의 ID, GUID로 할까 Sequential로 할까?]]></title>
+        <id>https://twitter.com/dylayed/status/1496020581610778625</id>
+        <link href="https://twitter.com/dylayed/status/1496020581610778625"/>
+        <updated>2022-02-23T18:18:20.344Z</updated>
+        <content type="html"><![CDATA[(twitter.com/dylayed)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[얼굴 인식해서 내가 슬플 때 고양이 사진 보내기]]></title>
         <id>https://healeycodes.com/when-im-sad-my-computer-sends-me-a-cat</id>
         <link href="https://healeycodes.com/when-im-sad-my-computer-sends-me-a-cat"/>
         <updated>2022-02-24T04:21:21.851Z</updated>
         <content type="html"><![CDATA[(healeycodes.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
+        <id>https://github.com/mickael-kerjean/filestash</id>
+        <link href="https://github.com/mickael-kerjean/filestash"/>
+        <updated>2022-02-24T02:36:19.982Z</updated>
+        <content type="html"><![CDATA[(github.com/mickael-kerjean)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tally Forms - 무료 TypeForm 대체제]]></title>
@@ -53,13 +60,6 @@
         <link href="https://waifulabs.com/blog/ai-creativity"/>
         <updated>2022-02-23T05:15:57.420Z</updated>
         <content type="html"><![CDATA[(waifulabs.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
-        <id>https://github.com/mickael-kerjean/filestash</id>
-        <link href="https://github.com/mickael-kerjean/filestash"/>
-        <updated>2022-02-24T02:36:19.982Z</updated>
-        <content type="html"><![CDATA[(github.com/mickael-kerjean)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 빠른 GIF는 존재하지 않음]]></title>
