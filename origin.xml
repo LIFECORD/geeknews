@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-24T10:19:52.033Z</updated>
+    <updated>2022-02-24T11:15:28.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(twitter.com/dylayed)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
-        <id>https://stylojs.com/</id>
-        <link href="https://stylojs.com/"/>
-        <updated>2022-02-24T05:16:23.999Z</updated>
-        <content type="html"><![CDATA[(stylojs.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[얼굴 인식해서 내가 슬플 때 고양이 사진 보내기]]></title>
         <id>https://healeycodes.com/when-im-sad-my-computer-sends-me-a-cat</id>
         <link href="https://healeycodes.com/when-im-sad-my-computer-sends-me-a-cat"/>
         <updated>2022-02-24T04:21:21.851Z</updated>
         <content type="html"><![CDATA[(healeycodes.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
+        <id>https://stylojs.com/</id>
+        <link href="https://stylojs.com/"/>
+        <updated>2022-02-24T05:16:23.999Z</updated>
+        <content type="html"><![CDATA[(stylojs.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tally Forms - 무료 TypeForm 대체제]]></title>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[(tally.so)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가장 빠른 GIF는 존재하지 않음]]></title>
-        <id>https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist</id>
-        <link href="https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist"/>
-        <updated>2022-02-23T01:07:51.916Z</updated>
-        <content type="html"><![CDATA[(biphelps.com)]]></content>
+        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
+        <id>https://github.com/mickael-kerjean/filestash</id>
+        <link href="https://github.com/mickael-kerjean/filestash"/>
+        <updated>2022-02-24T02:36:19.982Z</updated>
+        <content type="html"><![CDATA[(github.com/mickael-kerjean)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Waifu Labs V2 - AI가 그리며 커스텀 가능한 일본 애니메이션 스타일 그림 생성기]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(waifulabs.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가장 빠른 GIF는 존재하지 않음]]></title>
+        <id>https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist</id>
+        <link href="https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist"/>
+        <updated>2022-02-23T01:07:51.916Z</updated>
+        <content type="html"><![CDATA[(biphelps.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Flutter가 가장 인기 있는 크로스 플랫폼 모바일 SDK인 이유]]></title>
         <id>https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/</id>
         <link href="https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/"/>
         <updated>2022-02-23T01:07:51.915Z</updated>
         <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
-        <id>https://github.com/mickael-kerjean/filestash</id>
-        <link href="https://github.com/mickael-kerjean/filestash"/>
-        <updated>2022-02-24T02:36:19.982Z</updated>
-        <content type="html"><![CDATA[(github.com/mickael-kerjean)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예전엔 엄청 어려웠지만, 지금은 쉬워진 것들]]></title>
