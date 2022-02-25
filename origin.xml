@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-25T03:18:30.494Z</updated>
+    <updated>2022-02-25T04:22:20.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법]]></title>
+        <id>https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/</id>
+        <link href="https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/"/>
+        <updated>2022-02-25T03:17:51.776Z</updated>
+        <content type="html"><![CDATA[(eng.uber.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
         <id>https://github.com/anderspitman/awesome-tunneling</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[(github.com/anderspitman)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법]]></title>
-        <id>https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/</id>
-        <link href="https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/"/>
-        <updated>2022-02-25T03:17:51.776Z</updated>
-        <content type="html"><![CDATA[(eng.uber.com)]]></content>
+        <title type="html"><![CDATA[Goopt - GPT-3를 이용한 Procedural Web 검색엔진]]></title>
+        <id>https://github.com/jokenox/Goopt</id>
+        <link href="https://github.com/jokenox/Goopt"/>
+        <updated>2022-02-25T01:04:41.538Z</updated>
+        <content type="html"><![CDATA[(github.com/jokenox)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shazam은 어떻게 동작하는가?]]></title>
@@ -32,13 +39,6 @@
         <link href="https://vancedapp.com/"/>
         <updated>2022-02-25T01:04:41.527Z</updated>
         <content type="html"><![CDATA[(vancedapp.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goopt - GPT-3를 이용한 Procedural Web 검색엔진]]></title>
-        <id>https://github.com/jokenox/Goopt</id>
-        <link href="https://github.com/jokenox/Goopt"/>
-        <updated>2022-02-25T01:04:41.538Z</updated>
-        <content type="html"><![CDATA[(github.com/jokenox)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nginx 설정 시 가장 많이 하는 10가지 실수 피하기]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(healeycodes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
-        <id>https://github.com/mickael-kerjean/filestash</id>
-        <link href="https://github.com/mickael-kerjean/filestash"/>
-        <updated>2022-02-24T02:36:19.982Z</updated>
-        <content type="html"><![CDATA[(github.com/mickael-kerjean)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tally Forms - 무료 TypeForm 대체제]]></title>
         <id>https://tally.so/</id>
         <link href="https://tally.so/"/>
         <updated>2022-02-23T02:34:00.467Z</updated>
         <content type="html"><![CDATA[(tally.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filestash - 사용하기 쉬운 웹 파일 관리자 오픈소스]]></title>
+        <id>https://github.com/mickael-kerjean/filestash</id>
+        <link href="https://github.com/mickael-kerjean/filestash"/>
+        <updated>2022-02-24T02:36:19.982Z</updated>
+        <content type="html"><![CDATA[(github.com/mickael-kerjean)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Waifu Labs V2 - AI가 그리며 커스텀 가능한 일본 애니메이션 스타일 그림 생성기]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(github.com/gristlabs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fred's ImageMagick Scripts]]></title>
-        <id>http://www.fmwconcepts.com/imagemagick/crossprocess/index.php</id>
-        <link href="http://www.fmwconcepts.com/imagemagick/crossprocess/index.php"/>
-        <updated>2022-02-21T02:02:42.769Z</updated>
-        <content type="html"><![CDATA[(fmwconcepts.com)]]></content>
+        <title type="html"><![CDATA[[공식한글] 넷플릭스 문화, 가치관]]></title>
+        <id>https://jobs.netflix.com/culture?lang=%ED%95%9C%EA%B5%AD%EC%96%B4</id>
+        <link href="https://jobs.netflix.com/culture?lang=%ED%95%9C%EA%B5%AD%EC%96%B4"/>
+        <updated>2022-02-25T04:21:34.002Z</updated>
+        <content type="html"><![CDATA[(jobs.netflix.com)]]></content>
     </entry>
 </feed>
