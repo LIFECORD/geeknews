@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-26T09:16:17.376Z</updated>
+    <updated>2022-02-26T10:18:45.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html"/>
         <updated>2022-02-26T00:58:15.620Z</updated>
         <content type="html"><![CDATA[(tech.socarcorp.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
+        <id>https://github.com/anderspitman/awesome-tunneling</id>
+        <link href="https://github.com/anderspitman/awesome-tunneling"/>
+        <updated>2022-02-25T01:04:41.527Z</updated>
+        <content type="html"><![CDATA[(github.com/anderspitman)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX]]></title>
@@ -25,13 +32,6 @@
         <link href="http://channy.creation.net/blog/1530"/>
         <updated>2022-02-26T00:58:15.620Z</updated>
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
-        <id>https://github.com/anderspitman/awesome-tunneling</id>
-        <link href="https://github.com/anderspitman/awesome-tunneling"/>
-        <updated>2022-02-25T01:04:41.527Z</updated>
-        <content type="html"><![CDATA[(github.com/anderspitman)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shazam은 어떻게 동작하는가?]]></title>
