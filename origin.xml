@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-26T11:14:46.971Z</updated>
+    <updated>2022-02-26T12:26:54.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(github.com/anderspitman)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Shazam은 어떻게 동작하는가?]]></title>
+        <id>https://www.cameronmacleod.com/blog/how-does-shazam-work</id>
+        <link href="https://www.cameronmacleod.com/blog/how-does-shazam-work"/>
+        <updated>2022-02-25T02:35:03.021Z</updated>
+        <content type="html"><![CDATA[(cameronmacleod.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX]]></title>
         <id>https://meetup.toast.com/posts/311</id>
         <link href="https://meetup.toast.com/posts/311"/>
@@ -32,13 +39,6 @@
         <link href="http://channy.creation.net/blog/1530"/>
         <updated>2022-02-26T00:58:15.620Z</updated>
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shazam은 어떻게 동작하는가?]]></title>
-        <id>https://www.cameronmacleod.com/blog/how-does-shazam-work</id>
-        <link href="https://www.cameronmacleod.com/blog/how-does-shazam-work"/>
-        <updated>2022-02-25T02:35:03.021Z</updated>
-        <content type="html"><![CDATA[(cameronmacleod.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법]]></title>
