@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-02-27T16:23:19.083Z</updated>
+    <updated>2022-02-27T17:16:54.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -114,15 +114,15 @@
         <updated>2021-12-22T02:02:18.053Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 커패시터 측정 방법이 따로 있나요?? ,,,]]></title>
-        <id>https://news.hada.io/topic?id=5905</id>
-        <link href="https://news.hada.io/topic?id=5905"/>
-        <updated>2022-02-05T09:14:29.983Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: chip에 프린트된 글자로 칩을 찾을 수 있는 방법이 있나요??]]></title>
         <id>https://news.hada.io/topic?id=5765</id>
         <link href="https://news.hada.io/topic?id=5765"/>
         <updated>2022-01-17T08:22:40.059Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 커패시터 측정 방법이 따로 있나요?? ,,,]]></title>
+        <id>https://news.hada.io/topic?id=5905</id>
+        <link href="https://news.hada.io/topic?id=5905"/>
+        <updated>2022-02-05T09:14:29.983Z</updated>
     </entry>
 </feed>
