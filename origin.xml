@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-28T13:21:50.598Z</updated>
+    <updated>2022-02-28T14:16:54.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(web.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
-        <id>https://stylojs.com/</id>
-        <link href="https://stylojs.com/"/>
-        <updated>2022-02-28T13:21:05.851Z</updated>
-        <content type="html"><![CDATA[(stylojs.com)]]></content>
+        <title type="html"><![CDATA[Mozilla Firefox는 이대로 괜찮을까?]]></title>
+        <id>http://channy.creation.net/blog/1530</id>
+        <link href="http://channy.creation.net/blog/1530"/>
+        <updated>2022-02-28T14:16:12.228Z</updated>
+        <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
 </feed>
