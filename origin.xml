@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-28T02:36:01.690Z</updated>
+    <updated>2022-02-28T03:19:14.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
         <updated>2022-02-28T02:35:21.198Z</updated>
         <content type="html"><![CDATA[(css-tricks.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
+        <id>https://monorepo.tools/</id>
+        <link href="https://monorepo.tools/"/>
+        <updated>2022-02-28T03:18:23.817Z</updated>
+        <content type="html"><![CDATA[(monorepo.tools)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
@@ -76,18 +83,18 @@
         <content type="html"><![CDATA[(cameronmacleod.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitLab Critical Security Release]]></title>
-        <id>https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/</id>
-        <link href="https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/"/>
-        <updated>2022-02-27T01:05:06.236Z</updated>
-        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법]]></title>
         <id>https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/</id>
         <link href="https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/"/>
         <updated>2022-02-25T03:17:51.776Z</updated>
         <content type="html"><![CDATA[(eng.uber.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab Critical Security Release]]></title>
+        <id>https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/</id>
+        <link href="https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/"/>
+        <updated>2022-02-27T01:05:06.236Z</updated>
+        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Nginx 설정 시 가장 많이 하는 10가지 실수 피하기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://web.dev/building-an-adaptive-favicon/"/>
         <updated>2022-02-24T01:04:44.916Z</updated>
         <content type="html"><![CDATA[(web.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stylo - JS용 오픈소스 WYSIWYG 에디터]]></title>
-        <id>https://stylojs.com/</id>
-        <link href="https://stylojs.com/"/>
-        <updated>2022-02-24T05:16:23.999Z</updated>
-        <content type="html"><![CDATA[(stylojs.com)]]></content>
     </entry>
 </feed>
