@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-02-28T05:16:31.788Z</updated>
+    <updated>2022-02-28T06:21:50.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(blog.rust-lang.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쏘카의 데이터 디스커버리 플랫폼 도입기]]></title>
-        <id>https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html</id>
-        <link href="https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html"/>
-        <updated>2022-02-26T00:58:15.620Z</updated>
-        <content type="html"><![CDATA[(tech.socarcorp.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
         <id>https://github.com/anderspitman/awesome-tunneling</id>
         <link href="https://github.com/anderspitman/awesome-tunneling"/>
         <updated>2022-02-25T01:04:41.527Z</updated>
         <content type="html"><![CDATA[(github.com/anderspitman)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쏘카의 데이터 디스커버리 플랫폼 도입기]]></title>
+        <id>https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html</id>
+        <link href="https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html"/>
+        <updated>2022-02-26T00:58:15.620Z</updated>
+        <content type="html"><![CDATA[(tech.socarcorp.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shazam은 어떻게 동작하는가?]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(tally.so)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mozilla Firefox는 이대로 괜찮을까?]]></title>
-        <id>http://channy.creation.net/blog/1530</id>
-        <link href="http://channy.creation.net/blog/1530"/>
-        <updated>2022-02-26T00:58:15.620Z</updated>
-        <content type="html"><![CDATA[(channy.creation.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adaptive Favicon 만들기]]></title>
         <id>https://web.dev/building-an-adaptive-favicon/</id>
         <link href="https://web.dev/building-an-adaptive-favicon/"/>
         <updated>2022-02-24T01:04:44.916Z</updated>
         <content type="html"><![CDATA[(web.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Firefox는 이대로 괜찮을까?]]></title>
+        <id>http://channy.creation.net/blog/1530</id>
+        <link href="http://channy.creation.net/blog/1530"/>
+        <updated>2022-02-26T00:58:15.620Z</updated>
+        <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
 </feed>
