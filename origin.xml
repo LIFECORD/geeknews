@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-01T04:22:36.008Z</updated>
+    <updated>2022-03-01T05:17:21.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
-        <id>https://monorepo.tools/</id>
-        <link href="https://monorepo.tools/"/>
-        <updated>2022-02-28T03:18:23.817Z</updated>
-        <content type="html"><![CDATA[(monorepo.tools)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lenovo, 첫번째 Arm 기반 ThinkPad X13s 발표]]></title>
         <id>https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/</id>
         <link href="https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/"/>
         <updated>2022-03-01T02:44:20.922Z</updated>
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
+        <id>https://monorepo.tools/</id>
+        <link href="https://monorepo.tools/"/>
+        <updated>2022-02-28T03:18:23.817Z</updated>
+        <content type="html"><![CDATA[(monorepo.tools)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linux From Scratch]]></title>
