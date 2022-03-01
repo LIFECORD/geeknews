@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-01T07:16:46.832Z</updated>
+    <updated>2022-03-01T08:21:24.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
         <updated>2022-02-28T02:35:21.198Z</updated>
         <content type="html"><![CDATA[(css-tricks.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한컴 오피스 보안 버그]]></title>
+        <id>https://blog.talosintelligence.com/2022/02/vuln-spotlight-.html</id>
+        <link href="https://blog.talosintelligence.com/2022/02/vuln-spotlight-.html"/>
+        <updated>2022-03-01T06:21:33.421Z</updated>
+        <content type="html"><![CDATA[(blog.talosintelligence.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
@@ -53,13 +60,6 @@
         <link href="https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/"/>
         <updated>2022-03-01T02:44:20.922Z</updated>
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한컴 오피스 보안 버그]]></title>
-        <id>https://blog.talosintelligence.com/2022/02/vuln-spotlight-.html</id>
-        <link href="https://blog.talosintelligence.com/2022/02/vuln-spotlight-.html"/>
-        <updated>2022-03-01T06:21:33.421Z</updated>
-        <content type="html"><![CDATA[(blog.talosintelligence.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
