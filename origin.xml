@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-02T15:18:34.424Z</updated>
+    <updated>2022-03-02T16:25:23.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[(linuxfromscratch.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
-        <id>https://news.hada.io/topic?id=6062</id>
-        <link href="https://news.hada.io/topic?id=6062"/>
-        <updated>2022-02-28T15:20:17.880Z</updated>
-        <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
         <id>https://monorepo.tools/</id>
         <link href="https://monorepo.tools/"/>
@@ -69,11 +62,11 @@
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub의 보안 권고 데이터베이스가 오픈소스로 공개]]></title>
-        <id>https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/</id>
-        <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
-        <updated>2022-03-01T01:12:42.585Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
+        <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
+        <id>https://news.hada.io/topic?id=6062</id>
+        <link href="https://news.hada.io/topic?id=6062"/>
+        <updated>2022-02-28T15:20:17.880Z</updated>
+        <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
@@ -81,6 +74,13 @@
         <link href="https://timothygu.me/es-howto/"/>
         <updated>2022-02-28T02:35:21.225Z</updated>
         <content type="html"><![CDATA[(timothygu.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub의 보안 권고 데이터베이스가 오픈소스로 공개]]></title>
+        <id>https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/</id>
+        <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
+        <updated>2022-03-01T01:12:42.585Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQLite 3.38.0에 JSON 쿼리 연산자 추가]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(github.com/anderspitman)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lenovo, 첫번째 Arm 기반 ThinkPad X13s 발표]]></title>
-        <id>https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/</id>
-        <link href="https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/"/>
-        <updated>2022-03-01T02:44:20.922Z</updated>
-        <content type="html"><![CDATA[(arstechnica.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LogFX - 멀티플랫폼 오픈소스 로그 뷰어]]></title>
         <id>https://renatoathaydes.github.io/LogFX/index.html</id>
         <link href="https://renatoathaydes.github.io/LogFX/index.html"/>
         <updated>2022-02-27T02:32:49.979Z</updated>
         <content type="html"><![CDATA[(renatoathaydes.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo, 첫번째 Arm 기반 ThinkPad X13s 발표]]></title>
+        <id>https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/</id>
+        <link href="https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/"/>
+        <updated>2022-03-01T02:44:20.922Z</updated>
+        <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쏘카의 데이터 디스커버리 플랫폼 도입기]]></title>
