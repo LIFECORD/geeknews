@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-03T08:21:01.538Z</updated>
+    <updated>2022-03-03T09:17:52.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(lessmilk.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[약 5조원 규모의 스타트업 M&A들을 진행하며 배운 것]]></title>
-        <id>https://tomtunguz.com/what-ive-learned-ma/</id>
-        <link href="https://tomtunguz.com/what-ive-learned-ma/"/>
-        <updated>2022-03-02T02:39:30.701Z</updated>
-        <content type="html"><![CDATA[(tomtunguz.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EO 김태용 대표의 기업론]]></title>
         <id>https://saconyreview.glivery.co.kr/p/2276919779089</id>
         <link href="https://saconyreview.glivery.co.kr/p/2276919779089"/>
         <updated>2022-03-03T03:19:32.151Z</updated>
         <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[약 5조원 규모의 스타트업 M&A들을 진행하며 배운 것]]></title>
+        <id>https://tomtunguz.com/what-ive-learned-ma/</id>
+        <link href="https://tomtunguz.com/what-ive-learned-ma/"/>
+        <updated>2022-03-02T02:39:30.701Z</updated>
+        <content type="html"><![CDATA[(tomtunguz.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(linuxfromscratch.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub의 보안 권고 데이터베이스가 오픈소스로 공개]]></title>
-        <id>https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/</id>
-        <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
-        <updated>2022-03-01T01:12:42.585Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
         <id>https://timothygu.me/es-howto/</id>
         <link href="https://timothygu.me/es-howto/"/>
         <updated>2022-02-28T02:35:21.225Z</updated>
         <content type="html"><![CDATA[(timothygu.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub의 보안 권고 데이터베이스가 오픈소스로 공개]]></title>
+        <id>https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/</id>
+        <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
+        <updated>2022-03-01T01:12:42.585Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambda, .NET 6 런타임 지원 시작]]></title>
