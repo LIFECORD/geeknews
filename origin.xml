@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-03T07:17:24.901Z</updated>
+    <updated>2022-03-03T08:21:01.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(lessmilk.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EO 김태용 대표의 기업론]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2276919779089</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2276919779089"/>
-        <updated>2022-03-03T03:19:32.151Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[약 5조원 규모의 스타트업 M&A들을 진행하며 배운 것]]></title>
         <id>https://tomtunguz.com/what-ive-learned-ma/</id>
         <link href="https://tomtunguz.com/what-ive-learned-ma/"/>
         <updated>2022-03-02T02:39:30.701Z</updated>
         <content type="html"><![CDATA[(tomtunguz.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EO 김태용 대표의 기업론]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2276919779089</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2276919779089"/>
+        <updated>2022-03-03T03:19:32.151Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(tirkarthi.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[트위터가 자연언어 쿼리로 데이터 인사이트 도출하는 법]]></title>
-        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries</id>
-        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries"/>
-        <updated>2022-02-28T02:35:21.226Z</updated>
-        <content type="html"><![CDATA[(blog.twitter.com/engineering)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Awesome Tunneling - ngrok 대체제 모음]]></title>
         <id>https://github.com/anderspitman/awesome-tunneling</id>
         <link href="https://github.com/anderspitman/awesome-tunneling"/>
         <updated>2022-02-25T01:04:41.527Z</updated>
         <content type="html"><![CDATA[(github.com/anderspitman)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터가 자연언어 쿼리로 데이터 인사이트 도출하는 법]]></title>
+        <id>https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries</id>
+        <link href="https://blog.twitter.com/engineering/en_us/topics/insights/2022/next-generation-data-insights-using-natural-language-queries"/>
+        <updated>2022-02-28T02:35:21.226Z</updated>
+        <content type="html"><![CDATA[(blog.twitter.com/engineering)]]></content>
     </entry>
 </feed>
