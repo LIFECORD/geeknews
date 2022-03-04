@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-04T09:17:49.487Z</updated>
+    <updated>2022-03-04T10:20:03.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -82,13 +82,6 @@
         <content type="html"><![CDATA[(punkjazz.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 사용자명/암호만 사용하는 보안 수준이 낮은 앱 이제 이용 불가]]></title>
-        <id>https://support.google.com/accounts/answer/6010255?hl=ko</id>
-        <link href="https://support.google.com/accounts/answer/6010255?hl=ko"/>
-        <updated>2022-03-04T03:20:18.282Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
         <id>https://github.com/vinodotdev/node-to-rust</id>
         <link href="https://github.com/vinodotdev/node-to-rust"/>
@@ -101,6 +94,13 @@
         <link href="https://css-tricks.com/send-an-http-request-on-page-exit/"/>
         <updated>2022-02-28T02:35:21.198Z</updated>
         <content type="html"><![CDATA[(css-tricks.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 사용자명/암호만 사용하는 보안 수준이 낮은 앱 이제 이용 불가]]></title>
+        <id>https://support.google.com/accounts/answer/6010255?hl=ko</id>
+        <link href="https://support.google.com/accounts/answer/6010255?hl=ko"/>
+        <updated>2022-03-04T03:20:18.282Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Almost Pong]]></title>
