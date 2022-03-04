@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-04T18:21:53.996Z</updated>
+    <updated>2022-03-04T19:14:19.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(open-web-advocacy.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Red Hat과 IBM의 Node.js 레퍼런스 아키텍처]]></title>
-        <id>https://github.com/nodeshift/nodejs-reference-architecture</id>
-        <link href="https://github.com/nodeshift/nodejs-reference-architecture"/>
-        <updated>2022-03-04T02:44:04.314Z</updated>
-        <content type="html"><![CDATA[(github.com/nodeshift)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
         <id>https://github.com/vinodotdev/node-to-rust</id>
         <link href="https://github.com/vinodotdev/node-to-rust"/>
         <updated>2022-03-02T01:09:39.995Z</updated>
         <content type="html"><![CDATA[(github.com/vinodotdev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat과 IBM의 Node.js 레퍼런스 아키텍처]]></title>
+        <id>https://github.com/nodeshift/nodejs-reference-architecture</id>
+        <link href="https://github.com/nodeshift/nodejs-reference-architecture"/>
+        <updated>2022-03-04T02:44:04.314Z</updated>
+        <content type="html"><![CDATA[(github.com/nodeshift)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -110,13 +110,6 @@
         <content type="html"><![CDATA[(lessmilk.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 사용자명/암호만 사용하는 보안 수준이 낮은 앱 이제 이용 불가]]></title>
-        <id>https://support.google.com/accounts/answer/6010255?hl=ko</id>
-        <link href="https://support.google.com/accounts/answer/6010255?hl=ko"/>
-        <updated>2022-03-04T03:20:18.282Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
         <id>https://monorepo.tools/</id>
         <link href="https://monorepo.tools/"/>
@@ -124,11 +117,11 @@
         <content type="html"><![CDATA[(monorepo.tools)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EO 김태용 대표의 기업론]]></title>
-        <id>https://saconyreview.glivery.co.kr/p/2276919779089</id>
-        <link href="https://saconyreview.glivery.co.kr/p/2276919779089"/>
-        <updated>2022-03-03T03:19:32.151Z</updated>
-        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
+        <title type="html"><![CDATA[구글, 사용자명/암호만 사용하는 보안 수준이 낮은 앱 이제 이용 불가]]></title>
+        <id>https://support.google.com/accounts/answer/6010255?hl=ko</id>
+        <link href="https://support.google.com/accounts/answer/6010255?hl=ko"/>
+        <updated>2022-03-04T03:20:18.282Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linux From Scratch]]></title>
@@ -143,5 +136,12 @@
         <link href="https://news.hada.io/topic?id=6062"/>
         <updated>2022-03-04T09:17:02.639Z</updated>
         <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EO 김태용 대표의 기업론]]></title>
+        <id>https://saconyreview.glivery.co.kr/p/2276919779089</id>
+        <link href="https://saconyreview.glivery.co.kr/p/2276919779089"/>
+        <updated>2022-03-03T03:19:32.151Z</updated>
+        <content type="html"><![CDATA[(saconyreview.glivery.co.kr)]]></content>
     </entry>
 </feed>
