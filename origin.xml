@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-04T01:13:09.531Z</updated>
+    <updated>2022-03-04T02:44:49.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모질라 개발자 사이트 MDN, 새로운 사이트로 개편]]></title>
-        <id>https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/</id>
-        <link href="https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/"/>
-        <updated>2022-03-04T01:12:26.026Z</updated>
-        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Interop 2022: 브라우저가 함께 작동하여 개발자를 위한 웹 개선]]></title>
         <id>https://web.dev/interop-2022/</id>
         <link href="https://web.dev/interop-2022/"/>
         <updated>2022-03-04T01:12:26.032Z</updated>
         <content type="html"><![CDATA[(web.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모질라 개발자 사이트 MDN, 새로운 사이트로 개편]]></title>
+        <id>https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/</id>
+        <link href="https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/"/>
+        <updated>2022-03-04T01:12:26.026Z</updated>
+        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 RISC-V가 성공하고 있을까]]></title>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(semiengineering.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Red Hat과 IBM의 Node.js 레퍼런스 아키텍처]]></title>
+        <id>https://github.com/nodeshift/nodejs-reference-architecture</id>
+        <link href="https://github.com/nodeshift/nodejs-reference-architecture"/>
+        <updated>2022-03-04T02:44:04.314Z</updated>
+        <content type="html"><![CDATA[(github.com/nodeshift)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[딥마인드 MuZero AI가 유튜브 비디오 압축을 개선]]></title>
         <id>https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world</id>
         <link href="https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world"/>
         <updated>2022-03-03T01:07:54.670Z</updated>
         <content type="html"><![CDATA[(deepmind.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordle 잘하는 법]]></title>
-        <id>https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb</id>
-        <link href="https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb"/>
-        <updated>2022-03-03T01:07:54.680Z</updated>
-        <content type="html"><![CDATA[(github.com/norvig)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 주목해야 할 CSS 기능들]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wordle 잘하는 법]]></title>
+        <id>https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb</id>
+        <link href="https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb"/>
+        <updated>2022-03-03T01:07:54.680Z</updated>
+        <content type="html"><![CDATA[(github.com/norvig)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Open Web Advocacy - 애플의 타사 브라우저 금지 규칙에 이의 제기]]></title>
         <id>https://open-web-advocacy.org/</id>
         <link href="https://open-web-advocacy.org/"/>
         <updated>2022-03-03T02:43:59.167Z</updated>
         <content type="html"><![CDATA[(open-web-advocacy.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Almost Pong]]></title>
-        <id>https://www.lessmilk.com/almost-pong/</id>
-        <link href="https://www.lessmilk.com/almost-pong/"/>
-        <updated>2022-03-03T01:07:54.681Z</updated>
-        <content type="html"><![CDATA[(lessmilk.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[약 5조원 규모의 스타트업 M&A들을 진행하며 배운 것]]></title>
@@ -81,6 +81,13 @@
         <link href="https://punkjazz.org/programming-time/"/>
         <updated>2022-03-02T01:09:40.012Z</updated>
         <content type="html"><![CDATA[(punkjazz.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Almost Pong]]></title>
+        <id>https://www.lessmilk.com/almost-pong/</id>
+        <link href="https://www.lessmilk.com/almost-pong/"/>
+        <updated>2022-03-03T01:07:54.681Z</updated>
+        <content type="html"><![CDATA[(lessmilk.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
@@ -118,13 +125,6 @@
         <content type="html"><![CDATA[(technologyreview.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
-        <id>https://news.hada.io/topic?id=6062</id>
-        <link href="https://news.hada.io/topic?id=6062"/>
-        <updated>2022-02-28T15:20:17.880Z</updated>
-        <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux From Scratch]]></title>
         <id>https://linuxfromscratch.org/</id>
         <link href="https://linuxfromscratch.org/"/>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(linuxfromscratch.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지]]></title>
+        <id>https://news.hada.io/topic?id=6062</id>
+        <link href="https://news.hada.io/topic?id=6062"/>
+        <updated>2022-02-28T15:20:17.880Z</updated>
+        <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ECMAScript 스펙을 읽는 법]]></title>
         <id>https://timothygu.me/es-howto/</id>
         <link href="https://timothygu.me/es-howto/"/>
         <updated>2022-02-28T02:35:21.225Z</updated>
         <content type="html"><![CDATA[(timothygu.me)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub의 보안 권고 데이터베이스가 오픈소스로 공개]]></title>
-        <id>https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/</id>
-        <link href="https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/"/>
-        <updated>2022-03-01T01:12:42.585Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
 </feed>
