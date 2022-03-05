@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-03-05T22:17:34.754Z</updated>
+    <updated>2022-03-05T23:16:56.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -78,16 +78,16 @@
         <updated>2022-02-04T00:55:52.895Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
-        <id>https://news.hada.io/topic?id=5915</id>
-        <link href="https://news.hada.io/topic?id=5915"/>
-        <updated>2022-02-07T02:00:07.910Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 맥 한영키는 어떻게 사용하세요?]]></title>
         <id>https://news.hada.io/topic?id=5783</id>
         <link href="https://news.hada.io/topic?id=5783"/>
         <updated>2022-01-20T02:37:49.659Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
+        <id>https://news.hada.io/topic?id=5915</id>
+        <link href="https://news.hada.io/topic?id=5915"/>
+        <updated>2022-02-07T02:00:07.910Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
