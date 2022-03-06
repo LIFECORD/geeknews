@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-06T03:18:51.184Z</updated>
+    <updated>2022-03-06T04:21:53.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dnt - Deno to Node Transform]]></title>
-        <id>https://github.com/denoland/dnt</id>
-        <link href="https://github.com/denoland/dnt"/>
-        <updated>2022-03-05T02:37:06.062Z</updated>
-        <content type="html"><![CDATA[(github.com/denoland)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[왜 RISC-V가 성공하고 있을까]]></title>
         <id>https://semiengineering.com/why-risc-v-is-succeeding/</id>
         <link href="https://semiengineering.com/why-risc-v-is-succeeding/"/>
         <updated>2022-03-04T01:12:26.032Z</updated>
         <content type="html"><![CDATA[(semiengineering.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dnt - Deno to Node Transform]]></title>
+        <id>https://github.com/denoland/dnt</id>
+        <link href="https://github.com/denoland/dnt"/>
+        <updated>2022-03-05T02:37:06.062Z</updated>
+        <content type="html"><![CDATA[(github.com/denoland)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Interop 2022: 브라우저가 함께 작동하여 개발자를 위한 웹 개선]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모질라 개발자 사이트 MDN, 새로운 사이트로 개편]]></title>
-        <id>https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/</id>
-        <link href="https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/"/>
-        <updated>2022-03-04T01:12:26.026Z</updated>
-        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
         <id>https://github.com/vinodotdev/node-to-rust</id>
         <link href="https://github.com/vinodotdev/node-to-rust"/>
         <updated>2022-03-02T01:09:39.995Z</updated>
         <content type="html"><![CDATA[(github.com/vinodotdev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모질라 개발자 사이트 MDN, 새로운 사이트로 개편]]></title>
+        <id>https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/</id>
+        <link href="https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/"/>
+        <updated>2022-03-04T01:12:26.026Z</updated>
+        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 주목해야 할 CSS 기능들]]></title>
