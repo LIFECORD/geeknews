@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-05T23:16:56.244Z</updated>
+    <updated>2022-03-06T01:05:27.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bypass Paywalls - 뉴스 사이트 페이월을 회피하는 브라우저 확장]]></title>
+        <id>https://github.com/iamadamdev/bypass-paywalls-chrome</id>
+        <link href="https://github.com/iamadamdev/bypass-paywalls-chrome"/>
+        <updated>2022-03-06T01:04:47.307Z</updated>
+        <content type="html"><![CDATA[(github.com/iamadamdev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geekbench, 벤치마크에서 삼성 갤럭시 S10,S20,S21,S22 전모델 퇴출]]></title>
+        <id>https://twitter.com/geekbench/status/1499879198940405760</id>
+        <link href="https://twitter.com/geekbench/status/1499879198940405760"/>
+        <updated>2022-03-06T01:04:47.315Z</updated>
+        <content type="html"><![CDATA[(twitter.com/geekbench)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS, Customer Carbon Footprint Tool – 탄소 배출 추적 도구 출시]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/"/>
+        <updated>2022-03-06T01:04:47.316Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국제은행간통신협회(SWIFT) 결제망 아키텍처]]></title>
         <id>https://twitter.com/alexxubyte/status/1497253012665896962</id>
@@ -123,26 +144,5 @@
         <link href="https://open-web-advocacy.org/"/>
         <updated>2022-03-03T02:43:59.167Z</updated>
         <content type="html"><![CDATA[(open-web-advocacy.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Hat과 IBM의 Node.js 레퍼런스 아키텍처]]></title>
-        <id>https://github.com/nodeshift/nodejs-reference-architecture</id>
-        <link href="https://github.com/nodeshift/nodejs-reference-architecture"/>
-        <updated>2022-03-04T02:44:04.314Z</updated>
-        <content type="html"><![CDATA[(github.com/nodeshift)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Almost Pong]]></title>
-        <id>https://www.lessmilk.com/almost-pong/</id>
-        <link href="https://www.lessmilk.com/almost-pong/"/>
-        <updated>2022-03-03T01:07:54.681Z</updated>
-        <content type="html"><![CDATA[(lessmilk.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monorepo에 대한 모든 것]]></title>
-        <id>https://monorepo.tools/</id>
-        <link href="https://monorepo.tools/"/>
-        <updated>2022-02-28T03:18:23.817Z</updated>
-        <content type="html"><![CDATA[(monorepo.tools)]]></content>
     </entry>
 </feed>
