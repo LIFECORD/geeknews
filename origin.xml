@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-06T02:35:23.186Z</updated>
+    <updated>2022-03-06T03:18:51.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://github.com/iamadamdev/bypass-paywalls-chrome"/>
         <updated>2022-03-06T01:04:47.307Z</updated>
         <content type="html"><![CDATA[(github.com/iamadamdev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국제은행간통신협회(SWIFT) 결제망 아키텍처]]></title>
+        <id>https://twitter.com/alexxubyte/status/1497253012665896962</id>
+        <link href="https://twitter.com/alexxubyte/status/1497253012665896962"/>
+        <updated>2022-03-05T12:25:54.021Z</updated>
+        <content type="html"><![CDATA[(twitter.com/alexxubyte)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Steam Deck 리뷰 : 아직 준비되지 않았다]]></title>
@@ -25,13 +32,6 @@
         <link href="https://twitter.com/geekbench/status/1499879198940405760"/>
         <updated>2022-03-06T01:04:47.315Z</updated>
         <content type="html"><![CDATA[(twitter.com/geekbench)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제은행간통신협회(SWIFT) 결제망 아키텍처]]></title>
-        <id>https://twitter.com/alexxubyte/status/1497253012665896962</id>
-        <link href="https://twitter.com/alexxubyte/status/1497253012665896962"/>
-        <updated>2022-03-05T12:25:54.021Z</updated>
-        <content type="html"><![CDATA[(twitter.com/alexxubyte)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS, Customer Carbon Footprint Tool – 탄소 배출 추적 도구 출시]]></title>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(tomtunguz.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snowflake, Streamlit을 $800M에 인수]]></title>
-        <id>https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/</id>
-        <link href="https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/"/>
-        <updated>2022-03-05T02:37:06.066Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
         <id>https://punkjazz.org/programming-time/</id>
         <link href="https://punkjazz.org/programming-time/"/>
@@ -118,11 +111,11 @@
         <content type="html"><![CDATA[(punkjazz.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
-        <id>https://github.com/vinodotdev/node-to-rust</id>
-        <link href="https://github.com/vinodotdev/node-to-rust"/>
-        <updated>2022-03-02T01:09:39.995Z</updated>
-        <content type="html"><![CDATA[(github.com/vinodotdev)]]></content>
+        <title type="html"><![CDATA[Snowflake, Streamlit을 $800M에 인수]]></title>
+        <id>https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/</id>
+        <link href="https://techcrunch.com/2022/03/02/snowflake-acquires-streamlit-for-800m-to-help-customers-build-data-based-apps/"/>
+        <updated>2022-03-05T02:37:06.066Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모질라 개발자 사이트 MDN, 새로운 사이트로 개편]]></title>
@@ -130,6 +123,13 @@
         <link href="https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/"/>
         <updated>2022-03-04T01:12:26.026Z</updated>
         <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Javascript to Rust e북(PDF)]]></title>
+        <id>https://github.com/vinodotdev/node-to-rust</id>
+        <link href="https://github.com/vinodotdev/node-to-rust"/>
+        <updated>2022-03-02T01:09:39.995Z</updated>
+        <content type="html"><![CDATA[(github.com/vinodotdev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 주목해야 할 CSS 기능들]]></title>
