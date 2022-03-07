@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-07T12:28:55.441Z</updated>
+    <updated>2022-03-07T13:22:34.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -124,13 +124,6 @@
         <content type="html"><![CDATA[(twitter.com/geekbench)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS, Customer Carbon Footprint Tool – 탄소 배출 추적 도구 출시]]></title>
-        <id>https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/</id>
-        <link href="https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/"/>
-        <updated>2022-03-07T02:38:38.091Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Programming Time - 아이에게 카드게임으로 파이썬 가르치기]]></title>
         <id>https://punkjazz.org/programming-time/</id>
         <link href="https://punkjazz.org/programming-time/"/>
@@ -138,10 +131,17 @@
         <content type="html"><![CDATA[(punkjazz.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interop 2022: 브라우저가 함께 작동하여 개발자를 위한 웹 개선]]></title>
-        <id>https://web.dev/interop-2022/</id>
-        <link href="https://web.dev/interop-2022/"/>
-        <updated>2022-03-07T12:28:17.813Z</updated>
-        <content type="html"><![CDATA[(web.dev)]]></content>
+        <title type="html"><![CDATA[AWS, Customer Carbon Footprint Tool – 탄소 배출 추적 도구 출시]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/new-customer-carbon-footprint-tool/"/>
+        <updated>2022-03-07T02:38:38.091Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dnt - Deno to Node Transform]]></title>
+        <id>https://github.com/denoland/dnt</id>
+        <link href="https://github.com/denoland/dnt"/>
+        <updated>2022-03-07T13:21:51.781Z</updated>
+        <content type="html"><![CDATA[(github.com/denoland)]]></content>
     </entry>
 </feed>
