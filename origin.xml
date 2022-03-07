@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-07T15:18:41.407Z</updated>
+    <updated>2022-03-07T16:25:15.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(onlineornot.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["진짜" 클라이언트 IP의 위험성]]></title>
-        <id>https://adam-p.ca/blog/2022/03/x-forwarded-for/</id>
-        <link href="https://adam-p.ca/blog/2022/03/x-forwarded-for/"/>
-        <updated>2022-03-07T02:38:38.068Z</updated>
-        <content type="html"><![CDATA[(adam-p.ca)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[:latest 를 사용하지 마세요]]></title>
         <id>https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/</id>
         <link href="https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/"/>
         <updated>2022-03-07T01:05:56.330Z</updated>
         <content type="html"><![CDATA[(platformers.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["진짜" 클라이언트 IP의 위험성]]></title>
+        <id>https://adam-p.ca/blog/2022/03/x-forwarded-for/</id>
+        <link href="https://adam-p.ca/blog/2022/03/x-forwarded-for/"/>
+        <updated>2022-03-07T02:38:38.068Z</updated>
+        <content type="html"><![CDATA[(adam-p.ca)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
