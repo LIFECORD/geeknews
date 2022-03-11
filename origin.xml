@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-11T05:17:06.360Z</updated>
+    <updated>2022-03-11T06:22:48.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(blog.lizzie.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
+        <id>https://github.com/YaoApp/yao</id>
+        <link href="https://github.com/YaoApp/yao"/>
+        <updated>2022-03-11T01:11:01.529Z</updated>
+        <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[왜 Browsing-over-Tor 대신 Onion 주소를 제공하는 걸 권장할까]]></title>
         <id>https://alecmuffett.com/article/16007</id>
         <link href="https://alecmuffett.com/article/16007"/>
@@ -32,13 +39,6 @@
         <link href="https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/"/>
         <updated>2022-03-11T02:42:45.929Z</updated>
         <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
-        <id>https://github.com/YaoApp/yao</id>
-        <link href="https://github.com/YaoApp/yao"/>
-        <updated>2022-03-11T01:11:01.529Z</updated>
-        <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북 개발자의 성과 만들기]]></title>
@@ -104,6 +104,13 @@
         <content type="html"><![CDATA[(justfive.news)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[:latest 를 사용하지 마세요]]></title>
+        <id>https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/</id>
+        <link href="https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/"/>
+        <updated>2022-03-07T01:05:56.330Z</updated>
+        <content type="html"><![CDATA[(platformers.dev)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글, 태블릿용 Android 12L 출시했으나 지원하는 기기는 미출시]]></title>
         <id>https://arstechnica.com/gadgets/2022/03/tablet-focused-android-12l-update-rolls-out-just-not-to-any-tablets/</id>
         <link href="https://arstechnica.com/gadgets/2022/03/tablet-focused-android-12l-update-rolls-out-just-not-to-any-tablets/"/>
@@ -118,11 +125,11 @@
         <content type="html"><![CDATA[(browser.geekbench.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[:latest 를 사용하지 마세요]]></title>
-        <id>https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/</id>
-        <link href="https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/"/>
-        <updated>2022-03-07T01:05:56.330Z</updated>
-        <content type="html"><![CDATA[(platformers.dev)]]></content>
+        <title type="html"><![CDATA[micropolisJS - 오리지널 심시티 클론]]></title>
+        <id>http://www.graememcc.co.uk/micropolisJS/</id>
+        <link href="http://www.graememcc.co.uk/micropolisJS/"/>
+        <updated>2022-03-08T02:36:08.993Z</updated>
+        <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크롬의 새로운 속도 마일스톤]]></title>
@@ -130,13 +137,6 @@
         <link href="https://blog.chromium.org/2022/03/a-new-speed-milestone-for-chrome.html"/>
         <updated>2022-03-10T01:10:20.279Z</updated>
         <content type="html"><![CDATA[(blog.chromium.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[micropolisJS - 오리지널 심시티 클론]]></title>
-        <id>http://www.graememcc.co.uk/micropolisJS/</id>
-        <link href="http://www.graememcc.co.uk/micropolisJS/"/>
-        <updated>2022-03-08T02:36:08.993Z</updated>
-        <content type="html"><![CDATA[(graememcc.co.uk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MarTech 스택 만들기 가이드]]></title>
