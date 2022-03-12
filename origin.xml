@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-12T01:03:35.276Z</updated>
+    <updated>2022-03-12T02:34:36.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
-        <id>https://r.bluethl.net/how-to-design-better-apis</id>
-        <link href="https://r.bluethl.net/how-to-design-better-apis"/>
-        <updated>2022-03-11T01:11:01.528Z</updated>
-        <content type="html"><![CDATA[(r.bluethl.net)]]></content>
+        <title type="html"><![CDATA[A11y Automation Tracker]]></title>
+        <id>https://a11y-automation.dev/</id>
+        <link href="https://a11y-automation.dev/"/>
+        <updated>2022-03-12T02:33:52.823Z</updated>
+        <content type="html"><![CDATA[(a11y-automation.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
@@ -25,6 +25,13 @@
         <link href="https://on.substack.com/p/substackapp"/>
         <updated>2022-03-12T01:02:48.051Z</updated>
         <content type="html"><![CDATA[(on.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
+        <id>https://r.bluethl.net/how-to-design-better-apis</id>
+        <link href="https://r.bluethl.net/how-to-design-better-apis"/>
+        <updated>2022-03-11T01:11:01.528Z</updated>
+        <content type="html"><![CDATA[(r.bluethl.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
@@ -137,12 +144,5 @@
         <link href="https://ahrefs.com/blog/martech-stack/"/>
         <updated>2022-03-11T09:17:23.955Z</updated>
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
-        <id>https://news.hada.io/topic?id=6112</id>
-        <link href="https://news.hada.io/topic?id=6112"/>
-        <updated>2022-03-09T13:21:41.746Z</updated>
-        <content type="html"><![CDATA[(github.com/gitofolio)]]></content>
     </entry>
 </feed>
