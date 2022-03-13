@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-13T21:15:47.468Z</updated>
+    <updated>2022-03-13T22:17:08.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[(blog.twitter.com/en_us)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
-        <id>https://github.com/YaoApp/yao</id>
-        <link href="https://github.com/YaoApp/yao"/>
-        <updated>2022-03-11T01:11:01.529Z</updated>
-        <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
+        <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
+        <id>https://onlineornot.com/what-learned-running-saas-for-year</id>
+        <link href="https://onlineornot.com/what-learned-running-saas-for-year"/>
+        <updated>2022-03-07T02:38:38.053Z</updated>
+        <content type="html"><![CDATA[(onlineornot.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CXX - Rust와 C++간의 안전한 Interop 라이브러리]]></title>
@@ -90,11 +90,11 @@
         <content type="html"><![CDATA[(cxx.rs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SaaS를 1년 운영해보고 배운 것]]></title>
-        <id>https://onlineornot.com/what-learned-running-saas-for-year</id>
-        <link href="https://onlineornot.com/what-learned-running-saas-for-year"/>
-        <updated>2022-03-07T02:38:38.053Z</updated>
-        <content type="html"><![CDATA[(onlineornot.com)]]></content>
+        <title type="html"><![CDATA[Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진]]></title>
+        <id>https://github.com/YaoApp/yao</id>
+        <link href="https://github.com/YaoApp/yao"/>
+        <updated>2022-03-11T01:11:01.529Z</updated>
+        <content type="html"><![CDATA[(github.com/YaoApp)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
