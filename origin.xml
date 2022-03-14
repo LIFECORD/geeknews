@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-14T03:21:18.077Z</updated>
+    <updated>2022-03-14T04:27:49.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[macOS가 사용하는 웹뷰 Inspect 하기]]></title>
-        <id>https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/</id>
-        <link href="https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/"/>
-        <updated>2022-03-14T01:07:18.558Z</updated>
-        <content type="html"><![CDATA[(blog.jim-nielsen.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
         <id>https://tuple.app/pair-programming-guide/antipatterns</id>
@@ -34,11 +27,25 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[macOS가 사용하는 웹뷰 Inspect 하기]]></title>
+        <id>https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/</id>
+        <link href="https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/"/>
+        <updated>2022-03-14T01:07:18.558Z</updated>
+        <content type="html"><![CDATA[(blog.jim-nielsen.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Undocumented Web API 사용하는 법]]></title>
         <id>https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/</id>
         <link href="https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/"/>
         <updated>2022-03-14T01:07:18.569Z</updated>
         <content type="html"><![CDATA[(jvns.ca)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiktok, 음악 마케팅/배포 플랫폼 SoundOn 공개]]></title>
+        <id>https://us.soundon.global/</id>
+        <link href="https://us.soundon.global/"/>
+        <updated>2022-03-14T01:07:18.575Z</updated>
+        <content type="html"><![CDATA[(us.soundon.global)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중앙 은행 디지털 통화들에게 해줘야 할 단 한 마디 : 안돼!]]></title>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[(nautil.us)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tiktok, 음악 마케팅/배포 플랫폼 SoundOn 공개]]></title>
-        <id>https://us.soundon.global/</id>
-        <link href="https://us.soundon.global/"/>
-        <updated>2022-03-14T01:07:18.575Z</updated>
-        <content type="html"><![CDATA[(us.soundon.global)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[tuql - SQLite DB로 GraphQL 서버 만들기]]></title>
         <id>https://github.com/bradleyboy/tuql</id>
         <link href="https://github.com/bradleyboy/tuql"/>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(github.com/bradleyboy)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: MiroTalk - SFU - Open-Source - Simple, Secure, Scalable, Fast WebRTC Up to 4k]]></title>
-        <id>https://news.hada.io/topic?id=6135</id>
-        <link href="https://news.hada.io/topic?id=6135"/>
-        <updated>2022-03-13T16:24:08.763Z</updated>
-        <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tygo - Go 소스에서 Typescript 타입들 생성하는 도구]]></title>
         <id>https://github.com/gzuidhof/tygo</id>
         <link href="https://github.com/gzuidhof/tygo"/>
         <updated>2022-03-13T01:04:07.301Z</updated>
         <content type="html"><![CDATA[(github.com/gzuidhof)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: MiroTalk - SFU - Open-Source - Simple, Secure, Scalable, Fast WebRTC Up to 4k]]></title>
+        <id>https://news.hada.io/topic?id=6135</id>
+        <link href="https://news.hada.io/topic?id=6135"/>
+        <updated>2022-03-13T16:24:08.763Z</updated>
+        <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 나은 REST API를 설계하는 법]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(cxx.rs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter, Shops 기능 공개]]></title>
-        <id>https://blog.twitter.com/en_us/topics/product/2022/twitter-shops-more-space-to-shop</id>
-        <link href="https://blog.twitter.com/en_us/topics/product/2022/twitter-shops-more-space-to-shop"/>
-        <updated>2022-03-13T01:04:07.301Z</updated>
-        <content type="html"><![CDATA[(blog.twitter.com/en_us)]]></content>
+        <title type="html"><![CDATA[Airbridge Data Pipeline에서 Serverless 활용 사례]]></title>
+        <id>https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices</id>
+        <link href="https://engineering.ab180.co/stories/airbridge-data-pipeline-serverless-practices"/>
+        <updated>2022-03-14T04:27:06.959Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
 </feed>
