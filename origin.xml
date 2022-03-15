@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-15T13:25:29.461Z</updated>
+    <updated>2022-03-15T14:17:22.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(ngrok.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roland 50 Studio]]></title>
-        <id>https://roland50.studio/</id>
-        <link href="https://roland50.studio/"/>
-        <updated>2022-03-15T01:09:18.944Z</updated>
-        <content type="html"><![CDATA[(roland50.studio)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[페어 프로그래밍 안티 패턴들]]></title>
         <id>https://tuple.app/pair-programming-guide/antipatterns</id>
         <link href="https://tuple.app/pair-programming-guide/antipatterns"/>
         <updated>2022-03-14T02:38:17.561Z</updated>
         <content type="html"><![CDATA[(tuple.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roland 50 Studio]]></title>
+        <id>https://roland50.studio/</id>
+        <link href="https://roland50.studio/"/>
+        <updated>2022-03-15T01:09:18.944Z</updated>
+        <content type="html"><![CDATA[(roland50.studio)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud 인프라 가격 변경]]></title>
