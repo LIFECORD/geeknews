@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-16T11:15:45.090Z</updated>
+    <updated>2022-03-16T12:30:14.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[(github.com/proofrock)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PDF 번역 프로그램]]></title>
+        <id>http://www.blueai.co.kr/pdf</id>
+        <link href="http://www.blueai.co.kr/pdf"/>
+        <updated>2022-03-16T07:17:53.371Z</updated>
+        <content type="html"><![CDATA[(blueai.co.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Roland 50 Studio]]></title>
         <id>https://roland50.studio/</id>
         <link href="https://roland50.studio/"/>
@@ -132,17 +139,10 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PDF 번역 프로그램]]></title>
-        <id>http://www.blueai.co.kr/pdf</id>
-        <link href="http://www.blueai.co.kr/pdf"/>
-        <updated>2022-03-16T07:17:53.371Z</updated>
-        <content type="html"><![CDATA[(blueai.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud 인프라 가격 변경]]></title>
-        <id>https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing</id>
-        <link href="https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing"/>
-        <updated>2022-03-15T02:40:35.069Z</updated>
-        <content type="html"><![CDATA[(cloud.google.com)]]></content>
+        <title type="html"><![CDATA[딥러닝은 한계에 직면했다]]></title>
+        <id>https://nautil.us/deep-learning-is-hitting-a-wall-14467/</id>
+        <link href="https://nautil.us/deep-learning-is-hitting-a-wall-14467/"/>
+        <updated>2022-03-16T12:29:30.953Z</updated>
+        <content type="html"><![CDATA[(nautil.us)]]></content>
     </entry>
 </feed>
