@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-17T18:53:03.439Z</updated>
+    <updated>2022-03-17T20:43:57.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(classcentral.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
+        <id>https://auth0.com/blog/using-https-in-your-development-environment/</id>
+        <link href="https://auth0.com/blog/using-https-in-your-development-environment/"/>
+        <updated>2022-03-15T01:09:18.944Z</updated>
+        <content type="html"><![CDATA[(auth0.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Windows Defender면 충분합니다]]></title>
         <id>https://0ut3r.space/2022/03/06/windows-defender/</id>
         <link href="https://0ut3r.space/2022/03/06/windows-defender/"/>
@@ -76,11 +83,11 @@
         <content type="html"><![CDATA[(onamp.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
-        <id>https://auth0.com/blog/using-https-in-your-development-environment/</id>
-        <link href="https://auth0.com/blog/using-https-in-your-development-environment/"/>
-        <updated>2022-03-15T01:09:18.944Z</updated>
-        <content type="html"><![CDATA[(auth0.com)]]></content>
+        <title type="html"><![CDATA[Google Domains 베타 종료하고 정식 출시]]></title>
+        <id>https://domains.google/learn/out-of-beta/</id>
+        <link href="https://domains.google/learn/out-of-beta/"/>
+        <updated>2022-03-16T01:09:17.971Z</updated>
+        <content type="html"><![CDATA[(domains.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google IO 2022]]></title>
@@ -88,13 +95,6 @@
         <link href="https://io.google/2022/intl/ko/"/>
         <updated>2022-03-17T08:21:09.624Z</updated>
         <content type="html"><![CDATA[(io.google)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Domains 베타 종료하고 정식 출시]]></title>
-        <id>https://domains.google/learn/out-of-beta/</id>
-        <link href="https://domains.google/learn/out-of-beta/"/>
-        <updated>2022-03-16T01:09:17.971Z</updated>
-        <content type="html"><![CDATA[(domains.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ngrok - 로컬 개발을 위해 제공되는 공개 URL 생성 솔루션]]></title>
