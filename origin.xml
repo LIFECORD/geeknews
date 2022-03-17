@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-17T21:15:47.028Z</updated>
+    <updated>2022-03-17T22:55:25.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[(tuple.app)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AltDrag의 대체제 AltSnap]]></title>
+        <id>https://github.com/RamonUnch/AltSnap/releases</id>
+        <link href="https://github.com/RamonUnch/AltSnap/releases"/>
+        <updated>2022-03-15T12:29:29.119Z</updated>
+        <content type="html"><![CDATA[(github.com/RamonUnch)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KDE의 PDF 리더 Okular가 세계 최초로 "환경 인증"을 받음]]></title>
         <id>https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/</id>
         <link href="https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/"/>
@@ -123,13 +130,6 @@
         <link href="https://techcrunch.com/2022/03/15/well-facebook-has-a-tiktok-now/"/>
         <updated>2022-03-17T01:07:49.867Z</updated>
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AltDrag의 대체제 AltSnap]]></title>
-        <id>https://github.com/RamonUnch/AltSnap/releases</id>
-        <link href="https://github.com/RamonUnch/AltSnap/releases"/>
-        <updated>2022-03-15T12:29:29.119Z</updated>
-        <content type="html"><![CDATA[(github.com/RamonUnch)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TikTok은 새로운 음악플랫폼이다]]></title>
