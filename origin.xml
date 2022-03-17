@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-17T06:22:33.880Z</updated>
+    <updated>2022-03-17T07:18:17.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://go.dev/blog/go1.18"/>
         <updated>2022-03-17T01:07:49.855Z</updated>
         <content type="html"><![CDATA[(go.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google IO 2022]]></title>
+        <id>https://io.google/2022/intl/ko/</id>
+        <link href="https://io.google/2022/intl/ko/"/>
+        <updated>2022-03-17T07:17:35.233Z</updated>
+        <content type="html"><![CDATA[(io.google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
@@ -137,12 +144,5 @@
         <link href="https://github.com/RamonUnch/AltSnap/releases"/>
         <updated>2022-03-15T12:29:29.119Z</updated>
         <content type="html"><![CDATA[(github.com/RamonUnch)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DigitalOcean이 CSS-Tricks 인수]]></title>
-        <id>https://css-tricks.com/css-tricks-is-joining-digitalocean/</id>
-        <link href="https://css-tricks.com/css-tricks-is-joining-digitalocean/"/>
-        <updated>2022-03-16T02:45:48.606Z</updated>
-        <content type="html"><![CDATA[(css-tricks.com)]]></content>
     </entry>
 </feed>
