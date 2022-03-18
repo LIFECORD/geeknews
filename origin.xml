@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-18T11:16:10.630Z</updated>
+    <updated>2022-03-18T12:29:09.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Go 1.18 릴리즈 (제너릭 포함)]]></title>
-        <id>https://go.dev/blog/go1.18</id>
-        <link href="https://go.dev/blog/go1.18"/>
-        <updated>2022-03-17T01:07:49.855Z</updated>
-        <content type="html"><![CDATA[(go.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
         <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
         <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
         <updated>2022-03-16T05:16:53.482Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 1.18 릴리즈 (제너릭 포함)]]></title>
+        <id>https://go.dev/blog/go1.18</id>
+        <link href="https://go.dev/blog/go1.18"/>
+        <updated>2022-03-17T01:07:49.855Z</updated>
+        <content type="html"><![CDATA[(go.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 Universal Analytics 내년부터 지원 중단, Google Analytics 4로 전환하세요]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
-        <id>https://www.monotype.com/type-trends</id>
-        <link href="https://www.monotype.com/type-trends"/>
-        <updated>2022-03-18T01:07:03.864Z</updated>
-        <content type="html"><![CDATA[(monotype.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[라이트 모드, 다크 모드, 그리고 Gen-Z 모드]]></title>
         <id>https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode</id>
         <link href="https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode"/>
         <updated>2022-03-17T01:07:49.887Z</updated>
         <content type="html"><![CDATA[(getfilteroff.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 Type Trends 보고서 [65p PDF]]]></title>
+        <id>https://www.monotype.com/type-trends</id>
+        <link href="https://www.monotype.com/type-trends"/>
+        <updated>2022-03-18T01:07:03.864Z</updated>
+        <content type="html"><![CDATA[(monotype.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
@@ -103,18 +103,18 @@
         <content type="html"><![CDATA[(unite.ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
-        <id>https://auth0.com/blog/using-https-in-your-development-environment/</id>
-        <link href="https://auth0.com/blog/using-https-in-your-development-environment/"/>
-        <updated>2022-03-15T01:09:18.944Z</updated>
-        <content type="html"><![CDATA[(auth0.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코드리뷰 관련해서 많이 받는 질문에 대한 답변]]></title>
         <id>https://brunch.co.kr/@cleancode/43</id>
         <link href="https://brunch.co.kr/@cleancode/43"/>
         <updated>2022-03-16T02:45:48.593Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@cleancode)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로컬 개발환경에서 HTTPS 이용하기]]></title>
+        <id>https://auth0.com/blog/using-https-in-your-development-environment/</id>
+        <link href="https://auth0.com/blog/using-https-in-your-development-environment/"/>
+        <updated>2022-03-15T01:09:18.944Z</updated>
+        <content type="html"><![CDATA[(auth0.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Class Central - 온라인 강의 검색엔진]]></title>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(io.google)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solito : React Native + Next.js Unified]]></title>
-        <id>https://solito.dev/</id>
-        <link href="https://solito.dev/"/>
-        <updated>2022-03-18T02:44:53.229Z</updated>
-        <content type="html"><![CDATA[(solito.dev)]]></content>
+        <title type="html"><![CDATA[Google Domains 베타 종료하고 정식 출시]]></title>
+        <id>https://domains.google/learn/out-of-beta/</id>
+        <link href="https://domains.google/learn/out-of-beta/"/>
+        <updated>2022-03-18T12:28:33.236Z</updated>
+        <content type="html"><![CDATA[(domains.google)]]></content>
     </entry>
 </feed>
