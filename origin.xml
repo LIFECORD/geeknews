@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-19T23:18:23.462Z</updated>
+    <updated>2022-03-20T01:08:58.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,27 @@
         <link href="https://somedaycode.tistory.com/m/5"/>
         <updated>2022-03-19T11:15:19.692Z</updated>
         <content type="html"><![CDATA[(somedaycode.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 달의 CT 스캔 : 식품 포장재]]></title>
+        <id>https://www.scanofthemonth.com/scans/food-packaging</id>
+        <link href="https://www.scanofthemonth.com/scans/food-packaging"/>
+        <updated>2022-03-20T01:08:12.899Z</updated>
+        <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faker v6 릴리즈]]></title>
+        <id>https://github.com/faker-js/faker/releases/tag/v6.0.0</id>
+        <link href="https://github.com/faker-js/faker/releases/tag/v6.0.0"/>
+        <updated>2022-03-20T01:08:12.899Z</updated>
+        <content type="html"><![CDATA[(github.com/faker-js)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
+        <id>https://avvvatars.com/</id>
+        <link href="https://avvvatars.com/"/>
+        <updated>2022-03-20T01:08:12.899Z</updated>
+        <content type="html"><![CDATA[(avvvatars.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
@@ -83,13 +104,6 @@
         <content type="html"><![CDATA[(auth0.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safari 15.4에 추가된 새 WebKit 기능들]]></title>
-        <id>https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/</id>
-        <link href="https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/"/>
-        <updated>2022-03-19T01:03:51.051Z</updated>
-        <content type="html"><![CDATA[(webkit.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Veloren - Rust로 작성된 멀티플레이어 Voxel RPG]]></title>
         <id>https://www.veloren.net/</id>
         <link href="https://www.veloren.net/"/>
@@ -111,6 +125,13 @@
         <content type="html"><![CDATA[(brunch.co.kr/@cleancode)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Safari 15.4에 추가된 새 WebKit 기능들]]></title>
+        <id>https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/</id>
+        <link href="https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/"/>
+        <updated>2022-03-19T01:03:51.051Z</updated>
+        <content type="html"><![CDATA[(webkit.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Podman, Registry 없이 컨테이너 이미지 전송 가능]]></title>
         <id>https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry</id>
         <link href="https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry"/>
@@ -123,26 +144,5 @@
         <link href="https://www.classcentral.com/"/>
         <updated>2022-03-16T01:09:17.980Z</updated>
         <content type="html"><![CDATA[(classcentral.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이트 모드, 다크 모드, 그리고 Gen-Z 모드]]></title>
-        <id>https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode</id>
-        <link href="https://www.getfilteroff.com/blog/light-mode-dark-mode-and-gen-z-mode"/>
-        <updated>2022-03-17T01:07:49.887Z</updated>
-        <content type="html"><![CDATA[(getfilteroff.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Defender면 충분합니다]]></title>
-        <id>https://0ut3r.space/2022/03/06/windows-defender/</id>
-        <link href="https://0ut3r.space/2022/03/06/windows-defender/"/>
-        <updated>2022-03-19T12:27:46.821Z</updated>
-        <content type="html"><![CDATA[(0ut3r.space)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft, 윈도우11 파일 탐색기에서 광고를 테스트중]]></title>
-        <id>https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/</id>
-        <link href="https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/"/>
-        <updated>2022-03-18T02:44:53.226Z</updated>
-        <content type="html"><![CDATA[(bleepingcomputer.com)]]></content>
     </entry>
 </feed>
