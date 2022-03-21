@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-21T07:21:06.035Z</updated>
+    <updated>2022-03-21T08:24:59.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(cjchilvers.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
-        <id>https://nextjs.org/learn/foundations/about-nextjs</id>
-        <link href="https://nextjs.org/learn/foundations/about-nextjs"/>
-        <updated>2022-03-21T01:14:30.977Z</updated>
-        <content type="html"><![CDATA[(nextjs.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[웹 개발자의 비밀무기들]]></title>
         <id>https://twitter.com/keif_xyz/status/1499402265341296642</id>
         <link href="https://twitter.com/keif_xyz/status/1499402265341296642"/>
         <updated>2022-03-21T02:51:48.383Z</updated>
         <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
+        <id>https://nextjs.org/learn/foundations/about-nextjs</id>
+        <link href="https://nextjs.org/learn/foundations/about-nextjs"/>
+        <updated>2022-03-21T01:14:30.977Z</updated>
+        <content type="html"><![CDATA[(nextjs.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네이버, 카카오, 엔씨소프트 임원은 연봉을 얼마나 받을까?]]></title>
@@ -61,13 +61,6 @@
         <updated>2022-03-21T02:51:48.384Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
-        <id>https://pockit.ai/</id>
-        <link href="https://pockit.ai/"/>
-        <updated>2022-03-19T21:15:04.528Z</updated>
-        <content type="html"><![CDATA[(pockit.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
         <id>https://avvvatars.com/</id>
         <link href="https://avvvatars.com/"/>
@@ -82,6 +75,13 @@
         <content type="html"><![CDATA[(somedaycode.tistory.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
+        <id>https://pockit.ai/</id>
+        <link href="https://pockit.ai/"/>
+        <updated>2022-03-19T21:15:04.528Z</updated>
+        <content type="html"><![CDATA[(pockit.ai)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Deno 1.20 릴리즈]]></title>
         <id>https://deno.com/blog/v1.20</id>
         <link href="https://deno.com/blog/v1.20"/>
@@ -94,6 +94,13 @@
         <link href="https://www.mage.ai/"/>
         <updated>2022-03-19T01:03:51.036Z</updated>
         <content type="html"><![CDATA[(mage.ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awesome TUIs]]></title>
+        <id>https://github.com/rothgar/awesome-tuis</id>
+        <link href="https://github.com/rothgar/awesome-tuis"/>
+        <updated>2022-03-19T02:38:05.458Z</updated>
+        <content type="html"><![CDATA[(github.com/rothgar)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arti 0.1.0 릴리즈 - Rust로 작성한 Tor 클라이언트]]></title>
@@ -122,13 +129,6 @@
         <link href="https://simonwillison.net/2022/Mar/14/shot-scraper-template/"/>
         <updated>2022-03-18T02:44:53.212Z</updated>
         <content type="html"><![CDATA[(simonwillison.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awesome TUIs]]></title>
-        <id>https://github.com/rothgar/awesome-tuis</id>
-        <link href="https://github.com/rothgar/awesome-tuis"/>
-        <updated>2022-03-19T02:38:05.458Z</updated>
-        <content type="html"><![CDATA[(github.com/rothgar)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tailscale이 무료 요금제를 유지하는 방법]]></title>
