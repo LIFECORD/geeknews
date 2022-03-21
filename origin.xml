@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-21T17:20:48.980Z</updated>
+    <updated>2022-03-21T18:23:51.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(cjchilvers.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웹 개발자의 비밀무기들]]></title>
-        <id>https://twitter.com/keif_xyz/status/1499402265341296642</id>
-        <link href="https://twitter.com/keif_xyz/status/1499402265341296642"/>
-        <updated>2022-03-21T02:51:48.383Z</updated>
-        <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
         <id>https://beny23.github.io/posts/on_weaponisation_of_open_source/</id>
         <link href="https://beny23.github.io/posts/on_weaponisation_of_open_source/"/>
         <updated>2022-03-21T01:14:30.979Z</updated>
         <content type="html"><![CDATA[(beny23.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웹 개발자의 비밀무기들]]></title>
+        <id>https://twitter.com/keif_xyz/status/1499402265341296642</id>
+        <link href="https://twitter.com/keif_xyz/status/1499402265341296642"/>
+        <updated>2022-03-21T02:51:48.383Z</updated>
+        <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
@@ -103,6 +103,13 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기]]></title>
+        <id>https://simonwillison.net/2022/Mar/14/shot-scraper-template/</id>
+        <link href="https://simonwillison.net/2022/Mar/14/shot-scraper-template/"/>
+        <updated>2022-03-18T02:44:53.212Z</updated>
+        <content type="html"><![CDATA[(simonwillison.net)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Awesome TUIs]]></title>
         <id>https://github.com/rothgar/awesome-tuis</id>
         <link href="https://github.com/rothgar/awesome-tuis"/>
@@ -115,13 +122,6 @@
         <link href="https://blog.torproject.org/arti_010_released/"/>
         <updated>2022-03-19T01:03:51.051Z</updated>
         <content type="html"><![CDATA[(blog.torproject.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Repo만들기]]></title>
-        <id>https://simonwillison.net/2022/Mar/14/shot-scraper-template/</id>
-        <link href="https://simonwillison.net/2022/Mar/14/shot-scraper-template/"/>
-        <updated>2022-03-18T02:44:53.212Z</updated>
-        <content type="html"><![CDATA[(simonwillison.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tailscale이 무료 요금제를 유지하는 방법]]></title>
