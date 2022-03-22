@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-22T21:16:40.285Z</updated>
+    <updated>2022-03-22T22:20:32.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,17 +111,17 @@
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 사무실에서 쓰기에 좋았던 물건이 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=6196</id>
+        <link href="https://news.hada.io/topic?id=6196"/>
+        <updated>2022-03-21T02:51:48.384Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
         <id>https://avvvatars.com/</id>
         <link href="https://avvvatars.com/"/>
         <updated>2022-03-20T01:08:12.899Z</updated>
         <content type="html"><![CDATA[(avvvatars.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 사무실에서 쓰기에 좋았던 물건이 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=6196</id>
-        <link href="https://news.hada.io/topic?id=6196"/>
-        <updated>2022-03-21T02:51:48.384Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
