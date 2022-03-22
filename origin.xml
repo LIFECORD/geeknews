@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-22T10:27:21.357Z</updated>
+    <updated>2022-03-22T11:25:52.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(beny23.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vimeo: "우리는 B2B 솔루션이지, 인디 버전의 유튜브가 아니다"]]></title>
-        <id>https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/</id>
-        <link href="https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/"/>
-        <updated>2022-03-22T01:13:41.567Z</updated>
-        <content type="html"><![CDATA[(ymcinema.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
         <id>https://nextjs.org/learn/foundations/about-nextjs</id>
         <link href="https://nextjs.org/learn/foundations/about-nextjs"/>
         <updated>2022-03-21T01:14:30.977Z</updated>
         <content type="html"><![CDATA[(nextjs.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vimeo: "우리는 B2B 솔루션이지, 인디 버전의 유튜브가 아니다"]]></title>
+        <id>https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/</id>
+        <link href="https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/"/>
+        <updated>2022-03-22T01:13:41.567Z</updated>
+        <content type="html"><![CDATA[(ymcinema.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apple Studio Display엔 64GB가 있지만 2GB만 사용함]]></title>
@@ -88,6 +88,13 @@
         <link href="https://www.flatpanelshd.com/news.php?subaction=showfull&amp;id=1647846029"/>
         <updated>2022-03-22T02:52:54.089Z</updated>
         <content type="html"><![CDATA[(flatpanelshd.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ 번역글 ] ECMAScript 스펙을 읽는 법]]></title>
+        <id>https://somedaycode.tistory.com/m/5</id>
+        <link href="https://somedaycode.tistory.com/m/5"/>
+        <updated>2022-03-19T11:15:19.692Z</updated>
+        <content type="html"><![CDATA[(somedaycode.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pockit : 손바닥 크기의 마그네틱 모듈형 컴퓨터]]></title>
@@ -108,13 +115,6 @@
         <id>https://news.hada.io/topic?id=6196</id>
         <link href="https://news.hada.io/topic?id=6196"/>
         <updated>2022-03-21T02:51:48.384Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ 번역글 ] ECMAScript 스펙을 읽는 법]]></title>
-        <id>https://somedaycode.tistory.com/m/5</id>
-        <link href="https://somedaycode.tistory.com/m/5"/>
-        <updated>2022-03-19T11:15:19.692Z</updated>
-        <content type="html"><![CDATA[(somedaycode.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Avvvatars - React용 Avatar 플레이스홀더 생성기]]></title>
@@ -141,7 +141,7 @@
         <title type="html"><![CDATA[Webpack → Vite: 번들러 마이그레이션 이야기]]></title>
         <id>https://engineering.ab180.co/stories/webpack-to-vite</id>
         <link href="https://engineering.ab180.co/stories/webpack-to-vite"/>
-        <updated>2022-03-22T10:26:38.142Z</updated>
+        <updated>2022-03-22T11:25:14.504Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
 </feed>
