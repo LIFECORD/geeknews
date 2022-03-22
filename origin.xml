@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-22T08:23:43.147Z</updated>
+    <updated>2022-03-22T09:19:32.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(examples.deno.land)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기술 창업자들의 고객지원 실수와 해결책들]]></title>
-        <id>https://twitter.com/louisnicholls_/status/1505231211391770630</id>
-        <link href="https://twitter.com/louisnicholls_/status/1505231211391770630"/>
-        <updated>2022-03-22T01:13:41.567Z</updated>
-        <content type="html"><![CDATA[(twitter.com/louisnicholls_)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS Cloud Quest 공개 - 클라우드 기술 교육용 온라인 RPG]]></title>
         <id>https://skillbuilder.aws/cloudquest</id>
         <link href="https://skillbuilder.aws/cloudquest"/>
         <updated>2022-03-22T05:17:52.295Z</updated>
         <content type="html"><![CDATA[(skillbuilder.aws)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술 창업자들의 고객지원 실수와 해결책들]]></title>
+        <id>https://twitter.com/louisnicholls_/status/1505231211391770630</id>
+        <link href="https://twitter.com/louisnicholls_/status/1505231211391770630"/>
+        <updated>2022-03-22T01:13:41.567Z</updated>
+        <content type="html"><![CDATA[(twitter.com/louisnicholls_)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[35년간의 뉴스레터 운영에서 얻은 경험들]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(coteditor.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
-        <id>https://beny23.github.io/posts/on_weaponisation_of_open_source/</id>
-        <link href="https://beny23.github.io/posts/on_weaponisation_of_open_source/"/>
-        <updated>2022-03-21T01:14:30.979Z</updated>
-        <content type="html"><![CDATA[(beny23.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vimeo: "우리는 B2B 솔루션이지, 인디 버전의 유튜브가 아니다"]]></title>
         <id>https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/</id>
         <link href="https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/"/>
         <updated>2022-03-22T01:13:41.567Z</updated>
         <content type="html"><![CDATA[(ymcinema.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
+        <id>https://beny23.github.io/posts/on_weaponisation_of_open_source/</id>
+        <link href="https://beny23.github.io/posts/on_weaponisation_of_open_source/"/>
+        <updated>2022-03-21T01:14:30.979Z</updated>
+        <content type="html"><![CDATA[(beny23.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
