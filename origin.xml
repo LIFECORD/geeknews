@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-23T19:20:12.318Z</updated>
+    <updated>2022-03-23T20:18:57.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(skillbuilder.aws)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NVIDIA, Hopper 아키텍처의 H100 GPU 발표]]></title>
-        <id>https://nvidianews.nvidia.com/news/nvidia-announces-hopper-architecture-the-next-generation-of-accelerated-computing</id>
-        <link href="https://nvidianews.nvidia.com/news/nvidia-announces-hopper-architecture-the-next-generation-of-accelerated-computing"/>
-        <updated>2022-03-23T03:31:06.838Z</updated>
-        <content type="html"><![CDATA[(nvidianews.nvidia.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오픈소스의 무기화에 대해]]></title>
         <id>https://beny23.github.io/posts/on_weaponisation_of_open_source/</id>
         <link href="https://beny23.github.io/posts/on_weaponisation_of_open_source/"/>
         <updated>2022-03-21T01:14:30.979Z</updated>
         <content type="html"><![CDATA[(beny23.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA, Hopper 아키텍처의 H100 GPU 발표]]></title>
+        <id>https://nvidianews.nvidia.com/news/nvidia-announces-hopper-architecture-the-next-generation-of-accelerated-computing</id>
+        <link href="https://nvidianews.nvidia.com/news/nvidia-announces-hopper-architecture-the-next-generation-of-accelerated-computing"/>
+        <updated>2022-03-23T03:31:06.838Z</updated>
+        <content type="html"><![CDATA[(nvidianews.nvidia.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(pcgamer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenBSD/Arm64를 애플 M1 에서 동작 성공]]></title>
-        <id>https://marc.info/?l=openbsd-arm&amp;m=164768992119719&amp;w=2</id>
-        <link href="https://marc.info/?l=openbsd-arm&amp;m=164768992119719&amp;w=2"/>
-        <updated>2022-03-23T01:21:10.674Z</updated>
-        <content type="html"><![CDATA[(marc.info)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[dav1d 1.0.0 릴리즈 - 오픈소스 크로스플랫폼 AV1 디코더]]></title>
         <id>https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS</id>
         <link href="https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS"/>
         <updated>2022-03-22T01:13:41.567Z</updated>
         <content type="html"><![CDATA[(code.videolan.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBSD/Arm64를 애플 M1 에서 동작 성공]]></title>
+        <id>https://marc.info/?l=openbsd-arm&amp;m=164768992119719&amp;w=2</id>
+        <link href="https://marc.info/?l=openbsd-arm&amp;m=164768992119719&amp;w=2"/>
+        <updated>2022-03-23T01:21:10.674Z</updated>
+        <content type="html"><![CDATA[(marc.info)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[ 번역글 ] ECMAScript 스펙을 읽는 법]]></title>
