@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-24T16:25:41.483Z</updated>
+    <updated>2022-03-24T17:31:48.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(aiindex.stanford.edu)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MPAA 2021 테마 보고서]]></title>
-        <id>https://www.motionpictures.org/research-docs/2021-theme-report/</id>
-        <link href="https://www.motionpictures.org/research-docs/2021-theme-report/"/>
-        <updated>2022-03-24T05:17:29.474Z</updated>
-        <content type="html"><![CDATA[(motionpictures.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기술 창업자들의 고객지원 실수와 해결책들]]></title>
         <id>https://twitter.com/louisnicholls_/status/1505231211391770630</id>
         <link href="https://twitter.com/louisnicholls_/status/1505231211391770630"/>
         <updated>2022-03-22T01:13:41.567Z</updated>
         <content type="html"><![CDATA[(twitter.com/louisnicholls_)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPAA 2021 테마 보고서]]></title>
+        <id>https://www.motionpictures.org/research-docs/2021-theme-report/</id>
+        <link href="https://www.motionpictures.org/research-docs/2021-theme-report/"/>
+        <updated>2022-03-24T05:17:29.474Z</updated>
+        <content type="html"><![CDATA[(motionpictures.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예제로 배우는 Deno]]></title>
