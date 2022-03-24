@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-24T02:51:15.467Z</updated>
+    <updated>2022-03-24T03:25:54.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.qubes-os.org/"/>
         <updated>2022-03-24T02:50:27.351Z</updated>
         <content type="html"><![CDATA[(qubes-os.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastcompany 선정 2022년 가장 혁신적인 회사 50]]></title>
+        <id>https://www.fastcompany.com/most-innovative-companies/2022</id>
+        <link href="https://www.fastcompany.com/most-innovative-companies/2022"/>
+        <updated>2022-03-24T02:50:27.351Z</updated>
+        <content type="html"><![CDATA[(fastcompany.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mitmproxy 8 릴리즈]]></title>
@@ -32,13 +39,6 @@
         <link href="https://aiindex.stanford.edu/report/"/>
         <updated>2022-03-24T01:13:06.487Z</updated>
         <content type="html"><![CDATA[(aiindex.stanford.edu)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastcompany 선정 2022년 가장 혁신적인 회사 50]]></title>
-        <id>https://www.fastcompany.com/most-innovative-companies/2022</id>
-        <link href="https://www.fastcompany.com/most-innovative-companies/2022"/>
-        <updated>2022-03-24T02:50:27.351Z</updated>
-        <content type="html"><![CDATA[(fastcompany.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Java 18 / JDK 18 : General Availability]]></title>
