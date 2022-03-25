@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-25T07:20:46.516Z</updated>
+    <updated>2022-03-25T08:22:15.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -124,18 +124,18 @@
         <content type="html"><![CDATA[(beny23.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벤츠, 자율운전중 사고시 법적 책임을 지겠다고 밝혀]]></title>
-        <id>https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/</id>
-        <link href="https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/"/>
-        <updated>2022-03-23T01:21:10.682Z</updated>
-        <content type="html"><![CDATA[(roadandtrack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Next.js 공식 'Foundations' 코스 공개]]></title>
         <id>https://nextjs.org/learn/foundations/about-nextjs</id>
         <link href="https://nextjs.org/learn/foundations/about-nextjs"/>
         <updated>2022-03-25T06:22:08.975Z</updated>
         <content type="html"><![CDATA[(nextjs.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벤츠, 자율운전중 사고시 법적 책임을 지겠다고 밝혀]]></title>
+        <id>https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/</id>
+        <link href="https://www.roadandtrack.com/news/a39481699/what-happens-if-mercedes-drivepilot-causes-a-crash/"/>
+        <updated>2022-03-23T01:21:10.682Z</updated>
+        <content type="html"><![CDATA[(roadandtrack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Spotify와 구글, 결제 방식을 선택할 수 있는 User Choice Billing 발표]]></title>
