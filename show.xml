@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2022-03-25T14:16:56.782Z</updated>
+    <updated>2022-03-25T15:19:03.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -53,13 +53,6 @@
         <link href="https://news.hada.io/topic?id=6134"/>
         <updated>2022-03-13T16:24:20.284Z</updated>
         <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 라즈베리파이로 주식투자하기]]></title>
-        <id>https://news.hada.io/topic?id=5658</id>
-        <link href="https://news.hada.io/topic?id=5658"/>
-        <updated>2022-01-11T06:07:22.337Z</updated>
-        <content type="html"><![CDATA[(beefproj.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 우리말 Wordle]]></title>
