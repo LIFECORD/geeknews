@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-26T05:17:03.204Z</updated>
+    <updated>2022-03-26T06:21:46.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크]]></title>
-        <id>https://librewolf.net/</id>
-        <link href="https://librewolf.net/"/>
-        <updated>2022-03-26T01:11:18.761Z</updated>
-        <content type="html"><![CDATA[(librewolf.net)]]></content>
+        <title type="html"><![CDATA[FastAPI의 시대. 아직도 Flask 쓰시나요?]]></title>
+        <id>https://planb.hashnode.dev/fastapi-flask</id>
+        <link href="https://planb.hashnode.dev/fastapi-flask"/>
+        <updated>2022-03-26T06:21:02.274Z</updated>
+        <content type="html"><![CDATA[(planb.hashnode.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AgnosticUI - 하나의 스타일시트로 모든 프레임워크 지원]]></title>
@@ -18,6 +18,13 @@
         <link href="https://www.agnosticui.com/"/>
         <updated>2022-03-26T01:11:18.761Z</updated>
         <content type="html"><![CDATA[(agnosticui.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크]]></title>
+        <id>https://librewolf.net/</id>
+        <link href="https://librewolf.net/"/>
+        <updated>2022-03-26T01:11:18.761Z</updated>
+        <content type="html"><![CDATA[(librewolf.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
@@ -76,17 +83,17 @@
         <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6228</id>
-        <link href="https://news.hada.io/topic?id=6228"/>
-        <updated>2022-03-25T04:24:47.961Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mitmproxy 8 릴리즈]]></title>
         <id>https://mitmproxy.org/posts/releases/mitmproxy8/</id>
         <link href="https://mitmproxy.org/posts/releases/mitmproxy8/"/>
         <updated>2022-03-24T01:13:06.482Z</updated>
         <content type="html"><![CDATA[(mitmproxy.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6228</id>
+        <link href="https://news.hada.io/topic?id=6228"/>
+        <updated>2022-03-25T04:24:47.961Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Payments가 세상을 먹어치우고 있다]]></title>
@@ -136,12 +143,5 @@
         <link href="https://beny23.github.io/posts/on_weaponisation_of_open_source/"/>
         <updated>2022-03-21T01:14:30.979Z</updated>
         <content type="html"><![CDATA[(beny23.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CotEditor - macOS용 오픈소스 텍스트 에디터]]></title>
-        <id>https://coteditor.com/</id>
-        <link href="https://coteditor.com/"/>
-        <updated>2022-03-26T02:49:33.662Z</updated>
-        <content type="html"><![CDATA[(coteditor.com)]]></content>
     </entry>
 </feed>
