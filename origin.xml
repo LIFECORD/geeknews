@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-26T19:15:02.795Z</updated>
+    <updated>2022-03-26T20:19:36.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(agnosticui.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
-        <id>https://incoherency.co.uk/blog/stories/librem5-first-impressions.html</id>
-        <link href="https://incoherency.co.uk/blog/stories/librem5-first-impressions.html"/>
-        <updated>2022-03-26T01:11:18.762Z</updated>
-        <content type="html"><![CDATA[(incoherency.co.uk)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BoxyHQ - Auth0 / WorkOS 의 오픈소스 대체제]]></title>
         <id>https://boxyhq.com/</id>
         <link href="https://boxyhq.com/"/>
         <updated>2022-03-25T01:09:29.998Z</updated>
         <content type="html"><![CDATA[(boxyhq.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
+        <id>https://incoherency.co.uk/blog/stories/librem5-first-impressions.html</id>
+        <link href="https://incoherency.co.uk/blog/stories/librem5-first-impressions.html"/>
+        <updated>2022-03-26T01:11:18.762Z</updated>
+        <content type="html"><![CDATA[(incoherency.co.uk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kagi Search - 빠르고 사용자 중심적인 검색 엔진]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(twitter.com/louisnicholls_)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모질라 개발자 사이트 MDN Plus 공개]]></title>
-        <id>https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/</id>
-        <link href="https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/"/>
-        <updated>2022-03-25T01:09:29.990Z</updated>
-        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[35년간의 뉴스레터 운영에서 얻은 경험들]]></title>
         <id>https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing</id>
         <link href="https://www.cjchilvers.com/blog/35-lessons-from-35-years-of-newsletter-publishing"/>
         <updated>2022-03-21T02:51:48.382Z</updated>
         <content type="html"><![CDATA[(cjchilvers.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모질라 개발자 사이트 MDN Plus 공개]]></title>
+        <id>https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/</id>
+        <link href="https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/"/>
+        <updated>2022-03-25T01:09:29.990Z</updated>
+        <content type="html"><![CDATA[(hacks.mozilla.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예제로 배우는 Deno]]></title>
