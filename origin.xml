@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-26T10:19:48.717Z</updated>
+    <updated>2022-03-26T11:16:54.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6228</id>
-        <link href="https://news.hada.io/topic?id=6228"/>
-        <updated>2022-03-25T04:24:47.961Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기술 창업자들의 고객지원 실수와 해결책들]]></title>
         <id>https://twitter.com/louisnicholls_/status/1505231211391770630</id>
         <link href="https://twitter.com/louisnicholls_/status/1505231211391770630"/>
         <updated>2022-03-22T01:13:41.567Z</updated>
         <content type="html"><![CDATA[(twitter.com/louisnicholls_)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6228</id>
+        <link href="https://news.hada.io/topic?id=6228"/>
+        <updated>2022-03-25T04:24:47.961Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[35년간의 뉴스레터 운영에서 얻은 경험들]]></title>
