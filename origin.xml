@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-28T03:37:26.413Z</updated>
+    <updated>2022-03-28T04:24:03.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(gefyra.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FastAPI의 시대. 아직도 Flask 쓰시나요?]]></title>
-        <id>https://planb.hashnode.dev/fastapi-flask</id>
-        <link href="https://planb.hashnode.dev/fastapi-flask"/>
-        <updated>2022-03-26T06:21:02.274Z</updated>
-        <content type="html"><![CDATA[(planb.hashnode.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Issue 실물 티켓 프린터를 만들었어요]]></title>
         <id>https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/</id>
         <link href="https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/"/>
@@ -55,11 +48,11 @@
         <content type="html"><![CDATA[(aschmelyun.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NVIDIA Instant NeRF - AI로 2D사진을 3D장면으로 즉시 렌더링]]></title>
-        <id>https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</id>
-        <link href="https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/"/>
-        <updated>2022-03-27T01:16:50.205Z</updated>
-        <content type="html"><![CDATA[(blogs.nvidia.com)]]></content>
+        <title type="html"><![CDATA[FastAPI의 시대. 아직도 Flask 쓰시나요?]]></title>
+        <id>https://planb.hashnode.dev/fastapi-flask</id>
+        <link href="https://planb.hashnode.dev/fastapi-flask"/>
+        <updated>2022-03-26T06:21:02.274Z</updated>
+        <content type="html"><![CDATA[(planb.hashnode.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[XDM - Xtreme Download Manager]]></title>
@@ -67,6 +60,13 @@
         <link href="https://github.com/subhra74/xdm"/>
         <updated>2022-03-27T02:46:38.231Z</updated>
         <content type="html"><![CDATA[(github.com/subhra74)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Instant NeRF - AI로 2D사진을 3D장면으로 즉시 렌더링]]></title>
+        <id>https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/</id>
+        <link href="https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/"/>
+        <updated>2022-03-27T01:16:50.205Z</updated>
+        <content type="html"><![CDATA[(blogs.nvidia.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Overtone - 오픈소스 협업 프로그래머블 음악 환경]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(kagi.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
-        <id>https://incoherency.co.uk/blog/stories/librem5-first-impressions.html</id>
-        <link href="https://incoherency.co.uk/blog/stories/librem5-first-impressions.html"/>
-        <updated>2022-03-26T01:11:18.762Z</updated>
-        <content type="html"><![CDATA[(incoherency.co.uk)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nebullvm - AI Inference(추론)를 5~20배 가속하는 오픈소스 라이브러리]]></title>
         <id>https://github.com/nebuly-ai/nebullvm</id>
         <link href="https://github.com/nebuly-ai/nebullvm"/>
         <updated>2022-03-25T01:09:29.988Z</updated>
         <content type="html"><![CDATA[(github.com/nebuly-ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Librem 5 :  리눅스 스마트폰의 첫 인상]]></title>
+        <id>https://incoherency.co.uk/blog/stories/librem5-first-impressions.html</id>
+        <link href="https://incoherency.co.uk/blog/stories/librem5-first-impressions.html"/>
+        <updated>2022-03-26T01:11:18.762Z</updated>
+        <content type="html"><![CDATA[(incoherency.co.uk)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Qubes OS - 가장 안전한 운영체제]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(fastcompany.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크]]></title>
-        <id>https://librewolf.net/</id>
-        <link href="https://librewolf.net/"/>
-        <updated>2022-03-26T01:11:18.761Z</updated>
-        <content type="html"><![CDATA[(librewolf.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[웹 개발자의 비밀무기들]]></title>
         <id>https://twitter.com/keif_xyz/status/1499402265341296642</id>
         <link href="https://twitter.com/keif_xyz/status/1499402265341296642"/>
         <updated>2022-03-21T02:51:48.383Z</updated>
         <content type="html"><![CDATA[(twitter.com/keif_xyz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreWolf - 개인정보 보호/보안/자유에 중점을 둔 Firefox 포크]]></title>
+        <id>https://librewolf.net/</id>
+        <link href="https://librewolf.net/"/>
+        <updated>2022-03-26T01:11:18.761Z</updated>
+        <content type="html"><![CDATA[(librewolf.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[35년간의 뉴스레터 운영에서 얻은 경험들]]></title>
