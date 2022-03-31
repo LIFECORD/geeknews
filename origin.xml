@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-03-31T12:32:53.105Z</updated>
+    <updated>2022-03-31T13:28:24.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(promotion.stibee.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waymo, SF에서 운전자 없는 자율주행차 운행 시작]]></title>
-        <id>https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html</id>
-        <link href="https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html"/>
-        <updated>2022-03-31T01:17:29.524Z</updated>
-        <content type="html"><![CDATA[(blog.waymo.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[로켓펀치(알리콘), '자율 근무 습득 지침서 - 자습지' 공개]]></title>
         <id>https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/</id>
         <link href="https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/"/>
         <updated>2022-03-31T05:16:44.750Z</updated>
         <content type="html"><![CDATA[(blog.rocketpunch.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waymo, SF에서 운전자 없는 자율주행차 운행 시작]]></title>
+        <id>https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html</id>
+        <link href="https://blog.waymo.com/2022/03/taking-our-next-step-in-city-by-bay.html"/>
+        <updated>2022-03-31T01:17:29.524Z</updated>
+        <content type="html"><![CDATA[(blog.waymo.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kaspersky, FCC에 의해 미국안보를 위협하는 회사목록에 등재]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
+        <id>https://github.com/Wilfred/difftastic</id>
+        <link href="https://github.com/Wilfred/difftastic"/>
+        <updated>2022-03-30T02:57:41.003Z</updated>
+        <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글 크롬 100 릴리즈]]></title>
         <id>https://developer.chrome.com/blog/new-in-chrome-100/</id>
         <link href="https://developer.chrome.com/blog/new-in-chrome-100/"/>
@@ -102,13 +109,6 @@
         <link href="https://tech.socarcorp.kr/product/2022/03/31/ces2022-review-by-gigi.html"/>
         <updated>2022-03-31T02:54:10.562Z</updated>
         <content type="html"><![CDATA[(tech.socarcorp.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
-        <id>https://github.com/Wilfred/difftastic</id>
-        <link href="https://github.com/Wilfred/difftastic"/>
-        <updated>2022-03-30T02:57:41.003Z</updated>
-        <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fluent Icons - 4000개의 오픈소스 아이콘]]></title>
