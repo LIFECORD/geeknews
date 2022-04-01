@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-01T18:23:00.996Z</updated>
+    <updated>2022-04-01T19:15:18.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sorbet : Stripe가 만든 Ruby용 Type Checker]]></title>
-        <id>https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby</id>
-        <link href="https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby"/>
-        <updated>2022-04-01T01:24:49.751Z</updated>
-        <content type="html"><![CDATA[(stripe.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
         <id>https://news.ycombinator.com/item?id=30822339</id>
         <link href="https://news.ycombinator.com/item?id=30822339"/>
         <updated>2022-03-30T02:57:41.004Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorbet : Stripe가 만든 Ruby용 Type Checker]]></title>
+        <id>https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby</id>
+        <link href="https://stripe.com/blog/sorbet-stripes-type-checker-for-ruby"/>
+        <updated>2022-04-01T01:24:49.751Z</updated>
+        <content type="html"><![CDATA[(stripe.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MirageOS 4.0 공개]]></title>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[(about.netflix.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FTI의 2022 테크 트렌드 보고서 [658p PDF]]]></title>
+        <id>https://futuretodayinstitute.com/trends/</id>
+        <link href="https://futuretodayinstitute.com/trends/"/>
+        <updated>2022-04-01T01:24:49.772Z</updated>
+        <content type="html"><![CDATA[(futuretodayinstitute.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[로켓펀치(알리콘), '자율 근무 습득 지침서 - 자습지' 공개]]></title>
         <id>https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/</id>
         <link href="https://blog.rocketpunch.com/2022/03/21/employee-handbook-for-autonomy-culture-team/"/>
@@ -69,11 +76,11 @@
         <content type="html"><![CDATA[(blog.rocketpunch.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FTI의 2022 테크 트렌드 보고서 [658p PDF]]]></title>
-        <id>https://futuretodayinstitute.com/trends/</id>
-        <link href="https://futuretodayinstitute.com/trends/"/>
-        <updated>2022-04-01T01:24:49.772Z</updated>
-        <content type="html"><![CDATA[(futuretodayinstitute.com)]]></content>
+        <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
+        <id>https://designsystem.digital.gov/</id>
+        <link href="https://designsystem.digital.gov/"/>
+        <updated>2022-03-31T01:17:29.520Z</updated>
+        <content type="html"><![CDATA[(designsystem.digital.gov)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Supabase, GraphQL 지원 시작]]></title>
@@ -90,13 +97,6 @@
         <content type="html"><![CDATA[(flower.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USWDS - 미국 연방정부용 디자인 시스템]]></title>
-        <id>https://designsystem.digital.gov/</id>
-        <link href="https://designsystem.digital.gov/"/>
-        <updated>2022-03-31T01:17:29.520Z</updated>
-        <content type="html"><![CDATA[(designsystem.digital.gov)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS for Games 공개]]></title>
         <id>https://aws.amazon.com/ko/blogs/gametech/aws-for-games-announcement/</id>
         <link href="https://aws.amazon.com/ko/blogs/gametech/aws-for-games-announcement/"/>
@@ -109,13 +109,6 @@
         <link href="https://promotion.stibee.com/"/>
         <updated>2022-03-31T02:54:10.545Z</updated>
         <content type="html"><![CDATA[(promotion.stibee.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring 프레임워크 RCE 패치 릴리즈 (CVE-2022-22965)]]></title>
-        <id>https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement</id>
-        <link href="https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement"/>
-        <updated>2022-04-01T01:24:49.770Z</updated>
-        <content type="html"><![CDATA[(spring.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS를 쓰는 스타트업 창업자가 자주하는 10가지 실수들]]></title>
@@ -132,17 +125,24 @@
         <content type="html"><![CDATA[(fluenticons.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dagger - CI/CD 파이프라인 개발킷]]></title>
-        <id>https://dagger.io/blog/public-launch-announcement</id>
-        <link href="https://dagger.io/blog/public-launch-announcement"/>
-        <updated>2022-03-31T02:54:10.563Z</updated>
-        <content type="html"><![CDATA[(dagger.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
         <id>https://github.com/Wilfred/difftastic</id>
         <link href="https://github.com/Wilfred/difftastic"/>
         <updated>2022-03-30T02:57:41.003Z</updated>
         <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring 프레임워크 RCE 패치 릴리즈 (CVE-2022-22965)]]></title>
+        <id>https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement</id>
+        <link href="https://spring.io/blog/2022/03/31/spring-framework-rce-early-announcement"/>
+        <updated>2022-04-01T01:24:49.770Z</updated>
+        <content type="html"><![CDATA[(spring.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dagger - CI/CD 파이프라인 개발킷]]></title>
+        <id>https://dagger.io/blog/public-launch-announcement</id>
+        <link href="https://dagger.io/blog/public-launch-announcement"/>
+        <updated>2022-03-31T02:54:10.563Z</updated>
+        <content type="html"><![CDATA[(dagger.io)]]></content>
     </entry>
 </feed>
