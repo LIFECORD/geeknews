@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-02T17:18:08.647Z</updated>
+    <updated>2022-04-02T18:20:33.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(mirage.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10만명의 기술 인터뷰를 분석해서, 최고 성적을 낸 사람들이 일하는 회사를 조사해봤어요]]></title>
-        <id>https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/</id>
-        <link href="https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/"/>
-        <updated>2022-04-01T01:24:49.751Z</updated>
-        <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grafana Mimir - 초고속 시계열DB 오픈소스 공개]]></title>
         <id>https://grafana.com/oss/mimir/</id>
         <link href="https://grafana.com/oss/mimir/"/>
         <updated>2022-03-31T02:54:10.548Z</updated>
         <content type="html"><![CDATA[(grafana.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10만명의 기술 인터뷰를 분석해서, 최고 성적을 낸 사람들이 일하는 회사를 조사해봤어요]]></title>
+        <id>https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/</id>
+        <link href="https://blog.interviewing.io/we-analyzed-100k-technical-interviews-to-see-where-the-best-performers-work-here-are-the-results/"/>
+        <updated>2022-04-01T01:24:49.751Z</updated>
+        <content type="html"><![CDATA[(blog.interviewing.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Doomfana - Grafana에서 Doom 실행하기]]></title>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(futuretodayinstitute.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
-        <id>https://github.com/Wilfred/difftastic</id>
-        <link href="https://github.com/Wilfred/difftastic"/>
-        <updated>2022-04-02T07:16:58.743Z</updated>
-        <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stibee, 유료 구독 뉴스레터 기능 공개]]></title>
         <id>https://promotion.stibee.com/</id>
         <link href="https://promotion.stibee.com/"/>
@@ -132,11 +125,11 @@
         <content type="html"><![CDATA[(promotion.stibee.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wacom의 Linux용 Pen과 Tablet지원 현황]]></title>
-        <id>https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/</id>
-        <link href="https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/"/>
-        <updated>2022-04-02T01:16:37.990Z</updated>
-        <content type="html"><![CDATA[(community.wacom.com)]]></content>
+        <title type="html"><![CDATA[difftastic - 언어 문법을 이해하는 diff]]></title>
+        <id>https://github.com/Wilfred/difftastic</id>
+        <link href="https://github.com/Wilfred/difftastic"/>
+        <updated>2022-04-02T07:16:58.743Z</updated>
+        <content type="html"><![CDATA[(github.com/Wilfred)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트업 피치 덱 체크포인트]]></title>
@@ -144,5 +137,12 @@
         <link href="https://brunch.co.kr/@eugenekimpsah/14"/>
         <updated>2022-04-02T13:21:58.107Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@eugenekimpsah)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wacom의 Linux용 Pen과 Tablet지원 현황]]></title>
+        <id>https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/</id>
+        <link href="https://community.wacom.com/eu/enterprise/wacom-leads-the-way-with-pens-and-tablets-for-linux/"/>
+        <updated>2022-04-02T01:16:37.990Z</updated>
+        <content type="html"><![CDATA[(community.wacom.com)]]></content>
     </entry>
 </feed>
