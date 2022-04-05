@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-05T08:23:19.675Z</updated>
+    <updated>2022-04-05T09:17:53.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[(jacobian.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022 프로그래머스 개발자 설문조사 리포트]]></title>
+        <id>https://programmers.co.kr/pages/2022-dev-survey</id>
+        <link href="https://programmers.co.kr/pages/2022-dev-survey"/>
+        <updated>2022-04-05T04:21:50.060Z</updated>
+        <content type="html"><![CDATA[(programmers.co.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
         <id>https://github.com/quackduck/devzat</id>
         <link href="https://github.com/quackduck/devzat"/>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[(github.com/quackduck)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 프로그래머스 개발자 설문조사 리포트]]></title>
-        <id>https://programmers.co.kr/pages/2022-dev-survey</id>
-        <link href="https://programmers.co.kr/pages/2022-dev-survey"/>
-        <updated>2022-04-05T04:21:50.060Z</updated>
-        <content type="html"><![CDATA[(programmers.co.kr)]]></content>
+        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
+        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
+        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
+        <updated>2022-04-05T01:15:17.649Z</updated>
+        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wireproxy - Socks5 프록시처럼 동작하는 Wireguard 클라이언트]]></title>
@@ -48,11 +55,11 @@
         <content type="html"><![CDATA[(squeaky.ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
-        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
-        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
-        <updated>2022-04-05T01:15:17.649Z</updated>
-        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
+        <title type="html"><![CDATA[PaLM - Google AI가 공개한 540B 파라미터를 가진 Pathways Language Model]]></title>
+        <id>https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html</id>
+        <link href="https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html"/>
+        <updated>2022-04-05T09:17:15.107Z</updated>
+        <content type="html"><![CDATA[(ai.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
@@ -137,12 +144,5 @@
         <link href="https://engineering.ab180.co/stories/how-engineering-team-works-to-make-robust-product"/>
         <updated>2022-03-31T09:18:51.021Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gh-dash - 깃헙 PR과 이슈 대시보드를 CLI에서 보기]]></title>
-        <id>https://github.com/dlvhdr/gh-dash</id>
-        <link href="https://github.com/dlvhdr/gh-dash"/>
-        <updated>2022-04-03T01:18:38.116Z</updated>
-        <content type="html"><![CDATA[(github.com/dlvhdr)]]></content>
     </entry>
 </feed>
