@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-06T01:18:32.736Z</updated>
+    <updated>2022-04-06T02:56:12.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[(nrk.no)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zee - 터미널용 텍스트 에디터]]></title>
-        <id>https://github.com/mcobzarenco/zee</id>
-        <link href="https://github.com/mcobzarenco/zee"/>
-        <updated>2022-04-06T01:17:48.233Z</updated>
-        <content type="html"><![CDATA[(github.com/mcobzarenco)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
         <id>https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/</id>
         <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
@@ -27,11 +20,18 @@
         <content type="html"><![CDATA[(jacobian.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 WWDC22 6월 6~10일 온라인 개최]]></title>
-        <id>https://developer.apple.com/wwdc22/</id>
-        <link href="https://developer.apple.com/wwdc22/"/>
+        <title type="html"><![CDATA[Zee - 터미널용 텍스트 에디터]]></title>
+        <id>https://github.com/mcobzarenco/zee</id>
+        <link href="https://github.com/mcobzarenco/zee"/>
         <updated>2022-04-06T01:17:48.233Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+        <content type="html"><![CDATA[(github.com/mcobzarenco)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warp - Rust로 작성된 빠른 터미널]]></title>
+        <id>https://warp.dev/</id>
+        <link href="https://warp.dev/"/>
+        <updated>2022-04-06T02:55:32.410Z</updated>
+        <content type="html"><![CDATA[(warp.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Devzat - SSH 기반의 디스코드 비슷한 채팅 오픈소스]]></title>
@@ -41,11 +41,25 @@
         <content type="html"><![CDATA[(github.com/quackduck)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[프리 소프트웨어로 구성한 사진작업 워크플로우]]></title>
+        <id>https://blog.fidelramos.net/photography/photography-workflow</id>
+        <link href="https://blog.fidelramos.net/photography/photography-workflow"/>
+        <updated>2022-04-06T02:55:32.419Z</updated>
+        <content type="html"><![CDATA[(blog.fidelramos.net)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022 프로그래머스 개발자 설문조사 리포트]]></title>
         <id>https://programmers.co.kr/pages/2022-dev-survey</id>
         <link href="https://programmers.co.kr/pages/2022-dev-survey"/>
         <updated>2022-04-05T04:21:50.060Z</updated>
         <content type="html"><![CDATA[(programmers.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 WWDC22 6월 6~10일 온라인 개최]]></title>
+        <id>https://developer.apple.com/wwdc22/</id>
+        <link href="https://developer.apple.com/wwdc22/"/>
+        <updated>2022-04-06T01:17:48.233Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PaLM - Google AI가 공개한 540B 파라미터를 가진 Pathways Language Model]]></title>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[(github.com/jcubic)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BBC Online의 Serverless 전환 1주년 회고]]></title>
-        <id>https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277</id>
-        <link href="https://medium.com/bbc-design-engineering/bbc-online-a-year-with-serverless-ffc2ae474277"/>
-        <updated>2022-04-04T01:21:46.166Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[누군가를 당신의 전공 분야로 끌어들이게 해줄 책은?]]></title>
         <id>https://news.ycombinator.com/item?id=30822339</id>
         <link href="https://news.ycombinator.com/item?id=30822339"/>
         <updated>2022-03-30T02:57:41.004Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fman build system - Python 과 QT로 크로스플랫폼 개발을 쉽게]]></title>
-        <id>https://build-system.fman.io/</id>
-        <link href="https://build-system.fman.io/"/>
-        <updated>2022-04-03T01:18:38.114Z</updated>
-        <content type="html"><![CDATA[(build-system.fman.io)]]></content>
     </entry>
 </feed>
