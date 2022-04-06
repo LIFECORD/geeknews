@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-06T03:31:36.128Z</updated>
+    <updated>2022-04-06T04:22:40.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
         <updated>2022-04-05T04:21:50.045Z</updated>
         <content type="html"><![CDATA[(jacobian.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT 시스템이 고장나 있는동안, 오늘은(4월 3일) 어떤 열차도 운행하지 못합니다]]></title>
+        <id>https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html</id>
+        <link href="https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html"/>
+        <updated>2022-04-06T04:21:59.871Z</updated>
+        <content type="html"><![CDATA[(ns.nl)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zee - 터미널용 텍스트 에디터]]></title>
@@ -136,12 +143,5 @@
         <link href="https://news.hada.io/topic?id=6290"/>
         <updated>2022-04-03T15:18:00.144Z</updated>
         <content type="html"><![CDATA[(github.com/mrchypark)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sysend.js - 브라우저의 탭간에 메시지를 전송하는 라이브러리]]></title>
-        <id>https://github.com/jcubic/sysend.js</id>
-        <link href="https://github.com/jcubic/sysend.js"/>
-        <updated>2022-04-03T01:18:38.114Z</updated>
-        <content type="html"><![CDATA[(github.com/jcubic)]]></content>
     </entry>
 </feed>
