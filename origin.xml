@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-06T14:16:55.667Z</updated>
+    <updated>2022-04-06T15:19:35.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(nrk.no)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zee - 터미널용 텍스트 에디터]]></title>
-        <id>https://github.com/mcobzarenco/zee</id>
-        <link href="https://github.com/mcobzarenco/zee"/>
-        <updated>2022-04-06T01:17:48.233Z</updated>
-        <content type="html"><![CDATA[(github.com/mcobzarenco)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
         <id>https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/</id>
         <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
         <updated>2022-04-05T04:21:50.045Z</updated>
         <content type="html"><![CDATA[(jacobian.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zee - 터미널용 텍스트 에디터]]></title>
+        <id>https://github.com/mcobzarenco/zee</id>
+        <link href="https://github.com/mcobzarenco/zee"/>
+        <updated>2022-04-06T01:17:48.233Z</updated>
+        <content type="html"><![CDATA[(github.com/mcobzarenco)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IT 시스템이 고장나 있는동안, 오늘은(4월 3일) 어떤 열차도 운행하지 못합니다]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(github.com/AI4Finance-Foundation)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
-        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
-        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
-        <updated>2022-04-05T01:15:17.649Z</updated>
-        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thoughtworks Technology Radar 26호 (39p PDF)]]></title>
         <id>https://www.thoughtworks.com/radar</id>
         <link href="https://www.thoughtworks.com/radar"/>
         <updated>2022-04-04T03:03:45.495Z</updated>
         <content type="html"><![CDATA[(thoughtworks.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 AI의 현재를 보여주는 그래프 12개]]></title>
+        <id>https://spectrum.ieee.org/artificial-intelligence-index</id>
+        <link href="https://spectrum.ieee.org/artificial-intelligence-index"/>
+        <updated>2022-04-05T01:15:17.649Z</updated>
+        <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Startpack - 셀프호스트 스타터 팩]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(github.com/mrchypark)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Squeaky가 스테이징 환경을 쓰지 않는 이유]]></title>
-        <id>https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment</id>
-        <link href="https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment"/>
-        <updated>2022-04-05T03:29:18.504Z</updated>
-        <content type="html"><![CDATA[(squeaky.ai)]]></content>
+        <title type="html"><![CDATA[Nitric - 클라우드/서버리스 앱용 프레임워크]]></title>
+        <id>https://github.com/nitrictech/nitric</id>
+        <link href="https://github.com/nitrictech/nitric"/>
+        <updated>2022-04-06T15:18:54.595Z</updated>
+        <content type="html"><![CDATA[(github.com/nitrictech)]]></content>
     </entry>
 </feed>
