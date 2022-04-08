@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-08T01:15:46.145Z</updated>
+    <updated>2022-04-08T03:02:25.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[(github.com/eth0izzle)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL·E 2 공개]]></title>
-        <id>https://openai.com/dall-e-2/</id>
-        <link href="https://openai.com/dall-e-2/"/>
-        <updated>2022-04-08T01:15:09.960Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
+        <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
+        <id>https://pspdfkit.com/api/</id>
+        <link href="https://pspdfkit.com/api/"/>
+        <updated>2022-04-08T03:01:45.298Z</updated>
+        <content type="html"><![CDATA[(pspdfkit.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GenieFramework - Julia용 웹 개발 프레임워크]]></title>
@@ -32,6 +32,13 @@
         <link href="https://github.com/ThioJoe/YT-Spammer-Purge"/>
         <updated>2022-04-08T01:15:09.968Z</updated>
         <content type="html"><![CDATA[(github.com/ThioJoe)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E 2 공개]]></title>
+        <id>https://openai.com/dall-e-2/</id>
+        <link href="https://openai.com/dall-e-2/"/>
+        <updated>2022-04-08T01:15:09.960Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["내 트리를 꾸며줘" 1600만 트래픽을 지탱했던 애저 서버리스 아키텍처 [video 1:12분]]]></title>
@@ -137,12 +144,5 @@
         <link href="https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html"/>
         <updated>2022-04-06T04:21:59.871Z</updated>
         <content type="html"><![CDATA[(ns.nl)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBB는 Bloomberg Terminal의 오픈소스 경쟁자가 되고 싶어함]]></title>
-        <id>https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/</id>
-        <link href="https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/"/>
-        <updated>2022-04-04T01:21:46.158Z</updated>
-        <content type="html"><![CDATA[(venturebeat.com)]]></content>
     </entry>
 </feed>
