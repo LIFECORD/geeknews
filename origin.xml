@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-09T08:21:22.753Z</updated>
+    <updated>2022-04-09T10:19:10.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 틸노트 : 데일리 기반으로 TIL (Today I Learned) 를 기록하고 관리할 수 있는 클라우드 노트]]></title>
+        <id>https://news.hada.io/topic?id=6333</id>
+        <link href="https://news.hada.io/topic?id=6333"/>
+        <updated>2022-04-09T10:18:34.038Z</updated>
+        <content type="html"><![CDATA[(tilnote.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네카라쿠배당토 핵심가치는 뭐가 다를까?]]></title>
         <id>https://hr.wanted.co.kr/insights/wcms3</id>
         <link href="https://hr.wanted.co.kr/insights/wcms3"/>
         <updated>2022-04-09T01:14:48.836Z</updated>
         <content type="html"><![CDATA[(hr.wanted.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중세 도시 지도 생성기]]></title>
+        <id>https://watabou.github.io/city-generator/</id>
+        <link href="https://watabou.github.io/city-generator/"/>
+        <updated>2022-04-08T04:21:54.479Z</updated>
+        <content type="html"><![CDATA[(watabou.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cascade - GPU가속되는 노드 기반 이미지 에디터]]></title>
@@ -27,11 +41,11 @@
         <content type="html"><![CDATA[(apps.apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중세 도시 지도 생성기]]></title>
-        <id>https://watabou.github.io/city-generator/</id>
-        <link href="https://watabou.github.io/city-generator/"/>
-        <updated>2022-04-08T04:21:54.479Z</updated>
-        <content type="html"><![CDATA[(watabou.github.io)]]></content>
+        <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
+        <id>https://pspdfkit.com/api/</id>
+        <link href="https://pspdfkit.com/api/"/>
+        <updated>2022-04-08T03:01:45.298Z</updated>
+        <content type="html"><![CDATA[(pspdfkit.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
@@ -39,13 +53,6 @@
         <link href="https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/"/>
         <updated>2022-04-09T01:14:48.839Z</updated>
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
-        <id>https://pspdfkit.com/api/</id>
-        <link href="https://pspdfkit.com/api/"/>
-        <updated>2022-04-08T03:01:45.298Z</updated>
-        <content type="html"><![CDATA[(pspdfkit.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[shhgit - Secret 유출 방지용 검색 오픈소스]]></title>
@@ -83,18 +90,18 @@
         <content type="html"><![CDATA[(datagridxl.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GenieFramework - Julia용 웹 개발 프레임워크]]></title>
-        <id>https://genieframework.com/</id>
-        <link href="https://genieframework.com/"/>
-        <updated>2022-04-08T01:15:09.960Z</updated>
-        <content type="html"><![CDATA[(genieframework.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[프리 소프트웨어로 구성한 사진작업 워크플로우]]></title>
         <id>https://blog.fidelramos.net/photography/photography-workflow</id>
         <link href="https://blog.fidelramos.net/photography/photography-workflow"/>
         <updated>2022-04-06T02:55:32.419Z</updated>
         <content type="html"><![CDATA[(blog.fidelramos.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GenieFramework - Julia용 웹 개발 프레임워크]]></title>
+        <id>https://genieframework.com/</id>
+        <link href="https://genieframework.com/"/>
+        <updated>2022-04-08T01:15:09.960Z</updated>
+        <content type="html"><![CDATA[(genieframework.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음악을 다룰 때 고려해야 할 엣지케이스들]]></title>
@@ -117,13 +124,6 @@
         <updated>2022-04-08T04:21:54.490Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구]]></title>
-        <id>https://github.com/ThioJoe/YT-Spammer-Purge</id>
-        <link href="https://github.com/ThioJoe/YT-Spammer-Purge"/>
-        <updated>2022-04-08T01:15:09.968Z</updated>
-        <content type="html"><![CDATA[(github.com/ThioJoe)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Warp - Rust로 작성된 빠른 터미널]]></title>
         <id>https://warp.dev/</id>
         <link href="https://warp.dev/"/>
@@ -131,17 +131,17 @@
         <content type="html"><![CDATA[(warp.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구]]></title>
+        <id>https://github.com/ThioJoe/YT-Spammer-Purge</id>
+        <link href="https://github.com/ThioJoe/YT-Spammer-Purge"/>
+        <updated>2022-04-08T01:15:09.968Z</updated>
+        <content type="html"><![CDATA[(github.com/ThioJoe)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[하나의 앱 - 두개의 세계 : 러시아와 우크라이나의 TikTok]]></title>
         <id>https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522</id>
         <link href="https://www.nrk.no/osloogviken/xl/tiktok-doesn_t-show-the-war-in-ukraine-to-russian-users-1.15921522"/>
         <updated>2022-04-06T01:17:48.233Z</updated>
         <content type="html"><![CDATA[(nrk.no)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[geohot/tinygrad - 미니멀한 딥러닝 프레임워크]]></title>
-        <id>https://github.com/geohot/tinygrad</id>
-        <link href="https://github.com/geohot/tinygrad"/>
-        <updated>2022-04-07T02:53:49.713Z</updated>
-        <content type="html"><![CDATA[(github.com/geohot)]]></content>
     </entry>
 </feed>
