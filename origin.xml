@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-09T01:15:31.170Z</updated>
+    <updated>2022-04-09T02:51:11.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://hr.wanted.co.kr/insights/wcms3"/>
         <updated>2022-04-09T01:14:48.836Z</updated>
         <content type="html"><![CDATA[(hr.wanted.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중세 도시 지도 생성기]]></title>
-        <id>https://watabou.github.io/city-generator/</id>
-        <link href="https://watabou.github.io/city-generator/"/>
-        <updated>2022-04-08T04:21:54.479Z</updated>
-        <content type="html"><![CDATA[(watabou.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cascade - GPU가속되는 노드 기반 이미지 에디터]]></title>
@@ -34,11 +27,11 @@
         <content type="html"><![CDATA[(apps.apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
-        <id>https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/</id>
-        <link href="https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/"/>
-        <updated>2022-04-09T01:14:48.839Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
+        <title type="html"><![CDATA[중세 도시 지도 생성기]]></title>
+        <id>https://watabou.github.io/city-generator/</id>
+        <link href="https://watabou.github.io/city-generator/"/>
+        <updated>2022-04-08T04:21:54.479Z</updated>
+        <content type="html"><![CDATA[(watabou.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
@@ -46,6 +39,13 @@
         <link href="https://pspdfkit.com/api/"/>
         <updated>2022-04-08T03:01:45.298Z</updated>
         <content type="html"><![CDATA[(pspdfkit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
+        <id>https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/</id>
+        <link href="https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/"/>
+        <updated>2022-04-09T01:14:48.839Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[shhgit - Secret 유출 방지용 검색 오픈소스]]></title>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DataGridXL2.js - 엑셀과 비슷한 데이터 테이블 라이브러리]]></title>
-        <id>https://www.datagridxl.com/</id>
-        <link href="https://www.datagridxl.com/"/>
-        <updated>2022-04-07T01:16:46.215Z</updated>
-        <content type="html"><![CDATA[(datagridxl.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GenieFramework - Julia용 웹 개발 프레임워크]]></title>
         <id>https://genieframework.com/</id>
         <link href="https://genieframework.com/"/>
@@ -90,10 +83,11 @@
         <content type="html"><![CDATA[(genieframework.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6327</id>
-        <link href="https://news.hada.io/topic?id=6327"/>
-        <updated>2022-04-08T04:21:54.490Z</updated>
+        <title type="html"><![CDATA[DataGridXL2.js - 엑셀과 비슷한 데이터 테이블 라이브러리]]></title>
+        <id>https://www.datagridxl.com/</id>
+        <link href="https://www.datagridxl.com/"/>
+        <updated>2022-04-07T01:16:46.215Z</updated>
+        <content type="html"><![CDATA[(datagridxl.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음악을 다룰 때 고려해야 할 엣지케이스들]]></title>
@@ -110,11 +104,10 @@
         <content type="html"><![CDATA[(blog.fidelramos.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구]]></title>
-        <id>https://github.com/ThioJoe/YT-Spammer-Purge</id>
-        <link href="https://github.com/ThioJoe/YT-Spammer-Purge"/>
-        <updated>2022-04-08T01:15:09.968Z</updated>
-        <content type="html"><![CDATA[(github.com/ThioJoe)]]></content>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6327</id>
+        <link href="https://news.hada.io/topic?id=6327"/>
+        <updated>2022-04-08T04:21:54.490Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
@@ -122,6 +115,13 @@
         <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
         <updated>2022-04-05T04:21:50.045Z</updated>
         <content type="html"><![CDATA[(jacobian.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구]]></title>
+        <id>https://github.com/ThioJoe/YT-Spammer-Purge</id>
+        <link href="https://github.com/ThioJoe/YT-Spammer-Purge"/>
+        <updated>2022-04-08T01:15:09.968Z</updated>
+        <content type="html"><![CDATA[(github.com/ThioJoe)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Warp - Rust로 작성된 빠른 터미널]]></title>
