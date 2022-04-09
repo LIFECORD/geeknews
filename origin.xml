@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-09T10:19:10.779Z</updated>
+    <updated>2022-04-09T11:15:28.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(datagridxl.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
+        <id>https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/</id>
+        <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
+        <updated>2022-04-05T04:21:50.045Z</updated>
+        <content type="html"><![CDATA[(jacobian.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[프리 소프트웨어로 구성한 사진작업 워크플로우]]></title>
         <id>https://blog.fidelramos.net/photography/photography-workflow</id>
         <link href="https://blog.fidelramos.net/photography/photography-workflow"/>
@@ -109,13 +116,6 @@
         <link href="https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html"/>
         <updated>2022-04-07T01:16:46.220Z</updated>
         <content type="html"><![CDATA[(dustri.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
-        <id>https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/</id>
-        <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
-        <updated>2022-04-05T04:21:50.045Z</updated>
-        <content type="html"><![CDATA[(jacobian.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
