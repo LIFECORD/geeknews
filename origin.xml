@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-09T20:19:10.197Z</updated>
+    <updated>2022-04-09T21:15:40.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(hr.wanted.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cascade - GPU가속되는 노드 기반 이미지 에디터]]></title>
-        <id>https://github.com/ttddee/Cascade</id>
-        <link href="https://github.com/ttddee/Cascade"/>
-        <updated>2022-04-09T01:14:48.839Z</updated>
-        <content type="html"><![CDATA[(github.com/ttddee)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
         <id>https://pspdfkit.com/api/</id>
         <link href="https://pspdfkit.com/api/"/>
         <updated>2022-04-08T03:01:45.298Z</updated>
         <content type="html"><![CDATA[(pspdfkit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cascade - GPU가속되는 노드 기반 이미지 에디터]]></title>
+        <id>https://github.com/ttddee/Cascade</id>
+        <link href="https://github.com/ttddee/Cascade"/>
+        <updated>2022-04-09T01:14:48.839Z</updated>
+        <content type="html"><![CDATA[(github.com/ttddee)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장)]]></title>
