@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-09T22:18:45.979Z</updated>
+    <updated>2022-04-09T23:17:45.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(pspdfkit.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cascade - GPU가속되는 노드 기반 이미지 에디터]]></title>
-        <id>https://github.com/ttddee/Cascade</id>
-        <link href="https://github.com/ttddee/Cascade"/>
-        <updated>2022-04-09T01:14:48.839Z</updated>
-        <content type="html"><![CDATA[(github.com/ttddee)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장)]]></title>
         <id>https://news.hada.io/topic?id=6316</id>
         <link href="https://news.hada.io/topic?id=6316"/>
         <updated>2022-04-06T07:17:34.806Z</updated>
         <content type="html"><![CDATA[(pbkit.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cascade - GPU가속되는 노드 기반 이미지 에디터]]></title>
+        <id>https://github.com/ttddee/Cascade</id>
+        <link href="https://github.com/ttddee/Cascade"/>
+        <updated>2022-04-09T01:14:48.839Z</updated>
+        <content type="html"><![CDATA[(github.com/ttddee)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[shhgit - Secret 유출 방지용 검색 오픈소스]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(datagridxl.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
-        <id>https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/</id>
-        <link href="https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/"/>
-        <updated>2022-04-09T01:14:48.839Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
         <id>https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/</id>
         <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
         <updated>2022-04-05T04:21:50.045Z</updated>
         <content type="html"><![CDATA[(jacobian.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
+        <id>https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/</id>
+        <link href="https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/"/>
+        <updated>2022-04-09T01:14:48.839Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프리 소프트웨어로 구성한 사진작업 워크플로우]]></title>
