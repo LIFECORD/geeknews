@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-10T09:17:22.352Z</updated>
+    <updated>2022-04-10T10:20:32.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(genieframework.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
-        <id>https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/</id>
-        <link href="https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/"/>
-        <updated>2022-04-09T01:14:48.839Z</updated>
-        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Warp - Rust로 작성된 빠른 터미널]]></title>
         <id>https://warp.dev/</id>
         <link href="https://warp.dev/"/>
         <updated>2022-04-06T02:55:32.410Z</updated>
         <content type="html"><![CDATA[(warp.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda Function URLs 공개]]></title>
+        <id>https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/</id>
+        <link href="https://aws.amazon.com/ko/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/"/>
+        <updated>2022-04-09T01:14:48.839Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
 </feed>
