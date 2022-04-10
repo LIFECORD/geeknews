@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-10T10:20:32.303Z</updated>
+    <updated>2022-04-10T11:15:53.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(hr.wanted.co.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
-        <id>https://pspdfkit.com/api/</id>
-        <link href="https://pspdfkit.com/api/"/>
-        <updated>2022-04-08T03:01:45.298Z</updated>
-        <content type="html"><![CDATA[(pspdfkit.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장)]]></title>
         <id>https://news.hada.io/topic?id=6316</id>
         <link href="https://news.hada.io/topic?id=6316"/>
         <updated>2022-04-06T07:17:34.806Z</updated>
         <content type="html"><![CDATA[(pbkit.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
+        <id>https://pspdfkit.com/api/</id>
+        <link href="https://pspdfkit.com/api/"/>
+        <updated>2022-04-08T03:01:45.298Z</updated>
+        <content type="html"><![CDATA[(pspdfkit.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[shhgit - Secret 유출 방지용 검색 오픈소스]]></title>
