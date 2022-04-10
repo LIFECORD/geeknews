@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-10T01:21:12.043Z</updated>
+    <updated>2022-04-10T02:56:38.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Shepherd - 미팅 노트/아젠다/태스크 관리도구]]></title>
+        <id>https://www.meetshepherd.com/</id>
+        <link href="https://www.meetshepherd.com/"/>
+        <updated>2022-04-10T02:55:51.168Z</updated>
+        <content type="html"><![CDATA[(meetshepherd.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 렌즈 "멀티서치" 기능 베타 시작]]></title>
         <id>https://9to5google.com/2022/04/07/google-lens-multisearch</id>
@@ -137,12 +144,5 @@
         <link href="https://warp.dev/"/>
         <updated>2022-04-06T02:55:32.410Z</updated>
         <content type="html"><![CDATA[(warp.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YT-Spammer-Purge : 유튜브 스팸댓글 자동 삭제 도구]]></title>
-        <id>https://github.com/ThioJoe/YT-Spammer-Purge</id>
-        <link href="https://github.com/ThioJoe/YT-Spammer-Purge"/>
-        <updated>2022-04-08T01:15:09.968Z</updated>
-        <content type="html"><![CDATA[(github.com/ThioJoe)]]></content>
     </entry>
 </feed>
