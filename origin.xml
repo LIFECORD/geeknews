@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-11T01:19:54.642Z</updated>
+    <updated>2022-04-11T03:09:23.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[(infoq.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[사용중인 클라우드를 바꿔보신 분 ?]]></title>
+        <id>https://news.ycombinator.com/item?id=30942698</id>
+        <link href="https://news.ycombinator.com/item?id=30942698"/>
+        <updated>2022-04-11T03:08:43.609Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rome Formatter 릴리즈]]></title>
         <id>https://rome.tools/blog/2022/04/05/rome-formatter-release</id>
         <link href="https://rome.tools/blog/2022/04/05/rome-formatter-release"/>
         <updated>2022-04-11T01:19:17.862Z</updated>
         <content type="html"><![CDATA[(rome.tools)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RedwoodJS 1.0 공개 및 $1M 펀드 조성]]></title>
+        <id>https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html</id>
+        <link href="https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html"/>
+        <updated>2022-04-11T03:08:43.613Z</updated>
+        <content type="html"><![CDATA[(tom.preston-werner.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yaade - 오픈소스, 셀프호스트, 협업 API 개발 환경]]></title>
@@ -55,6 +69,20 @@
         <content type="html"><![CDATA[(watabou.github.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
+        <id>https://pspdfkit.com/api/</id>
+        <link href="https://pspdfkit.com/api/"/>
+        <updated>2022-04-08T03:01:45.298Z</updated>
+        <content type="html"><![CDATA[(pspdfkit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roam Research 모바일 앱 공개]]></title>
+        <id>https://apps.apple.com/us/app/roam-mobile/id1609277273</id>
+        <link href="https://apps.apple.com/us/app/roam-mobile/id1609277273"/>
+        <updated>2022-04-09T01:14:48.839Z</updated>
+        <content type="html"><![CDATA[(apps.apple.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[네카라쿠배당토 핵심가치는 뭐가 다를까?]]></title>
         <id>https://hr.wanted.co.kr/insights/wcms3</id>
         <link href="https://hr.wanted.co.kr/insights/wcms3"/>
@@ -67,20 +95,6 @@
         <link href="https://news.hada.io/topic?id=6316"/>
         <updated>2022-04-06T07:17:34.806Z</updated>
         <content type="html"><![CDATA[(pbkit.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roam Research 모바일 앱 공개]]></title>
-        <id>https://apps.apple.com/us/app/roam-mobile/id1609277273</id>
-        <link href="https://apps.apple.com/us/app/roam-mobile/id1609277273"/>
-        <updated>2022-04-09T01:14:48.839Z</updated>
-        <content type="html"><![CDATA[(apps.apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSPDFKit API - PDF처리용 HTTP API]]></title>
-        <id>https://pspdfkit.com/api/</id>
-        <link href="https://pspdfkit.com/api/"/>
-        <updated>2022-04-08T03:01:45.298Z</updated>
-        <content type="html"><![CDATA[(pspdfkit.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 렌즈 "멀티서치" 기능 베타 시작]]></title>
@@ -104,18 +118,18 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
-        <id>https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/</id>
-        <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
-        <updated>2022-04-05T04:21:50.045Z</updated>
-        <content type="html"><![CDATA[(jacobian.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DALL·E 2 공개]]></title>
         <id>https://openai.com/dall-e-2/</id>
         <link href="https://openai.com/dall-e-2/"/>
         <updated>2022-04-08T01:15:09.960Z</updated>
         <content type="html"><![CDATA[(openai.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퇴사 인터뷰들은 함정입니다]]></title>
+        <id>https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/</id>
+        <link href="https://jacobian.org/2022/apr/4/exit-interviews-are-a-trap/"/>
+        <updated>2022-04-05T04:21:50.045Z</updated>
+        <content type="html"><![CDATA[(jacobian.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DataGridXL2.js - 엑셀과 비슷한 데이터 테이블 라이브러리]]></title>
@@ -130,19 +144,5 @@
         <link href="https://blog.fidelramos.net/photography/photography-workflow"/>
         <updated>2022-04-06T02:55:32.419Z</updated>
         <content type="html"><![CDATA[(blog.fidelramos.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악을 다룰 때 고려해야 할 엣지케이스들]]></title>
-        <id>https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html</id>
-        <link href="https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html"/>
-        <updated>2022-04-07T01:16:46.220Z</updated>
-        <content type="html"><![CDATA[(dustri.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cascade - GPU가속되는 노드 기반 이미지 에디터]]></title>
-        <id>https://github.com/ttddee/Cascade</id>
-        <link href="https://github.com/ttddee/Cascade"/>
-        <updated>2022-04-09T01:14:48.839Z</updated>
-        <content type="html"><![CDATA[(github.com/ttddee)]]></content>
     </entry>
 </feed>
