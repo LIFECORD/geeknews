@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-12T06:23:35.546Z</updated>
+    <updated>2022-04-12T07:18:39.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.talos.dev/"/>
         <updated>2022-04-12T01:18:53.860Z</updated>
         <content type="html"><![CDATA[(talos.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 유스케이스에 Airflow가 진짜 최선인지 확인해보자]]></title>
+        <id>https://news.ycombinator.com/item?id=23349707</id>
+        <link href="https://news.ycombinator.com/item?id=23349707"/>
+        <updated>2022-04-12T05:16:23.371Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TruffleHog - Credential 검색 도구]]></title>
@@ -52,13 +59,6 @@
         <id>https://news.ycombinator.com/item?id=30942698</id>
         <link href="https://news.ycombinator.com/item?id=30942698"/>
         <updated>2022-04-11T03:08:43.609Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 유스케이스에 Airflow가 진짜 최선인지 확인해보자]]></title>
-        <id>https://news.ycombinator.com/item?id=23349707</id>
-        <link href="https://news.ycombinator.com/item?id=23349707"/>
-        <updated>2022-04-12T05:16:23.371Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
