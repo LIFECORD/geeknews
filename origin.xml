@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-12T07:18:39.884Z</updated>
+    <updated>2022-04-12T08:23:07.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[(meetshepherd.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RedwoodJS 1.0 공개 및 $1M 펀드 조성]]></title>
-        <id>https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html</id>
-        <link href="https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html"/>
-        <updated>2022-04-11T03:08:43.613Z</updated>
-        <content type="html"><![CDATA[(tom.preston-werner.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장)]]></title>
         <id>https://news.hada.io/topic?id=6316</id>
         <link href="https://news.hada.io/topic?id=6316"/>
@@ -130,6 +123,13 @@
         <link href="https://pspdfkit.com/api/"/>
         <updated>2022-04-08T03:01:45.298Z</updated>
         <content type="html"><![CDATA[(pspdfkit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RedwoodJS 1.0 공개 및 $1M 펀드 조성]]></title>
+        <id>https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html</id>
+        <link href="https://tom.preston-werner.com/2022/04/04/redwood-v1-and-funding.html"/>
+        <updated>2022-04-11T03:08:43.613Z</updated>
+        <content type="html"><![CDATA[(tom.preston-werner.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Roam Research 모바일 앱 공개]]></title>
