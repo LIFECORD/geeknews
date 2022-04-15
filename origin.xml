@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-15T03:35:58.212Z</updated>
+    <updated>2022-04-15T04:37:27.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(jvns.ca)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Go로 밑바닥부터 SMTP 프로토콜 배우기 : Gmail에서 이메일 받아보기]]></title>
-        <id>https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html</id>
-        <link href="https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html"/>
-        <updated>2022-04-14T01:25:38.883Z</updated>
-        <content type="html"><![CDATA[(notes.eatonphil.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Breath - 크롬북용 Linux]]></title>
         <id>https://cb-linux.github.io/breath/</id>
         <link href="https://cb-linux.github.io/breath/"/>
@@ -55,11 +48,11 @@
         <content type="html"><![CDATA[(cb-linux.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Abandoned Rails - 미국의 버려진 철도들]]></title>
-        <id>https://www.abandonedrails.com/</id>
-        <link href="https://www.abandonedrails.com/"/>
-        <updated>2022-04-15T03:35:21.303Z</updated>
-        <content type="html"><![CDATA[(abandonedrails.com)]]></content>
+        <title type="html"><![CDATA[Go로 밑바닥부터 SMTP 프로토콜 배우기 : Gmail에서 이메일 받아보기]]></title>
+        <id>https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html</id>
+        <link href="https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html"/>
+        <updated>2022-04-14T01:25:38.883Z</updated>
+        <content type="html"><![CDATA[(notes.eatonphil.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장.]]></title>
@@ -67,6 +60,13 @@
         <link href="https://news.hada.io/topic?id=6362"/>
         <updated>2022-04-14T03:05:29.141Z</updated>
         <content type="html"><![CDATA[(desktop.flint.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abandoned Rails - 미국의 버려진 철도들]]></title>
+        <id>https://www.abandonedrails.com/</id>
+        <link href="https://www.abandonedrails.com/"/>
+        <updated>2022-04-15T03:35:21.303Z</updated>
+        <content type="html"><![CDATA[(abandonedrails.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드 리뷰 피라미드]]></title>
