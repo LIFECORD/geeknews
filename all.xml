@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/geeknews/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-16T02:53:20.467Z</updated>
+    <updated>2022-04-16T03:28:31.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[xguru (GeekNews)]]></title>
@@ -30,7 +30,7 @@
         <id>https://news.hada.io/topic?id=6376</id>
         <link href="https://news.hada.io/topic?id=6376"/>
         <updated>2022-04-15T11:15:04.792Z</updated>
-        <content type="html"><![CDATA[<span id="tp6376">5</span> points by <a href="/user?id=japansea">japansea</a> 16시간전<span id="unvote6376"></span> | <a href="topic?id=6376" class="u">댓글 1개</a>]]></content>
+        <content type="html"><![CDATA[<span id="tp6376">5</span> points by <a href="/user?id=japansea">japansea</a> 17시간전<span id="unvote6376"></span> | <a href="topic?id=6376" class="u">댓글 1개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru (GeekNews)]]></title>
@@ -68,6 +68,13 @@
         <content type="html"><![CDATA[<span id="tp6348">23</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote6348"></span> | <a href="topic?id=6348" class="u">댓글 5개</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[jdhdh (GeekNews)]]></title>
+        <id>https://news.hada.io/topic?id=6362</id>
+        <link href="https://news.hada.io/topic?id=6362"/>
+        <updated>2022-04-14T03:05:23.511Z</updated>
+        <content type="html"><![CDATA[<span id="tp6362">10</span> points by <a href="/user?id=jdhdh">jdhdh</a> 2일전<span id="unvote6362"></span> | <a href="topic?id=6362" class="u">댓글 18개</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[xguru (GeekNews)]]></title>
         <id>https://news.hada.io/topic?id=6370</id>
         <link href="https://news.hada.io/topic?id=6370"/>
@@ -80,13 +87,6 @@
         <link href="https://news.hada.io/topic?id=6369"/>
         <updated>2022-04-15T01:21:18.836Z</updated>
         <content type="html"><![CDATA[<span id="tp6369">4</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote6369"></span> | <a href="topic?id=6369" class="u">댓글 2개</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jdhdh (GeekNews)]]></title>
-        <id>https://news.hada.io/topic?id=6362</id>
-        <link href="https://news.hada.io/topic?id=6362"/>
-        <updated>2022-04-14T03:05:23.511Z</updated>
-        <content type="html"><![CDATA[<span id="tp6362">10</span> points by <a href="/user?id=jdhdh">jdhdh</a> 2일전<span id="unvote6362"></span> | <a href="topic?id=6362" class="u">댓글 18개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru (GeekNews)]]></title>
@@ -208,6 +208,13 @@
         <content type="html"><![CDATA[(morling.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: 저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장. (GeekNews ─ 원문)]]></title>
+        <id>https://news.hada.io/topic?id=6362</id>
+        <link href="https://news.hada.io/topic?id=6362"/>
+        <updated>2022-04-14T03:05:23.511Z</updated>
+        <content type="html"><![CDATA[(desktop.flint.so)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[틱톡, AR 필터 개발 플랫폼 Effect House 글로벌 베타 런칭 (GeekNews ─ 원문)]]></title>
         <id>https://newsroom.tiktok.com/ko-kr/effect-house-kr</id>
         <link href="https://newsroom.tiktok.com/ko-kr/effect-house-kr"/>
@@ -220,13 +227,6 @@
         <link href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/"/>
         <updated>2022-04-15T01:21:26.037Z</updated>
         <content type="html"><![CDATA[(spreadprivacy.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장. (GeekNews ─ 원문)]]></title>
-        <id>https://news.hada.io/topic?id=6362</id>
-        <link href="https://news.hada.io/topic?id=6362"/>
-        <updated>2022-04-14T03:05:23.511Z</updated>
-        <content type="html"><![CDATA[(desktop.flint.so)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Breath - 크롬북용 Linux (GeekNews ─ 원문)]]></title>
@@ -317,7 +317,7 @@
         <id>https://news.hada.io/topic?id=6376</id>
         <link href="https://news.hada.io/topic?id=6376"/>
         <updated>2022-04-15T11:15:04.792Z</updated>
-        <content type="html"><![CDATA[<span id="tp6376">5</span> points by <a href="/user?id=japansea">japansea</a> 16시간전<span id="unvote6376"></span> | <a href="topic?id=6376" class="u">댓글 1개</a>]]></content>
+        <content type="html"><![CDATA[<span id="tp6376">5</span> points by <a href="/user?id=japansea">japansea</a> 17시간전<span id="unvote6376"></span> | <a href="topic?id=6376" class="u">댓글 1개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[askbot (GeekNews ─ 최신글)]]></title>
