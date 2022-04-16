@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-16T19:14:56.533Z</updated>
+    <updated>2022-04-16T20:18:20.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(newsroom.tiktok.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DuckDuckGo for Mac 공개 - 안전하고 빠른 브라우저]]></title>
-        <id>https://spreadprivacy.com/introducing-duckduckgo-for-mac/</id>
-        <link href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/"/>
-        <updated>2022-04-15T01:21:26.037Z</updated>
-        <content type="html"><![CDATA[(spreadprivacy.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[메타버스 산업 지도]]></title>
         <id>https://www.cbinsights.com/research/metaverse-market-map/</id>
         <link href="https://www.cbinsights.com/research/metaverse-market-map/"/>
         <updated>2022-04-14T01:25:38.883Z</updated>
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo for Mac 공개 - 안전하고 빠른 브라우저]]></title>
+        <id>https://spreadprivacy.com/introducing-duckduckgo-for-mac/</id>
+        <link href="https://spreadprivacy.com/introducing-duckduckgo-for-mac/"/>
+        <updated>2022-04-15T01:21:26.037Z</updated>
+        <content type="html"><![CDATA[(spreadprivacy.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Heaps - 크로스 플랫폼 게임엔진 오픈소스]]></title>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(cb-linux.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
-        <id>https://github.com/merico-dev/stream</id>
-        <link href="https://github.com/merico-dev/stream"/>
-        <updated>2022-04-16T01:16:25.234Z</updated>
-        <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creator Economy 유니콘 회사들]]></title>
         <id>https://www.theinformation.com/articles/an-updated-chart-of-creator-economy-unicorns-q-a-with-kids-podcast-creator-mr-jim?rc=ayiwls</id>
         <link href="https://www.theinformation.com/articles/an-updated-chart-of-creator-economy-unicorns-q-a-with-kids-podcast-creator-mr-jim?rc=ayiwls"/>
@@ -137,6 +130,13 @@
         <link href="https://www.pipersandler.com/1col.aspx?id=6216"/>
         <updated>2022-04-14T01:25:38.886Z</updated>
         <content type="html"><![CDATA[(pipersandler.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
+        <id>https://github.com/merico-dev/stream</id>
+        <link href="https://github.com/merico-dev/stream"/>
+        <updated>2022-04-16T01:16:25.234Z</updated>
+        <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zaplib - Rust와 WASM으로 웹 앱을 가속하는 오픈소스]]></title>
