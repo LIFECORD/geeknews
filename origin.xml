@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-17T17:18:55.259Z</updated>
+    <updated>2022-04-17T18:21:14.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(github.com/TomWright)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moreutils - 아무도 만들지 않을 것 같은 Unix 도구 모음]]></title>
-        <id>https://joeyh.name/code/moreutils/</id>
-        <link href="https://joeyh.name/code/moreutils/"/>
-        <updated>2022-04-17T01:26:30.099Z</updated>
-        <content type="html"><![CDATA[(joeyh.name)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PostgreSQL 14에 추가된 Multiranges 컨셉 및 주요 기능]]></title>
         <id>https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/</id>
         <link href="https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/"/>
         <updated>2022-04-15T01:21:26.037Z</updated>
         <content type="html"><![CDATA[(cybertec-postgresql.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moreutils - 아무도 만들지 않을 것 같은 Unix 도구 모음]]></title>
+        <id>https://joeyh.name/code/moreutils/</id>
+        <link href="https://joeyh.name/code/moreutils/"/>
+        <updated>2022-04-17T01:26:30.099Z</updated>
+        <content type="html"><![CDATA[(joeyh.name)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장.]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(robinwieruch.de)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틱톡, AR 필터 개발 플랫폼 Effect House 글로벌 베타 런칭]]></title>
-        <id>https://newsroom.tiktok.com/ko-kr/effect-house-kr</id>
-        <link href="https://newsroom.tiktok.com/ko-kr/effect-house-kr"/>
-        <updated>2022-04-15T01:21:26.037Z</updated>
-        <content type="html"><![CDATA[(newsroom.tiktok.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Heaps - 크로스 플랫폼 게임엔진 오픈소스]]></title>
         <id>https://heaps.io/index.html</id>
         <link href="https://heaps.io/index.html"/>
         <updated>2022-04-13T03:04:02.167Z</updated>
         <content type="html"><![CDATA[(heaps.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[틱톡, AR 필터 개발 플랫폼 Effect House 글로벌 베타 런칭]]></title>
+        <id>https://newsroom.tiktok.com/ko-kr/effect-house-kr</id>
+        <link href="https://newsroom.tiktok.com/ko-kr/effect-house-kr"/>
+        <updated>2022-04-15T01:21:26.037Z</updated>
+        <content type="html"><![CDATA[(newsroom.tiktok.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메타버스 산업 지도]]></title>
