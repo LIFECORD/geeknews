@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-18T10:21:21.290Z</updated>
+    <updated>2022-04-18T11:16:27.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(hired.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 검색이 뒤지고 있는 분야 : 코드, 요리, 여행]]></title>
-        <id>https://www.surgehq.ai//blog/google-search-is-falling-behind</id>
-        <link href="https://www.surgehq.ai//blog/google-search-is-falling-behind"/>
-        <updated>2022-04-18T03:15:29.526Z</updated>
-        <content type="html"><![CDATA[(surgehq.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 개발자 데스크 셋업 모음]]></title>
         <id>https://news.hada.io/topic?id=6394</id>
         <link href="https://news.hada.io/topic?id=6394"/>
@@ -34,11 +27,11 @@
         <content type="html"><![CDATA[(nomadcoders.oopy.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTTPie가 5.4만개의 GitHub Star를 잃어버린 이유]]></title>
-        <id>https://httpie.io/blog/stardust</id>
-        <link href="https://httpie.io/blog/stardust"/>
-        <updated>2022-04-18T01:42:34.084Z</updated>
-        <content type="html"><![CDATA[(httpie.io)]]></content>
+        <title type="html"><![CDATA[구글 검색이 뒤지고 있는 분야 : 코드, 요리, 여행]]></title>
+        <id>https://www.surgehq.ai//blog/google-search-is-falling-behind</id>
+        <link href="https://www.surgehq.ai//blog/google-search-is-falling-behind"/>
+        <updated>2022-04-18T03:15:29.526Z</updated>
+        <content type="html"><![CDATA[(surgehq.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뱅크샐러드에서의 통합UI테스트 운용법]]></title>
@@ -46,6 +39,13 @@
         <link href="https://blog.banksalad.com/tech/test-in-banksalad-ios-1/"/>
         <updated>2022-04-18T06:23:22.579Z</updated>
         <content type="html"><![CDATA[(blog.banksalad.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTPie가 5.4만개의 GitHub Star를 잃어버린 이유]]></title>
+        <id>https://httpie.io/blog/stardust</id>
+        <link href="https://httpie.io/blog/stardust"/>
+        <updated>2022-04-18T01:42:34.084Z</updated>
+        <content type="html"><![CDATA[(httpie.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KAFKA 한국 사용자모임 4월 14일 밋업 발표자료]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(lexical.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Go로 밑바닥부터 SMTP 프로토콜 배우기 : Gmail에서 이메일 받아보기]]></title>
-        <id>https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html</id>
-        <link href="https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html"/>
-        <updated>2022-04-14T01:25:38.883Z</updated>
-        <content type="html"><![CDATA[(notes.eatonphil.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Moreutils - 아무도 만들지 않을 것 같은 Unix 도구 모음]]></title>
         <id>https://joeyh.name/code/moreutils/</id>
         <link href="https://joeyh.name/code/moreutils/"/>
         <updated>2022-04-17T01:26:30.099Z</updated>
         <content type="html"><![CDATA[(joeyh.name)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go로 밑바닥부터 SMTP 프로토콜 배우기 : Gmail에서 이메일 받아보기]]></title>
+        <id>https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html</id>
+        <link href="https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html"/>
+        <updated>2022-04-14T01:25:38.883Z</updated>
+        <content type="html"><![CDATA[(notes.eatonphil.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[dasel - JSON,YAML,TOML,XML,CSV 데이터를 질의 및 수정가능한 도구]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reddit, 댓글 검색 및 검색 기능 향상]]></title>
-        <id>https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design</id>
-        <link href="https://www.redditinc.com/blog/new-on-reddit-comment-search-improved-search-results-relevance-updated-search-design"/>
-        <updated>2022-04-17T01:26:30.089Z</updated>
-        <content type="html"><![CDATA[(redditinc.com)]]></content>
+        <title type="html"><![CDATA[DevStream - 오픈소스 DevOps 툴체인 매니저(DTM)]]></title>
+        <id>https://github.com/merico-dev/stream</id>
+        <link href="https://github.com/merico-dev/stream"/>
+        <updated>2022-04-18T11:15:47.056Z</updated>
+        <content type="html"><![CDATA[(github.com/merico-dev)]]></content>
     </entry>
 </feed>
