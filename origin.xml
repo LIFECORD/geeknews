@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-19T20:20:59.999Z</updated>
+    <updated>2022-04-19T21:17:09.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이제는 달라져야 하는 코딩 테스트]]></title>
-        <id>https://brunch.co.kr/@godrm77/20</id>
-        <link href="https://brunch.co.kr/@godrm77/20"/>
-        <updated>2022-04-19T01:38:10.572Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@godrm77)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fast의 빠른 몰락에서 배울 수 있는 것]]></title>
         <id>https://newsletter.pragmaticengineer.com/p/the-scoop-fast</id>
         <link href="https://newsletter.pragmaticengineer.com/p/the-scoop-fast"/>
         <updated>2022-04-18T01:42:34.084Z</updated>
         <content type="html"><![CDATA[(newsletter.pragmaticengineer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제는 달라져야 하는 코딩 테스트]]></title>
+        <id>https://brunch.co.kr/@godrm77/20</id>
+        <link href="https://brunch.co.kr/@godrm77/20"/>
+        <updated>2022-04-19T01:38:10.572Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@godrm77)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자바스크립트 프레임워크 전쟁은 끝났다]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(surgehq.ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 소프트웨어 엔지니어 현황 [41p PDF]]]></title>
-        <id>https://hired.com/2022-state-of-software-engineers/</id>
-        <link href="https://hired.com/2022-state-of-software-engineers/"/>
-        <updated>2022-04-18T01:42:34.084Z</updated>
-        <content type="html"><![CDATA[(hired.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뱅크샐러드에서의 통합UI테스트 운용법]]></title>
         <id>https://blog.banksalad.com/tech/test-in-banksalad-ios-1/</id>
         <link href="https://blog.banksalad.com/tech/test-in-banksalad-ios-1/"/>
         <updated>2022-04-18T06:23:22.579Z</updated>
         <content type="html"><![CDATA[(blog.banksalad.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 소프트웨어 엔지니어 현황 [41p PDF]]]></title>
+        <id>https://hired.com/2022-state-of-software-engineers/</id>
+        <link href="https://hired.com/2022-state-of-software-engineers/"/>
+        <updated>2022-04-18T01:42:34.084Z</updated>
+        <content type="html"><![CDATA[(hired.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[판결] 보이스피싱 피해자의 '공동인증서'로 비대면 대출된 경우, 본인여부 판단 의무는 금융사에 있다]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(httpie.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신이 지금 먹는 닭은 지난 50년간 크기가 364% 커졌다]]></title>
-        <id>https://twitter.com/MrSollozzo/status/1515324097223225345</id>
-        <link href="https://twitter.com/MrSollozzo/status/1515324097223225345"/>
-        <updated>2022-04-19T06:22:23.464Z</updated>
-        <content type="html"><![CDATA[(twitter.com/MrSollozzo)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스타트업을 떠나며...]]></title>
         <id>https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4</id>
         <link href="https://velog.io/@koeunyeon/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EB%96%A0%EB%82%98%EB%A9%B0-%EC%95%8C%EA%B2%8C-%EB%90%9C-%EA%B2%83%EB%93%A4"/>
         <updated>2022-04-16T07:17:00.880Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신이 지금 먹는 닭은 지난 50년간 크기가 364% 커졌다]]></title>
+        <id>https://twitter.com/MrSollozzo/status/1515324097223225345</id>
+        <link href="https://twitter.com/MrSollozzo/status/1515324097223225345"/>
+        <updated>2022-04-19T06:22:23.464Z</updated>
+        <content type="html"><![CDATA[(twitter.com/MrSollozzo)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Marketplace 100: 2022]]></title>
