@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-19T14:19:50.660Z</updated>
+    <updated>2022-04-19T15:20:01.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(surgehq.ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뱅크샐러드에서의 통합UI테스트 운용법]]></title>
-        <id>https://blog.banksalad.com/tech/test-in-banksalad-ios-1/</id>
-        <link href="https://blog.banksalad.com/tech/test-in-banksalad-ios-1/"/>
-        <updated>2022-04-18T06:23:22.579Z</updated>
-        <content type="html"><![CDATA[(blog.banksalad.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 소프트웨어 엔지니어 현황 [41p PDF]]]></title>
         <id>https://hired.com/2022-state-of-software-engineers/</id>
         <link href="https://hired.com/2022-state-of-software-engineers/"/>
         <updated>2022-04-18T01:42:34.084Z</updated>
         <content type="html"><![CDATA[(hired.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뱅크샐러드에서의 통합UI테스트 운용법]]></title>
+        <id>https://blog.banksalad.com/tech/test-in-banksalad-ios-1/</id>
+        <link href="https://blog.banksalad.com/tech/test-in-banksalad-ios-1/"/>
+        <updated>2022-04-18T06:23:22.579Z</updated>
+        <content type="html"><![CDATA[(blog.banksalad.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 개발자 데스크 셋업 모음]]></title>
