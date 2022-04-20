@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-20T01:45:19.784Z</updated>
+    <updated>2022-04-20T03:42:43.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://techcrunch.com/2022/04/18/web-scraping-legal-court/"/>
         <updated>2022-04-20T01:44:44.897Z</updated>
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netlify Edge Functions 공개 : Deno 기반 서버리스 런타임]]></title>
+        <id>https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions</id>
+        <link href="https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions"/>
+        <updated>2022-04-20T03:42:02.639Z</updated>
+        <content type="html"><![CDATA[(netlify.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 받았던 최고의 기술 인터뷰 질문]]></title>
+        <id>https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/</id>
+        <link href="https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/"/>
+        <updated>2022-04-19T01:38:10.563Z</updated>
+        <content type="html"><![CDATA[(quuxplusone.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 테크 업계 번아웃 실태 보고 (번역글)]]></title>
@@ -25,13 +39,6 @@
         <link href="https://brunch.co.kr/@goodvc78/21"/>
         <updated>2022-04-20T01:44:44.897Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@goodvc78)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 받았던 최고의 기술 인터뷰 질문]]></title>
-        <id>https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/</id>
-        <link href="https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/"/>
-        <updated>2022-04-19T01:38:10.563Z</updated>
-        <content type="html"><![CDATA[(quuxplusone.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[YDB - 오픈소스 분산 SQL 데이터베이스]]></title>
@@ -55,18 +62,18 @@
         <content type="html"><![CDATA[(andreschweighofer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fast의 빠른 몰락에서 배울 수 있는 것]]></title>
-        <id>https://newsletter.pragmaticengineer.com/p/the-scoop-fast</id>
-        <link href="https://newsletter.pragmaticengineer.com/p/the-scoop-fast"/>
-        <updated>2022-04-18T01:42:34.084Z</updated>
-        <content type="html"><![CDATA[(newsletter.pragmaticengineer.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[삼성전자의 문화적인 문제가 파운드리,LSI,DRAM까지 재앙을 일으키고 있다]]></title>
         <id>https://semianalysis.substack.com/p/samsung-electronics-cultural-issues</id>
         <link href="https://semianalysis.substack.com/p/samsung-electronics-cultural-issues"/>
         <updated>2022-04-19T03:24:38.915Z</updated>
         <content type="html"><![CDATA[(semianalysis.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast의 빠른 몰락에서 배울 수 있는 것]]></title>
+        <id>https://newsletter.pragmaticengineer.com/p/the-scoop-fast</id>
+        <link href="https://newsletter.pragmaticengineer.com/p/the-scoop-fast"/>
+        <updated>2022-04-18T01:42:34.084Z</updated>
+        <content type="html"><![CDATA[(newsletter.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존 앤디 재시의 2021년 첫 연례 주주 서한 (번역)]]></title>
@@ -118,13 +125,6 @@
         <content type="html"><![CDATA[(hired.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[판결] 보이스피싱 피해자의 '공동인증서'로 비대면 대출된 경우, 본인여부 판단 의무는 금융사에 있다]]></title>
-        <id>https://www.lawtimes.co.kr/Legal-News/Legal-News-View/Content/Article?serial=177745</id>
-        <link href="https://www.lawtimes.co.kr/Legal-News/Legal-News-View/Content/Article?serial=177745"/>
-        <updated>2022-04-19T01:38:10.576Z</updated>
-        <content type="html"><![CDATA[(lawtimes.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[KAFKA 한국 사용자모임 4월 14일 밋업 발표자료]]></title>
         <id>https://github.com/kafkakru/meetup/tree/master/meetup/2022-meetup/1st-virtual-meetup</id>
         <link href="https://github.com/kafkakru/meetup/tree/master/meetup/2022-meetup/1st-virtual-meetup"/>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(nomadcoders.oopy.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTTPie가 5.4만개의 GitHub Star를 잃어버린 이유]]></title>
-        <id>https://httpie.io/blog/stardust</id>
-        <link href="https://httpie.io/blog/stardust"/>
-        <updated>2022-04-18T01:42:34.084Z</updated>
-        <content type="html"><![CDATA[(httpie.io)]]></content>
+        <title type="html"><![CDATA[[판결] 보이스피싱 피해자의 '공동인증서'로 비대면 대출된 경우, 본인여부 판단 의무는 금융사에 있다]]></title>
+        <id>https://www.lawtimes.co.kr/Legal-News/Legal-News-View/Content/Article?serial=177745</id>
+        <link href="https://www.lawtimes.co.kr/Legal-News/Legal-News-View/Content/Article?serial=177745"/>
+        <updated>2022-04-19T01:38:10.576Z</updated>
+        <content type="html"><![CDATA[(lawtimes.co.kr)]]></content>
     </entry>
 </feed>
