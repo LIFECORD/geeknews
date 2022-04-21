@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-21T01:28:09.549Z</updated>
+    <updated>2022-04-21T03:30:14.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[19년간 만든 62개 프로젝트]]></title>
-        <id>https://joshpigford.com/projects</id>
-        <link href="https://joshpigford.com/projects"/>
-        <updated>2022-04-21T01:27:27.950Z</updated>
-        <content type="html"><![CDATA[(joshpigford.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[쿠팡은 왜 적자를 탈출할 수 없는걸까?]]></title>
         <id>https://brunch.co.kr/@fbrudtjr1/44</id>
         <link href="https://brunch.co.kr/@fbrudtjr1/44"/>
         <updated>2022-04-21T01:27:27.963Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19년간 만든 62개 프로젝트]]></title>
+        <id>https://joshpigford.com/projects</id>
+        <link href="https://joshpigford.com/projects"/>
+        <updated>2022-04-21T01:27:27.950Z</updated>
+        <content type="html"><![CDATA[(joshpigford.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5장의 차트로 2022년 소프트웨어 엔지니어 연봉 이해하기]]></title>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(spectrum.ieee.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 항소 법원, 웹 스크래핑이 합법이라고 재판결]]></title>
-        <id>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</id>
-        <link href="https://techcrunch.com/2022/04/18/web-scraping-legal-court/"/>
-        <updated>2022-04-20T01:44:44.897Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Emacs Configuration Generator]]></title>
         <id>https://emacs.amodernist.com/</id>
         <link href="https://emacs.amodernist.com/"/>
         <updated>2022-04-21T01:27:27.964Z</updated>
         <content type="html"><![CDATA[(emacs.amodernist.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 항소 법원, 웹 스크래핑이 합법이라고 재판결]]></title>
+        <id>https://techcrunch.com/2022/04/18/web-scraping-legal-court/</id>
+        <link href="https://techcrunch.com/2022/04/18/web-scraping-legal-court/"/>
+        <updated>2022-04-20T01:44:44.897Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술의 끔찍한 실패들 : 20년 간 주요한 실패들 회고]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YDB - 오픈소스 분산 SQL 데이터베이스]]></title>
-        <id>https://ydb.tech/</id>
-        <link href="https://ydb.tech/"/>
-        <updated>2022-04-20T01:44:44.897Z</updated>
-        <content type="html"><![CDATA[(ydb.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[자바스크립트 프레임워크 전쟁은 끝났다]]></title>
         <id>https://medium.com/codex/the-javascript-framework-war-is-over-bd110ddab732</id>
         <link href="https://medium.com/codex/the-javascript-framework-war-is-over-bd110ddab732"/>
         <updated>2022-04-18T15:18:19.383Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YDB - 오픈소스 분산 SQL 데이터베이스]]></title>
+        <id>https://ydb.tech/</id>
+        <link href="https://ydb.tech/"/>
+        <updated>2022-04-20T01:44:44.897Z</updated>
+        <content type="html"><![CDATA[(ydb.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 검색이 뒤지고 있는 분야 : 코드, 요리, 여행]]></title>
