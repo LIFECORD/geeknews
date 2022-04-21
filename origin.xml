@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-21T15:21:26.682Z</updated>
+    <updated>2022-04-21T16:28:31.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(andreschweighofer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feathr - 머신러닝을 위한 엔터프라이즈급 고성능 피쳐 스토어]]></title>
-        <id>https://github.com/linkedin/feathr</id>
-        <link href="https://github.com/linkedin/feathr"/>
-        <updated>2022-04-21T01:27:27.966Z</updated>
-        <content type="html"><![CDATA[(github.com/linkedin)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이제는 달라져야 하는 코딩 테스트]]></title>
         <id>https://brunch.co.kr/@godrm77/20</id>
         <link href="https://brunch.co.kr/@godrm77/20"/>
         <updated>2022-04-19T01:38:10.572Z</updated>
         <content type="html"><![CDATA[(brunch.co.kr/@godrm77)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feathr - 머신러닝을 위한 엔터프라이즈급 고성능 피쳐 스토어]]></title>
+        <id>https://github.com/linkedin/feathr</id>
+        <link href="https://github.com/linkedin/feathr"/>
+        <updated>2022-04-21T01:27:27.966Z</updated>
+        <content type="html"><![CDATA[(github.com/linkedin)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존 앤디 재시의 2021년 첫 연례 주주 서한 (번역)]]></title>
