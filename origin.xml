@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-22T04:47:57.561Z</updated>
+    <updated>2022-04-22T05:37:07.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Go는 다음 릴리즈 부터 pdqsort를 사용할 예정]]></title>
-        <id>https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257</id>
-        <link href="https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257"/>
-        <updated>2022-04-22T01:40:26.541Z</updated>
-        <content type="html"><![CDATA[(github.com/golang)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Column - 개발자를 위한 은행]]></title>
         <id>https://column.com/</id>
@@ -20,11 +13,32 @@
         <content type="html"><![CDATA[(column.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Go는 다음 릴리즈 부터 pdqsort를 사용할 예정]]></title>
+        <id>https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257</id>
+        <link href="https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257"/>
+        <updated>2022-04-22T01:40:26.541Z</updated>
+        <content type="html"><![CDATA[(github.com/golang)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스티브 잡스가 지켰던 '회의 - 3S 미팅 원칙']]></title>
         <id>https://c-rocket.net/steve_jobs_3s_meeting_rule/</id>
         <link href="https://c-rocket.net/steve_jobs_3s_meeting_rule/"/>
         <updated>2022-04-22T01:40:26.553Z</updated>
         <content type="html"><![CDATA[(c-rocket.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴스전문 스트리밍 서비스 CNN+ 런칭 한달만에 서비스 종료]]></title>
+        <id>https://www.wsj.com/articles/warner-bros-discovery-is-shutting-down-cnn-streaming-service-11650556680</id>
+        <link href="https://www.wsj.com/articles/warner-bros-discovery-is-shutting-down-cnn-streaming-service-11650556680"/>
+        <updated>2022-04-22T05:36:25.779Z</updated>
+        <content type="html"><![CDATA[(wsj.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[귀도 반 로섬 : Web3는 불타서 죽어버리게 두세요]]></title>
+        <id>https://twitter.com/gvanrossum/status/1508959260905918465</id>
+        <link href="https://twitter.com/gvanrossum/status/1508959260905918465"/>
+        <updated>2022-04-22T05:36:25.782Z</updated>
+        <content type="html"><![CDATA[(twitter.com/gvanrossum)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Memray - 블룸버그가 공개한 Python 메모리 프로파일러 오픈소스]]></title>
@@ -48,6 +62,13 @@
         <content type="html"><![CDATA[(joshpigford.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[QEMU 7.0.0 공개]]></title>
+        <id>https://www.qemu.org/2022/04/19/qemu-7-0-0/</id>
+        <link href="https://www.qemu.org/2022/04/19/qemu-7-0-0/"/>
+        <updated>2022-04-22T01:40:26.553Z</updated>
+        <content type="html"><![CDATA[(qemu.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5장의 차트로 2022년 소프트웨어 엔지니어 연봉 이해하기]]></title>
         <id>https://spectrum.ieee.org/software-engineer-salary-2657117801</id>
         <link href="https://spectrum.ieee.org/software-engineer-salary-2657117801"/>
@@ -60,13 +81,6 @@
         <link href="https://techcrunch.com/2022/04/18/web-scraping-legal-court/"/>
         <updated>2022-04-20T01:44:44.897Z</updated>
         <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QEMU 7.0.0 공개]]></title>
-        <id>https://www.qemu.org/2022/04/19/qemu-7-0-0/</id>
-        <link href="https://www.qemu.org/2022/04/19/qemu-7-0-0/"/>
-        <updated>2022-04-22T01:40:26.553Z</updated>
-        <content type="html"><![CDATA[(qemu.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술의 끔찍한 실패들 : 20년 간 주요한 실패들 회고]]></title>
@@ -90,18 +104,18 @@
         <content type="html"><![CDATA[(newsletter.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 테크 업계 번아웃 실태 보고 (번역글)]]></title>
-        <id>https://soojin.ro/blog/burnout</id>
-        <link href="https://soojin.ro/blog/burnout"/>
-        <updated>2022-04-20T01:44:44.897Z</updated>
-        <content type="html"><![CDATA[(soojin.ro)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Emacs Configuration Generator]]></title>
         <id>https://emacs.amodernist.com/</id>
         <link href="https://emacs.amodernist.com/"/>
         <updated>2022-04-21T01:27:27.964Z</updated>
         <content type="html"><![CDATA[(emacs.amodernist.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 테크 업계 번아웃 실태 보고 (번역글)]]></title>
+        <id>https://soojin.ro/blog/burnout</id>
+        <link href="https://soojin.ro/blog/burnout"/>
+        <updated>2022-04-20T01:44:44.897Z</updated>
+        <content type="html"><![CDATA[(soojin.ro)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼성전자의 문화적인 문제가 파운드리,LSI,DRAM까지 재앙을 일으키고 있다]]></title>
@@ -118,13 +132,6 @@
         <content type="html"><![CDATA[(andreschweighofer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[데이터 분석가 대디가 유소년 축구 플렉스 하기]]></title>
-        <id>https://brunch.co.kr/@goodvc78/21</id>
-        <link href="https://brunch.co.kr/@goodvc78/21"/>
-        <updated>2022-04-20T01:44:44.897Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@goodvc78)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이제는 달라져야 하는 코딩 테스트]]></title>
         <id>https://brunch.co.kr/@godrm77/20</id>
         <link href="https://brunch.co.kr/@godrm77/20"/>
@@ -132,17 +139,10 @@
         <content type="html"><![CDATA[(brunch.co.kr/@godrm77)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL-E 2는 어떻게 동작하는가?]]></title>
-        <id>https://www.assemblyai.com/blog/how-dall-e-2-actually-works/</id>
-        <link href="https://www.assemblyai.com/blog/how-dall-e-2-actually-works/"/>
-        <updated>2022-04-21T01:27:27.968Z</updated>
-        <content type="html"><![CDATA[(assemblyai.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netlify Edge Functions 공개 : Deno 기반 서버리스 런타임]]></title>
-        <id>https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions</id>
-        <link href="https://www.netlify.com/blog/announcing-serverless-compute-with-edge-functions"/>
-        <updated>2022-04-20T03:42:02.639Z</updated>
-        <content type="html"><![CDATA[(netlify.com)]]></content>
+        <title type="html"><![CDATA[데이터 분석가 대디가 유소년 축구 플렉스 하기]]></title>
+        <id>https://brunch.co.kr/@goodvc78/21</id>
+        <link href="https://brunch.co.kr/@goodvc78/21"/>
+        <updated>2022-04-20T01:44:44.897Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@goodvc78)]]></content>
     </entry>
 </feed>
