@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-26T12:37:30.313Z</updated>
+    <updated>2022-04-26T13:38:32.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(c-rocket.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 macOS 서버 단종]]></title>
-        <id>https://support.apple.com/en-us/HT208312</id>
-        <link href="https://support.apple.com/en-us/HT208312"/>
-        <updated>2022-04-24T01:20:39.643Z</updated>
-        <content type="html"><![CDATA[(support.apple.com)]]></content>
+        <title type="html"><![CDATA[19년간 만든 62개 프로젝트]]></title>
+        <id>https://joshpigford.com/projects</id>
+        <link href="https://joshpigford.com/projects"/>
+        <updated>2022-04-26T13:37:54.924Z</updated>
+        <content type="html"><![CDATA[(joshpigford.com)]]></content>
     </entry>
 </feed>
