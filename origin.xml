@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-26T11:16:46.770Z</updated>
+    <updated>2022-04-26T12:37:30.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[(github.com/ekzhang)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS의 미래 : CSS Toggles]]></title>
+        <id>https://www.bram.us/2022/04/20/the-future-of-css-css-toggles/</id>
+        <link href="https://www.bram.us/2022/04/20/the-future-of-css-css-toggles/"/>
+        <updated>2022-04-26T01:40:34.361Z</updated>
+        <content type="html"><![CDATA[(bram.us)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture"/>
@@ -46,13 +53,6 @@
         <link href="https://future.a16z.com/emerging-architectures-modern-data-infrastructure/"/>
         <updated>2022-04-25T03:13:31.708Z</updated>
         <content type="html"><![CDATA[(future.a16z.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS의 미래 : CSS Toggles]]></title>
-        <id>https://www.bram.us/2022/04/20/the-future-of-css-css-toggles/</id>
-        <link href="https://www.bram.us/2022/04/20/the-future-of-css-css-toggles/"/>
-        <updated>2022-04-26T01:40:34.361Z</updated>
-        <content type="html"><![CDATA[(bram.us)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Coursera가 추천하는 초보자를 위한 데이터 분석 책들 : 2022]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 macOS 서버 단종]]></title>
-        <id>https://support.apple.com/en-us/HT208312</id>
-        <link href="https://support.apple.com/en-us/HT208312"/>
-        <updated>2022-04-24T01:20:39.643Z</updated>
-        <content type="html"><![CDATA[(support.apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[스티브 잡스가 지켰던 '회의 - 3S 미팅 원칙']]></title>
         <id>https://c-rocket.net/steve_jobs_3s_meeting_rule/</id>
         <link href="https://c-rocket.net/steve_jobs_3s_meeting_rule/"/>
         <updated>2022-04-26T07:17:55.026Z</updated>
         <content type="html"><![CDATA[(c-rocket.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 macOS 서버 단종]]></title>
+        <id>https://support.apple.com/en-us/HT208312</id>
+        <link href="https://support.apple.com/en-us/HT208312"/>
+        <updated>2022-04-24T01:20:39.643Z</updated>
+        <content type="html"><![CDATA[(support.apple.com)]]></content>
     </entry>
 </feed>
