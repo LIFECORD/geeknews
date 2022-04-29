@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-29T16:27:52.939Z</updated>
+    <updated>2022-04-29T17:22:42.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
-        <id>https://pixy.com/</id>
-        <link href="https://pixy.com/"/>
-        <updated>2022-04-29T01:44:22.008Z</updated>
-        <content type="html"><![CDATA[(pixy.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
         <id>https://datasette.io/</id>
         <link href="https://datasette.io/"/>
         <updated>2022-04-28T02:05:14.746Z</updated>
         <content type="html"><![CDATA[(datasette.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
+        <id>https://pixy.com/</id>
+        <link href="https://pixy.com/"/>
+        <updated>2022-04-29T01:44:22.008Z</updated>
+        <content type="html"><![CDATA[(pixy.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(blog.porter.run)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
+        <id>https://github.com/naver/fe-news</id>
+        <link href="https://github.com/naver/fe-news"/>
+        <updated>2022-04-27T07:18:29.371Z</updated>
+        <content type="html"><![CDATA[(github.com/naver)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LineageOS 19 릴리즈]]></title>
         <id>https://lineageos.org/Changelog-26/</id>
         <link href="https://lineageos.org/Changelog-26/"/>
@@ -60,13 +67,6 @@
         <link href="https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/"/>
         <updated>2022-04-29T01:44:22.003Z</updated>
         <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
-        <id>https://github.com/naver/fe-news</id>
-        <link href="https://github.com/naver/fe-news"/>
-        <updated>2022-04-27T07:18:29.371Z</updated>
-        <content type="html"><![CDATA[(github.com/naver)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
