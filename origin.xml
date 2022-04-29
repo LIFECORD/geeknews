@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-29T21:18:36.662Z</updated>
+    <updated>2022-04-29T22:19:44.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(lineageos.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 미국내에서 수리 셀프 서비스 시작]]></title>
-        <id>https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/</id>
-        <link href="https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/"/>
-        <updated>2022-04-29T01:44:22.003Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
         <id>https://engineering.ab180.co/stories/productive-review-culture</id>
         <link href="https://engineering.ab180.co/stories/productive-review-culture"/>
         <updated>2022-04-26T08:23:11.244Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 미국내에서 수리 셀프 서비스 시작]]></title>
+        <id>https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/</id>
+        <link href="https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/"/>
+        <updated>2022-04-29T01:44:22.003Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
