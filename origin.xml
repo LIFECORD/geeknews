@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-29T23:18:57.563Z</updated>
+    <updated>2022-04-30T01:45:35.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
+        <id>https://github.com/samizdatco/skia-canvas</id>
+        <link href="https://github.com/samizdatco/skia-canvas"/>
+        <updated>2022-04-30T01:44:52.706Z</updated>
+        <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
+        <id>https://opensource.google/documentation/reference/using/agpl-policy</id>
+        <link href="https://opensource.google/documentation/reference/using/agpl-policy"/>
+        <updated>2022-04-30T01:44:52.706Z</updated>
+        <content type="html"><![CDATA[(opensource.google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
+        <id>https://github.com/azure/azurite</id>
+        <link href="https://github.com/azure/azurite"/>
+        <updated>2022-04-30T01:44:52.706Z</updated>
+        <content type="html"><![CDATA[(github.com/azure)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내 인생 전체를 하나의 DB에 담는 방법]]></title>
         <id>https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database</id>
@@ -20,18 +41,18 @@
         <content type="html"><![CDATA[(datasette.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI로 마케팅 콘텐츠를 만들고 관리하는 방식]]></title>
-        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog</id>
-        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog"/>
-        <updated>2022-04-29T08:25:32.112Z</updated>
-        <content type="html"><![CDATA[(blog.naver.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
         <id>https://pixy.com/</id>
         <link href="https://pixy.com/"/>
         <updated>2022-04-29T01:44:22.008Z</updated>
         <content type="html"><![CDATA[(pixy.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI로 마케팅 콘텐츠를 만들고 관리하는 방식]]></title>
+        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog</id>
+        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog"/>
+        <updated>2022-04-29T08:25:32.112Z</updated>
+        <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
@@ -48,6 +69,13 @@
         <content type="html"><![CDATA[(github.com/naver)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
+        <id>https://engineering.ab180.co/stories/productive-review-culture</id>
+        <link href="https://engineering.ab180.co/stories/productive-review-culture"/>
+        <updated>2022-04-26T08:23:11.244Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[왜 회사들이 Heroku를 떠나는가(비용 제외)]]></title>
         <id>https://blog.porter.run/why-companies-move-off-heroku/</id>
         <link href="https://blog.porter.run/why-companies-move-off-heroku/"/>
@@ -55,11 +83,11 @@
         <content type="html"><![CDATA[(blog.porter.run)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
-        <id>https://engineering.ab180.co/stories/productive-review-culture</id>
-        <link href="https://engineering.ab180.co/stories/productive-review-culture"/>
-        <updated>2022-04-26T08:23:11.244Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+        <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
+        <id>https://news.mit.edu/2022/low-power-thin-loudspeaker-0426</id>
+        <link href="https://news.mit.edu/2022/low-power-thin-loudspeaker-0426"/>
+        <updated>2022-04-28T02:05:14.737Z</updated>
+        <content type="html"><![CDATA[(news.mit.edu)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LineageOS 19 릴리즈]]></title>
@@ -74,13 +102,6 @@
         <link href="https://www.apple.com/newsroom/2022/04/apples-self-service-repair-now-available/"/>
         <updated>2022-04-29T01:44:22.003Z</updated>
         <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
-        <id>https://news.mit.edu/2022/low-power-thin-loudspeaker-0426</id>
-        <link href="https://news.mit.edu/2022/low-power-thin-loudspeaker-0426"/>
-        <updated>2022-04-28T02:05:14.737Z</updated>
-        <content type="html"><![CDATA[(news.mit.edu)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[칸 아카데미, 온라인 고등학교 Khan World School 시작]]></title>
@@ -123,26 +144,5 @@
         <link href="https://github.com/ekzhang/bore"/>
         <updated>2022-04-26T01:40:34.388Z</updated>
         <content type="html"><![CDATA[(github.com/ekzhang)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최신 데이터 인프라를 위한 새로운 아키텍처 2.0]]></title>
-        <id>https://future.a16z.com/emerging-architectures-modern-data-infrastructure/</id>
-        <link href="https://future.a16z.com/emerging-architectures-modern-data-infrastructure/"/>
-        <updated>2022-04-25T03:13:31.708Z</updated>
-        <content type="html"><![CDATA[(future.a16z.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건강한 SaaS를 위한 40%룰 (2015)]]></title>
-        <id>https://avc.com/2015/02/the-40-rule/</id>
-        <link href="https://avc.com/2015/02/the-40-rule/"/>
-        <updated>2022-04-29T16:27:12.500Z</updated>
-        <content type="html"><![CDATA[(avc.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PixelExperience - AOSP 기반 안드로이드 ROM]]></title>
-        <id>https://pixelexperience.org/</id>
-        <link href="https://pixelexperience.org/"/>
-        <updated>2022-04-29T21:17:53.601Z</updated>
-        <content type="html"><![CDATA[(pixelexperience.org)]]></content>
     </entry>
 </feed>
