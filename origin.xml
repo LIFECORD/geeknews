@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-30T04:25:56.002Z</updated>
+    <updated>2022-04-30T05:17:43.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(krausefx.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
-        <id>https://github.com/azure/azurite</id>
-        <link href="https://github.com/azure/azurite"/>
-        <updated>2022-04-30T01:44:52.706Z</updated>
-        <content type="html"><![CDATA[(github.com/azure)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
         <id>https://datasette.io/</id>
         <link href="https://datasette.io/"/>
         <updated>2022-04-28T02:05:14.746Z</updated>
         <content type="html"><![CDATA[(datasette.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
+        <id>https://github.com/azure/azurite</id>
+        <link href="https://github.com/azure/azurite"/>
+        <updated>2022-04-30T01:44:52.706Z</updated>
+        <content type="html"><![CDATA[(github.com/azure)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Snapchat, 첫번째 드론 Pixy 공개]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 회사들이 Heroku를 떠나는가(비용 제외)]]></title>
-        <id>https://blog.porter.run/why-companies-move-off-heroku/</id>
-        <link href="https://blog.porter.run/why-companies-move-off-heroku/"/>
-        <updated>2022-04-29T01:44:22.010Z</updated>
-        <content type="html"><![CDATA[(blog.porter.run)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
         <id>https://news.mit.edu/2022/low-power-thin-loudspeaker-0426</id>
         <link href="https://news.mit.edu/2022/low-power-thin-loudspeaker-0426"/>
         <updated>2022-04-28T02:05:14.737Z</updated>
         <content type="html"><![CDATA[(news.mit.edu)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 회사들이 Heroku를 떠나는가(비용 제외)]]></title>
+        <id>https://blog.porter.run/why-companies-move-off-heroku/</id>
+        <link href="https://blog.porter.run/why-companies-move-off-heroku/"/>
+        <updated>2022-04-29T01:44:22.010Z</updated>
+        <content type="html"><![CDATA[(blog.porter.run)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LineageOS 19 릴리즈]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(asuprep.asu.edu)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 커뮤니티, 재미를 디자인하라.]]></title>
-        <id>https://ansubin.com/fun-design-nft-community-2/</id>
-        <link href="https://ansubin.com/fun-design-nft-community-2/"/>
-        <updated>2022-04-27T10:20:52.527Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[성공적인 위험감수(Risk-Taking) 문화 구축을 위한 팁]]></title>
         <id>https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture</id>
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture"/>
         <updated>2022-04-25T01:21:59.361Z</updated>
         <content type="html"><![CDATA[(mitsloan.mit.edu)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 커뮤니티, 재미를 디자인하라.]]></title>
+        <id>https://ansubin.com/fun-design-nft-community-2/</id>
+        <link href="https://ansubin.com/fun-design-nft-community-2/"/>
+        <updated>2022-04-27T10:20:52.527Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Coursera가 추천하는 초보자를 위한 데이터 분석 책들 : 2022]]></title>
