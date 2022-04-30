@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-04-30T07:17:53.681Z</updated>
+    <updated>2022-04-30T08:22:14.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
-        <id>https://github.com/azure/azurite</id>
-        <link href="https://github.com/azure/azurite"/>
-        <updated>2022-04-30T01:44:52.706Z</updated>
-        <content type="html"><![CDATA[(github.com/azure)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 인생 전체를 하나의 DB에 담는 방법]]></title>
         <id>https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database</id>
         <link href="https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database"/>
         <updated>2022-04-29T01:44:21.998Z</updated>
         <content type="html"><![CDATA[(krausefx.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
+        <id>https://github.com/azure/azurite</id>
+        <link href="https://github.com/azure/azurite"/>
+        <updated>2022-04-30T01:44:52.706Z</updated>
+        <content type="html"><![CDATA[(github.com/azure)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글 내부에선 GNU AGPL 라이센스 오픈소스는 사용 불가]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(blog.porter.run)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LineageOS 19 릴리즈]]></title>
-        <id>https://lineageos.org/Changelog-26/</id>
-        <link href="https://lineageos.org/Changelog-26/"/>
-        <updated>2022-04-29T01:44:22.010Z</updated>
-        <content type="html"><![CDATA[(lineageos.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[칸 아카데미, 온라인 고등학교 Khan World School 시작]]></title>
         <id>https://asuprep.asu.edu/khan-world-school/</id>
         <link href="https://asuprep.asu.edu/khan-world-school/"/>
         <updated>2022-04-28T02:05:14.739Z</updated>
         <content type="html"><![CDATA[(asuprep.asu.edu)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LineageOS 19 릴리즈]]></title>
+        <id>https://lineageos.org/Changelog-26/</id>
+        <link href="https://lineageos.org/Changelog-26/"/>
+        <updated>2022-04-29T01:44:22.010Z</updated>
+        <content type="html"><![CDATA[(lineageos.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, 미국내에서 수리 셀프 서비스 시작]]></title>
