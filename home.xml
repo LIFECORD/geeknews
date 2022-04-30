@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews</title>
-    <updated>2022-04-30T10:20:04.667Z</updated>
+    <updated>2022-04-30T11:15:41.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://news.hada.io/topic?id=6464</id>
         <link href="https://news.hada.io/topic?id=6464"/>
         <updated>2022-04-30T01:44:45.630Z</updated>
-        <content type="html"><![CDATA[<span id="tp6464">4</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote6464"></span> | <a href="topic?id=6464" class="u">댓글과 토론</a>]]></content>
+        <content type="html"><![CDATA[<span id="tp6464">4</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote6464"></span> | <a href="topic?id=6464" class="u">댓글과 토론</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
@@ -24,14 +24,14 @@
         <id>https://news.hada.io/topic?id=6465</id>
         <link href="https://news.hada.io/topic?id=6465"/>
         <updated>2022-04-30T01:44:45.630Z</updated>
-        <content type="html"><![CDATA[<span id="tp6465">2</span> points by <a href="/user?id=xguru">xguru</a> 9시간전<span id="unvote6465"></span> | <a href="topic?id=6465" class="u">댓글과 토론</a>]]></content>
+        <content type="html"><![CDATA[<span id="tp6465">2</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote6465"></span> | <a href="topic?id=6465" class="u">댓글과 토론</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
         <id>https://news.hada.io/topic?id=6463</id>
         <link href="https://news.hada.io/topic?id=6463"/>
         <updated>2022-04-30T01:44:45.630Z</updated>
-        <content type="html"><![CDATA[<span id="tp6463">2</span> points by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote6463"></span> | <a href="topic?id=6463" class="u">댓글과 토론</a>]]></content>
+        <content type="html"><![CDATA[<span id="tp6463">2</span> points by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote6463"></span> | <a href="topic?id=6463" class="u">댓글과 토론</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
@@ -45,7 +45,7 @@
         <id>https://news.hada.io/topic?id=6450</id>
         <link href="https://news.hada.io/topic?id=6450"/>
         <updated>2022-04-27T23:19:59.076Z</updated>
-        <content type="html"><![CDATA[<span id="tp6450">13</span> points by <a href="/user?id=chris">chris</a> 2일전<span id="unvote6450"></span> | <a href="topic?id=6450" class="u">댓글 3개</a>]]></content>
+        <content type="html"><![CDATA[<span id="tp6450">13</span> points by <a href="/user?id=chris">chris</a> 3일전<span id="unvote6450"></span> | <a href="topic?id=6450" class="u">댓글 3개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[alstjr7375]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[<span id="tp6458">5</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote6458"></span> | <a href="topic?id=6458" class="u">댓글 2개</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ironlung]]></title>
-        <id>https://news.hada.io/topic?id=6462</id>
-        <link href="https://news.hada.io/topic?id=6462"/>
-        <updated>2022-04-29T08:25:25.921Z</updated>
-        <content type="html"><![CDATA[<span id="tp6462">3</span> points by <a href="/user?id=ironlung">ironlung</a> 1일전<span id="unvote6462"></span> | <a href="topic?id=6462" class="u">댓글과 토론</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[toughrogrammer]]></title>
         <id>https://news.hada.io/topic?id=6442</id>
         <link href="https://news.hada.io/topic?id=6442"/>
         <updated>2022-04-26T08:23:04.205Z</updated>
         <content type="html"><![CDATA[<span id="tp6442">24</span> points by <a href="/user?id=toughrogrammer">toughrogrammer</a> 4일전<span id="unvote6442"></span> | <a href="topic?id=6442" class="u">댓글 2개</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ironlung]]></title>
+        <id>https://news.hada.io/topic?id=6462</id>
+        <link href="https://news.hada.io/topic?id=6462"/>
+        <updated>2022-04-29T08:25:25.921Z</updated>
+        <content type="html"><![CDATA[<span id="tp6462">3</span> points by <a href="/user?id=ironlung">ironlung</a> 1일전<span id="unvote6462"></span> | <a href="topic?id=6462" class="u">댓글과 토론</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
@@ -105,17 +105,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
-        <id>https://news.hada.io/topic?id=6456</id>
-        <link href="https://news.hada.io/topic?id=6456"/>
-        <updated>2022-04-29T01:44:16.195Z</updated>
-        <content type="html"><![CDATA[<span id="tp6456">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote6456"></span> | <a href="topic?id=6456" class="u">댓글 3개</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xguru]]></title>
         <id>https://news.hada.io/topic?id=6434</id>
         <link href="https://news.hada.io/topic?id=6434"/>
         <updated>2022-04-25T01:21:52.570Z</updated>
         <content type="html"><![CDATA[<span id="tp6434">25</span> points by <a href="/user?id=xguru">xguru</a> 5일전<span id="unvote6434"></span> | <a href="topic?id=6434" class="u">댓글과 토론</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xguru]]></title>
+        <id>https://news.hada.io/topic?id=6456</id>
+        <link href="https://news.hada.io/topic?id=6456"/>
+        <updated>2022-04-29T01:44:16.195Z</updated>
+        <content type="html"><![CDATA[<span id="tp6456">3</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote6456"></span> | <a href="topic?id=6456" class="u">댓글 3개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
