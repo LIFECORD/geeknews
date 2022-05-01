@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-01T10:20:45.672Z</updated>
+    <updated>2022-05-01T11:16:01.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재]]></title>
-        <id>https://velog.io/@dlwocks31/translation-project-management-at-big-tech</id>
-        <link href="https://velog.io/@dlwocks31/translation-project-management-at-big-tech"/>
-        <updated>2022-04-30T15:18:32.426Z</updated>
-        <content type="html"><![CDATA[(velog.io)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[카톡 이모티콘을 통해 바라본 PFP NFT의 미래]]></title>
         <id>https://ansubin.com/kakaotalk-emoticon-and-pfp-nft-future/</id>
         <link href="https://ansubin.com/kakaotalk-emoticon-and-pfp-nft-future/"/>
         <updated>2022-05-01T03:45:46.740Z</updated>
         <content type="html"><![CDATA[(ansubin.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재]]></title>
+        <id>https://velog.io/@dlwocks31/translation-project-management-at-big-tech</id>
+        <link href="https://velog.io/@dlwocks31/translation-project-management-at-big-tech"/>
+        <updated>2022-04-30T15:18:32.426Z</updated>
+        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(istio.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
-        <id>https://github.com/samizdatco/skia-canvas</id>
-        <link href="https://github.com/samizdatco/skia-canvas"/>
-        <updated>2022-04-30T01:44:52.706Z</updated>
-        <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 인생 전체를 하나의 DB에 담는 방법]]></title>
         <id>https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database</id>
         <link href="https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database"/>
         <updated>2022-04-29T01:44:21.998Z</updated>
         <content type="html"><![CDATA[(krausefx.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
+        <id>https://github.com/samizdatco/skia-canvas</id>
+        <link href="https://github.com/samizdatco/skia-canvas"/>
+        <updated>2022-04-30T01:44:52.706Z</updated>
+        <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AVA (Node.js 테스트 프레임워크) 문서 한글화]]></title>
