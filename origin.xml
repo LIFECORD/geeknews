@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-01T15:19:51.266Z</updated>
+    <updated>2022-05-01T16:26:33.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[내 인생 전체를 하나의 DB에 담는 방법]]></title>
+        <id>https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database</id>
+        <link href="https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database"/>
+        <updated>2022-04-29T01:44:21.998Z</updated>
+        <content type="html"><![CDATA[(krausefx.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
         <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
         <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
@@ -32,13 +39,6 @@
         <link href="https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536"/>
         <updated>2022-05-01T01:58:23.063Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 인생 전체를 하나의 DB에 담는 방법]]></title>
-        <id>https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database</id>
-        <link href="https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database"/>
-        <updated>2022-04-29T01:44:21.998Z</updated>
-        <content type="html"><![CDATA[(krausefx.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(github.com/naver)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글 검색, 개인 식별 정보(PII) 삭제 요청 가능한 정보들 확대]]></title>
-        <id>https://support.google.com/websearch/answer/9673730?hl=ko</id>
-        <link href="https://support.google.com/websearch/answer/9673730?hl=ko"/>
-        <updated>2022-05-01T01:58:23.068Z</updated>
-        <content type="html"><![CDATA[(support.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI로 마케팅 콘텐츠를 만들고 관리하는 방식]]></title>
         <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog</id>
         <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222714564298&amp;redirect=Dlog"/>
         <updated>2022-04-29T08:25:32.112Z</updated>
         <content type="html"><![CDATA[(blog.naver.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 검색, 개인 식별 정보(PII) 삭제 요청 가능한 정보들 확대]]></title>
+        <id>https://support.google.com/websearch/answer/9673730?hl=ko</id>
+        <link href="https://support.google.com/websearch/answer/9673730?hl=ko"/>
+        <updated>2022-05-01T01:58:23.068Z</updated>
+        <content type="html"><![CDATA[(support.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Azurite - Azure Storage API 호환 서버 오픈소스]]></title>
