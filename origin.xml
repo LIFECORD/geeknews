@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-02T01:44:24.416Z</updated>
+    <updated>2022-05-02T03:55:50.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AWS/Azure/GCP 외에 알아둬야 할 클라우드 업체는?]]></title>
+        <id>https://news.ycombinator.com/item?id=31218268</id>
+        <link href="https://news.ycombinator.com/item?id=31218268"/>
+        <updated>2022-05-02T01:43:43.238Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyScript - HTML에서 Python 코드 실행하기]]></title>
+        <id>https://pyscript.net/</id>
+        <link href="https://pyscript.net/"/>
+        <updated>2022-05-02T01:43:43.239Z</updated>
+        <content type="html"><![CDATA[(pyscript.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글, 흑백 이모지 폰트 Noto Emoji 공개]]></title>
         <id>https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html</id>
@@ -20,18 +34,11 @@
         <content type="html"><![CDATA[(lennysnewsletter.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS/Azure/GCP 외에 알아둬야 할 클라우드 업체는?]]></title>
-        <id>https://news.ycombinator.com/item?id=31218268</id>
-        <link href="https://news.ycombinator.com/item?id=31218268"/>
-        <updated>2022-05-02T01:43:43.238Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyScript - HTML에서 Python 코드 실행하기]]></title>
-        <id>https://pyscript.net/</id>
-        <link href="https://pyscript.net/"/>
-        <updated>2022-05-02T01:43:43.239Z</updated>
-        <content type="html"><![CDATA[(pyscript.net)]]></content>
+        <title type="html"><![CDATA[차세대 CFO의 부상 : 재무의 역할 및 기술 스택의 진화]]></title>
+        <id>https://medium.com/@janeli930/rise-of-the-next-gen-cfo-the-evolution-of-finances-role-and-tech-stack-49d101df7f94</id>
+        <link href="https://medium.com/@janeli930/rise-of-the-next-gen-cfo-the-evolution-of-finances-role-and-tech-stack-49d101df7f94"/>
+        <updated>2022-05-02T03:55:15.628Z</updated>
+        <content type="html"><![CDATA[(medium.com/@janeli930)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빅테크의 프로젝트 관리 방식, 그리고 스크럼의 기이한 부재]]></title>
@@ -48,18 +55,18 @@
         <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
-        <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
-        <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
-        <updated>2022-05-01T01:58:23.040Z</updated>
-        <content type="html"><![CDATA[(istio.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
         <id>https://github.com/samizdatco/skia-canvas</id>
         <link href="https://github.com/samizdatco/skia-canvas"/>
         <updated>2022-04-30T01:44:52.706Z</updated>
         <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
+        <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
+        <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
+        <updated>2022-05-01T01:58:23.040Z</updated>
+        <content type="html"><![CDATA[(istio.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 인생 전체를 하나의 DB에 담는 방법]]></title>
@@ -69,13 +76,6 @@
         <content type="html"><![CDATA[(krausefx.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub, Git.io 주소들 Read-Only로 유지하는 것으로 변경]]></title>
-        <id>https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536</id>
-        <link href="https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536"/>
-        <updated>2022-05-01T01:58:23.063Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Datasette - 개인용 데이터 웨어하우스 오픈소스]]></title>
         <id>https://datasette.io/</id>
         <link href="https://datasette.io/"/>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[(datasette.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
-        <id>https://blog.relate.kr/shape-up-relate/</id>
-        <link href="https://blog.relate.kr/shape-up-relate/"/>
-        <updated>2022-04-27T23:20:05.747Z</updated>
-        <content type="html"><![CDATA[(blog.relate.kr)]]></content>
+        <title type="html"><![CDATA[GitHub, Git.io 주소들 Read-Only로 유지하는 것으로 변경]]></title>
+        <id>https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536</id>
+        <link href="https://github.blog/changelog/2022-04-25-git-io-deprecation/?#changelog-64536"/>
+        <updated>2022-05-01T01:58:23.063Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AVA (Node.js 테스트 프레임워크) 문서 한글화]]></title>
@@ -95,6 +95,13 @@
         <link href="https://github.com/avajs/ava-docs/pull/75"/>
         <updated>2022-04-30T15:18:32.452Z</updated>
         <content type="html"><![CDATA[(github.com/avajs)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shape Up: B2B SaaS 스타트업 Relate 팀의 제품 개발 프로세스]]></title>
+        <id>https://blog.relate.kr/shape-up-relate/</id>
+        <link href="https://blog.relate.kr/shape-up-relate/"/>
+        <updated>2022-04-27T23:20:05.747Z</updated>
+        <content type="html"><![CDATA[(blog.relate.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[생산성 있는 Review 문화가 되기까지]]></title>
@@ -137,12 +144,5 @@
         <link href="https://mitsloan.mit.edu/ideas-made-to-matter/6-tips-building-a-successful-risk-taking-culture"/>
         <updated>2022-04-25T01:21:59.361Z</updated>
         <content type="html"><![CDATA[(mitsloan.mit.edu)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT 연구진, 종이처럼 얇은 스피커 개발]]></title>
-        <id>https://news.mit.edu/2022/low-power-thin-loudspeaker-0426</id>
-        <link href="https://news.mit.edu/2022/low-power-thin-loudspeaker-0426"/>
-        <updated>2022-04-28T02:05:14.737Z</updated>
-        <content type="html"><![CDATA[(news.mit.edu)]]></content>
     </entry>
 </feed>
