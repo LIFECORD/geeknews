@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-03T21:17:28.085Z</updated>
+    <updated>2022-05-03T22:19:39.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com/dimensionhq)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[InfoQ의 2022년 중점 기술들]]></title>
-        <id>https://www.infoq.com/about-infoq/</id>
-        <link href="https://www.infoq.com/about-infoq/"/>
-        <updated>2022-05-03T01:43:57.028Z</updated>
-        <content type="html"><![CDATA[(infoq.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS/Azure/GCP 외에 알아둬야 할 클라우드 업체는?]]></title>
         <id>https://news.ycombinator.com/item?id=31218268</id>
         <link href="https://news.ycombinator.com/item?id=31218268"/>
         <updated>2022-05-02T01:43:43.238Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InfoQ의 2022년 중점 기술들]]></title>
+        <id>https://www.infoq.com/about-infoq/</id>
+        <link href="https://www.infoq.com/about-infoq/"/>
+        <updated>2022-05-03T01:43:57.028Z</updated>
+        <content type="html"><![CDATA[(infoq.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 흑백 이모지 폰트 Noto Emoji 공개]]></title>
