@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-03T07:18:26.138Z</updated>
+    <updated>2022-05-03T08:23:09.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://blog.indentcorp.com/how-to-write-a-resume-and-a-programming-assignment/"/>
         <updated>2022-05-03T03:25:02.292Z</updated>
         <content type="html"><![CDATA[(blog.indentcorp.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다.]]></title>
+        <id>https://zaplib.com/docs/blog_post_mortem.html</id>
+        <link href="https://zaplib.com/docs/blog_post_mortem.html"/>
+        <updated>2022-05-03T08:22:34.864Z</updated>
+        <content type="html"><![CDATA[(zaplib.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reloadium - Advanced Hot Reloading for Python]]></title>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[(github.com/dimensionhq)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Luckysheet - JS 스프레드시트 라이브러리 오픈소스]]></title>
-        <id>https://github.com/mengshukeji/Luckysheet</id>
-        <link href="https://github.com/mengshukeji/Luckysheet"/>
-        <updated>2022-05-03T01:43:57.036Z</updated>
-        <content type="html"><![CDATA[(github.com/mengshukeji)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS/Azure/GCP 외에 알아둬야 할 클라우드 업체는?]]></title>
         <id>https://news.ycombinator.com/item?id=31218268</id>
         <link href="https://news.ycombinator.com/item?id=31218268"/>
         <updated>2022-05-02T01:43:43.238Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luckysheet - JS 스프레드시트 라이브러리 오픈소스]]></title>
+        <id>https://github.com/mengshukeji/Luckysheet</id>
+        <link href="https://github.com/mengshukeji/Luckysheet"/>
+        <updated>2022-05-03T01:43:57.036Z</updated>
+        <content type="html"><![CDATA[(github.com/mengshukeji)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 흑백 이모지 폰트 Noto Emoji 공개]]></title>
@@ -60,6 +67,18 @@
         <link href="https://pyscript.net/"/>
         <updated>2022-05-02T01:43:43.239Z</updated>
         <content type="html"><![CDATA[(pyscript.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 새로운 것 하나만 알려주세요]]></title>
+        <id>https://news.hada.io/topic?id=6480</id>
+        <link href="https://news.hada.io/topic?id=6480"/>
+        <updated>2022-05-03T08:22:34.872Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ? (2022년 5월)]]></title>
+        <id>https://news.hada.io/topic?id=6479</id>
+        <link href="https://news.hada.io/topic?id=6479"/>
+        <updated>2022-05-03T08:22:34.891Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[투자자들이 기대하는 훌륭한 성장률은 얼마일까]]></title>
@@ -123,26 +142,5 @@
         <link href="https://engineering.ab180.co/stories/productive-review-culture"/>
         <updated>2022-04-26T08:23:11.244Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Istio, CNCF 프로젝트에 조인 지원]]></title>
-        <id>https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/</id>
-        <link href="https://istio.io/latest/blog/2022/istio-has-applied-to-join-the-cncf/"/>
-        <updated>2022-05-01T01:58:23.040Z</updated>
-        <content type="html"><![CDATA[(istio.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AVA (Node.js 테스트 프레임워크) 문서 한글화]]></title>
-        <id>https://github.com/avajs/ava-docs/pull/75</id>
-        <link href="https://github.com/avajs/ava-docs/pull/75"/>
-        <updated>2022-04-30T15:18:32.452Z</updated>
-        <content type="html"><![CDATA[(github.com/avajs)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FE News - 네이버 프론트엔드 기술 소식]]></title>
-        <id>https://github.com/naver/fe-news</id>
-        <link href="https://github.com/naver/fe-news"/>
-        <updated>2022-04-27T07:18:29.371Z</updated>
-        <content type="html"><![CDATA[(github.com/naver)]]></content>
     </entry>
 </feed>
