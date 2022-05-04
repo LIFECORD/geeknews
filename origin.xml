@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-04T01:40:36.088Z</updated>
+    <updated>2022-05-04T03:26:32.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[번아웃 예방하기 : 관리자를 위한 툴킷]]></title>
+        <id>https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/</id>
+        <link href="https://about.gitlab.com/blog/2022/05/03/preventing-burnout-a-managers-toolkit/"/>
+        <updated>2022-05-04T03:25:56.495Z</updated>
+        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Replibyte - 개발DB를 실제 데이터로 채우는 도구]]></title>
         <id>https://github.com/qovery/replibyte</id>
         <link href="https://github.com/qovery/replibyte"/>
         <updated>2022-05-04T01:39:59.496Z</updated>
         <content type="html"><![CDATA[(github.com/qovery)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WatermelonDB - React와 RN을 위한 Reactive DB 프레임워크]]></title>
+        <id>https://github.com/Nozbe/WatermelonDB</id>
+        <link href="https://github.com/Nozbe/WatermelonDB"/>
+        <updated>2022-05-04T01:39:59.496Z</updated>
+        <content type="html"><![CDATA[(github.com/Nozbe)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[광고 효율을 높이기 위한 도착 페이지 최적화 전략]]></title>
@@ -27,13 +41,6 @@
         <content type="html"><![CDATA[(technologyreview.kr)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WatermelonDB - React와 RN을 위한 Reactive DB 프레임워크]]></title>
-        <id>https://github.com/Nozbe/WatermelonDB</id>
-        <link href="https://github.com/Nozbe/WatermelonDB"/>
-        <updated>2022-05-04T01:39:59.496Z</updated>
-        <content type="html"><![CDATA[(github.com/Nozbe)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[프로그래머 이력서와 코딩 과제, 검토자는 무얼볼까?]]></title>
         <id>https://blog.indentcorp.com/how-to-write-a-resume-and-a-programming-assignment/</id>
         <link href="https://blog.indentcorp.com/how-to-write-a-resume-and-a-programming-assignment/"/>
@@ -46,6 +53,13 @@
         <link href="https://zaplib.com/docs/blog_post_mortem.html"/>
         <updated>2022-05-03T08:22:34.864Z</updated>
         <content type="html"><![CDATA[(zaplib.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인도, RISC-V CPU 로드맵 발표 및 2023년 제품 출시 예정]]></title>
+        <id>https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621</id>
+        <link href="https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1820621"/>
+        <updated>2022-05-04T03:25:56.503Z</updated>
+        <content type="html"><![CDATA[(pib.gov.in)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reloadium - Advanced Hot Reloading for Python]]></title>
@@ -69,18 +83,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fleet - Rust용 빠른 빌드 도구]]></title>
-        <id>https://github.com/dimensionhq/fleet</id>
-        <link href="https://github.com/dimensionhq/fleet"/>
-        <updated>2022-05-03T01:43:57.028Z</updated>
-        <content type="html"><![CDATA[(github.com/dimensionhq)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글, 흑백 이모지 폰트 Noto Emoji 공개]]></title>
         <id>https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html</id>
         <link href="https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html"/>
         <updated>2022-05-02T01:43:43.237Z</updated>
         <content type="html"><![CDATA[(developers.googleblog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fleet - Rust용 빠른 빌드 도구]]></title>
+        <id>https://github.com/dimensionhq/fleet</id>
+        <link href="https://github.com/dimensionhq/fleet"/>
+        <updated>2022-05-03T01:43:57.028Z</updated>
+        <content type="html"><![CDATA[(github.com/dimensionhq)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[InfoQ의 2022년 중점 기술들]]></title>
@@ -90,17 +104,17 @@
         <content type="html"><![CDATA[(infoq.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 새로운 것 하나만 알려주세요]]></title>
+        <id>https://news.hada.io/topic?id=6480</id>
+        <link href="https://news.hada.io/topic?id=6480"/>
+        <updated>2022-05-03T08:22:34.872Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PyScript - HTML에서 Python 코드 실행하기]]></title>
         <id>https://pyscript.net/</id>
         <link href="https://pyscript.net/"/>
         <updated>2022-05-02T01:43:43.239Z</updated>
         <content type="html"><![CDATA[(pyscript.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 새로운 것 하나만 알려주세요]]></title>
-        <id>https://news.hada.io/topic?id=6480</id>
-        <link href="https://news.hada.io/topic?id=6480"/>
-        <updated>2022-05-03T08:22:34.872Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[투자자들이 기대하는 훌륭한 성장률은 얼마일까]]></title>
@@ -128,19 +142,5 @@
         <link href="https://velog.io/@dlwocks31/translation-project-management-at-big-tech"/>
         <updated>2022-04-30T15:18:32.426Z</updated>
         <content type="html"><![CDATA[(velog.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카톡 이모티콘을 통해 바라본 PFP NFT의 미래]]></title>
-        <id>https://ansubin.com/kakaotalk-emoticon-and-pfp-nft-future/</id>
-        <link href="https://ansubin.com/kakaotalk-emoticon-and-pfp-nft-future/"/>
-        <updated>2022-05-01T03:45:46.740Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skia Canvas - Node.js용 HTML Canvas API]]></title>
-        <id>https://github.com/samizdatco/skia-canvas</id>
-        <link href="https://github.com/samizdatco/skia-canvas"/>
-        <updated>2022-04-30T01:44:52.706Z</updated>
-        <content type="html"><![CDATA[(github.com/samizdatco)]]></content>
     </entry>
 </feed>
