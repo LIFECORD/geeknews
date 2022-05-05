@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews</title>
-    <updated>2022-05-05T10:24:31.121Z</updated>
+    <updated>2022-05-05T11:17:10.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -63,13 +63,6 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
-        <id>https://news.hada.io/topic?id=6494</id>
-        <link href="https://news.hada.io/topic?id=6494"/>
-        <updated>2022-05-05T01:29:20.159Z</updated>
-        <content type="html"><![CDATA[<span id="tp6494">1</span> point by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote6494"></span> | <a href="topic?id=6494" class="u">댓글과 토론</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xguru]]></title>
         <id>https://news.hada.io/topic?id=6481</id>
         <link href="https://news.hada.io/topic?id=6481"/>
         <updated>2022-05-03T01:43:51.371Z</updated>
@@ -84,10 +77,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
+        <id>https://news.hada.io/topic?id=6494</id>
+        <link href="https://news.hada.io/topic?id=6494"/>
+        <updated>2022-05-05T01:29:20.159Z</updated>
+        <content type="html"><![CDATA[<span id="tp6494">1</span> point by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote6494"></span> | <a href="topic?id=6494" class="u">댓글과 토론</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xguru]]></title>
         <id>https://news.hada.io/topic?id=6493</id>
         <link href="https://news.hada.io/topic?id=6493"/>
         <updated>2022-05-05T01:29:20.159Z</updated>
-        <content type="html"><![CDATA[<span id="tp6493">1</span> point by <a href="/user?id=xguru">xguru</a> 10시간전<span id="unvote6493"></span> | <a href="topic?id=6493" class="u">댓글과 토론</a>]]></content>
+        <content type="html"><![CDATA[<span id="tp6493">1</span> point by <a href="/user?id=xguru">xguru</a> 11시간전<span id="unvote6493"></span> | <a href="topic?id=6493" class="u">댓글과 토론</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
