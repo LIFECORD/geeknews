@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-07T08:23:06.047Z</updated>
+    <updated>2022-05-07T09:18:24.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -124,13 +124,6 @@
         <updated>2022-05-06T15:22:29.104Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft 3D Movie Maker 소스코드]]></title>
-        <id>https://github.com/microsoft/Microsoft-3D-Movie-Maker</id>
-        <link href="https://github.com/microsoft/Microsoft-3D-Movie-Maker"/>
-        <updated>2022-05-06T03:05:54.476Z</updated>
-        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WatermelonDB - React와 RN을 위한 Reactive DB 프레임워크]]></title>
         <id>https://github.com/Nozbe/WatermelonDB</id>
         <link href="https://github.com/Nozbe/WatermelonDB"/>
@@ -143,5 +136,12 @@
         <link href="https://zaplib.com/docs/blog_post_mortem.html"/>
         <updated>2022-05-03T08:22:34.864Z</updated>
         <content type="html"><![CDATA[(zaplib.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 3D Movie Maker 소스코드]]></title>
+        <id>https://github.com/microsoft/Microsoft-3D-Movie-Maker</id>
+        <link href="https://github.com/microsoft/Microsoft-3D-Movie-Maker"/>
+        <updated>2022-05-06T03:05:54.476Z</updated>
+        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
     </entry>
 </feed>
