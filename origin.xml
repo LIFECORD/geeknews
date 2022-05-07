@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-07T06:23:55.388Z</updated>
+    <updated>2022-05-07T07:17:43.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(frappe.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Knex.js - 멀티DB용 SQL 쿼리 빌더 for Node.js]]></title>
-        <id>https://github.com/knex/knex</id>
-        <link href="https://github.com/knex/knex"/>
-        <updated>2022-05-07T01:21:48.819Z</updated>
-        <content type="html"><![CDATA[(github.com/knex)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[우아한 소프트웨어를 예로 들때 가장 좋아하는 것은 ?]]></title>
         <id>https://news.ycombinator.com/item?id=31230903</id>
         <link href="https://news.ycombinator.com/item?id=31230903"/>
         <updated>2022-05-06T03:05:54.468Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knex.js - 멀티DB용 SQL 쿼리 빌더 for Node.js]]></title>
+        <id>https://github.com/knex/knex</id>
+        <link href="https://github.com/knex/knex"/>
+        <updated>2022-05-07T01:21:48.819Z</updated>
+        <content type="html"><![CDATA[(github.com/knex)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EpubPress - 웹컨텐츠를 e북으로 만들기]]></title>
@@ -110,13 +110,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft 3D Movie Maker 소스코드]]></title>
-        <id>https://github.com/microsoft/Microsoft-3D-Movie-Maker</id>
-        <link href="https://github.com/microsoft/Microsoft-3D-Movie-Maker"/>
-        <updated>2022-05-06T03:05:54.476Z</updated>
-        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글, 흑백 이모지 폰트 Noto Emoji 공개]]></title>
         <id>https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html</id>
         <link href="https://developers.googleblog.com/2022/04/what-is-black-and-white-and-read-all.html"/>
@@ -124,11 +117,11 @@
         <content type="html"><![CDATA[(developers.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wireit - npm 스크립트를 더 똑똑하고 효율적으로 업그레이드]]></title>
-        <id>https://github.com/google/wireit</id>
-        <link href="https://github.com/google/wireit"/>
-        <updated>2022-05-05T01:29:26.467Z</updated>
-        <content type="html"><![CDATA[(github.com/google)]]></content>
+        <title type="html"><![CDATA[Microsoft 3D Movie Maker 소스코드]]></title>
+        <id>https://github.com/microsoft/Microsoft-3D-Movie-Maker</id>
+        <link href="https://github.com/microsoft/Microsoft-3D-Movie-Maker"/>
+        <updated>2022-05-06T03:05:54.476Z</updated>
+        <content type="html"><![CDATA[(github.com/microsoft)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WatermelonDB - React와 RN을 위한 Reactive DB 프레임워크]]></title>
@@ -136,6 +129,13 @@
         <link href="https://github.com/Nozbe/WatermelonDB"/>
         <updated>2022-05-04T01:39:59.496Z</updated>
         <content type="html"><![CDATA[(github.com/Nozbe)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wireit - npm 스크립트를 더 똑똑하고 효율적으로 업그레이드]]></title>
+        <id>https://github.com/google/wireit</id>
+        <link href="https://github.com/google/wireit"/>
+        <updated>2022-05-05T01:29:26.467Z</updated>
+        <content type="html"><![CDATA[(github.com/google)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zaplib post-mortem: WASM은 생각보다 빠르지 않습니다.]]></title>
