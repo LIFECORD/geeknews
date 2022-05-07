@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-07T11:16:26.832Z</updated>
+    <updated>2022-05-07T12:30:47.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Frappe - 인터랙티브 Gantt 차트 오픈소스]]></title>
-        <id>https://frappe.io/gantt</id>
-        <link href="https://frappe.io/gantt"/>
-        <updated>2022-05-07T01:21:48.817Z</updated>
-        <content type="html"><![CDATA[(frappe.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[우아한 소프트웨어를 예로 들때 가장 좋아하는 것은 ?]]></title>
         <id>https://news.ycombinator.com/item?id=31230903</id>
         <link href="https://news.ycombinator.com/item?id=31230903"/>
         <updated>2022-05-06T03:05:54.468Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frappe - 인터랙티브 Gantt 차트 오픈소스]]></title>
+        <id>https://frappe.io/gantt</id>
+        <link href="https://frappe.io/gantt"/>
+        <updated>2022-05-07T01:21:48.817Z</updated>
+        <content type="html"><![CDATA[(frappe.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Knex.js - 멀티DB용 SQL 쿼리 빌더 for Node.js]]></title>
@@ -132,16 +132,16 @@
         <content type="html"><![CDATA[(zaplib.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6502</id>
-        <link href="https://news.hada.io/topic?id=6502"/>
-        <updated>2022-05-06T15:22:29.104Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wireit - npm 스크립트를 더 똑똑하고 효율적으로 업그레이드]]></title>
         <id>https://github.com/google/wireit</id>
         <link href="https://github.com/google/wireit"/>
         <updated>2022-05-07T10:20:13.098Z</updated>
         <content type="html"><![CDATA[(github.com/google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6502</id>
+        <link href="https://news.hada.io/topic?id=6502"/>
+        <updated>2022-05-06T15:22:29.104Z</updated>
     </entry>
 </feed>
