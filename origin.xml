@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-09T13:38:42.573Z</updated>
+    <updated>2022-05-09T14:17:22.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -61,18 +61,18 @@
         <content type="html"><![CDATA[(github.com/dflex-js)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 프로젝트의 Cash Flow]]></title>
-        <id>https://ansubin.com/nft-tokenomics-2/</id>
-        <link href="https://ansubin.com/nft-tokenomics-2/"/>
-        <updated>2022-05-09T03:21:20.253Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JSPyBridge - Node.js와 Python의 상호운용을 위한 브릿지]]></title>
         <id>https://github.com/extremeheat/JSPyBridge</id>
         <link href="https://github.com/extremeheat/JSPyBridge"/>
         <updated>2022-05-08T01:27:12.110Z</updated>
         <content type="html"><![CDATA[(github.com/extremeheat)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 프로젝트의 Cash Flow]]></title>
+        <id>https://ansubin.com/nft-tokenomics-2/</id>
+        <link href="https://ansubin.com/nft-tokenomics-2/"/>
+        <updated>2022-05-09T03:21:20.253Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[젤다 클래식을 웹으로 포팅하기]]></title>
