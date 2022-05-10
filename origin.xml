@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-10T21:17:46.239Z</updated>
+    <updated>2022-05-10T22:22:12.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -82,18 +82,18 @@
         <content type="html"><![CDATA[(macrumors.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 커스터마이징 가능한 Roboto Flex 폰트 공개]]></title>
-        <id>https://material.io/blog/roboto-flex</id>
-        <link href="https://material.io/blog/roboto-flex"/>
-        <updated>2022-05-09T01:40:38.808Z</updated>
-        <content type="html"><![CDATA[(material.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DFlex - 모든 JS프레임워크를 위한 Drag-n-Drop 라이브러리]]></title>
         <id>https://github.com/dflex-js/dflex</id>
         <link href="https://github.com/dflex-js/dflex"/>
         <updated>2022-05-08T01:27:12.110Z</updated>
         <content type="html"><![CDATA[(github.com/dflex-js)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 커스터마이징 가능한 Roboto Flex 폰트 공개]]></title>
+        <id>https://material.io/blog/roboto-flex</id>
+        <link href="https://material.io/blog/roboto-flex"/>
+        <updated>2022-05-09T01:40:38.808Z</updated>
+        <content type="html"><![CDATA[(material.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[젤다 클래식을 웹으로 포팅하기]]></title>
