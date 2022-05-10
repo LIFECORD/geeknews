@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-10T08:24:46.148Z</updated>
+    <updated>2022-05-10T09:19:52.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(tinyclouds.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기묘한 홀인원 보험 비즈니스의 세계]]></title>
-        <id>https://thehustle.co/the-strange-business-of-hole-in-one-insurance/</id>
-        <link href="https://thehustle.co/the-strange-business-of-hole-in-one-insurance/"/>
-        <updated>2022-05-10T02:49:48.008Z</updated>
-        <content type="html"><![CDATA[(thehustle.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Xilem : Rust를 위한 새로운 UI 아키텍처 제안]]></title>
         <id>https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html</id>
         <link href="https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"/>
         <updated>2022-05-10T02:49:48.006Z</updated>
         <content type="html"><![CDATA[(raphlinus.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기묘한 홀인원 보험 비즈니스의 세계]]></title>
+        <id>https://thehustle.co/the-strange-business-of-hole-in-one-insurance/</id>
+        <link href="https://thehustle.co/the-strange-business-of-hole-in-one-insurance/"/>
+        <updated>2022-05-10T02:49:48.008Z</updated>
+        <content type="html"><![CDATA[(thehustle.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일장춘몽의 끝: 넷플릭스 추락 이면의 알력다툼]]></title>
