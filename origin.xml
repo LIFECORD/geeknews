@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-10T02:50:29.010Z</updated>
+    <updated>2022-05-10T03:29:06.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기묘한 홀인원 보험 비즈니스의 세계]]></title>
+        <id>https://thehustle.co/the-strange-business-of-hole-in-one-insurance/</id>
+        <link href="https://thehustle.co/the-strange-business-of-hole-in-one-insurance/"/>
+        <updated>2022-05-10T02:49:48.008Z</updated>
+        <content type="html"><![CDATA[(thehustle.co)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xilem : Rust를 위한 새로운 UI 아키텍처 제안]]></title>
         <id>https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[(tinyclouds.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기묘한 홀인원 보험 비즈니스의 세계]]></title>
-        <id>https://thehustle.co/the-strange-business-of-hole-in-one-insurance/</id>
-        <link href="https://thehustle.co/the-strange-business-of-hole-in-one-insurance/"/>
-        <updated>2022-05-10T02:49:48.008Z</updated>
-        <content type="html"><![CDATA[(thehustle.co)]]></content>
+        <title type="html"><![CDATA[Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스]]></title>
+        <id>https://news.hada.io/topic?id=6516</id>
+        <link href="https://news.hada.io/topic?id=6516"/>
+        <updated>2022-05-09T06:23:59.324Z</updated>
+        <content type="html"><![CDATA[(kofearticle.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SGTS - 싱가폴 정부 테크 스택]]></title>
@@ -32,13 +39,6 @@
         <link href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/overview/index.html"/>
         <updated>2022-05-10T02:49:48.008Z</updated>
         <content type="html"><![CDATA[(developer.tech.gov.sg)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스]]></title>
-        <id>https://news.hada.io/topic?id=6516</id>
-        <link href="https://news.hada.io/topic?id=6516"/>
-        <updated>2022-05-09T06:23:59.324Z</updated>
-        <content type="html"><![CDATA[(kofearticle.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일장춘몽의 끝: 넷플릭스 추락 이면의 알력다툼]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[(github.com/extremeheat)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NFT 프로젝트의 Cash Flow]]></title>
+        <id>https://ansubin.com/nft-tokenomics-2/</id>
+        <link href="https://ansubin.com/nft-tokenomics-2/"/>
+        <updated>2022-05-09T03:21:20.253Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[우아한 소프트웨어를 예로 들때 가장 좋아하는 것은 ?]]></title>
         <id>https://news.ycombinator.com/item?id=31230903</id>
         <link href="https://news.ycombinator.com/item?id=31230903"/>
@@ -122,13 +129,6 @@
         <link href="https://frappe.io/gantt"/>
         <updated>2022-05-07T01:21:48.817Z</updated>
         <content type="html"><![CDATA[(frappe.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT 프로젝트의 Cash Flow]]></title>
-        <id>https://ansubin.com/nft-tokenomics-2/</id>
-        <link href="https://ansubin.com/nft-tokenomics-2/"/>
-        <updated>2022-05-09T03:21:20.253Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NFT 토크노믹스의 구성과 이해]]></title>
