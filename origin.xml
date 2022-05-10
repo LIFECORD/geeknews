@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-10T18:23:53.638Z</updated>
+    <updated>2022-05-10T19:16:45.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(kofearticle.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일장춘몽의 끝: 넷플릭스 추락 이면의 알력다툼]]></title>
-        <id>https://ebadak.news/2022/05/08/netflixs-big-wake-up-call/</id>
-        <link href="https://ebadak.news/2022/05/08/netflixs-big-wake-up-call/"/>
-        <updated>2022-05-10T01:14:44.488Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[가장 많이 사용하는 셀프호스트 어플리케이션은?]]></title>
         <id>https://noted.lol/what-are-your-most-used-self-hosted-applications/</id>
         <link href="https://noted.lol/what-are-your-most-used-self-hosted-applications/"/>
         <updated>2022-05-09T01:40:38.808Z</updated>
         <content type="html"><![CDATA[(noted.lol)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일장춘몽의 끝: 넷플릭스 추락 이면의 알력다툼]]></title>
+        <id>https://ebadak.news/2022/05/08/netflixs-big-wake-up-call/</id>
+        <link href="https://ebadak.news/2022/05/08/netflixs-big-wake-up-call/"/>
+        <updated>2022-05-10T01:14:44.488Z</updated>
+        <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SGTS - 싱가폴 정부 테크 스택]]></title>
