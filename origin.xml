@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-24T06:24:32.310Z</updated>
+    <updated>2022-05-24T07:18:42.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -124,18 +124,18 @@
         <updated>2022-05-24T02:22:16.785Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PyTorch, 맥(애플실리콘 M1)에서 GPU 가속 지원]]></title>
-        <id>https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/</id>
-        <link href="https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/"/>
-        <updated>2022-05-24T02:22:16.786Z</updated>
-        <content type="html"><![CDATA[(pytorch.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[데이터 엔지니어란 무엇인가?]]></title>
         <id>https://nephtyws.github.io/story/what-is-data-engineer/</id>
         <link href="https://nephtyws.github.io/story/what-is-data-engineer/"/>
         <updated>2022-05-24T02:22:16.787Z</updated>
         <content type="html"><![CDATA[(nephtyws.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch, 맥(애플실리콘 M1)에서 GPU 가속 지원]]></title>
+        <id>https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/</id>
+        <link href="https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/"/>
+        <updated>2022-05-24T02:22:16.786Z</updated>
+        <content type="html"><![CDATA[(pytorch.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LetsMarkdown - 마크다운 동시 편집 협업도구 오픈소스]]></title>
