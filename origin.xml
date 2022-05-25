@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-25T16:28:47.028Z</updated>
+    <updated>2022-05-25T17:27:15.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs]]></title>
-        <id>https://github.com/blaze-init/blaze</id>
-        <link href="https://github.com/blaze-init/blaze"/>
-        <updated>2022-05-25T15:25:19.626Z</updated>
-        <content type="html"><![CDATA[(github.com/blaze-init)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
         <id>https://lock.cmpxchg8b.com/linux123.html</id>
         <link href="https://lock.cmpxchg8b.com/linux123.html"/>
         <updated>2022-05-25T01:42:04.553Z</updated>
         <content type="html"><![CDATA[(lock.cmpxchg8b.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs]]></title>
+        <id>https://github.com/blaze-init/blaze</id>
+        <link href="https://github.com/blaze-init/blaze"/>
+        <updated>2022-05-25T15:25:19.626Z</updated>
+        <content type="html"><![CDATA[(github.com/blaze-init)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Imagen - 구글의 text-to-image diffusion model]]></title>
