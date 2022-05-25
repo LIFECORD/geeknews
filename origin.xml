@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-25T14:19:30.836Z</updated>
+    <updated>2022-05-25T15:25:55.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Blaze: A Rust-based vectorized accelerator to speed up your Spark jobs]]></title>
+        <id>https://github.com/blaze-init/blaze</id>
+        <link href="https://github.com/blaze-init/blaze"/>
+        <updated>2022-05-25T15:25:19.626Z</updated>
+        <content type="html"><![CDATA[(github.com/blaze-init)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
         <id>https://lock.cmpxchg8b.com/linux123.html</id>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[(starlink.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
-        <id>https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</id>
-        <link href="https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"/>
-        <updated>2022-05-24T02:22:16.747Z</updated>
-        <content type="html"><![CDATA[(netfuture.ch)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[케빈 켈리의 알았더라면 좋았을 103가지 조언]]></title>
         <id>https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/</id>
         <link href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/"/>
         <updated>2022-05-24T02:22:16.760Z</updated>
         <content type="html"><![CDATA[(kk.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
+        <id>https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</id>
+        <link href="https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"/>
+        <updated>2022-05-24T02:22:16.747Z</updated>
+        <content type="html"><![CDATA[(netfuture.ch)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 WWDC22, 6월 6일~10일 온라인 개최]]></title>
@@ -90,18 +97,18 @@
         <content type="html"><![CDATA[(brunch.co.kr/@fbrudtjr1)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 아이폰 셀프 서비스 수리 키트 리뷰]]></title>
-        <id>https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on</id>
-        <link href="https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on"/>
-        <updated>2022-05-24T02:22:16.744Z</updated>
-        <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[최악을 대비하세요 (번역)]]></title>
         <id>https://ebadak.news/2022/05/21/plan-for-the-worst/</id>
         <link href="https://ebadak.news/2022/05/21/plan-for-the-worst/"/>
         <updated>2022-05-24T02:22:16.769Z</updated>
         <content type="html"><![CDATA[(ebadak.news)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 아이폰 셀프 서비스 수리 키트 리뷰]]></title>
+        <id>https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on</id>
+        <link href="https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on"/>
+        <updated>2022-05-24T02:22:16.744Z</updated>
+        <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Summari - 웹문서 요약 서비스]]></title>
@@ -137,12 +144,5 @@
         <link href="https://ebadak.news/2022/05/21/badeconomy/"/>
         <updated>2022-05-24T02:22:16.782Z</updated>
         <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakaotalk Matrix Bridge]]></title>
-        <id>https://matrix.org/bridges/#kakaotalk</id>
-        <link href="https://matrix.org/bridges/#kakaotalk"/>
-        <updated>2022-05-24T02:22:16.783Z</updated>
-        <content type="html"><![CDATA[(matrix.org)]]></content>
     </entry>
 </feed>
