@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-25T18:23:48.442Z</updated>
+    <updated>2022-05-25T19:16:25.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SLASH 22 - TOSS 개발자 컨퍼런스 6월8일~10일 개최]]></title>
-        <id>https://toss.im/slash-22</id>
-        <link href="https://toss.im/slash-22"/>
-        <updated>2022-05-25T03:20:51.416Z</updated>
-        <content type="html"><![CDATA[(toss.im)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
         <id>https://github.com/pkolaczk/fclones</id>
         <link href="https://github.com/pkolaczk/fclones"/>
         <updated>2022-05-24T02:22:16.744Z</updated>
         <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLASH 22 - TOSS 개발자 컨퍼런스 6월8일~10일 개최]]></title>
+        <id>https://toss.im/slash-22</id>
+        <link href="https://toss.im/slash-22"/>
+        <updated>2022-05-25T03:20:51.416Z</updated>
+        <content type="html"><![CDATA[(toss.im)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CloudFlare 2022년 1분기 DDoS 공격 동향 보고서]]></title>
