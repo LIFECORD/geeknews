@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-27T05:23:12.630Z</updated>
+    <updated>2022-05-27T06:25:15.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(github.com/lucidrains)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WordPress 6.0 "Arturo" 릴리즈]]></title>
-        <id>https://wordpress.org/news/2022/05/arturo/</id>
-        <link href="https://wordpress.org/news/2022/05/arturo/"/>
-        <updated>2022-05-27T01:45:33.799Z</updated>
-        <content type="html"><![CDATA[(wordpress.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[YouTubeDrive - 파일을 유튜브에 저장하기 (2018)]]></title>
         <id>https://github.com/dzhang314/YouTubeDrive</id>
         <link href="https://github.com/dzhang314/YouTubeDrive"/>
         <updated>2022-05-26T01:43:53.709Z</updated>
         <content type="html"><![CDATA[(github.com/dzhang314)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 6.0 "Arturo" 릴리즈]]></title>
+        <id>https://wordpress.org/news/2022/05/arturo/</id>
+        <link href="https://wordpress.org/news/2022/05/arturo/"/>
+        <updated>2022-05-27T01:45:33.799Z</updated>
+        <content type="html"><![CDATA[(wordpress.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ghost 5.0 출시]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(kk.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스테이블하고 싶었지만 그러지못한 알고리즘 스테이블코인들]]></title>
-        <id>https://brunch.co.kr/@delight412/472</id>
-        <link href="https://brunch.co.kr/@delight412/472"/>
-        <updated>2022-05-26T01:43:53.710Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@delight412)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
         <id>https://lock.cmpxchg8b.com/linux123.html</id>
         <link href="https://lock.cmpxchg8b.com/linux123.html"/>
         <updated>2022-05-25T01:42:04.553Z</updated>
         <content type="html"><![CDATA[(lock.cmpxchg8b.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스테이블하고 싶었지만 그러지못한 알고리즘 스테이블코인들]]></title>
+        <id>https://brunch.co.kr/@delight412/472</id>
+        <link href="https://brunch.co.kr/@delight412/472"/>
+        <updated>2022-05-26T01:43:53.710Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@delight412)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
