@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-28T07:18:34.107Z</updated>
+    <updated>2022-05-28T08:25:06.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(rustdesk.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GoodWill 랜섬웨어, 감염된 피해자에게 기부 및 좋은 행동을 강요]]></title>
-        <id>https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/</id>
-        <link href="https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/"/>
-        <updated>2022-05-28T01:27:51.320Z</updated>
-        <content type="html"><![CDATA[(cloudsek.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기계식 시계는 어떻게 동작하는가]]></title>
         <id>https://ciechanow.ski/mechanical-watch/</id>
         <link href="https://ciechanow.ski/mechanical-watch/"/>
@@ -39,6 +32,13 @@
         <link href="https://fly.io/blog/fly-machines/"/>
         <updated>2022-05-27T01:45:33.790Z</updated>
         <content type="html"><![CDATA[(fly.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoodWill 랜섬웨어, 감염된 피해자에게 기부 및 좋은 행동을 강요]]></title>
+        <id>https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/</id>
+        <link href="https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/"/>
+        <updated>2022-05-28T01:27:51.320Z</updated>
+        <content type="html"><![CDATA[(cloudsek.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1972년도 오리지널 Pong 게임은 소스코드 없이 하드웨어 회로로 만들어짐]]></title>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[(github.com/dzhang314)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[케빈 켈리의 알았더라면 좋았을 103가지 조언]]></title>
+        <id>https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/</id>
+        <link href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/"/>
+        <updated>2022-05-24T02:22:16.760Z</updated>
+        <content type="html"><![CDATA[(kk.org)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Imagen-pytorch - 구글 Imagen을 Pytorch로 구현]]></title>
         <id>https://github.com/lucidrains/imagen-pytorch</id>
         <link href="https://github.com/lucidrains/imagen-pytorch"/>
@@ -83,13 +90,6 @@
         <content type="html"><![CDATA[(reuters.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[케빈 켈리의 알았더라면 좋았을 103가지 조언]]></title>
-        <id>https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/</id>
-        <link href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/"/>
-        <updated>2022-05-24T02:22:16.760Z</updated>
-        <content type="html"><![CDATA[(kk.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ghost 5.0 출시]]></title>
         <id>https://ghost.org/changelog/5/</id>
         <link href="https://ghost.org/changelog/5/"/>
@@ -101,6 +101,13 @@
         <id>https://news.hada.io/topic?id=6622</id>
         <link href="https://news.hada.io/topic?id=6622"/>
         <updated>2022-05-27T08:23:50.557Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber가 Zig를 사용하는 방법]]></title>
+        <id>https://jakstys.lt/2022/how-uber-uses-zig/</id>
+        <link href="https://jakstys.lt/2022/how-uber-uses-zig/"/>
+        <updated>2022-05-26T01:43:53.711Z</updated>
+        <content type="html"><![CDATA[(jakstys.lt)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
@@ -117,13 +124,6 @@
         <content type="html"><![CDATA[(netfuture.ch)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uber가 Zig를 사용하는 방법]]></title>
-        <id>https://jakstys.lt/2022/how-uber-uses-zig/</id>
-        <link href="https://jakstys.lt/2022/how-uber-uses-zig/"/>
-        <updated>2022-05-26T01:43:53.711Z</updated>
-        <content type="html"><![CDATA[(jakstys.lt)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jack Dorsey, 트위터 이사회에서 사임]]></title>
         <id>https://www.axios.com/2022/05/25/jack-dorsey-twitter-board</id>
         <link href="https://www.axios.com/2022/05/25/jack-dorsey-twitter-board"/>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스테이블하고 싶었지만 그러지못한 알고리즘 스테이블코인들]]></title>
-        <id>https://brunch.co.kr/@delight412/472</id>
-        <link href="https://brunch.co.kr/@delight412/472"/>
-        <updated>2022-05-28T05:17:44.774Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@delight412)]]></content>
+        <title type="html"><![CDATA[Imagen - 구글의 text-to-image diffusion model]]></title>
+        <id>https://imagen.research.google/</id>
+        <link href="https://imagen.research.google/"/>
+        <updated>2022-05-28T08:24:26.928Z</updated>
+        <content type="html"><![CDATA[(imagen.research.google)]]></content>
     </entry>
 </feed>
