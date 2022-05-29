@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-29T01:44:53.215Z</updated>
+    <updated>2022-05-29T03:28:25.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(euncho.medium.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Puppeteer 안티패턴들 피하기]]></title>
-        <id>https://serpapi.com/blog/puppeteer-antipatterns/</id>
-        <link href="https://serpapi.com/blog/puppeteer-antipatterns/"/>
-        <updated>2022-05-29T01:44:18.350Z</updated>
-        <content type="html"><![CDATA[(serpapi.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Remult - 풀스택 Typescript용 CRUD 프레임워크]]></title>
         <id>https://github.com/remult/remult</id>
         <link href="https://github.com/remult/remult"/>
         <updated>2022-05-29T01:44:18.350Z</updated>
         <content type="html"><![CDATA[(github.com/remult)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puppeteer 안티패턴들 피하기]]></title>
+        <id>https://serpapi.com/blog/puppeteer-antipatterns/</id>
+        <link href="https://serpapi.com/blog/puppeteer-antipatterns/"/>
+        <updated>2022-05-29T01:44:18.350Z</updated>
+        <content type="html"><![CDATA[(serpapi.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Payload - Headless CMS 오픈소스]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(falstad.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GoodWill 랜섬웨어, 감염된 피해자에게 기부 및 좋은 행동을 강요]]></title>
-        <id>https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/</id>
-        <link href="https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/"/>
-        <updated>2022-05-28T01:27:51.320Z</updated>
-        <content type="html"><![CDATA[(cloudsek.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[리눅스 커널 해커가 뒤져본 Fuchsia OS]]></title>
         <id>https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html</id>
         <link href="https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html"/>
         <updated>2022-05-27T01:45:33.790Z</updated>
         <content type="html"><![CDATA[(a13xp0p0v.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoodWill 랜섬웨어, 감염된 피해자에게 기부 및 좋은 행동을 강요]]></title>
+        <id>https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/</id>
+        <link href="https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/"/>
+        <updated>2022-05-28T01:27:51.320Z</updated>
+        <content type="html"><![CDATA[(cloudsek.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 좋은 VC란 어떤 걸까요?]]></title>
@@ -89,18 +89,18 @@
         <updated>2022-05-27T08:23:50.557Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTubeDrive - 파일을 유튜브에 저장하기 (2018)]]></title>
-        <id>https://github.com/dzhang314/YouTubeDrive</id>
-        <link href="https://github.com/dzhang314/YouTubeDrive"/>
-        <updated>2022-05-26T01:43:53.709Z</updated>
-        <content type="html"><![CDATA[(github.com/dzhang314)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[케빈 켈리의 알았더라면 좋았을 103가지 조언]]></title>
         <id>https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/</id>
         <link href="https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/"/>
         <updated>2022-05-24T02:22:16.760Z</updated>
         <content type="html"><![CDATA[(kk.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTubeDrive - 파일을 유튜브에 저장하기 (2018)]]></title>
+        <id>https://github.com/dzhang314/YouTubeDrive</id>
+        <link href="https://github.com/dzhang314/YouTubeDrive"/>
+        <updated>2022-05-26T01:43:53.709Z</updated>
+        <content type="html"><![CDATA[(github.com/dzhang314)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Proton은 당신의 데이터를 이용하지 않는 Google이 되려한다]]></title>
@@ -124,6 +124,13 @@
         <content type="html"><![CDATA[(netfuture.ch)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
+        <id>https://lock.cmpxchg8b.com/linux123.html</id>
+        <link href="https://lock.cmpxchg8b.com/linux123.html"/>
+        <updated>2022-05-25T01:42:04.553Z</updated>
+        <content type="html"><![CDATA[(lock.cmpxchg8b.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Imagen-pytorch - 구글 Imagen을 Pytorch로 구현]]></title>
         <id>https://github.com/lucidrains/imagen-pytorch</id>
         <link href="https://github.com/lucidrains/imagen-pytorch"/>
@@ -136,12 +143,5 @@
         <link href="https://www.reuters.com/markets/us/chipmaker-broadcom-buy-vmware-61-bln-deal-2022-05-26/"/>
         <updated>2022-05-27T01:45:33.805Z</updated>
         <content type="html"><![CDATA[(reuters.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
-        <id>https://lock.cmpxchg8b.com/linux123.html</id>
-        <link href="https://lock.cmpxchg8b.com/linux123.html"/>
-        <updated>2022-05-25T01:42:04.553Z</updated>
-        <content type="html"><![CDATA[(lock.cmpxchg8b.com)]]></content>
     </entry>
 </feed>
