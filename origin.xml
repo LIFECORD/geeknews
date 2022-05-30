@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-29T23:19:07.441Z</updated>
+    <updated>2022-05-30T01:42:20.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Puppeteer 안티패턴들 피하기]]></title>
-        <id>https://serpapi.com/blog/puppeteer-antipatterns/</id>
-        <link href="https://serpapi.com/blog/puppeteer-antipatterns/"/>
-        <updated>2022-05-29T01:44:18.350Z</updated>
-        <content type="html"><![CDATA[(serpapi.com)]]></content>
+        <title type="html"><![CDATA[1인 SaaS인 Healthchecks.io의 기술 스택]]></title>
+        <id>https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/</id>
+        <link href="https://blog.healthchecks.io/2022/02/healthchecks-io-hosting-setup-2022-edition/"/>
+        <updated>2022-05-30T01:41:45.102Z</updated>
+        <content type="html"><![CDATA[(blog.healthchecks.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architecture Note : Datasette]]></title>
+        <id>https://architecturenotes.co/datasette-simon-willison/</id>
+        <link href="https://architecturenotes.co/datasette-simon-willison/"/>
+        <updated>2022-05-30T01:41:45.104Z</updated>
+        <content type="html"><![CDATA[(architecturenotes.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite3 Fiddle]]></title>
+        <id>https://sqlite.org/fiddle/</id>
+        <link href="https://sqlite.org/fiddle/"/>
+        <updated>2022-05-30T01:41:45.108Z</updated>
+        <content type="html"><![CDATA[(sqlite.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra - 스트리밍 SSR React 프레임워크]]></title>
+        <id>https://github.com/exhibitionist-digital/ultra</id>
+        <link href="https://github.com/exhibitionist-digital/ultra"/>
+        <updated>2022-05-30T01:41:45.109Z</updated>
+        <content type="html"><![CDATA[(github.com/exhibitionist-digital)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 strapi 사용을 포기했는가?]]></title>
@@ -18,6 +39,13 @@
         <link href="https://euncho.medium.com/why-i-stop-using-the-strapi-35bd9050bc24"/>
         <updated>2022-05-29T01:44:18.323Z</updated>
         <content type="html"><![CDATA[(euncho.medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puppeteer 안티패턴들 피하기]]></title>
+        <id>https://serpapi.com/blog/puppeteer-antipatterns/</id>
+        <link href="https://serpapi.com/blog/puppeteer-antipatterns/"/>
+        <updated>2022-05-29T01:44:18.350Z</updated>
+        <content type="html"><![CDATA[(serpapi.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remult - 풀스택 Typescript용 CRUD 프레임워크]]></title>
@@ -96,6 +124,13 @@
         <content type="html"><![CDATA[(github.com/dzhang314)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
+        <id>https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</id>
+        <link href="https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"/>
+        <updated>2022-05-24T02:22:16.747Z</updated>
+        <content type="html"><![CDATA[(netfuture.ch)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GoodWill 랜섬웨어, 감염된 피해자에게 기부 및 좋은 행동을 강요]]></title>
         <id>https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/</id>
         <link href="https://cloudsek.com/threatintelligence/goodwill-ransomware-forces-victims-to-donate-to-the-poor-and-provides-financial-assistance-to-patients-in-need/"/>
@@ -108,40 +143,5 @@
         <link href="https://ghost.org/changelog/5/"/>
         <updated>2022-05-26T01:43:53.709Z</updated>
         <content type="html"><![CDATA[(ghost.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3는 그냥 비싼 P2P입니다]]></title>
-        <id>https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/</id>
-        <link href="https://netfuture.ch/2022/05/web3-is-just-expensive-p2p/"/>
-        <updated>2022-05-24T02:22:16.747Z</updated>
-        <content type="html"><![CDATA[(netfuture.ch)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lotus 1-2-3 for Linux]]></title>
-        <id>https://lock.cmpxchg8b.com/linux123.html</id>
-        <link href="https://lock.cmpxchg8b.com/linux123.html"/>
-        <updated>2022-05-25T01:42:04.553Z</updated>
-        <content type="html"><![CDATA[(lock.cmpxchg8b.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imagen-pytorch - 구글 Imagen을 Pytorch로 구현]]></title>
-        <id>https://github.com/lucidrains/imagen-pytorch</id>
-        <link href="https://github.com/lucidrains/imagen-pytorch"/>
-        <updated>2022-05-29T19:16:41.394Z</updated>
-        <content type="html"><![CDATA[(github.com/lucidrains)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fclones - 효율적인 중복 파일 파인더]]></title>
-        <id>https://github.com/pkolaczk/fclones</id>
-        <link href="https://github.com/pkolaczk/fclones"/>
-        <updated>2022-05-29T16:25:18.398Z</updated>
-        <content type="html"><![CDATA[(github.com/pkolaczk)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber가 Zig를 사용하는 방법]]></title>
-        <id>https://jakstys.lt/2022/how-uber-uses-zig/</id>
-        <link href="https://jakstys.lt/2022/how-uber-uses-zig/"/>
-        <updated>2022-05-29T14:17:41.450Z</updated>
-        <content type="html"><![CDATA[(jakstys.lt)]]></content>
     </entry>
 </feed>
