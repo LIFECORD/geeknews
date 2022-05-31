@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-05-31T08:28:09.003Z</updated>
+    <updated>2022-05-31T09:19:23.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(xournalpp.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dotdrop - dotfile 들을 어디서나 사용 가능하게]]></title>
-        <id>https://github.com/deadc0de6/dotdrop</id>
-        <link href="https://github.com/deadc0de6/dotdrop"/>
-        <updated>2022-05-31T01:41:36.994Z</updated>
-        <content type="html"><![CDATA[(github.com/deadc0de6)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Q.Link | Hide your link behind a simple quiz]]></title>
         <id>https://news.hada.io/topic?id=6651</id>
         <link href="https://news.hada.io/topic?id=6651"/>
         <updated>2022-05-31T05:24:02.314Z</updated>
         <content type="html"><![CDATA[(q-link.minung.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dotdrop - dotfile 들을 어디서나 사용 가능하게]]></title>
+        <id>https://github.com/deadc0de6/dotdrop</id>
+        <link href="https://github.com/deadc0de6/dotdrop"/>
+        <updated>2022-05-31T01:41:36.994Z</updated>
+        <content type="html"><![CDATA[(github.com/deadc0de6)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1인 SaaS인 Healthchecks.io의 기술 스택]]></title>
@@ -103,18 +103,18 @@
         <content type="html"><![CDATA[(engadget.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 strapi 사용을 포기했는가?]]></title>
-        <id>https://euncho.medium.com/why-i-stop-using-the-strapi-35bd9050bc24</id>
-        <link href="https://euncho.medium.com/why-i-stop-using-the-strapi-35bd9050bc24"/>
-        <updated>2022-05-29T01:44:18.323Z</updated>
-        <content type="html"><![CDATA[(euncho.medium.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RustDesk - 오픈소스 TeamViewer 대체제]]></title>
         <id>https://rustdesk.com/</id>
         <link href="https://rustdesk.com/"/>
         <updated>2022-05-26T01:43:53.709Z</updated>
         <content type="html"><![CDATA[(rustdesk.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 strapi 사용을 포기했는가?]]></title>
+        <id>https://euncho.medium.com/why-i-stop-using-the-strapi-35bd9050bc24</id>
+        <link href="https://euncho.medium.com/why-i-stop-using-the-strapi-35bd9050bc24"/>
+        <updated>2022-05-29T01:44:18.323Z</updated>
+        <content type="html"><![CDATA[(euncho.medium.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Puppeteer 안티패턴들 피하기]]></title>
@@ -124,18 +124,18 @@
         <content type="html"><![CDATA[(serpapi.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Payload - Headless CMS 오픈소스]]></title>
-        <id>https://github.com/payloadcms/payload</id>
-        <link href="https://github.com/payloadcms/payload"/>
-        <updated>2022-05-29T01:44:18.350Z</updated>
-        <content type="html"><![CDATA[(github.com/payloadcms)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[기계식 시계는 어떻게 동작하는가]]></title>
         <id>https://ciechanow.ski/mechanical-watch/</id>
         <link href="https://ciechanow.ski/mechanical-watch/"/>
         <updated>2022-05-26T01:43:53.698Z</updated>
         <content type="html"><![CDATA[(ciechanow.ski)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Payload - Headless CMS 오픈소스]]></title>
+        <id>https://github.com/payloadcms/payload</id>
+        <link href="https://github.com/payloadcms/payload"/>
+        <updated>2022-05-29T01:44:18.350Z</updated>
+        <content type="html"><![CDATA[(github.com/payloadcms)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Remult - 풀스택 Typescript용 CRUD 프레임워크]]></title>
