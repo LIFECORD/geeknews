@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-01T10:25:13.328Z</updated>
+    <updated>2022-06-01T11:17:25.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(twitter.com/youknowone_)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xournal++ - 오픈소스 손글씨 노트 작성 도구]]></title>
-        <id>https://xournalpp.github.io/</id>
-        <link href="https://xournalpp.github.io/"/>
-        <updated>2022-05-31T01:41:36.983Z</updated>
-        <content type="html"><![CDATA[(xournalpp.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[a16z, Web3를 위한 5.5조원 펀드 결성]]></title>
         <id>https://a16zcrypto.com/crypto-fund-four/</id>
         <link href="https://a16zcrypto.com/crypto-fund-four/"/>
         <updated>2022-06-01T01:54:14.061Z</updated>
         <content type="html"><![CDATA[(a16zcrypto.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xournal++ - 오픈소스 손글씨 노트 작성 도구]]></title>
+        <id>https://xournalpp.github.io/</id>
+        <link href="https://xournalpp.github.io/"/>
+        <updated>2022-05-31T01:41:36.983Z</updated>
+        <content type="html"><![CDATA[(xournalpp.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1인 SaaS인 Healthchecks.io의 기술 스택]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(q-link.minung.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft, Xbox 클라우드 게임 스트리밍용 HDMI 동글 개발 중]]></title>
-        <id>https://www.windowscentral.com/gaming/xbox/exclusive-microsoft-continues-to-iterate-on-an-xbox-cloud-streaming-stick-codenamed-keystone</id>
-        <link href="https://www.windowscentral.com/gaming/xbox/exclusive-microsoft-continues-to-iterate-on-an-xbox-cloud-streaming-stick-codenamed-keystone"/>
-        <updated>2022-06-01T01:54:14.064Z</updated>
-        <content type="html"><![CDATA[(windowscentral.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[POAP, NFT를 활용한 출석 인증 프로토콜]]></title>
         <id>https://ansubin.com/understanding-soulboundtoken-poap/</id>
         <link href="https://ansubin.com/understanding-soulboundtoken-poap/"/>
         <updated>2022-05-30T07:20:24.060Z</updated>
         <content type="html"><![CDATA[(ansubin.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft, Xbox 클라우드 게임 스트리밍용 HDMI 동글 개발 중]]></title>
+        <id>https://www.windowscentral.com/gaming/xbox/exclusive-microsoft-continues-to-iterate-on-an-xbox-cloud-streaming-stick-codenamed-keystone</id>
+        <link href="https://www.windowscentral.com/gaming/xbox/exclusive-microsoft-continues-to-iterate-on-an-xbox-cloud-streaming-stick-codenamed-keystone"/>
+        <updated>2022-06-01T01:54:14.064Z</updated>
+        <content type="html"><![CDATA[(windowscentral.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 코딩할 때 어떤 폰트를 사용하시나요?]]></title>
