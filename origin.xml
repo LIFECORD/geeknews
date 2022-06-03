@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-03T16:26:01.593Z</updated>
+    <updated>2022-06-03T17:19:34.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(n.news.naver.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI로 금융기관 수수료 환불받고, 경제생활 조언받으며, 구독 서비스 해지하는 방식]]></title>
-        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222753702676</id>
-        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222753702676"/>
-        <updated>2022-06-03T08:21:10.401Z</updated>
-        <content type="html"><![CDATA[(blog.naver.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[System Font Stack]]></title>
         <id>https://systemfontstack.com/</id>
         <link href="https://systemfontstack.com/"/>
         <updated>2022-06-02T01:42:28.525Z</updated>
         <content type="html"><![CDATA[(systemfontstack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI로 금융기관 수수료 환불받고, 경제생활 조언받으며, 구독 서비스 해지하는 방식]]></title>
+        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222753702676</id>
+        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222753702676"/>
+        <updated>2022-06-03T08:21:10.401Z</updated>
+        <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Codeball - AI가 수행하는 코드 리뷰]]></title>
