@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-03T15:18:54.552Z</updated>
+    <updated>2022-06-03T16:26:01.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Feather Wiki - 1개의 HTML로 저장되는 개인용 위키]]></title>
-        <id>https://feather.wiki/</id>
-        <link href="https://feather.wiki/"/>
-        <updated>2022-06-03T01:18:58.979Z</updated>
-        <content type="html"><![CDATA[(feather.wiki)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[대학생 때 알았더라면 좋았을 것들]]></title>
         <id>https://www.slideshare.net/utilforever/ss-251900268</id>
         <link href="https://www.slideshare.net/utilforever/ss-251900268"/>
         <updated>2022-06-02T05:31:33.107Z</updated>
         <content type="html"><![CDATA[(slideshare.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feather Wiki - 1개의 HTML로 저장되는 개인용 위키]]></title>
+        <id>https://feather.wiki/</id>
+        <link href="https://feather.wiki/"/>
+        <updated>2022-06-03T01:18:58.979Z</updated>
+        <content type="html"><![CDATA[(feather.wiki)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenVerse - 오픈 라이센스 미디어 검색엔진]]></title>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(jasonette.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[50대의 Geforce 1080Ti로 유방암/뇌종양과 싸운 '아마추어' 프로그래머]]></title>
+        <id>https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer</id>
+        <link href="https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"/>
+        <updated>2022-05-30T03:37:43.921Z</updated>
+        <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구글이 직접 개발자에게 연락해서 PlayStore 에서 FairEmail 앱 복원]]></title>
         <id>https://faircode.eu/faq.html</id>
         <link href="https://faircode.eu/faq.html"/>
@@ -67,13 +74,6 @@
         <link href="https://n.news.naver.com/mnews/article/001/0013223845?sid=104"/>
         <updated>2022-06-03T03:12:38.093Z</updated>
         <content type="html"><![CDATA[(n.news.naver.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50대의 Geforce 1080Ti로 유방암/뇌종양과 싸운 '아마추어' 프로그래머]]></title>
-        <id>https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer</id>
-        <link href="https://howardchen.substack.com/p/this-amateur-programmer-fought-cancer"/>
-        <updated>2022-05-30T03:37:43.921Z</updated>
-        <content type="html"><![CDATA[(howardchen.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI로 금융기관 수수료 환불받고, 경제생활 조언받으며, 구독 서비스 해지하는 방식]]></title>
