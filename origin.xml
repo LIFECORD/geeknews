@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-03T19:14:34.220Z</updated>
+    <updated>2022-06-03T20:19:45.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(newatlas.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't Wordle]]></title>
-        <id>https://dontwordle.com/</id>
-        <link href="https://dontwordle.com/"/>
-        <updated>2022-06-03T01:18:58.986Z</updated>
-        <content type="html"><![CDATA[(dontwordle.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dragonfly - Redis와 Memcached의 최신 대체제]]></title>
         <id>https://github.com/dragonflydb/dragonfly</id>
         <link href="https://github.com/dragonflydb/dragonfly"/>
@@ -123,6 +116,13 @@
         <link href="https://twitter.com/TechEmails/status/1531994582669348864"/>
         <updated>2022-06-02T01:42:28.548Z</updated>
         <content type="html"><![CDATA[(twitter.com/TechEmails)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Wordle]]></title>
+        <id>https://dontwordle.com/</id>
+        <link href="https://dontwordle.com/"/>
+        <updated>2022-06-03T01:18:58.986Z</updated>
+        <content type="html"><![CDATA[(dontwordle.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WebRTC Nuts & Bolts]]></title>
