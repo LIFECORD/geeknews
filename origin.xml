@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-08T20:18:45.571Z</updated>
+    <updated>2022-06-08T21:16:19.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple, macOS Ventura 공개]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/06/macos-ventura-brings-powerful-productivity-tools-new-continuity-features-to-mac/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/06/macos-ventura-brings-powerful-productivity-tools-new-continuity-features-to-mac/"/>
-        <updated>2022-06-07T01:26:04.941Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대학생 때 알았더라면 좋았을 것들]]></title>
         <id>https://www.slideshare.net/utilforever/ss-251900268</id>
         <link href="https://www.slideshare.net/utilforever/ss-251900268"/>
         <updated>2022-06-08T20:18:09.177Z</updated>
         <content type="html"><![CDATA[(slideshare.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple, macOS Ventura 공개]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/06/macos-ventura-brings-powerful-productivity-tools-new-continuity-features-to-mac/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/06/macos-ventura-brings-powerful-productivity-tools-new-continuity-features-to-mac/"/>
+        <updated>2022-06-07T01:26:04.941Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
 </feed>
