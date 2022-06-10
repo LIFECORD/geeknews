@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-10T19:15:23.725Z</updated>
+    <updated>2022-06-10T20:18:19.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(nature.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub, Atom 에디터 종료]]></title>
-        <id>https://github.blog/2022-06-08-sunsetting-atom/</id>
-        <link href="https://github.blog/2022-06-08-sunsetting-atom/"/>
-        <updated>2022-06-10T01:43:22.819Z</updated>
-        <content type="html"><![CDATA[(github.blog)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[렌더링 성능을 7배 빠르게 하는 2줄의 CSS]]></title>
         <id>https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd</id>
         <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
         <updated>2022-06-09T01:27:24.157Z</updated>
         <content type="html"><![CDATA[(dev.to)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub, Atom 에디터 종료]]></title>
+        <id>https://github.blog/2022-06-08-sunsetting-atom/</id>
+        <link href="https://github.blog/2022-06-08-sunsetting-atom/"/>
+        <updated>2022-06-10T01:43:22.819Z</updated>
+        <content type="html"><![CDATA[(github.blog)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google I/O 2022에서 발표한 Android 개발 도구 업데이트 정리]]></title>
