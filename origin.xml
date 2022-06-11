@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-11T04:23:32.654Z</updated>
+    <updated>2022-06-11T05:16:38.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://github.com/metalbear-co/mirrord"/>
         <updated>2022-06-10T01:43:22.819Z</updated>
         <content type="html"><![CDATA[(github.com/metalbear-co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple 디자인 어워드 2022년 수상작]]></title>
+        <id>https://developer.apple.com/kr/design/awards/</id>
+        <link href="https://developer.apple.com/kr/design/awards/"/>
+        <updated>2022-06-11T01:26:40.883Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
+        <id>https://github.com/anufrievroman/calcure</id>
+        <link href="https://github.com/anufrievroman/calcure"/>
+        <updated>2022-06-11T01:26:40.900Z</updated>
+        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dashy - 개인 서버용 스타트 페이지 오픈소스]]></title>
@@ -46,20 +60,6 @@
         <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
         <updated>2022-06-09T01:27:24.157Z</updated>
         <content type="html"><![CDATA[(dev.to)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple 디자인 어워드 2022년 수상작]]></title>
-        <id>https://developer.apple.com/kr/design/awards/</id>
-        <link href="https://developer.apple.com/kr/design/awards/"/>
-        <updated>2022-06-11T01:26:40.883Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
-        <id>https://github.com/anufrievroman/calcure</id>
-        <link href="https://github.com/anufrievroman/calcure"/>
-        <updated>2022-06-11T01:26:40.900Z</updated>
-        <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사용 가능한 좋은 .COM 도메인 찾기]]></title>
