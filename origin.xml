@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-11T17:15:52.226Z</updated>
+    <updated>2022-06-11T18:22:26.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Deepkit - 고성능 TypeScript 프레임워크]]></title>
+        <id>https://deepkit.io/</id>
+        <link href="https://deepkit.io/"/>
+        <updated>2022-06-11T01:26:40.871Z</updated>
+        <content type="html"><![CDATA[(deepkit.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trunk Check - 모든 린터와 포맷터를 실행하는 단일 CLI]]></title>
         <id>https://trunk.io/</id>
@@ -25,13 +32,6 @@
         <link href="https://github.com/metalbear-co/mirrord"/>
         <updated>2022-06-10T01:43:22.819Z</updated>
         <content type="html"><![CDATA[(github.com/metalbear-co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepkit - 고성능 TypeScript 프레임워크]]></title>
-        <id>https://deepkit.io/</id>
-        <link href="https://deepkit.io/"/>
-        <updated>2022-06-11T01:26:40.871Z</updated>
-        <content type="html"><![CDATA[(deepkit.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dashy - 개인 서버용 스타트 페이지 오픈소스]]></title>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(nature.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[렌더링 성능을 7배 빠르게 하는 2줄의 CSS]]></title>
+        <id>https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd</id>
+        <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
+        <updated>2022-06-09T01:27:24.157Z</updated>
+        <content type="html"><![CDATA[(dev.to)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Calcure - TUI 캘린더 & 태스크 관리자]]></title>
         <id>https://github.com/anufrievroman/calcure</id>
         <link href="https://github.com/anufrievroman/calcure"/>
@@ -62,11 +69,11 @@
         <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[렌더링 성능을 7배 빠르게 하는 2줄의 CSS]]></title>
-        <id>https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd</id>
-        <link href="https://dev.to/mnathani/two-lines-of-css-that-boosts-7x-rendering-performance-4mjd"/>
-        <updated>2022-06-09T01:27:24.157Z</updated>
-        <content type="html"><![CDATA[(dev.to)]]></content>
+        <title type="html"><![CDATA[Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역)]]></title>
+        <id>https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/</id>
+        <link href="https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/"/>
+        <updated>2022-06-10T12:35:43.382Z</updated>
+        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세콰이어 캐피탈 - 견디기 위해 적응하기 (번역)]]></title>
@@ -88,13 +95,6 @@
         <link href="https://sive.rs/com"/>
         <updated>2022-06-10T01:43:22.817Z</updated>
         <content type="html"><![CDATA[(sive.rs)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta가 캐시 무효화를 쓰면서 캐시 일관성을 유지하는 방법 (번역)]]></title>
-        <id>https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/</id>
-        <link href="https://moonsub-kim.github.io/docs/meta/cache-made-consistent-metas-cache-invalidation-solution/"/>
-        <updated>2022-06-10T12:35:43.382Z</updated>
-        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub, Atom 에디터 종료]]></title>
