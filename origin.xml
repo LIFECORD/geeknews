@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-11T09:17:00.732Z</updated>
+    <updated>2022-06-11T10:20:27.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trunk Check - 모든 린터와 포맷터를 실행하는 단일 CLI]]></title>
-        <id>https://trunk.io/</id>
-        <link href="https://trunk.io/"/>
-        <updated>2022-06-11T08:21:14.678Z</updated>
-        <content type="html"><![CDATA[(trunk.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dashy - 개인 서버용 스타트 페이지 오픈소스]]></title>
         <id>https://github.com/Lissy93/dashy</id>
         <link href="https://github.com/Lissy93/dashy"/>
         <updated>2022-06-10T01:43:22.817Z</updated>
         <content type="html"><![CDATA[(github.com/Lissy93)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trunk Check - 모든 린터와 포맷터를 실행하는 단일 CLI]]></title>
+        <id>https://trunk.io/</id>
+        <link href="https://trunk.io/"/>
+        <updated>2022-06-11T08:21:14.678Z</updated>
+        <content type="html"><![CDATA[(trunk.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Haskell로 정적 사이트 생성기 만들기 튜토리얼]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(lhbg-book.link)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple 디자인 어워드 2022년 수상작]]></title>
-        <id>https://developer.apple.com/kr/design/awards/</id>
-        <link href="https://developer.apple.com/kr/design/awards/"/>
-        <updated>2022-06-11T01:26:40.883Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[카페인 섭취는 뇌를 어떻게 바꾸는가]]></title>
         <id>https://www.nature.com/articles/d41586-022-01487-4</id>
         <link href="https://www.nature.com/articles/d41586-022-01487-4"/>
         <updated>2022-06-09T04:30:06.813Z</updated>
         <content type="html"><![CDATA[(nature.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple 디자인 어워드 2022년 수상작]]></title>
+        <id>https://developer.apple.com/kr/design/awards/</id>
+        <link href="https://developer.apple.com/kr/design/awards/"/>
+        <updated>2022-06-11T01:26:40.883Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[렌더링 성능을 7배 빠르게 하는 2줄의 CSS]]></title>
