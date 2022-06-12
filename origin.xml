@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-12T13:23:59.985Z</updated>
+    <updated>2022-06-12T14:15:43.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(shotcut.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Umbrel - 셀프호스팅을 위한 개인용 서버 OS]]></title>
-        <id>https://umbrel.com/</id>
-        <link href="https://umbrel.com/"/>
-        <updated>2022-06-12T01:46:09.135Z</updated>
-        <content type="html"><![CDATA[(umbrel.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[찰스 페졸드의 CODE 2판 발표]]></title>
         <id>http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html</id>
         <link href="http://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html"/>
         <updated>2022-06-12T01:46:09.144Z</updated>
         <content type="html"><![CDATA[(charlespetzold.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Umbrel - 셀프호스팅을 위한 개인용 서버 OS]]></title>
+        <id>https://umbrel.com/</id>
+        <link href="https://umbrel.com/"/>
+        <updated>2022-06-12T01:46:09.135Z</updated>
+        <content type="html"><![CDATA[(umbrel.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만약 OpenSSL이 GUI 였다면]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(lhbg-book.link)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[시스템 설계 관련 자료들 모음]]></title>
+        <id>https://github.com/InterviewReady/system-design-resources</id>
+        <link href="https://github.com/InterviewReady/system-design-resources"/>
+        <updated>2022-06-06T01:41:15.242Z</updated>
+        <content type="html"><![CDATA[(github.com/InterviewReady)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple 디자인 어워드 2022년 수상작]]></title>
         <id>https://developer.apple.com/kr/design/awards/</id>
         <link href="https://developer.apple.com/kr/design/awards/"/>
@@ -102,13 +109,6 @@
         <link href="https://github.com/anufrievroman/calcure"/>
         <updated>2022-06-11T01:26:40.900Z</updated>
         <content type="html"><![CDATA[(github.com/anufrievroman)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시스템 설계 관련 자료들 모음]]></title>
-        <id>https://github.com/InterviewReady/system-design-resources</id>
-        <link href="https://github.com/InterviewReady/system-design-resources"/>
-        <updated>2022-06-06T01:41:15.242Z</updated>
-        <content type="html"><![CDATA[(github.com/InterviewReady)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Debezium - DB의 변경사항을 스트리밍하는 오픈소스]]></title>
