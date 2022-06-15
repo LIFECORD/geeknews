@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-15T20:19:40.651Z</updated>
+    <updated>2022-06-15T21:15:56.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜]]></title>
-        <id>https://news.hada.io/topic?id=6761</id>
-        <link href="https://news.hada.io/topic?id=6761"/>
-        <updated>2022-06-15T12:33:58.351Z</updated>
-        <content type="html"><![CDATA[(twitter.com/hrmm_flow)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[왜 Rust가 스타트업에게 좋은 선택인가]]></title>
         <id>https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/</id>
         <link href="https://dailyedit.com/blog/why-rust-is-a-great-choice-for-startups/"/>
@@ -69,6 +62,13 @@
         <content type="html"><![CDATA[(fresh.deno.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜]]></title>
+        <id>https://news.hada.io/topic?id=6761</id>
+        <link href="https://news.hada.io/topic?id=6761"/>
+        <updated>2022-06-15T12:33:58.351Z</updated>
+        <content type="html"><![CDATA[(twitter.com/hrmm_flow)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Firefox 데스크탑 & 안드로이드에서 WebContainers 지원 시작]]></title>
         <id>https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/</id>
         <link href="https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/"/>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(blog.stackblitz.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Floppotron 3.0 - FDD/HDD/스캐너로 만든 컴퓨터 오케스트라]]></title>
-        <id>http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/</id>
-        <link href="http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/"/>
-        <updated>2022-06-15T01:42:25.610Z</updated>
-        <content type="html"><![CDATA[(silent.org.pl)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까]]></title>
         <id>https://kickstartsidehustle.com/a-billion-dollar-mvp/</id>
         <link href="https://kickstartsidehustle.com/a-billion-dollar-mvp/"/>
         <updated>2022-06-13T03:37:08.158Z</updated>
         <content type="html"><![CDATA[(kickstartsidehustle.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Floppotron 3.0 - FDD/HDD/스캐너로 만든 컴퓨터 오케스트라]]></title>
+        <id>http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/</id>
+        <link href="http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/"/>
+        <updated>2022-06-15T01:42:25.610Z</updated>
+        <content type="html"><![CDATA[(silent.org.pl)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[간 이식에 변화를 몰고 올 혁신적 보관 기술이 등장했다]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(smashingmagazine.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새로운 Apple Human Interface Guidelines]]></title>
-        <id>https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/</id>
-        <link href="https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/"/>
-        <updated>2022-06-14T01:52:28.500Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shotcut - 무료, 오픈소스, 크로스플랫폼 비디오 편집기]]></title>
         <id>https://shotcut.org/</id>
         <link href="https://shotcut.org/"/>
         <updated>2022-06-12T03:23:35.876Z</updated>
         <content type="html"><![CDATA[(shotcut.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 Apple Human Interface Guidelines]]></title>
+        <id>https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/</id>
+        <link href="https://developer.apple.com/design/human-interface-guidelines/guidelines/overview/"/>
+        <updated>2022-06-14T01:52:28.500Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
 </feed>
