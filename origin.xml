@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-16T09:22:27.785Z</updated>
+    <updated>2022-06-16T10:20:30.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[큰 기술 회사들은 어떻게 프로젝트를 진행할까]]></title>
-        <id>https://blog.pragmaticengineer.com/project-management-at-big-tech/</id>
-        <link href="https://blog.pragmaticengineer.com/project-management-at-big-tech/"/>
-        <updated>2022-06-14T03:52:37.923Z</updated>
-        <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
         <id>https://skills.github.com/</id>
         <link href="https://skills.github.com/"/>
         <updated>2022-06-15T01:42:25.601Z</updated>
         <content type="html"><![CDATA[(skills.github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[큰 기술 회사들은 어떻게 프로젝트를 진행할까]]></title>
+        <id>https://blog.pragmaticengineer.com/project-management-at-big-tech/</id>
+        <link href="https://blog.pragmaticengineer.com/project-management-at-big-tech/"/>
+        <updated>2022-06-14T03:52:37.923Z</updated>
+        <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: WRP - 웹뷰와 모바일 네이티브 통신을 위한 Protobuf 서비스 프로토콜]]></title>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[(json.media)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Helix - kakoune / neovim에 영감을 받은 텍스트 에디터]]></title>
-        <id>https://helix-editor.com/</id>
-        <link href="https://helix-editor.com/"/>
-        <updated>2022-06-16T05:41:42.386Z</updated>
-        <content type="html"><![CDATA[(helix-editor.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Android SDK 자동화 테스트 환경 구축기]]></title>
         <id>https://engineering.ab180.co/stories/android-sdk-test-automation-part1</id>
         <link href="https://engineering.ab180.co/stories/android-sdk-test-automation-part1"/>
@@ -95,6 +88,13 @@
         <link href="https://fresh.deno.dev/"/>
         <updated>2022-06-15T01:42:25.624Z</updated>
         <content type="html"><![CDATA[(fresh.deno.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helix - kakoune / neovim에 영감을 받은 텍스트 에디터]]></title>
+        <id>https://helix-editor.com/</id>
+        <link href="https://helix-editor.com/"/>
+        <updated>2022-06-16T05:41:42.386Z</updated>
+        <content type="html"><![CDATA[(helix-editor.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까]]></title>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(blog.stackblitz.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coinbase, 1100명 정리 해고]]></title>
-        <id>https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/</id>
-        <link href="https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/"/>
-        <updated>2022-06-16T03:49:16.876Z</updated>
-        <content type="html"><![CDATA[(coindesk.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DNS Toys - DNS 프로토콜을 이용한 작은 유틸리티 오픈소스]]></title>
         <id>https://www.dns.toys/</id>
         <link href="https://www.dns.toys/"/>
@@ -143,5 +136,12 @@
         <link href="https://subokim.wordpress.com/2022/06/12/how_facebook_work/"/>
         <updated>2022-06-16T07:43:16.833Z</updated>
         <content type="html"><![CDATA[(subokim.wordpress.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coinbase, 1100명 정리 해고]]></title>
+        <id>https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/</id>
+        <link href="https://www.coindesk.com/business/2022/06/14/coinbase-will-layoff-around-1100-employees/"/>
+        <updated>2022-06-16T03:49:16.876Z</updated>
+        <content type="html"><![CDATA[(coindesk.com)]]></content>
     </entry>
 </feed>
