@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-16T18:23:53.052Z</updated>
+    <updated>2022-06-16T19:13:45.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(rulex-rs.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Grafana, OnCall 오픈소스 공개]]></title>
-        <id>https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/</id>
-        <link href="https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/"/>
-        <updated>2022-06-16T01:39:28.621Z</updated>
-        <content type="html"><![CDATA[(grafana.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lorien - 무한 칠판/노트 작성 도구 오픈소스]]></title>
         <id>https://github.com/mbrlabs/Lorien</id>
         <link href="https://github.com/mbrlabs/Lorien"/>
         <updated>2022-06-15T01:42:25.609Z</updated>
         <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafana, OnCall 오픈소스 공개]]></title>
+        <id>https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/</id>
+        <link href="https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/"/>
+        <updated>2022-06-16T01:39:28.621Z</updated>
+        <content type="html"><![CDATA[(grafana.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[큰 기술 회사들은 어떻게 프로젝트를 진행할까]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Test API - Simple API that is (maybe) useful for testing]]></title>
-        <id>https://news.hada.io/topic?id=6759</id>
-        <link href="https://news.hada.io/topic?id=6759"/>
-        <updated>2022-06-15T06:22:44.480Z</updated>
-        <content type="html"><![CDATA[(json.media)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까]]></title>
         <id>https://kickstartsidehustle.com/a-billion-dollar-mvp/</id>
         <link href="https://kickstartsidehustle.com/a-billion-dollar-mvp/"/>
         <updated>2022-06-13T03:37:08.158Z</updated>
         <content type="html"><![CDATA[(kickstartsidehustle.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Test API - Simple API that is (maybe) useful for testing]]></title>
+        <id>https://news.hada.io/topic?id=6759</id>
+        <link href="https://news.hada.io/topic?id=6759"/>
+        <updated>2022-06-15T06:22:44.480Z</updated>
+        <content type="html"><![CDATA[(json.media)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fresh - 차세대 웹 프레임워크]]></title>
