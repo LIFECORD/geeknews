@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-19T19:14:54.633Z</updated>
+    <updated>2022-06-19T20:19:25.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,6 +97,13 @@
         <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
+        <id>https://skills.github.com/</id>
+        <link href="https://skills.github.com/"/>
+        <updated>2022-06-15T01:42:25.601Z</updated>
+        <content type="html"><![CDATA[(skills.github.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Awesome Data Leadership]]></title>
         <id>https://github.com/ronikobrosly/awesome-data-leadership</id>
         <link href="https://github.com/ronikobrosly/awesome-data-leadership"/>
@@ -111,11 +118,11 @@
         <content type="html"><![CDATA[(about.bnef.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
-        <id>https://skills.github.com/</id>
-        <link href="https://skills.github.com/"/>
-        <updated>2022-06-15T01:42:25.601Z</updated>
-        <content type="html"><![CDATA[(skills.github.com)]]></content>
+        <title type="html"><![CDATA[1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까]]></title>
+        <id>https://kickstartsidehustle.com/a-billion-dollar-mvp/</id>
+        <link href="https://kickstartsidehustle.com/a-billion-dollar-mvp/"/>
+        <updated>2022-06-19T06:20:46.337Z</updated>
+        <content type="html"><![CDATA[(kickstartsidehustle.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거]]></title>
@@ -125,13 +132,6 @@
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1조 회사들은 MVP를 어떻게 개발하고, 첫 1000명의 사용자를 모았을까]]></title>
-        <id>https://kickstartsidehustle.com/a-billion-dollar-mvp/</id>
-        <link href="https://kickstartsidehustle.com/a-billion-dollar-mvp/"/>
-        <updated>2022-06-19T06:20:46.337Z</updated>
-        <content type="html"><![CDATA[(kickstartsidehustle.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이 달의 CT 스캔 : 골프 장비]]></title>
         <id>https://www.scanofthemonth.com/scans/golf-equipment</id>
         <link href="https://www.scanofthemonth.com/scans/golf-equipment"/>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CLAP : 새로운 Audio Plug-in 표준]]></title>
-        <id>https://u-he.com/community/clap/</id>
-        <link href="https://u-he.com/community/clap/"/>
-        <updated>2022-06-18T01:40:12.289Z</updated>
-        <content type="html"><![CDATA[(u-he.com)]]></content>
+        <title type="html"><![CDATA[Tauri v1.0 릴리즈]]></title>
+        <id>https://tauri.app/</id>
+        <link href="https://tauri.app/"/>
+        <updated>2022-06-19T20:18:40.636Z</updated>
+        <content type="html"><![CDATA[(tauri.app)]]></content>
     </entry>
 </feed>
