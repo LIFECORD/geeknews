@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-19T21:16:36.032Z</updated>
+    <updated>2022-06-19T22:16:58.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anonfriendly - 익명으로 일할수 있는 직업 찾기]]></title>
-        <id>https://anonfriendly.com/</id>
-        <link href="https://anonfriendly.com/"/>
-        <updated>2022-06-19T01:45:14.906Z</updated>
-        <content type="html"><![CDATA[(anonfriendly.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[랜덤 Favicon 생성기]]></title>
         <id>https://toolcool.org/random-favicon-generator/</id>
         <link href="https://toolcool.org/random-favicon-generator/"/>
         <updated>2022-06-18T01:40:12.295Z</updated>
         <content type="html"><![CDATA[(toolcool.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anonfriendly - 익명으로 일할수 있는 직업 찾기]]></title>
+        <id>https://anonfriendly.com/</id>
+        <link href="https://anonfriendly.com/"/>
+        <updated>2022-06-19T01:45:14.906Z</updated>
+        <content type="html"><![CDATA[(anonfriendly.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Redbean 2.0 공개]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이 달의 CT 스캔 : 골프 장비]]></title>
-        <id>https://www.scanofthemonth.com/scans/golf-equipment</id>
-        <link href="https://www.scanofthemonth.com/scans/golf-equipment"/>
-        <updated>2022-06-18T01:40:12.294Z</updated>
-        <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tauri v1.0 릴리즈]]></title>
         <id>https://tauri.app/</id>
         <link href="https://tauri.app/"/>
         <updated>2022-06-19T20:18:40.636Z</updated>
         <content type="html"><![CDATA[(tauri.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 달의 CT 스캔 : 골프 장비]]></title>
+        <id>https://www.scanofthemonth.com/scans/golf-equipment</id>
+        <link href="https://www.scanofthemonth.com/scans/golf-equipment"/>
+        <updated>2022-06-18T01:40:12.294Z</updated>
+        <content type="html"><![CDATA[(scanofthemonth.com)]]></content>
     </entry>
 </feed>
