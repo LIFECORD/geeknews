@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-20T01:41:51.000Z</updated>
+    <updated>2022-06-20T03:17:43.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가장 효과적인 창업자들을 연구해서 얻은 교훈들]]></title>
+        <id>https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/</id>
+        <link href="https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/"/>
+        <updated>2022-06-20T03:17:02.502Z</updated>
+        <content type="html"><![CDATA[(blog.google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상에서 가장 만족스러운 체크박스]]></title>
+        <id>https://www.andy.works/words/the-most-satisfying-checkbox</id>
+        <link href="https://www.andy.works/words/the-most-satisfying-checkbox"/>
+        <updated>2022-06-20T01:41:16.576Z</updated>
+        <content type="html"><![CDATA[(andy.works)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google News Initiative 스타트업 플레이북 (한국어)]]></title>
         <id>https://newsinitiative.withgoogle.com/digital-growth/startups-playbook/ko/playbook/#playbook</id>
@@ -13,11 +27,18 @@
         <content type="html"><![CDATA[(newsinitiative.withgoogle.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세상에서 가장 만족스러운 체크박스]]></title>
-        <id>https://www.andy.works/words/the-most-satisfying-checkbox</id>
-        <link href="https://www.andy.works/words/the-most-satisfying-checkbox"/>
-        <updated>2022-06-20T01:41:16.576Z</updated>
-        <content type="html"><![CDATA[(andy.works)]]></content>
+        <title type="html"><![CDATA[공동창업시 주주간 계약서에 들어가야할 내용]]></title>
+        <id>https://zuzu.network/resource/blog/how-to-write-founders-agreement/</id>
+        <link href="https://zuzu.network/resource/blog/how-to-write-founders-agreement/"/>
+        <updated>2022-06-20T03:17:02.502Z</updated>
+        <content type="html"><![CDATA[(zuzu.network)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고의 개발툴 발표는 어떤 건가요?]]></title>
+        <id>https://news.ycombinator.com/item?id=31782200</id>
+        <link href="https://news.ycombinator.com/item?id=31782200"/>
+        <updated>2022-06-20T01:41:16.581Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Patreon의 수수료는 알려진 것보다 높음]]></title>
@@ -32,13 +53,6 @@
         <link href="https://osawards.com/react/"/>
         <updated>2022-06-18T15:17:21.405Z</updated>
         <content type="html"><![CDATA[(osawards.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최고의 개발툴 발표는 어떤 건가요?]]></title>
-        <id>https://news.ycombinator.com/item?id=31782200</id>
-        <link href="https://news.ycombinator.com/item?id=31782200"/>
-        <updated>2022-06-20T01:41:16.581Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sake - 로컬 & 리모트 서버들을 위한 명령 실행기]]></title>
@@ -69,18 +83,18 @@
         <content type="html"><![CDATA[(toolcool.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anonfriendly - 익명으로 일할수 있는 직업 찾기]]></title>
-        <id>https://anonfriendly.com/</id>
-        <link href="https://anonfriendly.com/"/>
-        <updated>2022-06-19T01:45:14.906Z</updated>
-        <content type="html"><![CDATA[(anonfriendly.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Redbean 2.0 공개]]></title>
         <id>https://justine.lol/redbean2/</id>
         <link href="https://justine.lol/redbean2/"/>
         <updated>2022-06-17T01:26:29.153Z</updated>
         <content type="html"><![CDATA[(justine.lol)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anonfriendly - 익명으로 일할수 있는 직업 찾기]]></title>
+        <id>https://anonfriendly.com/</id>
+        <link href="https://anonfriendly.com/"/>
+        <updated>2022-06-19T01:45:14.906Z</updated>
+        <content type="html"><![CDATA[(anonfriendly.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Notion으로 만든 중고맥북 판매 중개 서비스]]></title>
@@ -111,13 +125,6 @@
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Awesome Data Leadership]]></title>
-        <id>https://github.com/ronikobrosly/awesome-data-leadership</id>
-        <link href="https://github.com/ronikobrosly/awesome-data-leadership"/>
-        <updated>2022-06-16T01:39:28.625Z</updated>
-        <content type="html"><![CDATA[(github.com/ronikobrosly)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[구글, 지구 표면을 거의 실시간으로 보여주는 Dynamic World 공개]]></title>
         <id>https://blog.google/products/earth/dynamic-world-land-cover-data/</id>
         <link href="https://blog.google/products/earth/dynamic-world-land-cover-data/"/>
@@ -125,24 +132,17 @@
         <content type="html"><![CDATA[(blog.google)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Awesome Data Leadership]]></title>
+        <id>https://github.com/ronikobrosly/awesome-data-leadership</id>
+        <link href="https://github.com/ronikobrosly/awesome-data-leadership"/>
+        <updated>2022-06-16T01:39:28.625Z</updated>
+        <content type="html"><![CDATA[(github.com/ronikobrosly)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lorien - 무한 칠판/노트 작성 도구 오픈소스]]></title>
         <id>https://github.com/mbrlabs/Lorien</id>
         <link href="https://github.com/mbrlabs/Lorien"/>
         <updated>2022-06-15T01:42:25.609Z</updated>
         <content type="html"><![CDATA[(github.com/mbrlabs)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플과 Cloudflare, Private Access Tokens로 CAPTCHA를 제거]]></title>
-        <id>https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/</id>
-        <link href="https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/"/>
-        <updated>2022-06-17T01:26:29.153Z</updated>
-        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Skills - 인터랙티브하게 GitHub 사용법 배우기]]></title>
-        <id>https://skills.github.com/</id>
-        <link href="https://skills.github.com/"/>
-        <updated>2022-06-15T01:42:25.601Z</updated>
-        <content type="html"><![CDATA[(skills.github.com)]]></content>
     </entry>
 </feed>
