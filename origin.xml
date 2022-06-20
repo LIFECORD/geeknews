@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-20T08:29:21.899Z</updated>
+    <updated>2022-06-20T09:18:46.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(andy.works)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공동창업시 주주간 계약서에 들어가야할 내용]]></title>
-        <id>https://zuzu.network/resource/blog/how-to-write-founders-agreement/</id>
-        <link href="https://zuzu.network/resource/blog/how-to-write-founders-agreement/"/>
-        <updated>2022-06-20T03:17:02.502Z</updated>
-        <content type="html"><![CDATA[(zuzu.network)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google News Initiative 스타트업 플레이북 (한국어)]]></title>
         <id>https://newsinitiative.withgoogle.com/digital-growth/startups-playbook/ko/playbook/#playbook</id>
         <link href="https://newsinitiative.withgoogle.com/digital-growth/startups-playbook/ko/playbook/#playbook"/>
         <updated>2022-06-20T01:41:16.558Z</updated>
         <content type="html"><![CDATA[(newsinitiative.withgoogle.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공동창업시 주주간 계약서에 들어가야할 내용]]></title>
+        <id>https://zuzu.network/resource/blog/how-to-write-founders-agreement/</id>
+        <link href="https://zuzu.network/resource/blog/how-to-write-founders-agreement/"/>
+        <updated>2022-06-20T03:17:02.502Z</updated>
+        <content type="html"><![CDATA[(zuzu.network)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최고의 개발툴 발표는 어떤 건가요?]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(osawards.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ApplePie Pro - 프로덕트 아이디어에서 MVP 기획 디자인 개발 런칭 성장까지]]></title>
-        <id>https://nyanye.com/daun/2022/06/20/ApplePie-Pro-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%97%90%EC%84%9C-MVP-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B0%9C%EB%B0%9C-%EB%9F%B0%EC%B9%AD-%EC%84%B1%EC%9E%A5%EA%B9%8C%EC%A7%80/</id>
-        <link href="https://nyanye.com/daun/2022/06/20/ApplePie-Pro-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%97%90%EC%84%9C-MVP-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B0%9C%EB%B0%9C-%EB%9F%B0%EC%B9%AD-%EC%84%B1%EC%9E%A5%EA%B9%8C%EC%A7%80/"/>
-        <updated>2022-06-20T08:28:46.627Z</updated>
-        <content type="html"><![CDATA[(nyanye.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Patreon의 수수료는 알려진 것보다 높음]]></title>
         <id>https://thoughts.jatan.space/p/patreon-cuts-deep</id>
         <link href="https://thoughts.jatan.space/p/patreon-cuts-deep"/>
         <updated>2022-06-20T01:41:16.580Z</updated>
         <content type="html"><![CDATA[(thoughts.jatan.space)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ApplePie Pro - 프로덕트 아이디어에서 MVP 기획 디자인 개발 런칭 성장까지]]></title>
+        <id>https://nyanye.com/daun/2022/06/20/ApplePie-Pro-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%97%90%EC%84%9C-MVP-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B0%9C%EB%B0%9C-%EB%9F%B0%EC%B9%AD-%EC%84%B1%EC%9E%A5%EA%B9%8C%EC%A7%80/</id>
+        <link href="https://nyanye.com/daun/2022/06/20/ApplePie-Pro-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%97%90%EC%84%9C-MVP-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B0%9C%EB%B0%9C-%EB%9F%B0%EC%B9%AD-%EC%84%B1%EC%9E%A5%EA%B9%8C%EC%A7%80/"/>
+        <updated>2022-06-20T08:28:46.627Z</updated>
+        <content type="html"><![CDATA[(nyanye.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sake - 로컬 & 리모트 서버들을 위한 명령 실행기]]></title>
