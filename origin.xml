@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-20T16:29:48.098Z</updated>
+    <updated>2022-06-20T17:23:14.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(osawards.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Patreon의 수수료는 알려진 것보다 높음]]></title>
-        <id>https://thoughts.jatan.space/p/patreon-cuts-deep</id>
-        <link href="https://thoughts.jatan.space/p/patreon-cuts-deep"/>
-        <updated>2022-06-20T01:41:16.580Z</updated>
-        <content type="html"><![CDATA[(thoughts.jatan.space)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sake - 로컬 & 리모트 서버들을 위한 명령 실행기]]></title>
         <id>https://github.com/alajmo/sake</id>
         <link href="https://github.com/alajmo/sake"/>
         <updated>2022-06-19T01:45:14.906Z</updated>
         <content type="html"><![CDATA[(github.com/alajmo)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patreon의 수수료는 알려진 것보다 높음]]></title>
+        <id>https://thoughts.jatan.space/p/patreon-cuts-deep</id>
+        <link href="https://thoughts.jatan.space/p/patreon-cuts-deep"/>
+        <updated>2022-06-20T01:41:16.580Z</updated>
+        <content type="html"><![CDATA[(thoughts.jatan.space)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[UI Component Encyclopedia]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(justine.lol)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돈을 벌고 있지만, 감춰둔 사이드 프로젝트 있으신가요?]]></title>
-        <id>https://news.ycombinator.com/item?id=31764696</id>
-        <link href="https://news.ycombinator.com/item?id=31764696"/>
-        <updated>2022-06-17T01:26:29.153Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[큰 기술 회사들은 어떻게 프로젝트를 진행할까]]></title>
         <id>https://blog.pragmaticengineer.com/project-management-at-big-tech/</id>
         <link href="https://blog.pragmaticengineer.com/project-management-at-big-tech/"/>
         <updated>2022-06-14T03:52:37.923Z</updated>
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈을 벌고 있지만, 감춰둔 사이드 프로젝트 있으신가요?]]></title>
+        <id>https://news.ycombinator.com/item?id=31764696</id>
+        <link href="https://news.ycombinator.com/item?id=31764696"/>
+        <updated>2022-06-17T01:26:29.153Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Notion으로 만든 중고맥북 판매 중개 서비스]]></title>
