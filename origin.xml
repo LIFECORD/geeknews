@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-22T09:17:28.574Z</updated>
+    <updated>2022-06-22T10:22:44.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(cojette.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플은 찐 파괴왕: 30분만에 20개 스타트업을 보내다]]></title>
-        <id>https://brunch.co.kr/@ywkim36/77</id>
-        <link href="https://brunch.co.kr/@ywkim36/77"/>
-        <updated>2022-06-21T01:43:10.711Z</updated>
-        <content type="html"><![CDATA[(brunch.co.kr/@ywkim36)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ApplePie Pro - 프로덕트 아이디어에서 MVP 기획 디자인 개발 런칭 성장까지]]></title>
         <id>https://nyanye.com/daun/2022/06/20/ApplePie-Pro-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%97%90%EC%84%9C-MVP-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B0%9C%EB%B0%9C-%EB%9F%B0%EC%B9%AD-%EC%84%B1%EC%9E%A5%EA%B9%8C%EC%A7%80/</id>
         <link href="https://nyanye.com/daun/2022/06/20/ApplePie-Pro-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EC%97%90%EC%84%9C-MVP-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B0%9C%EB%B0%9C-%EB%9F%B0%EC%B9%AD-%EC%84%B1%EC%9E%A5%EA%B9%8C%EC%A7%80/"/>
         <updated>2022-06-20T08:28:46.627Z</updated>
         <content type="html"><![CDATA[(nyanye.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플은 찐 파괴왕: 30분만에 20개 스타트업을 보내다]]></title>
+        <id>https://brunch.co.kr/@ywkim36/77</id>
+        <link href="https://brunch.co.kr/@ywkim36/77"/>
+        <updated>2022-06-21T01:43:10.711Z</updated>
+        <content type="html"><![CDATA[(brunch.co.kr/@ywkim36)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공동창업시 주주간 계약서에 들어가야할 내용]]></title>
