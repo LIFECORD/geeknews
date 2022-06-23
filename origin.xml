@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-23T03:38:47.370Z</updated>
+    <updated>2022-06-23T04:37:24.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(techdirt.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마크 저커버그의 '비쥬얼 튜링 테스트 통과하기' 강연 요약]]></title>
-        <id>https://stibee.com/api/v1.0/emails/share/TcTVnjQyZd2t3dWp3gOczltwnB_mXvM=</id>
-        <link href="https://stibee.com/api/v1.0/emails/share/TcTVnjQyZd2t3dWp3gOczltwnB_mXvM="/>
-        <updated>2022-06-22T01:50:44.074Z</updated>
-        <content type="html"><![CDATA[(stibee.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Localhost 시대의 종말]]></title>
         <id>https://dx.tips/the-end-of-localhost</id>
         <link href="https://dx.tips/the-end-of-localhost"/>
         <updated>2022-06-21T01:43:10.711Z</updated>
         <content type="html"><![CDATA[(dx.tips)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마크 저커버그의 '비쥬얼 튜링 테스트 통과하기' 강연 요약]]></title>
+        <id>https://stibee.com/api/v1.0/emails/share/TcTVnjQyZd2t3dWp3gOczltwnB_mXvM=</id>
+        <link href="https://stibee.com/api/v1.0/emails/share/TcTVnjQyZd2t3dWp3gOczltwnB_mXvM="/>
+        <updated>2022-06-22T01:50:44.074Z</updated>
+        <content type="html"><![CDATA[(stibee.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BlueLink - 현대자동차 제어용 Python API Wrapper (Unofficial)]]></title>
