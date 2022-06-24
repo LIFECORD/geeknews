@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-24T01:42:47.508Z</updated>
+    <updated>2022-06-24T03:43:44.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[난 Jira가 정말 싫어요]]></title>
+        <id>https://ifuckinghatejira.com/</id>
+        <link href="https://ifuckinghatejira.com/"/>
+        <updated>2022-06-24T03:43:07.247Z</updated>
+        <content type="html"><![CDATA[(ifuckinghatejira.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miniflux - 경량 오픈소스 RSS 리더]]></title>
+        <id>https://miniflux.app/</id>
+        <link href="https://miniflux.app/"/>
+        <updated>2022-06-24T01:42:08.194Z</updated>
+        <content type="html"><![CDATA[(miniflux.app)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Viddy - Go로 재작성한 모던 Watch 커맨드]]></title>
         <id>https://github.com/sachaos/viddy</id>
@@ -27,6 +41,27 @@
         <content type="html"><![CDATA[(tinywow.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
+        <id>https://ansubin.com/nft-marketplaces/</id>
+        <link href="https://ansubin.com/nft-marketplaces/"/>
+        <updated>2022-06-24T01:42:08.185Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람들이 잠잘 때 암세포가 깨어난다]]></title>
+        <id>https://www.nature.com/articles/d41586-022-01724-w</id>
+        <link href="https://www.nature.com/articles/d41586-022-01724-w"/>
+        <updated>2022-06-24T03:43:07.249Z</updated>
+        <content type="html"><![CDATA[(nature.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7-Zip 22.00 릴리즈]]></title>
+        <id>https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/</id>
+        <link href="https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/"/>
+        <updated>2022-06-24T01:42:08.189Z</updated>
+        <content type="html"><![CDATA[(sourceforge.net)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
         <id>https://github.com/yandex/YaLM-100B</id>
         <link href="https://github.com/yandex/YaLM-100B"/>
@@ -41,20 +76,6 @@
         <content type="html"><![CDATA[(slack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
-        <id>https://ansubin.com/nft-marketplaces/</id>
-        <link href="https://ansubin.com/nft-marketplaces/"/>
-        <updated>2022-06-24T01:42:08.185Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7-Zip 22.00 릴리즈]]></title>
-        <id>https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/</id>
-        <link href="https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/"/>
-        <updated>2022-06-24T01:42:08.189Z</updated>
-        <content type="html"><![CDATA[(sourceforge.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
         <id>https://mawfig.github.io/2022/06/18/v-lang-in-2022.html</id>
         <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
@@ -67,13 +88,6 @@
         <link href="https://community.applepie.pro/t/topic/27"/>
         <updated>2022-06-23T12:35:25.510Z</updated>
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miniflux - 경량 오픈소스 RSS 리더]]></title>
-        <id>https://miniflux.app/</id>
-        <link href="https://miniflux.app/"/>
-        <updated>2022-06-24T01:42:08.194Z</updated>
-        <content type="html"><![CDATA[(miniflux.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엣지(Edge) 컴퓨팅이 뭘까요? 강아지 모자를 뜨개질하는 것과 같습니다. (번역)]]></title>
@@ -104,13 +118,6 @@
         <content type="html"><![CDATA[(present.do)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HDMI Firewall]]></title>
-        <id>https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md</id>
-        <link href="https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md"/>
-        <updated>2022-06-23T03:38:12.239Z</updated>
-        <content type="html"><![CDATA[(git.cuvoodoo.info)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[여러가지 일을 할 수 있다는 건 애매한 게 아니다]]></title>
         <id>https://community.applepie.pro/t/topic/21</id>
         <link href="https://community.applepie.pro/t/topic/21"/>
@@ -118,11 +125,11 @@
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TMAP 미식로드 - 사람들이 많이 가는 맛집 추천]]></title>
-        <id>https://tastytmap.com/</id>
-        <link href="https://tastytmap.com/"/>
-        <updated>2022-06-22T01:50:44.075Z</updated>
-        <content type="html"><![CDATA[(tastytmap.com)]]></content>
+        <title type="html"><![CDATA[HDMI Firewall]]></title>
+        <id>https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md</id>
+        <link href="https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md"/>
+        <updated>2022-06-23T03:38:12.239Z</updated>
+        <content type="html"><![CDATA[(git.cuvoodoo.info)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Localhost 시대의 종말]]></title>
@@ -130,13 +137,6 @@
         <link href="https://dx.tips/the-end-of-localhost"/>
         <updated>2022-06-21T01:43:10.711Z</updated>
         <content type="html"><![CDATA[(dx.tips)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WarcDB - Web crawl data as SQLite DB]]></title>
-        <id>https://github.com/Florents-Tselai/WarcDB</id>
-        <link href="https://github.com/Florents-Tselai/WarcDB"/>
-        <updated>2022-06-22T01:50:44.074Z</updated>
-        <content type="html"><![CDATA[(github.com/Florents-Tselai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아직은 쿠버네티스를 사용하지 마라]]></title>
