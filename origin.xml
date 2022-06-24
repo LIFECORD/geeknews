@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-24T08:24:03.685Z</updated>
+    <updated>2022-06-24T09:18:10.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(nature.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
-        <id>https://ansubin.com/nft-marketplaces/</id>
-        <link href="https://ansubin.com/nft-marketplaces/"/>
-        <updated>2022-06-24T01:42:08.185Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[세줄 아이디어 무한생성 프레임워크]]></title>
         <id>https://community.applepie.pro/t/topic/27</id>
         <link href="https://community.applepie.pro/t/topic/27"/>
         <updated>2022-06-23T12:35:25.510Z</updated>
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
+        <id>https://ansubin.com/nft-marketplaces/</id>
+        <link href="https://ansubin.com/nft-marketplaces/"/>
+        <updated>2022-06-24T01:42:08.185Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7-Zip 22.00 릴리즈]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(sourceforge.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
-        <id>https://mawfig.github.io/2022/06/18/v-lang-in-2022.html</id>
-        <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
-        <updated>2022-06-23T14:16:21.390Z</updated>
-        <content type="html"><![CDATA[(mawfig.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
         <id>https://github.com/yandex/YaLM-100B</id>
         <link href="https://github.com/yandex/YaLM-100B"/>
         <updated>2022-06-24T01:42:08.183Z</updated>
         <content type="html"><![CDATA[(github.com/yandex)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
+        <id>https://mawfig.github.io/2022/06/18/v-lang-in-2022.html</id>
+        <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
+        <updated>2022-06-23T14:16:21.390Z</updated>
+        <content type="html"><![CDATA[(mawfig.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Slack, 오디오 협업기능인 Huddles를 비디오까지 확장]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(present.do)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tailscale SSH 공개]]></title>
-        <id>https://tailscale.com/blog/tailscale-ssh/</id>
-        <link href="https://tailscale.com/blog/tailscale-ssh/"/>
-        <updated>2022-06-23T01:26:53.880Z</updated>
-        <content type="html"><![CDATA[(tailscale.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[여러가지 일을 할 수 있다는 건 애매한 게 아니다]]></title>
         <id>https://community.applepie.pro/t/topic/21</id>
         <link href="https://community.applepie.pro/t/topic/21"/>
         <updated>2022-06-21T03:31:16.003Z</updated>
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailscale SSH 공개]]></title>
+        <id>https://tailscale.com/blog/tailscale-ssh/</id>
+        <link href="https://tailscale.com/blog/tailscale-ssh/"/>
+        <updated>2022-06-23T01:26:53.880Z</updated>
+        <content type="html"><![CDATA[(tailscale.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HDMI Firewall]]></title>
