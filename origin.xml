@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-24T04:39:31.168Z</updated>
+    <updated>2022-06-24T05:22:51.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(ifuckinghatejira.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Viddy - Go로 재작성한 모던 Watch 커맨드]]></title>
-        <id>https://github.com/sachaos/viddy</id>
-        <link href="https://github.com/sachaos/viddy"/>
-        <updated>2022-06-24T01:42:08.181Z</updated>
-        <content type="html"><![CDATA[(github.com/sachaos)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Miniflux - 경량 오픈소스 RSS 리더]]></title>
         <id>https://miniflux.app/</id>
         <link href="https://miniflux.app/"/>
         <updated>2022-06-24T01:42:08.194Z</updated>
         <content type="html"><![CDATA[(miniflux.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viddy - Go로 재작성한 모던 Watch 커맨드]]></title>
+        <id>https://github.com/sachaos/viddy</id>
+        <link href="https://github.com/sachaos/viddy"/>
+        <updated>2022-06-24T01:42:08.181Z</updated>
+        <content type="html"><![CDATA[(github.com/sachaos)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TinyWow - 무료 파일 처리 도구 모음]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(phoronix.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
-        <id>https://ansubin.com/nft-marketplaces/</id>
-        <link href="https://ansubin.com/nft-marketplaces/"/>
-        <updated>2022-06-24T01:42:08.185Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사람들이 잠잘 때 암세포가 깨어난다]]></title>
         <id>https://www.nature.com/articles/d41586-022-01724-w</id>
         <link href="https://www.nature.com/articles/d41586-022-01724-w"/>
         <updated>2022-06-24T03:43:07.249Z</updated>
         <content type="html"><![CDATA[(nature.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
+        <id>https://ansubin.com/nft-marketplaces/</id>
+        <link href="https://ansubin.com/nft-marketplaces/"/>
+        <updated>2022-06-24T01:42:08.185Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7-Zip 22.00 릴리즈]]></title>
