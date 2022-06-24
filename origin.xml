@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-24T09:18:10.570Z</updated>
+    <updated>2022-06-24T10:21:39.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(phoronix.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사람들이 잠잘 때 암세포가 깨어난다]]></title>
-        <id>https://www.nature.com/articles/d41586-022-01724-w</id>
-        <link href="https://www.nature.com/articles/d41586-022-01724-w"/>
-        <updated>2022-06-24T03:43:07.249Z</updated>
-        <content type="html"><![CDATA[(nature.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[세줄 아이디어 무한생성 프레임워크]]></title>
         <id>https://community.applepie.pro/t/topic/27</id>
         <link href="https://community.applepie.pro/t/topic/27"/>
         <updated>2022-06-23T12:35:25.510Z</updated>
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람들이 잠잘 때 암세포가 깨어난다]]></title>
+        <id>https://www.nature.com/articles/d41586-022-01724-w</id>
+        <link href="https://www.nature.com/articles/d41586-022-01724-w"/>
+        <updated>2022-06-24T03:43:07.249Z</updated>
+        <content type="html"><![CDATA[(nature.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(sourceforge.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
-        <id>https://github.com/yandex/YaLM-100B</id>
-        <link href="https://github.com/yandex/YaLM-100B"/>
-        <updated>2022-06-24T01:42:08.183Z</updated>
-        <content type="html"><![CDATA[(github.com/yandex)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
         <id>https://mawfig.github.io/2022/06/18/v-lang-in-2022.html</id>
         <link href="https://mawfig.github.io/2022/06/18/v-lang-in-2022.html"/>
         <updated>2022-06-23T14:16:21.390Z</updated>
         <content type="html"><![CDATA[(mawfig.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
+        <id>https://github.com/yandex/YaLM-100B</id>
+        <link href="https://github.com/yandex/YaLM-100B"/>
+        <updated>2022-06-24T01:42:08.183Z</updated>
+        <content type="html"><![CDATA[(github.com/yandex)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Slack, 오디오 협업기능인 Huddles를 비디오까지 확장]]></title>
