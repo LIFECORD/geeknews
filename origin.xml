@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-25T12:29:51.408Z</updated>
+    <updated>2022-06-25T13:25:48.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(tinywow.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MarkWhen - 마크다운으로 계단식 타임라인 만들기]]></title>
-        <id>https://markwhen.com/</id>
-        <link href="https://markwhen.com/"/>
-        <updated>2022-06-25T01:50:03.011Z</updated>
-        <content type="html"><![CDATA[(markwhen.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[난 Jira가 정말 싫어요]]></title>
         <id>https://ifuckinghatejira.com/</id>
         <link href="https://ifuckinghatejira.com/"/>
         <updated>2022-06-24T03:43:07.247Z</updated>
         <content type="html"><![CDATA[(ifuckinghatejira.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MarkWhen - 마크다운으로 계단식 타임라인 만들기]]></title>
+        <id>https://markwhen.com/</id>
+        <link href="https://markwhen.com/"/>
+        <updated>2022-06-25T01:50:03.011Z</updated>
+        <content type="html"><![CDATA[(markwhen.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼]]></title>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[(sourceforge.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
-        <id>https://github.com/yandex/YaLM-100B</id>
-        <link href="https://github.com/yandex/YaLM-100B"/>
-        <updated>2022-06-24T01:42:08.183Z</updated>
-        <content type="html"><![CDATA[(github.com/yandex)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아직은 쿠버네티스를 사용하지 마라]]></title>
         <id>https://matt-rickard.com/dont-use-kubernetes-yet/</id>
         <link href="https://matt-rickard.com/dont-use-kubernetes-yet/"/>
@@ -139,10 +132,17 @@
         <content type="html"><![CDATA[(matt-rickard.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tailscale SSH 공개]]></title>
-        <id>https://tailscale.com/blog/tailscale-ssh/</id>
-        <link href="https://tailscale.com/blog/tailscale-ssh/"/>
-        <updated>2022-06-23T01:26:53.880Z</updated>
-        <content type="html"><![CDATA[(tailscale.com)]]></content>
+        <title type="html"><![CDATA[가장 효과적인 창업자들을 연구해서 얻은 교훈들]]></title>
+        <id>https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/</id>
+        <link href="https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/"/>
+        <updated>2022-06-25T13:25:09.977Z</updated>
+        <content type="html"><![CDATA[(blog.google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Localhost 시대의 종말]]></title>
+        <id>https://dx.tips/the-end-of-localhost</id>
+        <link href="https://dx.tips/the-end-of-localhost"/>
+        <updated>2022-06-25T13:25:09.979Z</updated>
+        <content type="html"><![CDATA[(dx.tips)]]></content>
     </entry>
 </feed>
