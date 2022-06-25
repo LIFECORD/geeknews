@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-24T23:17:54.527Z</updated>
+    <updated>2022-06-25T01:50:40.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[OpenCost - 쿠버네티스 비용 모니터링 도구]]></title>
+        <id>https://github.com/kubecost/opencost</id>
+        <link href="https://github.com/kubecost/opencost"/>
+        <updated>2022-06-25T01:50:02.989Z</updated>
+        <content type="html"><![CDATA[(github.com/kubecost)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[난 Jira가 정말 싫어요]]></title>
         <id>https://ifuckinghatejira.com/</id>
@@ -27,6 +34,13 @@
         <content type="html"><![CDATA[(miniflux.app)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Viddy - Go로 재작성한 모던 Watch 커맨드]]></title>
+        <id>https://github.com/sachaos/viddy</id>
+        <link href="https://github.com/sachaos/viddy"/>
+        <updated>2022-06-24T01:42:08.181Z</updated>
+        <content type="html"><![CDATA[(github.com/sachaos)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼]]></title>
         <id>https://news.hada.io/topic?id=6835</id>
         <link href="https://news.hada.io/topic?id=6835"/>
@@ -41,11 +55,18 @@
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Viddy - Go로 재작성한 모던 Watch 커맨드]]></title>
-        <id>https://github.com/sachaos/viddy</id>
-        <link href="https://github.com/sachaos/viddy"/>
-        <updated>2022-06-24T01:42:08.181Z</updated>
-        <content type="html"><![CDATA[(github.com/sachaos)]]></content>
+        <title type="html"><![CDATA[구형 안드로이드 폰을 Ruby 웹서버 로 사용하기]]></title>
+        <id>https://lbrito1.github.io/blog/2020/02/repurposing-android.html</id>
+        <link href="https://lbrito1.github.io/blog/2020/02/repurposing-android.html"/>
+        <updated>2022-06-25T01:50:03.011Z</updated>
+        <content type="html"><![CDATA[(lbrito1.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MarkWhen - 마크다운으로 계단식 타임라인 만들기]]></title>
+        <id>https://markwhen.com/</id>
+        <link href="https://markwhen.com/"/>
+        <updated>2022-06-25T01:50:03.011Z</updated>
+        <content type="html"><![CDATA[(markwhen.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linus Torvalds, "리눅스 커널 내에 Rust가 곧 머지될 수도 있다"]]></title>
@@ -76,20 +97,6 @@
         <content type="html"><![CDATA[(mawfig.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7-Zip 22.00 릴리즈]]></title>
-        <id>https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/</id>
-        <link href="https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/"/>
-        <updated>2022-06-24T01:42:08.189Z</updated>
-        <content type="html"><![CDATA[(sourceforge.net)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
-        <id>https://github.com/yandex/YaLM-100B</id>
-        <link href="https://github.com/yandex/YaLM-100B"/>
-        <updated>2022-06-24T01:42:08.183Z</updated>
-        <content type="html"><![CDATA[(github.com/yandex)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[개발자의 학습과 성장 (46p 발표자료)]]></title>
         <id>https://present.do/documents/62a02582f6365307fc441c7f</id>
         <link href="https://present.do/documents/62a02582f6365307fc441c7f"/>
@@ -102,6 +109,20 @@
         <link href="https://community.applepie.pro/t/topic/21"/>
         <updated>2022-06-21T03:31:16.003Z</updated>
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7-Zip 22.00 릴리즈]]></title>
+        <id>https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/</id>
+        <link href="https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/"/>
+        <updated>2022-06-24T01:42:08.189Z</updated>
+        <content type="html"><![CDATA[(sourceforge.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YaLM 100B - 1000억개 파라미터의 GPT-like 언어 모델]]></title>
+        <id>https://github.com/yandex/YaLM-100B</id>
+        <link href="https://github.com/yandex/YaLM-100B"/>
+        <updated>2022-06-24T01:42:08.183Z</updated>
+        <content type="html"><![CDATA[(github.com/yandex)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tailscale SSH 공개]]></title>
@@ -123,26 +144,5 @@
         <link href="https://deno.com/blog/series-a"/>
         <updated>2022-06-23T01:26:53.886Z</updated>
         <content type="html"><![CDATA[(deno.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slack, 오디오 협업기능인 Huddles를 비디오까지 확장]]></title>
-        <id>https://slack.com/intl/ko-kr/blog/productivity/introducing-new-ways-to-work-in-slack-huddles</id>
-        <link href="https://slack.com/intl/ko-kr/blog/productivity/introducing-new-ways-to-work-in-slack-huddles"/>
-        <updated>2022-06-24T01:42:08.183Z</updated>
-        <content type="html"><![CDATA[(slack.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직은 쿠버네티스를 사용하지 마라]]></title>
-        <id>https://matt-rickard.com/dont-use-kubernetes-yet/</id>
-        <link href="https://matt-rickard.com/dont-use-kubernetes-yet/"/>
-        <updated>2022-06-21T05:21:58.154Z</updated>
-        <content type="html"><![CDATA[(matt-rickard.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Localhost 시대의 종말]]></title>
-        <id>https://dx.tips/the-end-of-localhost</id>
-        <link href="https://dx.tips/the-end-of-localhost"/>
-        <updated>2022-06-24T14:14:59.923Z</updated>
-        <content type="html"><![CDATA[(dx.tips)]]></content>
     </entry>
 </feed>
