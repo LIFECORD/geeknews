@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-26T18:22:43.533Z</updated>
+    <updated>2022-06-26T19:14:57.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(dropbox.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TinyWow - 무료 파일 처리 도구 모음]]></title>
-        <id>https://tinywow.com/</id>
-        <link href="https://tinywow.com/"/>
-        <updated>2022-06-24T01:42:08.183Z</updated>
-        <content type="html"><![CDATA[(tinywow.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[세줄 아이디어 무한생성 프레임워크]]></title>
         <id>https://community.applepie.pro/t/topic/27</id>
         <link href="https://community.applepie.pro/t/topic/27"/>
         <updated>2022-06-23T12:35:25.510Z</updated>
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinyWow - 무료 파일 처리 도구 모음]]></title>
+        <id>https://tinywow.com/</id>
+        <link href="https://tinywow.com/"/>
+        <updated>2022-06-24T01:42:08.183Z</updated>
+        <content type="html"><![CDATA[(tinywow.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Miniflux - 경량 오픈소스 RSS 리더]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(phoronix.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
-        <id>https://ansubin.com/nft-marketplaces/</id>
-        <link href="https://ansubin.com/nft-marketplaces/"/>
-        <updated>2022-06-24T01:42:08.185Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[가장 효과적인 창업자들을 연구해서 얻은 교훈들]]></title>
         <id>https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/</id>
         <link href="https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/"/>
         <updated>2022-06-26T13:25:03.099Z</updated>
         <content type="html"><![CDATA[(blog.google)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 마켓플레이스 유형에 대해 알아봅시다.]]></title>
+        <id>https://ansubin.com/nft-marketplaces/</id>
+        <link href="https://ansubin.com/nft-marketplaces/"/>
+        <updated>2022-06-24T01:42:08.185Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[V언어 프로그래밍 리뷰(2022)]]></title>
