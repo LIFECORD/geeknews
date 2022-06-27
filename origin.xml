@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-27T13:49:45.395Z</updated>
+    <updated>2022-06-27T14:20:02.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MarkWhen - 마크다운으로 계단식 타임라인 만들기]]></title>
-        <id>https://markwhen.com/</id>
-        <link href="https://markwhen.com/"/>
-        <updated>2022-06-27T09:17:59.228Z</updated>
-        <content type="html"><![CDATA[(markwhen.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[개발자의 학습과 성장 (46p 발표자료)]]></title>
         <id>https://present.do/documents/62a02582f6365307fc441c7f</id>
         <link href="https://present.do/documents/62a02582f6365307fc441c7f"/>
         <updated>2022-06-27T12:37:10.837Z</updated>
         <content type="html"><![CDATA[(present.do)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 사이드프로젝트/창업 팀빌딩 플랫폼]]></title>
+        <id>https://news.hada.io/topic?id=6835</id>
+        <link href="https://news.hada.io/topic?id=6835"/>
+        <updated>2022-06-27T14:19:22.626Z</updated>
+        <content type="html"><![CDATA[(disquiet.io)]]></content>
     </entry>
 </feed>
