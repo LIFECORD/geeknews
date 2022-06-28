@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-28T20:20:04.000Z</updated>
+    <updated>2022-06-28T21:15:09.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com/dblalock)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무엇이 훌륭한 개발자 경험(DX)을 만드는가?]]></title>
-        <id>https://leerob.io/blog/developer-experience-examples</id>
-        <link href="https://leerob.io/blog/developer-experience-examples"/>
-        <updated>2022-06-27T03:50:26.331Z</updated>
-        <content type="html"><![CDATA[(leerob.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
         <id>https://github.com/x2bool/xlite</id>
         <link href="https://github.com/x2bool/xlite"/>
         <updated>2022-06-28T01:46:38.354Z</updated>
         <content type="html"><![CDATA[(github.com/x2bool)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무엇이 훌륭한 개발자 경험(DX)을 만드는가?]]></title>
+        <id>https://leerob.io/blog/developer-experience-examples</id>
+        <link href="https://leerob.io/blog/developer-experience-examples"/>
+        <updated>2022-06-27T03:50:26.331Z</updated>
+        <content type="html"><![CDATA[(leerob.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[첫 창업자들이 펀드레이징에 대해 알아야할 것들]]></title>
