@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-28T01:47:14.133Z</updated>
+    <updated>2022-06-28T03:44:50.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
+        <id>https://github.com/p0deje/Maccy</id>
+        <link href="https://github.com/p0deje/Maccy"/>
+        <updated>2022-06-28T01:46:38.355Z</updated>
+        <content type="html"><![CDATA[(github.com/p0deje)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS 16 UI Kit for Figma]]></title>
         <id>https://www.figma.com/community/file/1121065701252736567</id>
@@ -27,25 +34,18 @@
         <content type="html"><![CDATA[(blog.darklang.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
-        <id>https://github.com/x2bool/xlite</id>
-        <link href="https://github.com/x2bool/xlite"/>
-        <updated>2022-06-28T01:46:38.354Z</updated>
-        <content type="html"><![CDATA[(github.com/x2bool)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
-        <id>https://github.com/p0deje/Maccy</id>
-        <link href="https://github.com/p0deje/Maccy"/>
-        <updated>2022-06-28T01:46:38.355Z</updated>
-        <content type="html"><![CDATA[(github.com/p0deje)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
         <id>https://dangitgit.com/ko</id>
         <link href="https://dangitgit.com/ko"/>
         <updated>2022-06-27T01:50:26.029Z</updated>
         <content type="html"><![CDATA[(dangitgit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
+        <id>https://github.com/x2bool/xlite</id>
+        <link href="https://github.com/x2bool/xlite"/>
+        <updated>2022-06-28T01:46:38.354Z</updated>
+        <content type="html"><![CDATA[(github.com/x2bool)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무엇이 훌륭한 개발자 경험(DX)을 만드는가?]]></title>
-        <id>https://leerob.io/blog/developer-experience-examples</id>
-        <link href="https://leerob.io/blog/developer-experience-examples"/>
-        <updated>2022-06-27T03:50:26.331Z</updated>
-        <content type="html"><![CDATA[(leerob.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Enclave - 따기 어려운 형태의 자물쇠]]></title>
         <id>https://ominoushum.com/lock/</id>
         <link href="https://ominoushum.com/lock/"/>
         <updated>2022-06-28T01:46:38.362Z</updated>
         <content type="html"><![CDATA[(ominoushum.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무엇이 훌륭한 개발자 경험(DX)을 만드는가?]]></title>
+        <id>https://leerob.io/blog/developer-experience-examples</id>
+        <link href="https://leerob.io/blog/developer-experience-examples"/>
+        <updated>2022-06-27T03:50:26.331Z</updated>
+        <content type="html"><![CDATA[(leerob.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[첫 창업자들이 펀드레이징에 대해 알아야할 것들]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(saastr.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VirtualBuddy - 애플 실리콘에서 macOS 12+를 가상화하는 오픈소스]]></title>
-        <id>https://github.com/insidegui/VirtualBuddy</id>
-        <link href="https://github.com/insidegui/VirtualBuddy"/>
-        <updated>2022-06-27T01:50:26.029Z</updated>
-        <content type="html"><![CDATA[(github.com/insidegui)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 블록체인 개발자를 위한 온라인 저지 사이트]]></title>
         <id>https://news.hada.io/topic?id=6852</id>
         <link href="https://news.hada.io/topic?id=6852"/>
         <updated>2022-06-27T16:26:23.043Z</updated>
         <content type="html"><![CDATA[(app.web3oj.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VirtualBuddy - 애플 실리콘에서 macOS 12+를 가상화하는 오픈소스]]></title>
+        <id>https://github.com/insidegui/VirtualBuddy</id>
+        <link href="https://github.com/insidegui/VirtualBuddy"/>
+        <updated>2022-06-27T01:50:26.029Z</updated>
+        <content type="html"><![CDATA[(github.com/insidegui)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQLite 3.39.0 릴리즈]]></title>
