@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-29T09:20:24.181Z</updated>
+    <updated>2022-06-29T10:22:04.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[(posthog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
-        <id>https://github.com/laixintao/iredis</id>
-        <link href="https://github.com/laixintao/iredis"/>
-        <updated>2022-06-29T01:47:00.411Z</updated>
-        <content type="html"><![CDATA[(github.com/laixintao)]]></content>
+        <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
+        <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
+        <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
+        <updated>2022-06-29T04:47:48.586Z</updated>
+        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
@@ -27,11 +27,11 @@
         <content type="html"><![CDATA[(github.com/felixrieseberg)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
-        <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
-        <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
-        <updated>2022-06-29T04:47:48.586Z</updated>
-        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
+        <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
+        <id>https://github.com/laixintao/iredis</id>
+        <link href="https://github.com/laixintao/iredis"/>
+        <updated>2022-06-29T01:47:00.411Z</updated>
+        <content type="html"><![CDATA[(github.com/laixintao)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100%]]></title>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
+        <id>https://github.com/p0deje/Maccy</id>
+        <link href="https://github.com/p0deje/Maccy"/>
+        <updated>2022-06-28T01:46:38.355Z</updated>
+        <content type="html"><![CDATA[(github.com/p0deje)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microvium - 마이크로콘트롤러를 위한 JavaScript엔진]]></title>
         <id>https://microvium.com/</id>
         <link href="https://microvium.com/"/>
@@ -55,11 +62,11 @@
         <content type="html"><![CDATA[(microvium.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
-        <id>https://github.com/p0deje/Maccy</id>
-        <link href="https://github.com/p0deje/Maccy"/>
-        <updated>2022-06-28T01:46:38.355Z</updated>
-        <content type="html"><![CDATA[(github.com/p0deje)]]></content>
+        <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
+        <id>https://dangitgit.com/ko</id>
+        <link href="https://dangitgit.com/ko"/>
+        <updated>2022-06-27T01:50:26.029Z</updated>
+        <content type="html"><![CDATA[(dangitgit.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Metaverse Standards Forum]]></title>
@@ -74,13 +81,6 @@
         <link href="https://github.com/borisdayma/dalle-mini"/>
         <updated>2022-06-29T01:47:00.417Z</updated>
         <content type="html"><![CDATA[(github.com/borisdayma)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
-        <id>https://dangitgit.com/ko</id>
-        <link href="https://dangitgit.com/ko"/>
-        <updated>2022-06-27T01:50:26.029Z</updated>
-        <content type="html"><![CDATA[(dangitgit.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬]]></title>
