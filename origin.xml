@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-29T20:20:54.529Z</updated>
+    <updated>2022-06-29T21:17:07.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(github.com/borisdayma)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Real Javascript Engine for MCU]]></title>
-        <id>https://github.com/kaluma-project/kaluma</id>
-        <link href="https://github.com/kaluma-project/kaluma"/>
-        <updated>2022-06-29T01:47:00.411Z</updated>
-        <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
         <id>https://github.com/p0deje/Maccy</id>
         <link href="https://github.com/p0deje/Maccy"/>
         <updated>2022-06-28T01:46:38.355Z</updated>
         <content type="html"><![CDATA[(github.com/p0deje)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Real Javascript Engine for MCU]]></title>
+        <id>https://github.com/kaluma-project/kaluma</id>
+        <link href="https://github.com/kaluma-project/kaluma"/>
+        <updated>2022-06-29T01:47:00.411Z</updated>
+        <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[(github.com/dblalock)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microvium - 마이크로콘트롤러를 위한 JavaScript엔진]]></title>
-        <id>https://microvium.com/</id>
-        <link href="https://microvium.com/"/>
-        <updated>2022-06-29T01:47:00.411Z</updated>
-        <content type="html"><![CDATA[(microvium.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
         <id>https://github.com/x2bool/xlite</id>
         <link href="https://github.com/x2bool/xlite"/>
@@ -95,6 +88,13 @@
         <link href="https://thoughtscollected.tech/posts/for-when-im-gone/"/>
         <updated>2022-06-27T01:50:26.029Z</updated>
         <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microvium - 마이크로콘트롤러를 위한 JavaScript엔진]]></title>
+        <id>https://microvium.com/</id>
+        <link href="https://microvium.com/"/>
+        <updated>2022-06-29T01:47:00.411Z</updated>
+        <content type="html"><![CDATA[(microvium.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iOS 16 UI Kit for Figma]]></title>
