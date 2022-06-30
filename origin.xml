@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-30T08:25:34.471Z</updated>
+    <updated>2022-06-30T09:17:48.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(posthog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
-        <id>https://opsflow.app/</id>
-        <link href="https://opsflow.app/"/>
-        <updated>2022-06-30T01:44:40.865Z</updated>
-        <content type="html"><![CDATA[(opsflow.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
         <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
         <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
         <updated>2022-06-29T04:47:48.586Z</updated>
         <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
+        <id>https://opsflow.app/</id>
+        <link href="https://opsflow.app/"/>
+        <updated>2022-06-30T01:44:40.865Z</updated>
+        <content type="html"><![CDATA[(opsflow.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(github.com/kuprel)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100%]]></title>
-        <id>https://news.hada.io/topic?id=6866</id>
-        <link href="https://news.hada.io/topic?id=6866"/>
-        <updated>2022-06-29T04:47:48.586Z</updated>
-        <content type="html"><![CDATA[(applepie.pro)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대량의 tolower()를 빠르게 수행하기]]></title>
         <id>https://dotat.at/@/2022-06-27-tolower-swar.html</id>
         <link href="https://dotat.at/@/2022-06-27-tolower-swar.html"/>
         <updated>2022-06-30T01:44:40.869Z</updated>
         <content type="html"><![CDATA[(dotat.at)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100%]]></title>
+        <id>https://news.hada.io/topic?id=6866</id>
+        <link href="https://news.hada.io/topic?id=6866"/>
+        <updated>2022-06-29T04:47:48.586Z</updated>
+        <content type="html"><![CDATA[(applepie.pro)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[W3C, 공익 비영리 단체로 변경]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[(github.com/borisdayma)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Real Javascript Engine for MCU]]></title>
-        <id>https://github.com/kaluma-project/kaluma</id>
-        <link href="https://github.com/kaluma-project/kaluma"/>
-        <updated>2022-06-29T01:47:00.411Z</updated>
-        <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
+        <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
+        <id>https://thoughtscollected.tech/posts/for-when-im-gone/</id>
+        <link href="https://thoughtscollected.tech/posts/for-when-im-gone/"/>
+        <updated>2022-06-27T01:50:26.029Z</updated>
+        <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(github.com/dblalock)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
-        <id>https://thoughtscollected.tech/posts/for-when-im-gone/</id>
-        <link href="https://thoughtscollected.tech/posts/for-when-im-gone/"/>
-        <updated>2022-06-27T01:50:26.029Z</updated>
-        <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
         <id>https://github.com/x2bool/xlite</id>
         <link href="https://github.com/x2bool/xlite"/>
         <updated>2022-06-28T01:46:38.354Z</updated>
         <content type="html"><![CDATA[(github.com/x2bool)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Real Javascript Engine for MCU]]></title>
+        <id>https://github.com/kaluma-project/kaluma</id>
+        <link href="https://github.com/kaluma-project/kaluma"/>
+        <updated>2022-06-29T01:47:00.411Z</updated>
+        <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iOS 16 UI Kit for Figma]]></title>
