@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-30T06:23:45.779Z</updated>
+    <updated>2022-06-30T07:16:03.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(posthog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
-        <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
-        <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
-        <updated>2022-06-29T04:47:48.586Z</updated>
-        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
         <id>https://opsflow.app/</id>
         <link href="https://opsflow.app/"/>
         <updated>2022-06-30T01:44:40.865Z</updated>
         <content type="html"><![CDATA[(opsflow.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
+        <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
+        <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
+        <updated>2022-06-29T04:47:48.586Z</updated>
+        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(github.com/kuprel)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
-        <id>https://github.com/laixintao/iredis</id>
-        <link href="https://github.com/laixintao/iredis"/>
-        <updated>2022-06-29T01:47:00.411Z</updated>
-        <content type="html"><![CDATA[(github.com/laixintao)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대량의 tolower()를 빠르게 수행하기]]></title>
         <id>https://dotat.at/@/2022-06-27-tolower-swar.html</id>
         <link href="https://dotat.at/@/2022-06-27-tolower-swar.html"/>
         <updated>2022-06-30T01:44:40.869Z</updated>
         <content type="html"><![CDATA[(dotat.at)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
+        <id>https://github.com/laixintao/iredis</id>
+        <link href="https://github.com/laixintao/iredis"/>
+        <updated>2022-06-29T01:47:00.411Z</updated>
+        <content type="html"><![CDATA[(github.com/laixintao)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[W3C, 공익 비영리 단체로 변경]]></title>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬]]></title>
-        <id>https://github.com/dblalock/bolt</id>
-        <link href="https://github.com/dblalock/bolt"/>
-        <updated>2022-06-28T01:46:38.353Z</updated>
-        <content type="html"><![CDATA[(github.com/dblalock)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
         <id>https://thoughtscollected.tech/posts/for-when-im-gone/</id>
         <link href="https://thoughtscollected.tech/posts/for-when-im-gone/"/>
         <updated>2022-06-27T01:50:26.029Z</updated>
         <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬]]></title>
+        <id>https://github.com/dblalock/bolt</id>
+        <link href="https://github.com/dblalock/bolt"/>
+        <updated>2022-06-28T01:46:38.353Z</updated>
+        <content type="html"><![CDATA[(github.com/dblalock)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[XLite - 엑셀 파일을 가상 테이블로 쿼리하는 SQLite 확장]]></title>
