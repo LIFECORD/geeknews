@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-30T16:28:58.528Z</updated>
+    <updated>2022-06-30T17:27:51.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,6 +97,13 @@
         <content type="html"><![CDATA[(github.com/x2bool)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬]]></title>
+        <id>https://github.com/dblalock/bolt</id>
+        <link href="https://github.com/dblalock/bolt"/>
+        <updated>2022-06-28T01:46:38.353Z</updated>
+        <content type="html"><![CDATA[(github.com/dblalock)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DALL·E Mini]]></title>
         <id>https://github.com/borisdayma/dalle-mini</id>
         <link href="https://github.com/borisdayma/dalle-mini"/>
@@ -111,13 +118,6 @@
         <content type="html"><![CDATA[(dotat.at)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bolt - 10배 빠른 매트릭스 & 벡터 연산 알고리듬]]></title>
-        <id>https://github.com/dblalock/bolt</id>
-        <link href="https://github.com/dblalock/bolt"/>
-        <updated>2022-06-28T01:46:38.353Z</updated>
-        <content type="html"><![CDATA[(github.com/dblalock)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Real Javascript Engine for MCU]]></title>
         <id>https://github.com/kaluma-project/kaluma</id>
         <link href="https://github.com/kaluma-project/kaluma"/>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(github.com/kaluma-project)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS 16 UI Kit for Figma]]></title>
-        <id>https://www.figma.com/community/file/1121065701252736567</id>
-        <link href="https://www.figma.com/community/file/1121065701252736567"/>
-        <updated>2022-06-28T01:46:38.353Z</updated>
-        <content type="html"><![CDATA[(figma.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[무엇이 훌륭한 개발자 경험(DX)을 만드는가?]]></title>
         <id>https://leerob.io/blog/developer-experience-examples</id>
         <link href="https://leerob.io/blog/developer-experience-examples"/>
         <updated>2022-06-27T03:50:26.331Z</updated>
         <content type="html"><![CDATA[(leerob.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16 UI Kit for Figma]]></title>
+        <id>https://www.figma.com/community/file/1121065701252736567</id>
+        <link href="https://www.figma.com/community/file/1121065701252736567"/>
+        <updated>2022-06-28T01:46:38.353Z</updated>
+        <content type="html"><![CDATA[(figma.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 오픈 스타트업에 대해 어떻게 생각하세요?]]></title>
