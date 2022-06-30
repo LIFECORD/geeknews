@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-06-30T01:45:17.980Z</updated>
+    <updated>2022-06-30T03:44:48.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,20 +27,6 @@
         <content type="html"><![CDATA[(github.com/felixrieseberg)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
-        <id>https://opsflow.app/</id>
-        <link href="https://opsflow.app/"/>
-        <updated>2022-06-30T01:44:40.865Z</updated>
-        <content type="html"><![CDATA[(opsflow.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[warc-parquet - WARC를 Parquet으로 변환하는 CLI]]></title>
-        <id>https://github.com/maxcountryman/warc-parquet</id>
-        <link href="https://github.com/maxcountryman/warc-parquet"/>
-        <updated>2022-06-30T01:44:40.866Z</updated>
-        <content type="html"><![CDATA[(github.com/maxcountryman)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iRedis - 인터랙티브 Redis 터미널 클라이언트]]></title>
         <id>https://github.com/laixintao/iredis</id>
         <link href="https://github.com/laixintao/iredis"/>
@@ -53,6 +39,20 @@
         <link href="https://news.hada.io/topic?id=6866"/>
         <updated>2022-06-29T04:47:48.586Z</updated>
         <content type="html"><![CDATA[(applepie.pro)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpsFlow - No-Code DevOps]]></title>
+        <id>https://opsflow.app/</id>
+        <link href="https://opsflow.app/"/>
+        <updated>2022-06-30T01:44:40.865Z</updated>
+        <content type="html"><![CDATA[(opsflow.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[warc-parquet - WARC를 Parquet으로 변환하는 CLI]]></title>
+        <id>https://github.com/maxcountryman/warc-parquet</id>
+        <link href="https://github.com/maxcountryman/warc-parquet"/>
+        <updated>2022-06-30T01:44:40.866Z</updated>
+        <content type="html"><![CDATA[(github.com/maxcountryman)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[minimal DALL·E]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(github.com/p0deje)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL·E Mini]]></title>
-        <id>https://github.com/borisdayma/dalle-mini</id>
-        <link href="https://github.com/borisdayma/dalle-mini"/>
-        <updated>2022-06-29T01:47:00.417Z</updated>
-        <content type="html"><![CDATA[(github.com/borisdayma)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
         <id>https://dangitgit.com/ko</id>
         <link href="https://dangitgit.com/ko"/>
         <updated>2022-06-27T01:50:26.029Z</updated>
         <content type="html"><![CDATA[(dangitgit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E Mini]]></title>
+        <id>https://github.com/borisdayma/dalle-mini</id>
+        <link href="https://github.com/borisdayma/dalle-mini"/>
+        <updated>2022-06-29T01:47:00.417Z</updated>
+        <content type="html"><![CDATA[(github.com/borisdayma)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Real Javascript Engine for MCU]]></title>
