@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-01T08:24:31.171Z</updated>
+    <updated>2022-07-01T09:19:30.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arm, 차세대 플래그십 코어 Cortex-X3 공개]]></title>
-        <id>https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/</id>
-        <link href="https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/"/>
-        <updated>2022-07-01T08:23:56.961Z</updated>
-        <content type="html"><![CDATA[(fuse.wikichip.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
         <id>https://posthog.com/blog/what-to-ask-in-interviews</id>
         <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
         <updated>2022-06-29T01:47:00.411Z</updated>
         <content type="html"><![CDATA[(posthog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm, 차세대 플래그십 코어 Cortex-X3 공개]]></title>
+        <id>https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/</id>
+        <link href="https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/"/>
+        <updated>2022-07-01T08:23:56.961Z</updated>
+        <content type="html"><![CDATA[(fuse.wikichip.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10년간 가짜 러시아 역사를 중국어 위키피디아에 적은 중국인의 행위가 발각]]></title>
@@ -82,13 +82,6 @@
         <content type="html"><![CDATA[(github.com/felixrieseberg)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[warc-parquet - WARC를 Parquet으로 변환하는 CLI]]></title>
-        <id>https://github.com/maxcountryman/warc-parquet</id>
-        <link href="https://github.com/maxcountryman/warc-parquet"/>
-        <updated>2022-06-30T01:44:40.866Z</updated>
-        <content type="html"><![CDATA[(github.com/maxcountryman)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
         <id>https://dangitgit.com/ko</id>
         <link href="https://dangitgit.com/ko"/>
@@ -103,6 +96,13 @@
         <content type="html"><![CDATA[(github.com/laixintao)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[warc-parquet - WARC를 Parquet으로 변환하는 CLI]]></title>
+        <id>https://github.com/maxcountryman/warc-parquet</id>
+        <link href="https://github.com/maxcountryman/warc-parquet"/>
+        <updated>2022-06-30T01:44:40.866Z</updated>
+        <content type="html"><![CDATA[(github.com/maxcountryman)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
         <id>https://github.com/p0deje/Maccy</id>
         <link href="https://github.com/p0deje/Maccy"/>
@@ -110,18 +110,18 @@
         <content type="html"><![CDATA[(github.com/p0deje)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100%]]></title>
-        <id>https://news.hada.io/topic?id=6866</id>
-        <link href="https://news.hada.io/topic?id=6866"/>
-        <updated>2022-06-29T04:47:48.586Z</updated>
-        <content type="html"><![CDATA[(applepie.pro)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
         <id>https://thoughtscollected.tech/posts/for-when-im-gone/</id>
         <link href="https://thoughtscollected.tech/posts/for-when-im-gone/"/>
         <updated>2022-06-27T01:50:26.029Z</updated>
         <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: ApplePie Pro 2.0 - Notion MVP였는데 토이 프로젝트가 아니라 진심 100%]]></title>
+        <id>https://news.hada.io/topic?id=6866</id>
+        <link href="https://news.hada.io/topic?id=6866"/>
+        <updated>2022-06-29T04:47:48.586Z</updated>
+        <content type="html"><![CDATA[(applepie.pro)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[minimal DALL·E]]></title>
