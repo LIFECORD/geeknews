@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-02T17:17:23.176Z</updated>
+    <updated>2022-07-02T18:20:40.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -110,18 +110,18 @@
         <content type="html"><![CDATA[(github.com/laixintao)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arm, 차세대 플래그십 코어 Cortex-X3 공개]]></title>
-        <id>https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/</id>
-        <link href="https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/"/>
-        <updated>2022-07-01T08:23:56.961Z</updated>
-        <content type="html"><![CDATA[(fuse.wikichip.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Maccy - 맥용 클립보드 매니저 오픈소스 앱]]></title>
         <id>https://github.com/p0deje/Maccy</id>
         <link href="https://github.com/p0deje/Maccy"/>
         <updated>2022-06-28T01:46:38.355Z</updated>
         <content type="html"><![CDATA[(github.com/p0deje)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm, 차세대 플래그십 코어 Cortex-X3 공개]]></title>
+        <id>https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/</id>
+        <link href="https://fuse.wikichip.org/news/6855/arm-unveils-next-gen-flagship-core-cortex-x3/"/>
+        <updated>2022-07-01T08:23:56.961Z</updated>
+        <content type="html"><![CDATA[(fuse.wikichip.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
