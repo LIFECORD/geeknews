@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-03T17:18:02.739Z</updated>
+    <updated>2022-07-03T18:20:29.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기술 기업들의 정리해고가 쌓여가는 중]]></title>
-        <id>https://twitter.com/HayekAndKeynes/status/1541760176826499073</id>
-        <link href="https://twitter.com/HayekAndKeynes/status/1541760176826499073"/>
-        <updated>2022-07-03T03:36:38.863Z</updated>
-        <content type="html"><![CDATA[(twitter.com/HayekAndKeynes)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
         <id>https://posthog.com/blog/what-to-ask-in-interviews</id>
         <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
         <updated>2022-06-29T01:47:00.411Z</updated>
         <content type="html"><![CDATA[(posthog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술 기업들의 정리해고가 쌓여가는 중]]></title>
+        <id>https://twitter.com/HayekAndKeynes/status/1541760176826499073</id>
+        <link href="https://twitter.com/HayekAndKeynes/status/1541760176826499073"/>
+        <updated>2022-07-03T03:36:38.863Z</updated>
+        <content type="html"><![CDATA[(twitter.com/HayekAndKeynes)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박사학위 따면 좋은 점 - 세상에 더 많은 전문가가 필요한 이유]]></title>
@@ -117,18 +117,18 @@
         <content type="html"><![CDATA[(github.com/p0deje)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
-        <id>https://github.com/felixrieseberg/windows95</id>
-        <link href="https://github.com/felixrieseberg/windows95"/>
-        <updated>2022-06-29T01:47:00.411Z</updated>
-        <content type="html"><![CDATA[(github.com/felixrieseberg)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내가 죽었을 때를 위한 Cheat Sheet]]></title>
         <id>https://thoughtscollected.tech/posts/for-when-im-gone/</id>
         <link href="https://thoughtscollected.tech/posts/for-when-im-gone/"/>
         <updated>2022-07-03T07:16:27.267Z</updated>
         <content type="html"><![CDATA[(thoughtscollected.tech)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron 으로 Windows 95 실행하기]]></title>
+        <id>https://github.com/felixrieseberg/windows95</id>
+        <link href="https://github.com/felixrieseberg/windows95"/>
+        <updated>2022-06-29T01:47:00.411Z</updated>
+        <content type="html"><![CDATA[(github.com/felixrieseberg)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10년간 가짜 러시아 역사를 중국어 위키피디아에 적은 중국인의 행위가 발각]]></title>
