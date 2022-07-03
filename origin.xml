@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-03T03:37:14.300Z</updated>
+    <updated>2022-07-03T04:29:26.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Python for Data Analysis 3판 - 오픈 억세스 버전]]></title>
-        <id>https://wesmckinney.com/book/</id>
-        <link href="https://wesmckinney.com/book/"/>
-        <updated>2022-07-03T01:52:26.737Z</updated>
-        <content type="html"><![CDATA[(wesmckinney.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[1년간 입은 옷과 신발들을 모두 트래킹 하기]]></title>
         <id>https://andrenader.substack.com/p/nfc-clothes-tracker</id>
         <link href="https://andrenader.substack.com/p/nfc-clothes-tracker"/>
         <updated>2022-07-03T01:52:26.752Z</updated>
         <content type="html"><![CDATA[(andrenader.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python for Data Analysis 3판 - 오픈 억세스 버전]]></title>
+        <id>https://wesmckinney.com/book/</id>
+        <link href="https://wesmckinney.com/book/"/>
+        <updated>2022-07-03T01:52:26.737Z</updated>
+        <content type="html"><![CDATA[(wesmckinney.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Scunthorpe Sans - 욕설을 자동으로 필터링하는 폰트]]></title>
@@ -96,18 +96,18 @@
         <updated>2022-07-02T01:44:06.185Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
-        <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
-        <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
-        <updated>2022-06-29T04:47:48.586Z</updated>
-        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
         <id>https://dangitgit.com/ko</id>
         <link href="https://dangitgit.com/ko"/>
         <updated>2022-06-27T01:50:26.029Z</updated>
         <content type="html"><![CDATA[(dangitgit.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
+        <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
+        <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
+        <updated>2022-06-29T04:47:48.586Z</updated>
+        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10년간 가짜 러시아 역사를 중국어 위키피디아에 적은 중국인의 행위가 발각]]></title>
