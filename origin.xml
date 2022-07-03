@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-03T04:29:26.401Z</updated>
+    <updated>2022-07-03T05:16:52.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -96,18 +96,18 @@
         <updated>2022-07-02T01:44:06.185Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
-        <id>https://dangitgit.com/ko</id>
-        <link href="https://dangitgit.com/ko"/>
-        <updated>2022-06-27T01:50:26.029Z</updated>
-        <content type="html"><![CDATA[(dangitgit.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
         <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
         <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
         <updated>2022-06-29T04:47:48.586Z</updated>
         <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oh Shit, Git!?!]]></title>
+        <id>https://dangitgit.com/ko</id>
+        <link href="https://dangitgit.com/ko"/>
+        <updated>2022-06-27T01:50:26.029Z</updated>
+        <content type="html"><![CDATA[(dangitgit.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10년간 가짜 러시아 역사를 중국어 위키피디아에 적은 중국인의 행위가 발각]]></title>
