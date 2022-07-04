@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-04T08:24:37.717Z</updated>
+    <updated>2022-07-04T09:20:08.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
-        <id>https://posthog.com/blog/what-to-ask-in-interviews</id>
-        <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
-        <updated>2022-06-29T01:47:00.411Z</updated>
-        <content type="html"><![CDATA[(posthog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Teapodo - 팟캐스트용 가벼운 오디오 편집기]]></title>
         <id>https://teapodo.com/</id>
         <link href="https://teapodo.com/"/>
         <updated>2022-07-02T01:44:06.185Z</updated>
         <content type="html"><![CDATA[(teapodo.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
+        <id>https://posthog.com/blog/what-to-ask-in-interviews</id>
+        <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
+        <updated>2022-06-29T01:47:00.411Z</updated>
+        <content type="html"><![CDATA[(posthog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박사학위 따면 좋은 점 - 세상에 더 많은 전문가가 필요한 이유]]></title>
