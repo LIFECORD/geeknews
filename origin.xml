@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-04T06:28:18.589Z</updated>
+    <updated>2022-07-04T07:17:21.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
+        <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
+        <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
+        <updated>2022-07-04T06:27:44.364Z</updated>
+        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인간 인지능력의 한계를 이용하는 인증시스템 [pdf]]]></title>
         <id>https://users.cs.duke.edu/~conitzer/cognitiveHCOMP20.pdf</id>
@@ -32,13 +39,6 @@
         <link href="https://jehyunlee.github.io/2022/07/02/Python-DS-106-aaicon/"/>
         <updated>2022-07-04T01:56:30.262Z</updated>
         <content type="html"><![CDATA[(jehyunlee.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
-        <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
-        <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
-        <updated>2022-07-04T06:27:44.364Z</updated>
-        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신이 믿는 스타트업 음모론은?]]></title>
