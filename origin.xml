@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-04T05:29:20.507Z</updated>
+    <updated>2022-07-04T06:28:18.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Apple Weatherkit, Swift & REST API로 제공]]></title>
-        <id>https://developer.apple.com/weatherkit/</id>
-        <link href="https://developer.apple.com/weatherkit/"/>
-        <updated>2022-07-04T01:56:30.262Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[인간 인지능력의 한계를 이용하는 인증시스템 [pdf]]]></title>
         <id>https://users.cs.duke.edu/~conitzer/cognitiveHCOMP20.pdf</id>
         <link href="https://users.cs.duke.edu/~conitzer/cognitiveHCOMP20.pdf"/>
         <updated>2022-07-04T03:52:03.600Z</updated>
         <content type="html"><![CDATA[(users.cs.duke.edu)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Weatherkit, Swift & REST API로 제공]]></title>
+        <id>https://developer.apple.com/weatherkit/</id>
+        <link href="https://developer.apple.com/weatherkit/"/>
+        <updated>2022-07-04T01:56:30.262Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[M2 MacBook Pro 분해는 우리가 항상 의심했던 것을 확인시켜줍니다]]></title>
@@ -32,6 +32,13 @@
         <link href="https://jehyunlee.github.io/2022/07/02/Python-DS-106-aaicon/"/>
         <updated>2022-07-04T01:56:30.262Z</updated>
         <content type="html"><![CDATA[(jehyunlee.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
+        <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
+        <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
+        <updated>2022-07-04T06:27:44.364Z</updated>
+        <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신이 믿는 스타트업 음모론은?]]></title>
@@ -90,18 +97,18 @@
         <content type="html"><![CDATA[(teapodo.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박사학위 따면 좋은 점 - 세상에 더 많은 전문가가 필요한 이유]]></title>
-        <id>https://www.youtube.com/watch?v=kV9YoY2l4AY</id>
-        <link href="https://www.youtube.com/watch?v=kV9YoY2l4AY"/>
-        <updated>2022-07-02T01:44:06.183Z</updated>
-        <content type="html"><![CDATA[(youtube.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[엔지니어들이 면접에서 물어야 할 질문들]]></title>
         <id>https://posthog.com/blog/what-to-ask-in-interviews</id>
         <link href="https://posthog.com/blog/what-to-ask-in-interviews"/>
         <updated>2022-06-29T01:47:00.411Z</updated>
         <content type="html"><![CDATA[(posthog.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박사학위 따면 좋은 점 - 세상에 더 많은 전문가가 필요한 이유]]></title>
+        <id>https://www.youtube.com/watch?v=kV9YoY2l4AY</id>
+        <link href="https://www.youtube.com/watch?v=kV9YoY2l4AY"/>
+        <updated>2022-07-02T01:44:06.183Z</updated>
+        <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술 기업들의 정리해고가 쌓여가는 중]]></title>
@@ -137,12 +144,5 @@
         <link href="https://dangitgit.com/ko"/>
         <updated>2022-06-27T01:50:26.029Z</updated>
         <content type="html"><![CDATA[(dangitgit.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“DevOps”의 인적 확장 (The human scalability of “DevOps”)]]></title>
-        <id>https://tech.devsisters.com/posts/the-human-scalability-of-devops/</id>
-        <link href="https://tech.devsisters.com/posts/the-human-scalability-of-devops/"/>
-        <updated>2022-06-29T04:47:48.586Z</updated>
-        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
     </entry>
 </feed>
