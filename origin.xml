@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-05T21:16:51.777Z</updated>
+    <updated>2022-07-05T22:17:57.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(vole.wtf)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신이 믿는 스타트업 음모론은?]]></title>
-        <id>https://twitter.com/sundarpichai/status/1543328071532523521</id>
-        <link href="https://twitter.com/sundarpichai/status/1543328071532523521"/>
-        <updated>2022-07-04T03:52:03.602Z</updated>
-        <content type="html"><![CDATA[(twitter.com/sundarpichai)]]></content>
+        <title type="html"><![CDATA[1년간 입은 옷과 신발들을 모두 트래킹 하기]]></title>
+        <id>https://andrenader.substack.com/p/nfc-clothes-tracker</id>
+        <link href="https://andrenader.substack.com/p/nfc-clothes-tracker"/>
+        <updated>2022-07-05T22:17:20.672Z</updated>
+        <content type="html"><![CDATA[(andrenader.substack.com)]]></content>
     </entry>
 </feed>
