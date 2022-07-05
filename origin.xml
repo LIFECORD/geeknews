@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-05T04:37:54.926Z</updated>
+    <updated>2022-07-05T05:21:52.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(pilimi.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 트위터 연동 자유시장]]></title>
-        <id>https://news.hada.io/topic?id=6901</id>
-        <link href="https://news.hada.io/topic?id=6901"/>
-        <updated>2022-07-04T23:17:37.189Z</updated>
-        <content type="html"><![CDATA[(applepie.pro)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
         <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
         <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
         <updated>2022-07-04T06:27:44.364Z</updated>
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 트위터 연동 자유시장]]></title>
+        <id>https://news.hada.io/topic?id=6901</id>
+        <link href="https://news.hada.io/topic?id=6901"/>
+        <updated>2022-07-04T23:17:37.189Z</updated>
+        <content type="html"><![CDATA[(applepie.pro)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FlashList - ReactNative용 고성능 리스트 컴포넌트 오픈소스]]></title>
