@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-07T13:51:30.599Z</updated>
+    <updated>2022-07-07T14:18:04.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(linkedin.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
-        <id>https://csvfiddle.io/</id>
-        <link href="https://csvfiddle.io/"/>
-        <updated>2022-07-07T01:51:15.833Z</updated>
-        <content type="html"><![CDATA[(csvfiddle.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AnotherPomodoro - 웹 뽀모도로 타이머 오픈소스]]></title>
         <id>https://another-pomodoro.app/</id>
         <link href="https://another-pomodoro.app/"/>
         <updated>2022-07-07T01:51:15.836Z</updated>
         <content type="html"><![CDATA[(another-pomodoro.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
+        <id>https://csvfiddle.io/</id>
+        <link href="https://csvfiddle.io/"/>
+        <updated>2022-07-07T01:51:15.833Z</updated>
+        <content type="html"><![CDATA[(csvfiddle.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Copper - Go용 Web App 툴킷]]></title>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Felt - 지도 기반 시각화 만들기]]></title>
-        <id>https://felt.com/</id>
-        <link href="https://felt.com/"/>
-        <updated>2022-07-05T01:44:58.852Z</updated>
-        <content type="html"><![CDATA[(felt.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[랜선 문방구 - 용돈봉투 출력기]]></title>
         <id>https://moonbangoo.com/</id>
         <link href="https://moonbangoo.com/"/>
@@ -132,11 +125,11 @@
         <content type="html"><![CDATA[(moonbangoo.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Darktable 4.0 릴리즈]]></title>
-        <id>https://www.darktable.org/2022/07/darktable-4.0.0-released/</id>
-        <link href="https://www.darktable.org/2022/07/darktable-4.0.0-released/"/>
+        <title type="html"><![CDATA[Felt - 지도 기반 시각화 만들기]]></title>
+        <id>https://felt.com/</id>
+        <link href="https://felt.com/"/>
         <updated>2022-07-05T01:44:58.852Z</updated>
-        <content type="html"><![CDATA[(darktable.org)]]></content>
+        <content type="html"><![CDATA[(felt.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECS Task Rebalancing을 이용한 EC2 비용 최적화 노하우]]></title>
@@ -144,5 +137,12 @@
         <link href="https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization"/>
         <updated>2022-07-05T06:22:57.626Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Darktable 4.0 릴리즈]]></title>
+        <id>https://www.darktable.org/2022/07/darktable-4.0.0-released/</id>
+        <link href="https://www.darktable.org/2022/07/darktable-4.0.0-released/"/>
+        <updated>2022-07-05T01:44:58.852Z</updated>
+        <content type="html"><![CDATA[(darktable.org)]]></content>
     </entry>
 </feed>
