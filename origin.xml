@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-07T01:51:55.288Z</updated>
+    <updated>2022-07-07T03:50:19.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아마존에서 배운 5가지 글쓰기와 소통 방식]]></title>
+        <id>http://channy.creation.net/blog/1620</id>
+        <link href="http://channy.creation.net/blog/1620"/>
+        <updated>2022-07-07T03:49:37.036Z</updated>
+        <content type="html"><![CDATA[(channy.creation.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
         <id>https://csvfiddle.io/</id>
@@ -20,13 +27,6 @@
         <content type="html"><![CDATA[(linkedin.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Copper - Go용 Web App 툴킷]]></title>
-        <id>https://github.com/gocopper/copper</id>
-        <link href="https://github.com/gocopper/copper"/>
-        <updated>2022-07-07T01:51:15.833Z</updated>
-        <content type="html"><![CDATA[(github.com/gocopper)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AnotherPomodoro - 웹 뽀모도로 타이머 오픈소스]]></title>
         <id>https://another-pomodoro.app/</id>
         <link href="https://another-pomodoro.app/"/>
@@ -34,11 +34,25 @@
         <content type="html"><![CDATA[(another-pomodoro.app)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Copper - Go용 Web App 툴킷]]></title>
+        <id>https://github.com/gocopper/copper</id>
+        <link href="https://github.com/gocopper/copper"/>
+        <updated>2022-07-07T01:51:15.833Z</updated>
+        <content type="html"><![CDATA[(github.com/gocopper)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KBS 바다 - 고품질 공공 스톡 콘텐츠 서비스]]></title>
         <id>https://bada.kbs.co.kr/</id>
         <link href="https://bada.kbs.co.kr/"/>
         <updated>2022-07-06T01:57:56.623Z</updated>
         <content type="html"><![CDATA[(bada.kbs.co.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 모두를 위한 소셜 링크 사이트]]></title>
+        <id>https://news.hada.io/topic?id=6927</id>
+        <link href="https://news.hada.io/topic?id=6927"/>
+        <updated>2022-07-07T01:51:15.851Z</updated>
+        <content type="html"><![CDATA[(linktag.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fedex, 데이터센터를 폐쇄하고 2024년까지 모든 메임프레임 폐기 예정]]></title>
@@ -62,11 +76,11 @@
         <content type="html"><![CDATA[(bun.sh)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 모두를 위한 소셜 링크 사이트]]></title>
-        <id>https://news.hada.io/topic?id=6927</id>
-        <link href="https://news.hada.io/topic?id=6927"/>
-        <updated>2022-07-07T01:51:15.851Z</updated>
-        <content type="html"><![CDATA[(linktag.org)]]></content>
+        <title type="html"><![CDATA[SQSLite - AWS SQS의 가벼운 구현체]]></title>
+        <id>https://github.com/jennyEckstein/sqslite</id>
+        <link href="https://github.com/jennyEckstein/sqslite"/>
+        <updated>2022-07-06T01:57:56.626Z</updated>
+        <content type="html"><![CDATA[(github.com/jennyEckstein)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NIST 양자내성암호 표준 발표]]></title>
@@ -74,13 +88,6 @@
         <link href="https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms"/>
         <updated>2022-07-06T04:49:09.980Z</updated>
         <content type="html"><![CDATA[(nist.gov)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQSLite - AWS SQS의 가벼운 구현체]]></title>
-        <id>https://github.com/jennyEckstein/sqslite</id>
-        <link href="https://github.com/jennyEckstein/sqslite"/>
-        <updated>2022-07-06T01:57:56.626Z</updated>
-        <content type="html"><![CDATA[(github.com/jennyEckstein)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How Normal Am I]]></title>
@@ -104,18 +111,18 @@
         <content type="html"><![CDATA[(moonbangoo.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Felt - 지도 기반 시각화 만들기]]></title>
-        <id>https://felt.com/</id>
-        <link href="https://felt.com/"/>
-        <updated>2022-07-05T01:44:58.852Z</updated>
-        <content type="html"><![CDATA[(felt.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
         <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
         <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
         <updated>2022-07-04T06:27:44.364Z</updated>
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Felt - 지도 기반 시각화 만들기]]></title>
+        <id>https://felt.com/</id>
+        <link href="https://felt.com/"/>
+        <updated>2022-07-05T01:44:58.852Z</updated>
+        <content type="html"><![CDATA[(felt.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국인 10억명의 개인정보가 유출되어 판매사이트에 올라옴]]></title>
@@ -137,12 +144,5 @@
         <link href="https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization"/>
         <updated>2022-07-05T06:22:57.626Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W3C가 분산신원식별자 DID 1.0을 권장사항으로 승인]]></title>
-        <id>https://benny-jung.medium.com/w3c-did-1-0-%EC%97%90-%EB%8C%80%ED%95%9C-google-apple-%EB%B0%8F-mozila%EC%9D%98-%EC%9D%B4%EC%9D%98%EC%A0%9C%EA%B8%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%B5%EC%8B%9D-%EA%B2%B0%EC%A0%95-%ED%91%9C%EC%A4%80%ED%99%94-%EC%B1%84%ED%83%9D-fd467e0704f4</id>
-        <link href="https://benny-jung.medium.com/w3c-did-1-0-%EC%97%90-%EB%8C%80%ED%95%9C-google-apple-%EB%B0%8F-mozila%EC%9D%98-%EC%9D%B4%EC%9D%98%EC%A0%9C%EA%B8%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%B5%EC%8B%9D-%EA%B2%B0%EC%A0%95-%ED%91%9C%EC%A4%80%ED%99%94-%EC%B1%84%ED%83%9D-fd467e0704f4"/>
-        <updated>2022-07-06T01:57:56.628Z</updated>
-        <content type="html"><![CDATA[(benny-jung.medium.com)]]></content>
     </entry>
 </feed>
