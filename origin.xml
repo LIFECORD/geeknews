@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-08T21:17:43.454Z</updated>
+    <updated>2022-07-08T22:17:44.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(another-pomodoro.app)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KBS 바다 - 고품질 공공 스톡 콘텐츠 서비스]]></title>
+        <id>https://bada.kbs.co.kr/</id>
+        <link href="https://bada.kbs.co.kr/"/>
+        <updated>2022-07-06T01:57:56.623Z</updated>
+        <content type="html"><![CDATA[(bada.kbs.co.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[자동차 회사 계보도]]></title>
         <id>https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree</id>
         <link href="https://www.whichcar.com.au/car-advice/car-manufacturer-brands-family-tree"/>
@@ -60,13 +67,6 @@
         <link href="https://github.com/tobymao/sqlglot"/>
         <updated>2022-07-08T01:49:36.622Z</updated>
         <content type="html"><![CDATA[(github.com/tobymao)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS 바다 - 고품질 공공 스톡 콘텐츠 서비스]]></title>
-        <id>https://bada.kbs.co.kr/</id>
-        <link href="https://bada.kbs.co.kr/"/>
-        <updated>2022-07-06T01:57:56.623Z</updated>
-        <content type="html"><![CDATA[(bada.kbs.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[테슬라는 더 이상 가장 큰 전기차 제조사가 아니다]]></title>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[(github.com/jennyEckstein)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 가격 허들을 해결하기 위한 솔루션과 마켓]]></title>
-        <id>https://ansubin.com/nft-cost-barrier-solution/</id>
-        <link href="https://ansubin.com/nft-cost-barrier-solution/"/>
-        <updated>2022-07-08T01:49:36.632Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What Should I Read Next? - 다음에 읽을 책은?]]></title>
         <id>https://www.whatshouldireadnext.com/</id>
         <link href="https://www.whatshouldireadnext.com/"/>
@@ -144,5 +137,12 @@
         <link href="https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization"/>
         <updated>2022-07-08T21:17:06.019Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 가격 허들을 해결하기 위한 솔루션과 마켓]]></title>
+        <id>https://ansubin.com/nft-cost-barrier-solution/</id>
+        <link href="https://ansubin.com/nft-cost-barrier-solution/"/>
+        <updated>2022-07-08T01:49:36.632Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
 </feed>
