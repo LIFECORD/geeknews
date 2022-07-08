@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-08T22:17:44.527Z</updated>
+    <updated>2022-07-08T23:18:38.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 가격 허들을 해결하기 위한 솔루션과 마켓]]></title>
-        <id>https://ansubin.com/nft-cost-barrier-solution/</id>
-        <link href="https://ansubin.com/nft-cost-barrier-solution/"/>
-        <updated>2022-07-08T01:49:36.632Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
+        <title type="html"><![CDATA[Felt - 지도 기반 시각화 만들기]]></title>
+        <id>https://felt.com/</id>
+        <link href="https://felt.com/"/>
+        <updated>2022-07-08T23:18:03.015Z</updated>
+        <content type="html"><![CDATA[(felt.com)]]></content>
     </entry>
 </feed>
