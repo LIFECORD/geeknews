@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-08T19:15:46.605Z</updated>
+    <updated>2022-07-08T20:22:32.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[(fospha.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KBS 바다 - 고품질 공공 스톡 콘텐츠 서비스]]></title>
+        <id>https://bada.kbs.co.kr/</id>
+        <link href="https://bada.kbs.co.kr/"/>
+        <updated>2022-07-06T01:57:56.623Z</updated>
+        <content type="html"><![CDATA[(bada.kbs.co.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SQLGlot - Python SQL Parser & Transpiler]]></title>
         <id>https://github.com/tobymao/sqlglot</id>
         <link href="https://github.com/tobymao/sqlglot"/>
@@ -67,13 +74,6 @@
         <link href="https://www.axios.com/2022/07/05/byd-tesla-ev-elon-musk-warren-buffett"/>
         <updated>2022-07-08T01:49:36.623Z</updated>
         <content type="html"><![CDATA[(axios.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS 바다 - 고품질 공공 스톡 콘텐츠 서비스]]></title>
-        <id>https://bada.kbs.co.kr/</id>
-        <link href="https://bada.kbs.co.kr/"/>
-        <updated>2022-07-06T01:57:56.623Z</updated>
-        <content type="html"><![CDATA[(bada.kbs.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(bun.sh)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 가격 허들을 해결하기 위한 솔루션과 마켓]]></title>
-        <id>https://ansubin.com/nft-cost-barrier-solution/</id>
-        <link href="https://ansubin.com/nft-cost-barrier-solution/"/>
-        <updated>2022-07-08T01:49:36.632Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Delivery Hero Reliability Manifesto (번역)]]></title>
         <id>https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/</id>
         <link href="https://moonsub-kim.github.io/docs/delivery-hero/reliability-manifesto/"/>
         <updated>2022-07-04T06:27:44.364Z</updated>
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 가격 허들을 해결하기 위한 솔루션과 마켓]]></title>
+        <id>https://ansubin.com/nft-cost-barrier-solution/</id>
+        <link href="https://ansubin.com/nft-cost-barrier-solution/"/>
+        <updated>2022-07-08T01:49:36.632Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQSLite - AWS SQS의 가벼운 구현체]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(whatshouldireadnext.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ECS Task Rebalancing을 이용한 EC2 비용 최적화 노하우]]></title>
-        <id>https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization</id>
-        <link href="https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization"/>
-        <updated>2022-07-08T19:15:11.106Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+        <title type="html"><![CDATA[Felt - 지도 기반 시각화 만들기]]></title>
+        <id>https://felt.com/</id>
+        <link href="https://felt.com/"/>
+        <updated>2022-07-08T20:21:56.407Z</updated>
+        <content type="html"><![CDATA[(felt.com)]]></content>
     </entry>
 </feed>
