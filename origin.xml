@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-08T12:35:25.683Z</updated>
+    <updated>2022-07-08T13:37:12.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(wiby.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 스파이웨어로부터 보호하는 '락다운 모드' 프리뷰 공개]]></title>
-        <id>https://www.apple.com/kr/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/</id>
-        <link href="https://www.apple.com/kr/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/"/>
-        <updated>2022-07-08T01:49:36.629Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아마존에서 배운 5가지 글쓰기와 소통 방식]]></title>
         <id>http://channy.creation.net/blog/1620</id>
         <link href="http://channy.creation.net/blog/1620"/>
         <updated>2022-07-07T03:49:37.036Z</updated>
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 스파이웨어로부터 보호하는 '락다운 모드' 프리뷰 공개]]></title>
+        <id>https://www.apple.com/kr/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/</id>
+        <link href="https://www.apple.com/kr/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/"/>
+        <updated>2022-07-08T01:49:36.629Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자동차 회사 계보도]]></title>
