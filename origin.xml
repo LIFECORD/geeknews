@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-08T06:23:52.850Z</updated>
+    <updated>2022-07-08T07:17:27.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(wiby.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이커머스 광고 현황 보고서 (2022년 1월~3월, 13p PDF)]]></title>
-        <id>https://www.fospha.com/state-of-ecommerce-advertising-report</id>
-        <link href="https://www.fospha.com/state-of-ecommerce-advertising-report"/>
-        <updated>2022-07-08T01:49:36.618Z</updated>
-        <content type="html"><![CDATA[(fospha.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아마존에서 배운 5가지 글쓰기와 소통 방식]]></title>
         <id>http://channy.creation.net/blog/1620</id>
         <link href="http://channy.creation.net/blog/1620"/>
         <updated>2022-07-07T03:49:37.036Z</updated>
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이커머스 광고 현황 보고서 (2022년 1월~3월, 13p PDF)]]></title>
+        <id>https://www.fospha.com/state-of-ecommerce-advertising-report</id>
+        <link href="https://www.fospha.com/state-of-ecommerce-advertising-report"/>
+        <updated>2022-07-08T01:49:36.618Z</updated>
+        <content type="html"><![CDATA[(fospha.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQLGlot - Python SQL Parser & Transpiler]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(another-pomodoro.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NFT 가격 허들을 해결하기 위한 솔루션과 마켓]]></title>
-        <id>https://ansubin.com/nft-cost-barrier-solution/</id>
-        <link href="https://ansubin.com/nft-cost-barrier-solution/"/>
-        <updated>2022-07-08T01:49:36.632Z</updated>
-        <content type="html"><![CDATA[(ansubin.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSVFiddle - 웹에서 CSV를 SQL로 쿼리하기]]></title>
         <id>https://csvfiddle.io/</id>
         <link href="https://csvfiddle.io/"/>
         <updated>2022-07-07T01:51:15.833Z</updated>
         <content type="html"><![CDATA[(csvfiddle.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT 가격 허들을 해결하기 위한 솔루션과 마켓]]></title>
+        <id>https://ansubin.com/nft-cost-barrier-solution/</id>
+        <link href="https://ansubin.com/nft-cost-barrier-solution/"/>
+        <updated>2022-07-08T01:49:36.632Z</updated>
+        <content type="html"><![CDATA[(ansubin.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KBS 바다 - 고품질 공공 스톡 콘텐츠 서비스]]></title>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(moonsub-kim.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Should I Read Next? - 다음에 읽을 책은?]]></title>
-        <id>https://www.whatshouldireadnext.com/</id>
-        <link href="https://www.whatshouldireadnext.com/"/>
-        <updated>2022-07-05T01:44:58.836Z</updated>
-        <content type="html"><![CDATA[(whatshouldireadnext.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ECS Task Rebalancing을 이용한 EC2 비용 최적화 노하우]]></title>
         <id>https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization</id>
         <link href="https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization"/>
         <updated>2022-07-05T06:22:57.626Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Should I Read Next? - 다음에 읽을 책은?]]></title>
+        <id>https://www.whatshouldireadnext.com/</id>
+        <link href="https://www.whatshouldireadnext.com/"/>
+        <updated>2022-07-05T01:44:58.836Z</updated>
+        <content type="html"><![CDATA[(whatshouldireadnext.com)]]></content>
     </entry>
 </feed>
