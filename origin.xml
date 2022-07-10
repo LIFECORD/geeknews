@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-10T17:17:27.295Z</updated>
+    <updated>2022-07-10T18:21:14.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,12 @@
         <link href="https://pocketbase.io/"/>
         <updated>2022-07-10T01:56:42.208Z</updated>
         <content type="html"><![CDATA[(pocketbase.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 나만 안 쓰는 제품이나 서비스가 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=6946</id>
+        <link href="https://news.hada.io/topic?id=6946"/>
+        <updated>2022-07-10T14:15:46.773Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[NLLB(No Language Left Behind: 어떤 언어로도 소통할 수 있도록)]]></title>
@@ -27,10 +33,11 @@
         <content type="html"><![CDATA[(justingarrison.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 나만 안 쓰는 제품이나 서비스가 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=6946</id>
-        <link href="https://news.hada.io/topic?id=6946"/>
-        <updated>2022-07-10T14:15:46.773Z</updated>
+        <title type="html"><![CDATA[엘런 머스크, 트위터 인수 계약 해지 통보]]></title>
+        <id>https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm</id>
+        <link href="https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm"/>
+        <updated>2022-07-10T10:18:39.897Z</updated>
+        <content type="html"><![CDATA[(sec.gov)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Life Stats - 내가 태어난 이후로..]]></title>
@@ -38,13 +45,6 @@
         <link href="https://neal.fun/life-stats/"/>
         <updated>2022-07-09T01:27:35.473Z</updated>
         <content type="html"><![CDATA[(neal.fun)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘런 머스크, 트위터 인수 계약 해지 통보]]></title>
-        <id>https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm</id>
-        <link href="https://www.sec.gov/Archives/edgar/data/1418091/000110465922078413/tm2220599d1_ex99-p.htm"/>
-        <updated>2022-07-10T10:18:39.897Z</updated>
-        <content type="html"><![CDATA[(sec.gov)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아마존에서 배운 5가지 글쓰기와 소통 방식]]></title>
