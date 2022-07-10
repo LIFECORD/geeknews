@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-10T19:14:36.378Z</updated>
+    <updated>2022-07-10T20:18:39.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,17 +13,17 @@
         <content type="html"><![CDATA[(pocketbase.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 나만 안 쓰는 제품이나 서비스가 있나요?]]></title>
-        <id>https://news.hada.io/topic?id=6946</id>
-        <link href="https://news.hada.io/topic?id=6946"/>
-        <updated>2022-07-10T14:15:46.773Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NLLB(No Language Left Behind: 어떤 언어로도 소통할 수 있도록)]]></title>
         <id>https://ai.facebook.com/research/no-language-left-behind/ko/</id>
         <link href="https://ai.facebook.com/research/no-language-left-behind/ko/"/>
         <updated>2022-07-10T01:56:42.208Z</updated>
         <content type="html"><![CDATA[(ai.facebook.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 나만 안 쓰는 제품이나 서비스가 있나요?]]></title>
+        <id>https://news.hada.io/topic?id=6946</id>
+        <link href="https://news.hada.io/topic?id=6946"/>
+        <updated>2022-07-10T14:15:46.773Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cubernetes]]></title>
