@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-07-13T18:28:15.111Z</updated>
+    <updated>2022-07-13T19:15:48.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -54,16 +54,16 @@
         <updated>2022-06-23T04:37:03.336Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 엉성한 프로덕트를 만든 이야기를 듣고 싶어요.]]></title>
-        <id>https://news.hada.io/topic?id=6912</id>
-        <link href="https://news.hada.io/topic?id=6912"/>
-        <updated>2022-07-05T12:37:22.846Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 이맥스 20년 쓰다가 Vimmer로 전향했습니다.]]></title>
         <id>https://news.hada.io/topic?id=6758</id>
         <link href="https://news.hada.io/topic?id=6758"/>
         <updated>2022-06-15T03:40:34.429Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 엉성한 프로덕트를 만든 이야기를 듣고 싶어요.]]></title>
+        <id>https://news.hada.io/topic?id=6912</id>
+        <link href="https://news.hada.io/topic?id=6912"/>
+        <updated>2022-07-05T12:37:22.846Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: VS Code에서 다른 편집기로 갈아타고 싶습니다. 뭐가 좋을까요?]]></title>
