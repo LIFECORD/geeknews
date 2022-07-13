@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-13T11:16:53.463Z</updated>
+    <updated>2022-07-13T12:35:45.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(gcc.gnu.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nothing, Phone (1) 발표]]></title>
-        <id>https://kr.nothing.tech/pages/phone-1</id>
-        <link href="https://kr.nothing.tech/pages/phone-1"/>
-        <updated>2022-07-13T01:47:45.068Z</updated>
-        <content type="html"><![CDATA[(kr.nothing.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Deprank - PageRank를 이용하여 가장 중요한 코드 찾기]]></title>
         <id>https://github.com/codemix/deprank</id>
         <link href="https://github.com/codemix/deprank"/>
@@ -60,6 +53,13 @@
         <link href="https://www.readthegeneralist.com/briefing/yc"/>
         <updated>2022-07-11T05:24:48.260Z</updated>
         <content type="html"><![CDATA[(readthegeneralist.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing, Phone (1) 발표]]></title>
+        <id>https://kr.nothing.tech/pages/phone-1</id>
+        <link href="https://kr.nothing.tech/pages/phone-1"/>
+        <updated>2022-07-13T01:47:45.068Z</updated>
+        <content type="html"><![CDATA[(kr.nothing.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postgres 15, UNIQUE 와 NULL 향상]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(calibre-ebook.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[중복] 아마존에서 배운 5가지 글쓰기와 소통방식 (공손 + 존중이 생산성과 관련이 있음)]]></title>
-        <id>http://channy.creation.net/blog/1620</id>
-        <link href="http://channy.creation.net/blog/1620"/>
-        <updated>2022-07-07T03:49:37.036Z</updated>
-        <content type="html"><![CDATA[(channy.creation.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GeoParquet - Geospatial 벡터 데이터 저장 표준]]></title>
         <id>https://github.com/opengeospatial/geoparquet</id>
         <link href="https://github.com/opengeospatial/geoparquet"/>
         <updated>2022-07-12T01:53:27.245Z</updated>
         <content type="html"><![CDATA[(github.com/opengeospatial)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[중복] 아마존에서 배운 5가지 글쓰기와 소통방식 (공손 + 존중이 생산성과 관련이 있음)]]></title>
+        <id>http://channy.creation.net/blog/1620</id>
+        <link href="http://channy.creation.net/blog/1620"/>
+        <updated>2022-07-07T03:49:37.036Z</updated>
+        <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아무 웹사이트에서 React 코드 복사하는 크롬 확장]]></title>
