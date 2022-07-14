@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-14T08:23:53.561Z</updated>
+    <updated>2022-07-14T09:19:35.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(channy.creation.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GeoParquet - Geospatial 벡터 데이터 저장 표준]]></title>
-        <id>https://github.com/opengeospatial/geoparquet</id>
-        <link href="https://github.com/opengeospatial/geoparquet"/>
-        <updated>2022-07-12T01:53:27.245Z</updated>
-        <content type="html"><![CDATA[(github.com/opengeospatial)]]></content>
+        <title type="html"><![CDATA[아무 웹사이트에서 React 코드 복사하는 크롬 확장]]></title>
+        <id>https://sample-code.aspect.app/</id>
+        <link href="https://sample-code.aspect.app/"/>
+        <updated>2022-07-14T09:18:56.012Z</updated>
+        <content type="html"><![CDATA[(sample-code.aspect.app)]]></content>
     </entry>
 </feed>
