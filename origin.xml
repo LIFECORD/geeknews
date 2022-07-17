@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-17T05:19:24.649Z</updated>
+    <updated>2022-07-17T06:22:09.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(ohmyposh.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doom 해커가 둠 안에서 둠 실행]]></title>
-        <id>https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/</id>
-        <link href="https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/"/>
-        <updated>2022-07-16T01:47:09.113Z</updated>
-        <content type="html"><![CDATA[(pcgamer.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Git-Branchless - 브랜치를 사용하지 않는 Git 워크플로우 지원 도구 모음]]></title>
         <id>https://github.com/arxanas/git-branchless</id>
         <link href="https://github.com/arxanas/git-branchless"/>
         <updated>2022-07-14T01:55:29.841Z</updated>
         <content type="html"><![CDATA[(github.com/arxanas)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom 해커가 둠 안에서 둠 실행]]></title>
+        <id>https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/</id>
+        <link href="https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/"/>
+        <updated>2022-07-16T01:47:09.113Z</updated>
+        <content type="html"><![CDATA[(pcgamer.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DNS 비사 - 왜 스위스(ch)는 dig 할 수 없을까?]]></title>
