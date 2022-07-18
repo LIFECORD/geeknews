@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-18T15:24:30.790Z</updated>
+    <updated>2022-07-18T16:28:20.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(heazy.studio)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[행운의 표면적: 인생에서 행운을 얻는 방법]]></title>
-        <id>https://fronterablog.com/luck-surface-area/</id>
-        <link href="https://fronterablog.com/luck-surface-area/"/>
-        <updated>2022-07-18T12:35:25.491Z</updated>
-        <content type="html"><![CDATA[(fronterablog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PostgreSQL 14 Internals]]></title>
         <id>https://postgrespro.com/community/books/internals</id>
         <link href="https://postgrespro.com/community/books/internals"/>
         <updated>2022-07-16T01:47:09.113Z</updated>
         <content type="html"><![CDATA[(postgrespro.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[행운의 표면적: 인생에서 행운을 얻는 방법]]></title>
+        <id>https://fronterablog.com/luck-surface-area/</id>
+        <link href="https://fronterablog.com/luck-surface-area/"/>
+        <updated>2022-07-18T12:35:25.491Z</updated>
+        <content type="html"><![CDATA[(fronterablog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vite 3.0 릴리즈]]></title>
