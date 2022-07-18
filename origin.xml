@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-18T01:50:52.608Z</updated>
+    <updated>2022-07-18T03:47:33.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[(hanselminutes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[개발자에서 기술 작가로 전직하기까지 2년 간의 이야기]]></title>
-        <id>https://tech.devsisters.com/posts/from-engineer-to-techwriter/</id>
-        <link href="https://tech.devsisters.com/posts/from-engineer-to-techwriter/"/>
-        <updated>2022-07-18T01:50:16.903Z</updated>
-        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[당신이 팔 수 있는 8가지 (숏비디오)]]></title>
         <id>https://www.youtube.com/shorts/UT1jJDimPGU</id>
         <link href="https://www.youtube.com/shorts/UT1jJDimPGU"/>
@@ -27,11 +20,11 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왓차의 온보딩 프로세스]]></title>
-        <id>https://medium.com/@watcha/%EC%99%93%EC%B1%A0%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-e71b1cb1d278</id>
-        <link href="https://medium.com/@watcha/%EC%99%93%EC%B1%A0%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-e71b1cb1d278"/>
+        <title type="html"><![CDATA[개발자에서 기술 작가로 전직하기까지 2년 간의 이야기]]></title>
+        <id>https://tech.devsisters.com/posts/from-engineer-to-techwriter/</id>
+        <link href="https://tech.devsisters.com/posts/from-engineer-to-techwriter/"/>
         <updated>2022-07-18T01:50:16.903Z</updated>
-        <content type="html"><![CDATA[(medium.com/@watcha)]]></content>
+        <content type="html"><![CDATA[(tech.devsisters.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pinterest의 Memcached Fleet은 EC2 5000대를 사용]]></title>
@@ -39,6 +32,13 @@
         <link href="https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b"/>
         <updated>2022-07-18T01:50:16.903Z</updated>
         <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왓차의 온보딩 프로세스]]></title>
+        <id>https://medium.com/@watcha/%EC%99%93%EC%B1%A0%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-e71b1cb1d278</id>
+        <link href="https://medium.com/@watcha/%EC%99%93%EC%B1%A0%EC%9D%98-%EC%98%A8%EB%B3%B4%EB%94%A9-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-e71b1cb1d278"/>
+        <updated>2022-07-18T01:50:16.903Z</updated>
+        <content type="html"><![CDATA[(medium.com/@watcha)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPU Puzzles - 퍼즐 풀며 CUDA 배우기]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(vitejs.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shottr - 무료 맥용 스크린샷 유틸리티]]></title>
-        <id>https://shottr.cc/</id>
-        <link href="https://shottr.cc/"/>
-        <updated>2022-07-15T02:00:47.764Z</updated>
-        <content type="html"><![CDATA[(shottr.cc)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wordle, 파티형 보드게임으로 출시]]></title>
         <id>https://hasbropulse.com/products/wordle-the-party-game</id>
         <link href="https://hasbropulse.com/products/wordle-the-party-game"/>
         <updated>2022-07-17T01:54:17.065Z</updated>
         <content type="html"><![CDATA[(hasbropulse.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shottr - 무료 맥용 스크린샷 유틸리티]]></title>
+        <id>https://shottr.cc/</id>
+        <link href="https://shottr.cc/"/>
+        <updated>2022-07-15T02:00:47.764Z</updated>
+        <content type="html"><![CDATA[(shottr.cc)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[허준이 교수의 필즈상 수상 강연]]></title>
@@ -111,20 +111,6 @@
         <content type="html"><![CDATA[(ohmyposh.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Doom 해커가 둠 안에서 둠 실행]]></title>
-        <id>https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/</id>
-        <link href="https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/"/>
-        <updated>2022-07-16T01:47:09.113Z</updated>
-        <content type="html"><![CDATA[(pcgamer.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git-Branchless - 브랜치를 사용하지 않는 Git 워크플로우 지원 도구 모음]]></title>
-        <id>https://github.com/arxanas/git-branchless</id>
-        <link href="https://github.com/arxanas/git-branchless"/>
-        <updated>2022-07-14T01:55:29.841Z</updated>
-        <content type="html"><![CDATA[(github.com/arxanas)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: epyt: 1KB 타자 게임]]></title>
         <id>https://news.hada.io/topic?id=6967</id>
         <link href="https://news.hada.io/topic?id=6967"/>
@@ -139,10 +125,24 @@
         <content type="html"><![CDATA[(github.com/nitnelave)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DNS 비사 - 왜 스위스(ch)는 dig 할 수 없을까?]]></title>
-        <id>https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/</id>
-        <link href="https://shkspr.mobi/blog/2022/07/dns-esoterica-why-you-cant-dig-switzerland/"/>
-        <updated>2022-07-15T02:00:47.766Z</updated>
-        <content type="html"><![CDATA[(shkspr.mobi)]]></content>
+        <title type="html"><![CDATA[Git-Branchless - 브랜치를 사용하지 않는 Git 워크플로우 지원 도구 모음]]></title>
+        <id>https://github.com/arxanas/git-branchless</id>
+        <link href="https://github.com/arxanas/git-branchless"/>
+        <updated>2022-07-14T01:55:29.841Z</updated>
+        <content type="html"><![CDATA[(github.com/arxanas)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom 해커가 둠 안에서 둠 실행]]></title>
+        <id>https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/</id>
+        <link href="https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom/"/>
+        <updated>2022-07-16T01:47:09.113Z</updated>
+        <content type="html"><![CDATA[(pcgamer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웹 브라우저에 URL을 입력하면 어떤 일이 생기나요?]]></title>
+        <id>https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/</id>
+        <link href="https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/"/>
+        <updated>2022-07-18T03:46:57.724Z</updated>
+        <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
 </feed>
