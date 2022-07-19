@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-19T10:22:43.842Z</updated>
+    <updated>2022-07-19T11:16:09.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(banklesstimes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[StackOverflow는 9대의 on-prem 서버로 운영중]]></title>
-        <id>https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#</id>
-        <link href="https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#"/>
-        <updated>2022-07-18T01:50:16.896Z</updated>
-        <content type="html"><![CDATA[(hanselminutes.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JetBrains 제품 구독료 인상.]]></title>
         <id>https://blog.jetbrains.com/ko/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/</id>
         <link href="https://blog.jetbrains.com/ko/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/"/>
         <updated>2022-07-19T02:01:03.215Z</updated>
         <content type="html"><![CDATA[(blog.jetbrains.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StackOverflow는 9대의 on-prem 서버로 운영중]]></title>
+        <id>https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#</id>
+        <link href="https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#"/>
+        <updated>2022-07-18T01:50:16.896Z</updated>
+        <content type="html"><![CDATA[(hanselminutes.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SplinterDB - 고성능 임베디드 키밸류 저장소]]></title>
