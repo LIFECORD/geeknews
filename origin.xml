@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-20T10:25:01.095Z</updated>
+    <updated>2022-07-20T11:16:04.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(about.netflix.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함]]></title>
-        <id>https://twitter.com/fchollet/status/1536486937288376320</id>
-        <link href="https://twitter.com/fchollet/status/1536486937288376320"/>
-        <updated>2022-07-19T02:01:03.217Z</updated>
-        <content type="html"><![CDATA[(twitter.com/fchollet)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022 패션 이커머스 벤치마크 리포트 [38p PDF]]]></title>
         <id>https://channel.io/ko/resources/kr-fashion-benchmark-report-2022</id>
         <link href="https://channel.io/ko/resources/kr-fashion-benchmark-report-2022"/>
         <updated>2022-07-20T01:46:08.302Z</updated>
         <content type="html"><![CDATA[(channel.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함]]></title>
+        <id>https://twitter.com/fchollet/status/1536486937288376320</id>
+        <link href="https://twitter.com/fchollet/status/1536486937288376320"/>
+        <updated>2022-07-19T02:01:03.217Z</updated>
+        <content type="html"><![CDATA[(twitter.com/fchollet)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Future 100 : 2022년에 주목해야할 트렌드 및 변화]]></title>
