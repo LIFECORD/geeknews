@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-20T18:23:02.388Z</updated>
+    <updated>2022-07-20T19:17:41.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trino - 빅데이터용 분산 SQL 쿼리 엔진]]></title>
-        <id>https://github.com/trinodb/trino</id>
-        <link href="https://github.com/trinodb/trino"/>
-        <updated>2022-07-20T01:46:08.301Z</updated>
-        <content type="html"><![CDATA[(github.com/trinodb)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함]]></title>
         <id>https://twitter.com/fchollet/status/1536486937288376320</id>
         <link href="https://twitter.com/fchollet/status/1536486937288376320"/>
         <updated>2022-07-19T02:01:03.217Z</updated>
         <content type="html"><![CDATA[(twitter.com/fchollet)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trino - 빅데이터용 분산 SQL 쿼리 엔진]]></title>
+        <id>https://github.com/trinodb/trino</id>
+        <link href="https://github.com/trinodb/trino"/>
+        <updated>2022-07-20T01:46:08.301Z</updated>
+        <content type="html"><![CDATA[(github.com/trinodb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[익명 직장 리뷰사이트인 Glassdoor는 더 이상 익명이 아니다]]></title>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[(ghacks.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아마존, J.P.모건, 앤썸이 합성 데이터를 개발하고 활용하는 방식]]></title>
-        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222818309044&amp;categoryNo=18&amp;parentCategoryNo=18&amp;from=thumbnailList</id>
-        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222818309044&amp;categoryNo=18&amp;parentCategoryNo=18&amp;from=thumbnailList"/>
-        <updated>2022-07-19T09:20:06.595Z</updated>
-        <content type="html"><![CDATA[(blog.naver.com)]]></content>
+        <title type="html"><![CDATA[SplinterDB - 고성능 임베디드 키밸류 저장소]]></title>
+        <id>https://github.com/vmware/splinterdb</id>
+        <link href="https://github.com/vmware/splinterdb"/>
+        <updated>2022-07-19T02:01:03.218Z</updated>
+        <content type="html"><![CDATA[(github.com/vmware)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GPU Puzzles - 퍼즐 풀며 CUDA 배우기]]></title>
@@ -111,11 +111,11 @@
         <content type="html"><![CDATA[(github.com/srush)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SplinterDB - 고성능 임베디드 키밸류 저장소]]></title>
-        <id>https://github.com/vmware/splinterdb</id>
-        <link href="https://github.com/vmware/splinterdb"/>
-        <updated>2022-07-19T02:01:03.218Z</updated>
-        <content type="html"><![CDATA[(github.com/vmware)]]></content>
+        <title type="html"><![CDATA[아마존, J.P.모건, 앤썸이 합성 데이터를 개발하고 활용하는 방식]]></title>
+        <id>https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222818309044&amp;categoryNo=18&amp;parentCategoryNo=18&amp;from=thumbnailList</id>
+        <link href="https://blog.naver.com/PostView.naver?blogId=saltluxmarketing&amp;logNo=222818309044&amp;categoryNo=18&amp;parentCategoryNo=18&amp;from=thumbnailList"/>
+        <updated>2022-07-19T09:20:06.595Z</updated>
+        <content type="html"><![CDATA[(blog.naver.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[클라우드 채택률에서 Azure가 AWS를 추월]]></title>
