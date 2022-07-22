@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-22T01:51:31.325Z</updated>
+    <updated>2022-07-22T03:51:19.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(github.com/honojs)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Behind the Design WWDC22]]></title>
+        <id>https://developer.apple.com/news/?id=b4kk777r</id>
+        <link href="https://developer.apple.com/news/?id=b4kk777r"/>
+        <updated>2022-07-22T01:50:53.247Z</updated>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Logto - 오픈소스 사용자 아이덴티티 솔루션]]></title>
         <id>https://github.com/logto-io/logto</id>
         <link href="https://github.com/logto-io/logto"/>
@@ -32,13 +39,6 @@
         <link href="https://arstechnica.com/science/2022/07/relativity-and-impulse-space-say-theyre-flying-to-mars-in-late-2024/"/>
         <updated>2022-07-22T01:50:53.244Z</updated>
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Behind the Design WWDC22]]></title>
-        <id>https://developer.apple.com/news/?id=b4kk777r</id>
-        <link href="https://developer.apple.com/news/?id=b4kk777r"/>
-        <updated>2022-07-22T01:50:53.247Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[종이비행기 디자인 모음]]></title>
