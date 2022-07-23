@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-23T08:23:28.885Z</updated>
+    <updated>2022-07-23T09:17:58.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(flowful.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft, 소셜 네트워킹 앱 Viva Engage 발표]]></title>
-        <id>https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-engage/ba-p/3571382</id>
-        <link href="https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-engage/ba-p/3571382"/>
-        <updated>2022-07-23T01:47:55.513Z</updated>
-        <content type="html"><![CDATA[(techcommunity.microsoft.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hono - Cloudflare Workers를 위한 초고속 웹 프레임워크]]></title>
         <id>https://github.com/honojs/hono</id>
         <link href="https://github.com/honojs/hono"/>
         <updated>2022-07-22T01:50:53.244Z</updated>
         <content type="html"><![CDATA[(github.com/honojs)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft, 소셜 네트워킹 앱 Viva Engage 발표]]></title>
+        <id>https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-engage/ba-p/3571382</id>
+        <link href="https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-engage/ba-p/3571382"/>
+        <updated>2022-07-23T01:47:55.513Z</updated>
+        <content type="html"><![CDATA[(techcommunity.microsoft.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[종이비행기 디자인 모음]]></title>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[(twitter.com/fchollet)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[StackOverflow는 9대의 on-prem 서버로 운영중]]></title>
+        <id>https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#</id>
+        <link href="https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#"/>
+        <updated>2022-07-18T01:50:16.896Z</updated>
+        <content type="html"><![CDATA[(hanselminutes.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Relativity Space 와 Impulse Space, 2개의 회사가 화성으로 가는 계획을 발표]]></title>
         <id>https://arstechnica.com/science/2022/07/relativity-and-impulse-space-say-theyre-flying-to-mars-in-late-2024/</id>
         <link href="https://arstechnica.com/science/2022/07/relativity-and-impulse-space-say-theyre-flying-to-mars-in-late-2024/"/>
@@ -129,13 +136,6 @@
         <id>https://news.hada.io/topic?id=7024</id>
         <link href="https://news.hada.io/topic?id=7024"/>
         <updated>2022-07-22T16:29:57.865Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StackOverflow는 9대의 on-prem 서버로 운영중]]></title>
-        <id>https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#</id>
-        <link href="https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#"/>
-        <updated>2022-07-18T01:50:16.896Z</updated>
-        <content type="html"><![CDATA[(hanselminutes.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Future 100 : 2022년에 주목해야할 트렌드 및 변화]]></title>
