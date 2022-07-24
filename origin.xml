@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-24T18:22:35.079Z</updated>
+    <updated>2022-07-24T19:16:27.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hono - Cloudflare Workers를 위한 초고속 웹 프레임워크]]></title>
-        <id>https://github.com/honojs/hono</id>
-        <link href="https://github.com/honojs/hono"/>
-        <updated>2022-07-22T01:50:53.244Z</updated>
-        <content type="html"><![CDATA[(github.com/honojs)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Carbon, C++의 계승자를 목표로 구글이 새로 만든 프로그래밍 언어]]></title>
         <id>https://github.com/carbon-language/carbon-lang</id>
         <link href="https://github.com/carbon-language/carbon-lang"/>
         <updated>2022-07-23T01:47:55.512Z</updated>
         <content type="html"><![CDATA[(github.com/carbon-language)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hono - Cloudflare Workers를 위한 초고속 웹 프레임워크]]></title>
+        <id>https://github.com/honojs/hono</id>
+        <link href="https://github.com/honojs/hono"/>
+        <updated>2022-07-22T01:50:53.244Z</updated>
+        <content type="html"><![CDATA[(github.com/honojs)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[StackOverflow가 DDOS를 대응하며 배운 것들]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(hanselminutes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL·E 베타 시작]]></title>
-        <id>https://openai.com/blog/dall-e-now-available-in-beta/</id>
-        <link href="https://openai.com/blog/dall-e-now-available-in-beta/"/>
-        <updated>2022-07-21T03:42:23.211Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함]]></title>
         <id>https://twitter.com/fchollet/status/1536486937288376320</id>
         <link href="https://twitter.com/fchollet/status/1536486937288376320"/>
         <updated>2022-07-19T02:01:03.217Z</updated>
         <content type="html"><![CDATA[(twitter.com/fchollet)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E 베타 시작]]></title>
+        <id>https://openai.com/blog/dall-e-now-available-in-beta/</id>
+        <link href="https://openai.com/blog/dall-e-now-available-in-beta/"/>
+        <updated>2022-07-21T03:42:23.211Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신이 팔 수 있는 8가지 (숏비디오)]]></title>
