@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-24T16:25:49.010Z</updated>
+    <updated>2022-07-24T17:20:58.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(humbleicons.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChromeOS Flex 정식 릴리즈]]></title>
-        <id>https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs</id>
-        <link href="https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs"/>
-        <updated>2022-07-24T11:15:04.124Z</updated>
-        <content type="html"><![CDATA[(cloud.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RedwoodJS vs. BlitzJS : 풀스택 자바스크립트 메타-프레임워크 비교]]></title>
         <id>https://blog.risingstack.com/redwoodjs-vs-blitzjs-comparison/</id>
         <link href="https://blog.risingstack.com/redwoodjs-vs-blitzjs-comparison/"/>
         <updated>2022-07-24T01:55:51.332Z</updated>
         <content type="html"><![CDATA[(blog.risingstack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChromeOS Flex 정식 릴리즈]]></title>
+        <id>https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs</id>
+        <link href="https://cloud.google.com/blog/products/chrome-enterprise/chromeos-flex-ready-to-scale-to-pcs-and-macs"/>
+        <updated>2022-07-24T11:15:04.124Z</updated>
+        <content type="html"><![CDATA[(cloud.google.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[종이비행기 디자인 모음]]></title>
@@ -53,13 +53,6 @@
         <link href="https://www.flowful.app/"/>
         <updated>2022-07-22T01:50:53.244Z</updated>
         <content type="html"><![CDATA[(flowful.app)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carbon, C++의 계승자를 목표로 구글이 새로 만든 프로그래밍 언어]]></title>
-        <id>https://github.com/carbon-language/carbon-lang</id>
-        <link href="https://github.com/carbon-language/carbon-lang"/>
-        <updated>2022-07-23T01:47:55.512Z</updated>
-        <content type="html"><![CDATA[(github.com/carbon-language)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 차 해킹하기 : 현대 아이오닉]]></title>
@@ -81,6 +74,13 @@
         <link href="https://github.com/honojs/hono"/>
         <updated>2022-07-22T01:50:53.244Z</updated>
         <content type="html"><![CDATA[(github.com/honojs)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carbon, C++의 계승자를 목표로 구글이 새로 만든 프로그래밍 언어]]></title>
+        <id>https://github.com/carbon-language/carbon-lang</id>
+        <link href="https://github.com/carbon-language/carbon-lang"/>
+        <updated>2022-07-23T01:47:55.512Z</updated>
+        <content type="html"><![CDATA[(github.com/carbon-language)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[StackOverflow가 DDOS를 대응하며 배운 것들]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(mpv.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL·E 베타 시작]]></title>
-        <id>https://openai.com/blog/dall-e-now-available-in-beta/</id>
-        <link href="https://openai.com/blog/dall-e-now-available-in-beta/"/>
-        <updated>2022-07-21T03:42:23.211Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[StackOverflow는 9대의 on-prem 서버로 운영중]]></title>
         <id>https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#</id>
         <link href="https://hanselminutes.com/847/engineering-stack-overflow-with-roberta-arcoverde#"/>
         <updated>2022-07-18T01:50:16.896Z</updated>
         <content type="html"><![CDATA[(hanselminutes.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E 베타 시작]]></title>
+        <id>https://openai.com/blog/dall-e-now-available-in-beta/</id>
+        <link href="https://openai.com/blog/dall-e-now-available-in-beta/"/>
+        <updated>2022-07-21T03:42:23.211Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뇌는 8~35헤르츠에서 15와트로 작동하며, 에너지 소비량이 LED전구와 비슷함]]></title>
