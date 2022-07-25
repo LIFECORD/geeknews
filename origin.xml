@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-25T12:38:38.541Z</updated>
+    <updated>2022-07-25T13:41:46.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(flowful.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TeamViewer는 뷰어가 설치 되었는지 체크하기 위해서 폰트를 설치한다]]></title>
-        <id>https://news.ycombinator.com/item?id=32165103</id>
-        <link href="https://news.ycombinator.com/item?id=32165103"/>
-        <updated>2022-07-21T01:48:49.190Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[StackOverflow가 DDOS를 대응하며 배운 것들]]></title>
         <id>https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/</id>
         <link href="https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/"/>
         <updated>2022-07-20T01:46:08.301Z</updated>
         <content type="html"><![CDATA[(stackoverflow.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TeamViewer는 뷰어가 설치 되었는지 체크하기 위해서 폰트를 설치한다]]></title>
+        <id>https://news.ycombinator.com/item?id=32165103</id>
+        <link href="https://news.ycombinator.com/item?id=32165103"/>
+        <updated>2022-07-21T01:48:49.190Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 차 해킹하기 : 현대 아이오닉]]></title>
