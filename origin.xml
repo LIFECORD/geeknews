@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-27T22:20:12.017Z</updated>
+    <updated>2022-07-27T23:18:49.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(community.applepie.pro)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$2000짜리 중국산 미니 전기 트럭 1년 사용 후기]]></title>
-        <id>https://electrek.co/2022/07/25/electric-mini-truck-how-its-holding-up/</id>
-        <link href="https://electrek.co/2022/07/25/electric-mini-truck-how-its-holding-up/"/>
-        <updated>2022-07-27T03:50:52.241Z</updated>
-        <content type="html"><![CDATA[(electrek.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이제 '윤초'는 과거로 남겨둘 때가 되었다]]></title>
         <id>https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/</id>
         <link href="https://engineering.fb.com/2022/07/25/production-engineering/its-time-to-leave-the-leap-second-in-the-past/"/>
         <updated>2022-07-26T01:57:52.961Z</updated>
         <content type="html"><![CDATA[(engineering.fb.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$2000짜리 중국산 미니 전기 트럭 1년 사용 후기]]></title>
+        <id>https://electrek.co/2022/07/25/electric-mini-truck-how-its-holding-up/</id>
+        <link href="https://electrek.co/2022/07/25/electric-mini-truck-how-its-holding-up/"/>
+        <updated>2022-07-27T03:50:52.241Z</updated>
+        <content type="html"><![CDATA[(electrek.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Git-Story : 커밋 히스토리를 애니메이션으로 만들어 설명하기]]></title>
