@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-27T18:22:27.632Z</updated>
+    <updated>2022-07-27T19:18:05.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(divan.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 나은 생각을 위한 도구들]]></title>
-        <id>https://untools.co/</id>
-        <link href="https://untools.co/"/>
-        <updated>2022-07-26T23:17:59.139Z</updated>
-        <content type="html"><![CDATA[(untools.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Player Unknown’s Bug: 원인 모를 문제를 기록하면 성장할 수 있나요?]]></title>
         <id>https://engineering.ab180.co/stories/player-unknowns-bug</id>
         <link href="https://engineering.ab180.co/stories/player-unknowns-bug"/>
         <updated>2022-07-27T03:50:52.232Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 나은 생각을 위한 도구들]]></title>
+        <id>https://untools.co/</id>
+        <link href="https://untools.co/"/>
+        <updated>2022-07-26T23:17:59.139Z</updated>
+        <content type="html"><![CDATA[(untools.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지적 호기심을 위한 유튜브 채널을 추천해 주세요]]></title>
