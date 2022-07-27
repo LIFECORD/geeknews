@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-27T19:18:05.643Z</updated>
+    <updated>2022-07-27T20:19:41.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://divan.dev/posts/edgedb/"/>
         <updated>2022-07-27T01:50:33.611Z</updated>
         <content type="html"><![CDATA[(divan.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Player Unknown’s Bug: 원인 모를 문제를 기록하면 성장할 수 있나요?]]></title>
-        <id>https://engineering.ab180.co/stories/player-unknowns-bug</id>
-        <link href="https://engineering.ab180.co/stories/player-unknowns-bug"/>
-        <updated>2022-07-27T03:50:52.232Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더 나은 생각을 위한 도구들]]></title>
@@ -34,11 +27,11 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Emoji Kitchen]]></title>
-        <id>https://emoji.supply/kitchen/</id>
-        <link href="https://emoji.supply/kitchen/"/>
-        <updated>2022-07-27T01:50:33.612Z</updated>
-        <content type="html"><![CDATA[(emoji.supply)]]></content>
+        <title type="html"><![CDATA[Player Unknown’s Bug: 원인 모를 문제를 기록하면 성장할 수 있나요?]]></title>
+        <id>https://engineering.ab180.co/stories/player-unknowns-bug</id>
+        <link href="https://engineering.ab180.co/stories/player-unknowns-bug"/>
+        <updated>2022-07-27T03:50:52.232Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
@@ -48,11 +41,11 @@
         <content type="html"><![CDATA[(news.hada.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Etro - Typescript 비디오 편집 프레임워크]]></title>
-        <id>https://etrojs.dev/</id>
-        <link href="https://etrojs.dev/"/>
+        <title type="html"><![CDATA[Emoji Kitchen]]></title>
+        <id>https://emoji.supply/kitchen/</id>
+        <link href="https://emoji.supply/kitchen/"/>
         <updated>2022-07-27T01:50:33.612Z</updated>
-        <content type="html"><![CDATA[(etrojs.dev)]]></content>
+        <content type="html"><![CDATA[(emoji.supply)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
@@ -60,6 +53,13 @@
         <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
         <updated>2022-07-26T01:57:52.952Z</updated>
         <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Etro - Typescript 비디오 편집 프레임워크]]></title>
+        <id>https://etrojs.dev/</id>
+        <link href="https://etrojs.dev/"/>
+        <updated>2022-07-27T01:50:33.612Z</updated>
+        <content type="html"><![CDATA[(etrojs.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[First 1000 스터디 1기 요약글 모음]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(trickster.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GNU tar는 왜 추출이 느릴까]]></title>
-        <id>https://mort.coffee/home/tar/</id>
-        <link href="https://mort.coffee/home/tar/"/>
-        <updated>2022-07-25T01:48:53.886Z</updated>
-        <content type="html"><![CDATA[(mort.coffee)]]></content>
+        <title type="html"><![CDATA[Humbleicons - UI용 무료 SVG 아이콘]]></title>
+        <id>https://humbleicons.com/</id>
+        <link href="https://humbleicons.com/"/>
+        <updated>2022-07-27T20:19:02.145Z</updated>
+        <content type="html"><![CDATA[(humbleicons.com)]]></content>
     </entry>
 </feed>
