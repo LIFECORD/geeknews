@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-28T15:19:28.594Z</updated>
+    <updated>2022-07-28T16:30:26.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Nesting 문법 선택에 투표해 주세요]]></title>
-        <id>https://developer.chrome.com/blog/help-css-nesting/</id>
-        <link href="https://developer.chrome.com/blog/help-css-nesting/"/>
-        <updated>2022-07-28T03:44:59.753Z</updated>
-        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Player Unknown’s Bug: 원인 모를 문제를 기록하면 성장할 수 있나요?]]></title>
         <id>https://engineering.ab180.co/stories/player-unknowns-bug</id>
         <link href="https://engineering.ab180.co/stories/player-unknowns-bug"/>
         <updated>2022-07-27T03:50:52.232Z</updated>
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Nesting 문법 선택에 투표해 주세요]]></title>
+        <id>https://developer.chrome.com/blog/help-css-nesting/</id>
+        <link href="https://developer.chrome.com/blog/help-css-nesting/"/>
+        <updated>2022-07-28T03:44:59.753Z</updated>
+        <content type="html"><![CDATA[(developer.chrome.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4700억원 투자받은 Helium의 월 매출은 8백만원]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(atroposjs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CircleCI - GitLab 지원 시작]]></title>
-        <id>https://circleci.com/blog/announcing-gitlab-support/</id>
-        <link href="https://circleci.com/blog/announcing-gitlab-support/"/>
-        <updated>2022-07-28T04:44:14.017Z</updated>
-        <content type="html"><![CDATA[(circleci.com)]]></content>
+        <title type="html"><![CDATA[$2000짜리 중국산 미니 전기 트럭 1년 사용 후기]]></title>
+        <id>https://electrek.co/2022/07/25/electric-mini-truck-how-its-holding-up/</id>
+        <link href="https://electrek.co/2022/07/25/electric-mini-truck-how-its-holding-up/"/>
+        <updated>2022-07-28T16:29:51.249Z</updated>
+        <content type="html"><![CDATA[(electrek.co)]]></content>
     </entry>
 </feed>
