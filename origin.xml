@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-28T08:26:12.230Z</updated>
+    <updated>2022-07-28T09:19:03.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloud Hypervisor - 오픈소스 Virtual Machine Monitor(VMM)]]></title>
-        <id>https://www.cloudhypervisor.org/</id>
-        <link href="https://www.cloudhypervisor.org/"/>
-        <updated>2022-07-28T01:47:08.856Z</updated>
-        <content type="html"><![CDATA[(cloudhypervisor.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Emoji Kitchen]]></title>
         <id>https://emoji.supply/kitchen/</id>
         <link href="https://emoji.supply/kitchen/"/>
@@ -102,6 +95,13 @@
         <link href="https://etrojs.dev/"/>
         <updated>2022-07-27T01:50:33.612Z</updated>
         <content type="html"><![CDATA[(etrojs.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Hypervisor - 오픈소스 Virtual Machine Monitor(VMM)]]></title>
+        <id>https://www.cloudhypervisor.org/</id>
+        <link href="https://www.cloudhypervisor.org/"/>
+        <updated>2022-07-28T01:47:08.856Z</updated>
+        <content type="html"><![CDATA[(cloudhypervisor.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[First 1000 스터디 1기 요약글 모음]]></title>
