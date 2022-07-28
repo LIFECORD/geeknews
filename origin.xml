@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-28T19:15:37.102Z</updated>
+    <updated>2022-07-28T20:21:27.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(atroposjs.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[$2000짜리 중국산 미니 전기 트럭 1년 사용 후기]]></title>
-        <id>https://electrek.co/2022/07/25/electric-mini-truck-how-its-holding-up/</id>
-        <link href="https://electrek.co/2022/07/25/electric-mini-truck-how-its-holding-up/"/>
-        <updated>2022-07-28T16:29:51.249Z</updated>
-        <content type="html"><![CDATA[(electrek.co)]]></content>
+        <title type="html"><![CDATA[@webtoon/psd 라이브러리 개발기]]></title>
+        <id>https://d2.naver.com/helloworld/6631477</id>
+        <link href="https://d2.naver.com/helloworld/6631477"/>
+        <updated>2022-07-28T20:20:50.287Z</updated>
+        <content type="html"><![CDATA[(d2.naver.com)]]></content>
     </entry>
 </feed>
