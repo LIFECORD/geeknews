@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-31T11:16:02.729Z</updated>
+    <updated>2022-07-31T12:33:13.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PickCode - Scratch 다음을 위한 교육용 코딩 환경]]></title>
-        <id>https://www.pickcode.io/</id>
-        <link href="https://www.pickcode.io/"/>
-        <updated>2022-07-30T01:47:03.585Z</updated>
-        <content type="html"><![CDATA[(pickcode.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Publii - 스태틱 웹사이트 제작용 데스크탑 CMS 오픈소스]]></title>
         <id>https://getpublii.com/</id>
         <link href="https://getpublii.com/"/>
@@ -76,11 +69,25 @@
         <content type="html"><![CDATA[(getpublii.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PickCode - Scratch 다음을 위한 교육용 코딩 환경]]></title>
+        <id>https://www.pickcode.io/</id>
+        <link href="https://www.pickcode.io/"/>
+        <updated>2022-07-30T01:47:03.585Z</updated>
+        <content type="html"><![CDATA[(pickcode.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Blueboat - 올인원 멀티테넌트 서버리스 자바스크립트 런타임]]></title>
         <id>https://github.com/losfair/blueboat</id>
         <link href="https://github.com/losfair/blueboat"/>
         <updated>2022-07-29T01:55:47.938Z</updated>
         <content type="html"><![CDATA[(github.com/losfair)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
+        <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
+        <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
+        <updated>2022-07-26T01:57:52.952Z</updated>
+        <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
@@ -95,13 +102,6 @@
         <link href="https://www.bbc.com/korean/international-62343541"/>
         <updated>2022-07-29T07:16:40.901Z</updated>
         <content type="html"><![CDATA[(bbc.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
-        <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
-        <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
-        <updated>2022-07-26T01:57:52.952Z</updated>
-        <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SSD로만 구성된 저예산 40TB NAS 만들기 ($4329)]]></title>
