@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-31T19:15:45.816Z</updated>
+    <updated>2022-07-31T20:20:38.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(edgedb.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Userver - C++용 비동기 프레임워크]]></title>
-        <id>https://userver.tech/</id>
-        <link href="https://userver.tech/"/>
-        <updated>2022-07-31T01:59:31.821Z</updated>
-        <content type="html"><![CDATA[(userver.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hello - 소프트웨어 개발자를 위한 검색엔진]]></title>
         <id>https://sayhello.so/</id>
         <link href="https://sayhello.so/"/>
         <updated>2022-07-29T01:55:47.935Z</updated>
         <content type="html"><![CDATA[(sayhello.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Userver - C++용 비동기 프레임워크]]></title>
+        <id>https://userver.tech/</id>
+        <link href="https://userver.tech/"/>
+        <updated>2022-07-31T01:59:31.821Z</updated>
+        <content type="html"><![CDATA[(userver.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(divan.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub City]]></title>
-        <id>https://honzaap.github.io/GithubCity/</id>
-        <link href="https://honzaap.github.io/GithubCity/"/>
-        <updated>2022-07-31T01:59:31.801Z</updated>
-        <content type="html"><![CDATA[(honzaap.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rust로 6개 OS에서 실행되는 APE 실행파일 만들기]]></title>
         <id>https://ahgamut.github.io/2022/07/27/ape-rust-example/</id>
         <link href="https://ahgamut.github.io/2022/07/27/ape-rust-example/"/>
         <updated>2022-07-30T01:47:03.551Z</updated>
         <content type="html"><![CDATA[(ahgamut.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub City]]></title>
+        <id>https://honzaap.github.io/GithubCity/</id>
+        <link href="https://honzaap.github.io/GithubCity/"/>
+        <updated>2022-07-31T01:59:31.801Z</updated>
+        <content type="html"><![CDATA[(honzaap.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지적 호기심을 위한 유튜브 채널을 추천해 주세요]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(getpublii.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
-        <id>https://news.hada.io/blog/geeknews_3year</id>
-        <link href="https://news.hada.io/blog/geeknews_3year"/>
-        <updated>2022-07-26T04:09:18.323Z</updated>
-        <content type="html"><![CDATA[(news.hada.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
         <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
         <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
         <updated>2022-07-26T01:57:52.952Z</updated>
         <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
+        <id>https://news.hada.io/blog/geeknews_3year</id>
+        <link href="https://news.hada.io/blog/geeknews_3year"/>
+        <updated>2022-07-26T04:09:18.323Z</updated>
+        <content type="html"><![CDATA[(news.hada.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PickCode - Scratch 다음을 위한 교육용 코딩 환경]]></title>
