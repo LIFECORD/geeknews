@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-31T18:21:34.533Z</updated>
+    <updated>2022-07-31T19:15:45.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(getpublii.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
-        <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
-        <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
-        <updated>2022-07-26T01:57:52.952Z</updated>
-        <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
         <id>https://news.hada.io/blog/geeknews_3year</id>
         <link href="https://news.hada.io/blog/geeknews_3year"/>
         <updated>2022-07-26T04:09:18.323Z</updated>
         <content type="html"><![CDATA[(news.hada.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
+        <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
+        <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
+        <updated>2022-07-26T01:57:52.952Z</updated>
+        <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PickCode - Scratch 다음을 위한 교육용 코딩 환경]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사우디, 미래형 직선 도시 "The Line" 공개]]></title>
-        <id>https://www.neom.com/en-us/regions/theline</id>
-        <link href="https://www.neom.com/en-us/regions/theline"/>
-        <updated>2022-07-28T01:47:08.823Z</updated>
-        <content type="html"><![CDATA[(neom.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[더 나은 생각을 위한 도구들]]></title>
         <id>https://untools.co/</id>
         <link href="https://untools.co/"/>
         <updated>2022-07-26T23:17:59.139Z</updated>
         <content type="html"><![CDATA[(untools.co)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사우디, 미래형 직선 도시 "The Line" 공개]]></title>
+        <id>https://www.neom.com/en-us/regions/theline</id>
+        <link href="https://www.neom.com/en-us/regions/theline"/>
+        <updated>2022-07-28T01:47:08.823Z</updated>
+        <content type="html"><![CDATA[(neom.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[First 1000 스터디 1기 요약글 모음]]></title>
