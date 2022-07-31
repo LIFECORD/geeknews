@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-07-31T02:00:12.375Z</updated>
+    <updated>2022-07-31T03:47:07.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Emoji Cloud : 한줄로 추가하는 벡터 이모지]]></title>
+        <id>https://alohe.github.io/emojicloud/</id>
+        <link href="https://alohe.github.io/emojicloud/"/>
+        <updated>2022-07-31T01:59:31.824Z</updated>
+        <content type="html"><![CDATA[(alohe.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Userver - C++용 비동기 프레임워크]]></title>
+        <id>https://userver.tech/</id>
+        <link href="https://userver.tech/"/>
+        <updated>2022-07-31T01:59:31.821Z</updated>
+        <content type="html"><![CDATA[(userver.tech)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub City]]></title>
         <id>https://honzaap.github.io/GithubCity/</id>
@@ -18,20 +32,6 @@
         <link href="https://www.edgedb.com/blog/edgedb-2-0"/>
         <updated>2022-07-31T01:59:31.820Z</updated>
         <content type="html"><![CDATA[(edgedb.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Userver - C++용 비동기 프레임워크]]></title>
-        <id>https://userver.tech/</id>
-        <link href="https://userver.tech/"/>
-        <updated>2022-07-31T01:59:31.821Z</updated>
-        <content type="html"><![CDATA[(userver.tech)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emoji Cloud : 한줄로 추가하는 벡터 이모지]]></title>
-        <id>https://alohe.github.io/emojicloud/</id>
-        <link href="https://alohe.github.io/emojicloud/"/>
-        <updated>2022-07-31T01:59:31.824Z</updated>
-        <content type="html"><![CDATA[(alohe.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rust로 6개 OS에서 실행되는 APE 실행파일 만들기]]></title>
