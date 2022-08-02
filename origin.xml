@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-02T12:41:10.334Z</updated>
+    <updated>2022-08-02T13:41:45.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[(terminalgif.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 8월)]]></title>
-        <id>https://news.hada.io/topic?id=7089</id>
-        <link href="https://news.hada.io/topic?id=7089"/>
-        <updated>2022-08-01T05:53:29.591Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Emoji Cloud : 한줄로 추가하는 벡터 이모지]]></title>
         <id>https://alohe.github.io/emojicloud/</id>
         <link href="https://alohe.github.io/emojicloud/"/>
         <updated>2022-07-31T01:59:31.824Z</updated>
         <content type="html"><![CDATA[(alohe.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 8월)]]></title>
+        <id>https://news.hada.io/topic?id=7089</id>
+        <link href="https://news.hada.io/topic?id=7089"/>
+        <updated>2022-08-01T05:53:29.591Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello - 소프트웨어 개발자를 위한 검색엔진]]></title>
@@ -117,18 +117,18 @@
         <content type="html"><![CDATA[(sayhello.so)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carbon의 가장 흥미로운 피쳐는 호출 규칙(Calling Convention)]]></title>
-        <id>https://www.foonathan.net/2022/07/carbon-calling-convention/</id>
-        <link href="https://www.foonathan.net/2022/07/carbon-calling-convention/"/>
-        <updated>2022-08-01T01:59:42.642Z</updated>
-        <content type="html"><![CDATA[(foonathan.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EdgeDB 2.0 릴리즈]]></title>
         <id>https://www.edgedb.com/blog/edgedb-2-0</id>
         <link href="https://www.edgedb.com/blog/edgedb-2-0"/>
         <updated>2022-07-31T01:59:31.820Z</updated>
         <content type="html"><![CDATA[(edgedb.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carbon의 가장 흥미로운 피쳐는 호출 규칙(Calling Convention)]]></title>
+        <id>https://www.foonathan.net/2022/07/carbon-calling-convention/</id>
+        <link href="https://www.foonathan.net/2022/07/carbon-calling-convention/"/>
+        <updated>2022-08-01T01:59:42.642Z</updated>
+        <content type="html"><![CDATA[(foonathan.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
@@ -138,10 +138,10 @@
         <content type="html"><![CDATA[(divan.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Virtink - 쿠버네티스용 경량 가상화 애드온]]></title>
-        <id>https://github.com/smartxworks/virtink</id>
-        <link href="https://github.com/smartxworks/virtink"/>
-        <updated>2022-08-01T01:59:42.641Z</updated>
-        <content type="html"><![CDATA[(github.com/smartxworks)]]></content>
+        <title type="html"><![CDATA[GitHub City]]></title>
+        <id>https://honzaap.github.io/GithubCity/</id>
+        <link href="https://honzaap.github.io/GithubCity/"/>
+        <updated>2022-08-02T13:41:08.057Z</updated>
+        <content type="html"><![CDATA[(honzaap.github.io)]]></content>
     </entry>
 </feed>
