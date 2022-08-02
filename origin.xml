@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-01T23:21:23.630Z</updated>
+    <updated>2022-08-02T02:04:55.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
+        <id>https://codecatalog.org/</id>
+        <link href="https://codecatalog.org/"/>
+        <updated>2022-08-02T02:04:15.978Z</updated>
+        <content type="html"><![CDATA[(codecatalog.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
+        <id>https://chunk.run/</id>
+        <link href="https://chunk.run/"/>
+        <updated>2022-08-02T02:04:15.979Z</updated>
+        <content type="html"><![CDATA[(chunk.run)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghostscript, 이제 새로운 PDF 인터프리터를 기본 사용]]></title>
+        <id>https://www.ghostscript.com/blog/pdfi.html</id>
+        <link href="https://www.ghostscript.com/blog/pdfi.html"/>
+        <updated>2022-08-02T02:04:15.980Z</updated>
+        <content type="html"><![CDATA[(ghostscript.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
         <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
@@ -18,6 +39,13 @@
         <link href="https://developerexperience.io/practices/good-developer-experience"/>
         <updated>2022-08-01T04:10:04.307Z</updated>
         <content type="html"><![CDATA[(developerexperience.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok, HTML5 미니 게임 파일롯 테스팅 시작]]></title>
+        <id>https://techcrunch.com/2022/07/28/tiktok-begins-pilot-testing-html5-mini-games-with-a-handful-of-partners/</id>
+        <link href="https://techcrunch.com/2022/07/28/tiktok-begins-pilot-testing-html5-mini-games-with-a-handful-of-partners/"/>
+        <updated>2022-08-02T02:04:15.994Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Aha Moment & Activation - 토스 리더가 말하는 유저를 끌어당기는 서비스 개선]]></title>
@@ -34,17 +62,17 @@
         <content type="html"><![CDATA[(engineering.fb.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bill - 서버리스로 동작하는 AWS 비용 최적화 봇]]></title>
+        <id>https://github.com/cremich/cdk-bill-bot</id>
+        <link href="https://github.com/cremich/cdk-bill-bot"/>
+        <updated>2022-08-02T02:04:15.998Z</updated>
+        <content type="html"><![CDATA[(github.com/cremich)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 8월)]]></title>
         <id>https://news.hada.io/topic?id=7089</id>
         <link href="https://news.hada.io/topic?id=7089"/>
         <updated>2022-08-01T05:53:29.591Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emoji Cloud : 한줄로 추가하는 벡터 이모지]]></title>
-        <id>https://alohe.github.io/emojicloud/</id>
-        <link href="https://alohe.github.io/emojicloud/"/>
-        <updated>2022-07-31T01:59:31.824Z</updated>
-        <content type="html"><![CDATA[(alohe.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PlayCode - Javascript Playground]]></title>
@@ -54,39 +82,11 @@
         <content type="html"><![CDATA[(playcode.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Virtink - 쿠버네티스용 경량 가상화 애드온]]></title>
-        <id>https://github.com/smartxworks/virtink</id>
-        <link href="https://github.com/smartxworks/virtink"/>
-        <updated>2022-08-01T01:59:42.641Z</updated>
-        <content type="html"><![CDATA[(github.com/smartxworks)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terminal GIF Maker]]></title>
-        <id>https://www.terminalgif.com/</id>
-        <link href="https://www.terminalgif.com/"/>
-        <updated>2022-08-01T01:59:42.641Z</updated>
-        <content type="html"><![CDATA[(terminalgif.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EdgeDB 2.0 릴리즈]]></title>
-        <id>https://www.edgedb.com/blog/edgedb-2-0</id>
-        <link href="https://www.edgedb.com/blog/edgedb-2-0"/>
-        <updated>2022-07-31T01:59:31.820Z</updated>
-        <content type="html"><![CDATA[(edgedb.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.19 출시]]></title>
-        <id>https://www.phoronix.com/news/Linux-5.19-Released</id>
-        <link href="https://www.phoronix.com/news/Linux-5.19-Released"/>
-        <updated>2022-08-01T05:53:29.593Z</updated>
-        <content type="html"><![CDATA[(phoronix.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello - 소프트웨어 개발자를 위한 검색엔진]]></title>
-        <id>https://sayhello.so/</id>
-        <link href="https://sayhello.so/"/>
-        <updated>2022-07-29T01:55:47.935Z</updated>
-        <content type="html"><![CDATA[(sayhello.so)]]></content>
+        <title type="html"><![CDATA[Emoji Cloud : 한줄로 추가하는 벡터 이모지]]></title>
+        <id>https://alohe.github.io/emojicloud/</id>
+        <link href="https://alohe.github.io/emojicloud/"/>
+        <updated>2022-07-31T01:59:31.824Z</updated>
+        <content type="html"><![CDATA[(alohe.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Carbon의 가장 흥미로운 피쳐는 호출 규칙(Calling Convention)]]></title>
@@ -96,18 +96,39 @@
         <content type="html"><![CDATA[(foonathan.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
-        <id>https://divan.dev/posts/edgedb/</id>
-        <link href="https://divan.dev/posts/edgedb/"/>
-        <updated>2022-07-27T01:50:33.611Z</updated>
-        <content type="html"><![CDATA[(divan.dev)]]></content>
+        <title type="html"><![CDATA[Terminal GIF Maker]]></title>
+        <id>https://www.terminalgif.com/</id>
+        <link href="https://www.terminalgif.com/"/>
+        <updated>2022-08-01T01:59:42.641Z</updated>
+        <content type="html"><![CDATA[(terminalgif.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Userver - C++용 비동기 프레임워크]]></title>
-        <id>https://userver.tech/</id>
-        <link href="https://userver.tech/"/>
-        <updated>2022-07-31T01:59:31.821Z</updated>
-        <content type="html"><![CDATA[(userver.tech)]]></content>
+        <title type="html"><![CDATA[Hello - 소프트웨어 개발자를 위한 검색엔진]]></title>
+        <id>https://sayhello.so/</id>
+        <link href="https://sayhello.so/"/>
+        <updated>2022-07-29T01:55:47.935Z</updated>
+        <content type="html"><![CDATA[(sayhello.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdgeDB 2.0 릴리즈]]></title>
+        <id>https://www.edgedb.com/blog/edgedb-2-0</id>
+        <link href="https://www.edgedb.com/blog/edgedb-2-0"/>
+        <updated>2022-07-31T01:59:31.820Z</updated>
+        <content type="html"><![CDATA[(edgedb.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtink - 쿠버네티스용 경량 가상화 애드온]]></title>
+        <id>https://github.com/smartxworks/virtink</id>
+        <link href="https://github.com/smartxworks/virtink"/>
+        <updated>2022-08-01T01:59:42.641Z</updated>
+        <content type="html"><![CDATA[(github.com/smartxworks)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.19 출시]]></title>
+        <id>https://www.phoronix.com/news/Linux-5.19-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-5.19-Released"/>
+        <updated>2022-08-01T05:53:29.593Z</updated>
+        <content type="html"><![CDATA[(phoronix.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub City]]></title>
@@ -117,31 +138,10 @@
         <content type="html"><![CDATA[(honzaap.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지적 호기심을 위한 유튜브 채널을 추천해 주세요]]></title>
-        <id>https://news.ycombinator.com/item?id=32220192</id>
-        <link href="https://news.ycombinator.com/item?id=32220192"/>
-        <updated>2022-07-26T01:57:52.957Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust로 6개 OS에서 실행되는 APE 실행파일 만들기]]></title>
-        <id>https://ahgamut.github.io/2022/07/27/ape-rust-example/</id>
-        <link href="https://ahgamut.github.io/2022/07/27/ape-rust-example/"/>
-        <updated>2022-07-30T01:47:03.551Z</updated>
-        <content type="html"><![CDATA[(ahgamut.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔지니어를 위한 글쓰기 (번역)]]></title>
-        <id>https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56</id>
-        <link href="https://gist.github.com/longfin/a54f29d866b2deff2e872aeafd4c0f56"/>
-        <updated>2022-07-26T01:57:52.952Z</updated>
-        <content type="html"><![CDATA[(gist.github.com/longfin)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeekNews 3주년 회고]]></title>
-        <id>https://news.hada.io/blog/geeknews_3year</id>
-        <link href="https://news.hada.io/blog/geeknews_3year"/>
-        <updated>2022-07-26T04:09:18.323Z</updated>
-        <content type="html"><![CDATA[(news.hada.io)]]></content>
+        <title type="html"><![CDATA[EdgeDB 1년 사용 후기 - "다시는 SQL로 돌아가지 않을꺼야"]]></title>
+        <id>https://divan.dev/posts/edgedb/</id>
+        <link href="https://divan.dev/posts/edgedb/"/>
+        <updated>2022-07-27T01:50:33.611Z</updated>
+        <content type="html"><![CDATA[(divan.dev)]]></content>
     </entry>
 </feed>
