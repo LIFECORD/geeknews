@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-03T05:05:48.874Z</updated>
+    <updated>2022-08-03T06:22:51.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Officer Breaker - 워드/엑셀/파워포인트 파일의 편집 방지 암호 제거기]]></title>
-        <id>https://github.com/nedlir/OfficerBreaker</id>
-        <link href="https://github.com/nedlir/OfficerBreaker"/>
-        <updated>2022-08-03T01:49:34.746Z</updated>
-        <content type="html"><![CDATA[(github.com/nedlir)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
         <id>https://github.com/tabler/tabler</id>
         <link href="https://github.com/tabler/tabler"/>
         <updated>2022-08-03T01:49:34.746Z</updated>
         <content type="html"><![CDATA[(github.com/tabler)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Officer Breaker - 워드/엑셀/파워포인트 파일의 편집 방지 암호 제거기]]></title>
+        <id>https://github.com/nedlir/OfficerBreaker</id>
+        <link href="https://github.com/nedlir/OfficerBreaker"/>
+        <updated>2022-08-03T01:49:34.746Z</updated>
+        <content type="html"><![CDATA[(github.com/nedlir)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[게임 데이터로 인과 추론 분석하기]]></title>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(tjukanovt.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[First Pull Request • What was the first pull request you sent on GitHub?]]></title>
-        <id>https://firstpr.me/</id>
-        <link href="https://firstpr.me/"/>
-        <updated>2022-08-02T23:19:04.231Z</updated>
-        <content type="html"><![CDATA[(firstpr.me)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
         <id>https://chunk.run/</id>
         <link href="https://chunk.run/"/>
@@ -90,18 +83,18 @@
         <content type="html"><![CDATA[(developerexperience.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[First Pull Request • What was the first pull request you sent on GitHub?]]></title>
+        <id>https://firstpr.me/</id>
+        <link href="https://firstpr.me/"/>
+        <updated>2022-08-02T23:19:04.231Z</updated>
+        <content type="html"><![CDATA[(firstpr.me)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Announcing Docusaurus 2.0]]></title>
         <id>https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</id>
         <link href="https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter"/>
         <updated>2022-08-02T07:18:37.040Z</updated>
         <content type="html"><![CDATA[(docusaurus.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토스 리더가 말하는 지속가능한 성장을 만드는 법]]></title>
-        <id>https://ugong2san.tistory.com/4496</id>
-        <link href="https://ugong2san.tistory.com/4496"/>
-        <updated>2022-08-03T03:55:32.452Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기업부설연구소 설립 및 운영, 보다 쉽게 바꾼다]]></title>
@@ -116,6 +109,13 @@
         <link href="https://github.com/cremich/cdk-bill-bot"/>
         <updated>2022-08-02T02:04:15.998Z</updated>
         <content type="html"><![CDATA[(github.com/cremich)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토스 리더가 말하는 지속가능한 성장을 만드는 법]]></title>
+        <id>https://ugong2san.tistory.com/4496</id>
+        <link href="https://ugong2san.tistory.com/4496"/>
+        <updated>2022-08-03T03:55:32.452Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ghostscript, 이제 새로운 PDF 인터프리터를 기본 사용]]></title>
