@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-03T03:56:08.511Z</updated>
+    <updated>2022-08-03T05:05:48.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,13 +27,6 @@
         <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQLite-lines - 큰 파일을 라인단위로 읽는 확장]]></title>
-        <id>https://github.com/asg017/sqlite-lines</id>
-        <link href="https://github.com/asg017/sqlite-lines"/>
-        <updated>2022-08-03T01:49:34.747Z</updated>
-        <content type="html"><![CDATA[(github.com/asg017)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
         <id>https://codecatalog.org/</id>
         <link href="https://codecatalog.org/"/>
@@ -41,11 +34,25 @@
         <content type="html"><![CDATA[(codecatalog.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SQLite-lines - 큰 파일을 라인단위로 읽는 확장]]></title>
+        <id>https://github.com/asg017/sqlite-lines</id>
+        <link href="https://github.com/asg017/sqlite-lines"/>
+        <updated>2022-08-03T01:49:34.747Z</updated>
+        <content type="html"><![CDATA[(github.com/asg017)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Karmem - 구글 Flatbuffers 보다 10배 빠른 바이너리 직렬화 포맷]]></title>
         <id>https://github.com/inkeliz/karmem</id>
         <link href="https://github.com/inkeliz/karmem"/>
         <updated>2022-08-03T01:49:34.747Z</updated>
         <content type="html"><![CDATA[(github.com/inkeliz)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
+        <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
+        <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
+        <updated>2022-08-01T01:59:42.642Z</updated>
+        <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Repo Trends]]></title>
@@ -62,25 +69,11 @@
         <content type="html"><![CDATA[(tjukanovt.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
-        <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
-        <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
-        <updated>2022-08-01T01:59:42.642Z</updated>
-        <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[First Pull Request • What was the first pull request you sent on GitHub?]]></title>
         <id>https://firstpr.me/</id>
         <link href="https://firstpr.me/"/>
         <updated>2022-08-02T23:19:04.231Z</updated>
         <content type="html"><![CDATA[(firstpr.me)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토스 리더가 말하는 지속가능한 성장을 만드는 법]]></title>
-        <id>https://ugong2san.tistory.com/4496</id>
-        <link href="https://ugong2san.tistory.com/4496"/>
-        <updated>2022-08-03T03:55:32.452Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
@@ -90,6 +83,13 @@
         <content type="html"><![CDATA[(chunk.run)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
+        <id>https://developerexperience.io/practices/good-developer-experience</id>
+        <link href="https://developerexperience.io/practices/good-developer-experience"/>
+        <updated>2022-08-01T04:10:04.307Z</updated>
+        <content type="html"><![CDATA[(developerexperience.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Announcing Docusaurus 2.0]]></title>
         <id>https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</id>
         <link href="https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter"/>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[(docusaurus.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
-        <id>https://developerexperience.io/practices/good-developer-experience</id>
-        <link href="https://developerexperience.io/practices/good-developer-experience"/>
-        <updated>2022-08-01T04:10:04.307Z</updated>
-        <content type="html"><![CDATA[(developerexperience.io)]]></content>
+        <title type="html"><![CDATA[토스 리더가 말하는 지속가능한 성장을 만드는 법]]></title>
+        <id>https://ugong2san.tistory.com/4496</id>
+        <link href="https://ugong2san.tistory.com/4496"/>
+        <updated>2022-08-03T03:55:32.452Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기업부설연구소 설립 및 운영, 보다 쉽게 바꾼다]]></title>
