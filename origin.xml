@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-04T15:22:15.966Z</updated>
+    <updated>2022-08-04T16:29:15.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(github.com/tabler)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Y Combinator, 경기침체 및 투자환경을 이유로 배치 규모를 40% 축소]]></title>
-        <id>https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/</id>
-        <link href="https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/"/>
-        <updated>2022-08-04T01:45:39.535Z</updated>
-        <content type="html"><![CDATA[(techcrunch.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
         <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
         <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
@@ -88,6 +81,13 @@
         <link href="https://ugong2san.tistory.com/4421"/>
         <updated>2022-08-03T01:49:34.757Z</updated>
         <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y Combinator, 경기침체 및 투자환경을 이유로 배치 규모를 40% 축소]]></title>
+        <id>https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/</id>
+        <link href="https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/"/>
+        <updated>2022-08-04T01:45:39.535Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Officer Breaker - 워드/엑셀/파워포인트 파일의 편집 방지 암호 제거기]]></title>
