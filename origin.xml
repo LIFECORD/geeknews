@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-04T08:27:41.339Z</updated>
+    <updated>2022-08-04T09:18:11.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(tree.fm)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Textual - 파이썬용 TUI 프레임워크]]></title>
-        <id>https://github.com/Textualize/textual</id>
-        <link href="https://github.com/Textualize/textual"/>
-        <updated>2022-08-04T01:45:39.533Z</updated>
-        <content type="html"><![CDATA[(github.com/Textualize)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Introducing the New WasmEdge Rust SDK]]></title>
         <id>https://www.secondstate.io/articles/wasmedge-rust-bindings/</id>
         <link href="https://www.secondstate.io/articles/wasmedge-rust-bindings/"/>
         <updated>2022-08-04T07:17:10.389Z</updated>
         <content type="html"><![CDATA[(secondstate.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Textual - 파이썬용 TUI 프레임워크]]></title>
+        <id>https://github.com/Textualize/textual</id>
+        <link href="https://github.com/Textualize/textual"/>
+        <updated>2022-08-04T01:45:39.533Z</updated>
+        <content type="html"><![CDATA[(github.com/Textualize)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FauxPilot - 오픈소스 GitHub CoPilot 서버]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Repo Trends]]></title>
-        <id>https://www.repotrends.com/</id>
-        <link href="https://www.repotrends.com/"/>
-        <updated>2022-08-03T01:49:34.747Z</updated>
-        <content type="html"><![CDATA[(repotrends.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
         <id>https://chunk.run/</id>
         <link href="https://chunk.run/"/>
         <updated>2022-08-02T02:04:15.979Z</updated>
         <content type="html"><![CDATA[(chunk.run)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Repo Trends]]></title>
+        <id>https://www.repotrends.com/</id>
+        <link href="https://www.repotrends.com/"/>
+        <updated>2022-08-03T01:49:34.747Z</updated>
+        <content type="html"><![CDATA[(repotrends.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SQLite-lines - 큰 파일을 라인단위로 읽는 확장]]></title>
