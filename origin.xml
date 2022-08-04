@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-03T23:19:46.941Z</updated>
+    <updated>2022-08-04T01:46:14.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
-        <id>https://github.com/tabler/tabler</id>
-        <link href="https://github.com/tabler/tabler"/>
-        <updated>2022-08-03T01:49:34.746Z</updated>
-        <content type="html"><![CDATA[(github.com/tabler)]]></content>
+        <title type="html"><![CDATA[FauxPilot - 오픈소스 GitHub CoPilot 서버]]></title>
+        <id>https://github.com/moyix/fauxpilot</id>
+        <link href="https://github.com/moyix/fauxpilot"/>
+        <updated>2022-08-04T01:45:39.522Z</updated>
+        <content type="html"><![CDATA[(github.com/moyix)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tree.fm - 숲속의 소리 듣기]]></title>
+        <id>https://www.tree.fm/</id>
+        <link href="https://www.tree.fm/"/>
+        <updated>2022-08-04T01:45:39.523Z</updated>
+        <content type="html"><![CDATA[(tree.fm)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[회사의 겨울나기를 위한 39가지 Tip]]></title>
@@ -20,11 +27,39 @@
         <content type="html"><![CDATA[(jordanc.notion.site)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
+        <id>https://github.com/tabler/tabler</id>
+        <link href="https://github.com/tabler/tabler"/>
+        <updated>2022-08-03T01:49:34.746Z</updated>
+        <content type="html"><![CDATA[(github.com/tabler)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Textual - 파이썬용 TUI 프레임워크]]></title>
+        <id>https://github.com/Textualize/textual</id>
+        <link href="https://github.com/Textualize/textual"/>
+        <updated>2022-08-04T01:45:39.533Z</updated>
+        <content type="html"><![CDATA[(github.com/Textualize)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y Combinator, 경기침체 및 투자환경을 이유로 배치 규모를 40% 축소]]></title>
+        <id>https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/</id>
+        <link href="https://techcrunch.com/2022/08/02/y-combinator-narrows-current-cohort-size-by-40-citing-downturn-and-funding-environment/"/>
+        <updated>2022-08-04T01:45:39.535Z</updated>
+        <content type="html"><![CDATA[(techcrunch.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
         <id>https://codecatalog.org/</id>
         <link href="https://codecatalog.org/"/>
         <updated>2022-08-02T02:04:15.978Z</updated>
         <content type="html"><![CDATA[(codecatalog.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RethinkDNS - Serverless DNS resolver]]></title>
+        <id>https://github.com/serverless-dns/serverless-dns</id>
+        <link href="https://github.com/serverless-dns/serverless-dns"/>
+        <updated>2022-08-04T01:45:39.541Z</updated>
+        <content type="html"><![CDATA[(github.com/serverless-dns)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[게임 데이터로 인과 추론 분석하기]]></title>
@@ -55,13 +90,6 @@
         <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[토스 리더가 말하는 지속가능한 성장을 만드는 법]]></title>
-        <id>https://ugong2san.tistory.com/4496</id>
-        <link href="https://ugong2san.tistory.com/4496"/>
-        <updated>2022-08-03T03:55:32.452Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SQLite-lines - 큰 파일을 라인단위로 읽는 확장]]></title>
         <id>https://github.com/asg017/sqlite-lines</id>
         <link href="https://github.com/asg017/sqlite-lines"/>
@@ -69,11 +97,11 @@
         <content type="html"><![CDATA[(github.com/asg017)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Repo Trends]]></title>
-        <id>https://www.repotrends.com/</id>
-        <link href="https://www.repotrends.com/"/>
-        <updated>2022-08-03T01:49:34.747Z</updated>
-        <content type="html"><![CDATA[(repotrends.com)]]></content>
+        <title type="html"><![CDATA[토스 리더가 말하는 지속가능한 성장을 만드는 법]]></title>
+        <id>https://ugong2san.tistory.com/4496</id>
+        <link href="https://ugong2san.tistory.com/4496"/>
+        <updated>2022-08-03T03:55:32.452Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[좋은 개발자 경험]]></title>
@@ -83,18 +111,18 @@
         <content type="html"><![CDATA[(developerexperience.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitHub Repo Trends]]></title>
+        <id>https://www.repotrends.com/</id>
+        <link href="https://www.repotrends.com/"/>
+        <updated>2022-08-03T01:49:34.747Z</updated>
+        <content type="html"><![CDATA[(repotrends.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chunk - 백엔드 개발자를 위한 Playground]]></title>
         <id>https://chunk.run/</id>
         <link href="https://chunk.run/"/>
         <updated>2022-08-02T02:04:15.979Z</updated>
         <content type="html"><![CDATA[(chunk.run)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notable people - 우리 지역의 유명인사]]></title>
-        <id>https://tjukanovt.github.io/notable-people</id>
-        <link href="https://tjukanovt.github.io/notable-people"/>
-        <updated>2022-08-03T01:49:34.757Z</updated>
-        <content type="html"><![CDATA[(tjukanovt.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bill - 서버리스로 동작하는 AWS 비용 최적화 봇]]></title>
@@ -104,45 +132,17 @@
         <content type="html"><![CDATA[(github.com/cremich)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Notable people - 우리 지역의 유명인사]]></title>
+        <id>https://tjukanovt.github.io/notable-people</id>
+        <link href="https://tjukanovt.github.io/notable-people"/>
+        <updated>2022-08-03T01:49:34.757Z</updated>
+        <content type="html"><![CDATA[(tjukanovt.github.io)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Announcing Docusaurus 2.0]]></title>
         <id>https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter</id>
         <link href="https://docusaurus.io/blog/2022/08/01/announcing-docusaurus-2.0?utm_campaign=This%20Week%20In%20React&amp;utm_medium=email&amp;utm_source=Revue%20newsletter"/>
         <updated>2022-08-02T07:18:37.040Z</updated>
         <content type="html"><![CDATA[(docusaurus.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghostscript, 이제 새로운 PDF 인터프리터를 기본 사용]]></title>
-        <id>https://www.ghostscript.com/blog/pdfi.html</id>
-        <link href="https://www.ghostscript.com/blog/pdfi.html"/>
-        <updated>2022-08-02T02:04:15.980Z</updated>
-        <content type="html"><![CDATA[(ghostscript.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기업부설연구소 설립 및 운영, 보다 쉽게 바꾼다]]></title>
-        <id>https://www.msit.go.kr/bbs/view.do?sCode=user&amp;mId=113&amp;mPid=112&amp;pageIndex=&amp;bbsSeqNo=94&amp;nttSeqNo=3181997&amp;searchOpt=ALL&amp;searchTxt=</id>
-        <link href="https://www.msit.go.kr/bbs/view.do?sCode=user&amp;mId=113&amp;mPid=112&amp;pageIndex=&amp;bbsSeqNo=94&amp;nttSeqNo=3181997&amp;searchOpt=ALL&amp;searchTxt="/>
-        <updated>2022-08-02T07:18:37.038Z</updated>
-        <content type="html"><![CDATA[(msit.go.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook 에서 새로운 서버-사이드 언어로 Rust 를 선정]]></title>
-        <id>https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/</id>
-        <link href="https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/"/>
-        <updated>2022-07-31T22:16:48.822Z</updated>
-        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aha Moment & Activation - 토스 리더가 말하는 유저를 끌어당기는 서비스 개선]]></title>
-        <id>https://ugong2san.tistory.com/m/4356</id>
-        <link href="https://ugong2san.tistory.com/m/4356"/>
-        <updated>2022-08-01T04:10:04.310Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello - 소프트웨어 개발자를 위한 검색엔진]]></title>
-        <id>https://sayhello.so/</id>
-        <link href="https://sayhello.so/"/>
-        <updated>2022-08-03T20:20:08.834Z</updated>
-        <content type="html"><![CDATA[(sayhello.so)]]></content>
     </entry>
 </feed>
