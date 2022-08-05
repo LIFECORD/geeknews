@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-05T16:27:59.108Z</updated>
+    <updated>2022-08-05T17:27:17.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[어려운 한글 웹폰트 최적화, 꼼수로 해결하기]]></title>
-        <id>https://velog.io/@filekiwi/optimization-web-font-hangul-part-2</id>
-        <link href="https://velog.io/@filekiwi/optimization-web-font-hangul-part-2"/>
-        <updated>2022-08-05T05:32:28.704Z</updated>
-        <content type="html"><![CDATA[(velog.io)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[예제로 배우는 GDPR - 개발자용]]></title>
         <id>https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/</id>
         <link href="https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/"/>
         <updated>2022-08-05T01:46:54.080Z</updated>
         <content type="html"><![CDATA[(blog.blether.chat)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어려운 한글 웹폰트 최적화, 꼼수로 해결하기]]></title>
+        <id>https://velog.io/@filekiwi/optimization-web-font-hangul-part-2</id>
+        <link href="https://velog.io/@filekiwi/optimization-web-font-hangul-part-2"/>
+        <updated>2022-08-05T05:32:28.704Z</updated>
+        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[(github.com/moyix)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 타사 쿠키 제거를 2024년으로 연기]]></title>
-        <id>https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html</id>
-        <link href="https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html"/>
-        <updated>2022-08-05T01:46:54.091Z</updated>
-        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
         <id>https://github.com/tabler/tabler</id>
         <link href="https://github.com/tabler/tabler"/>
@@ -144,5 +137,12 @@
         <link href="https://github.com/serverless-dns/serverless-dns"/>
         <updated>2022-08-04T01:45:39.541Z</updated>
         <content type="html"><![CDATA[(github.com/serverless-dns)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 타사 쿠키 제거를 2024년으로 연기]]></title>
+        <id>https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html</id>
+        <link href="https://korea.googleblog.com/2022/08/privacy-sandbox-web-testing-updates.html"/>
+        <updated>2022-08-05T01:46:54.091Z</updated>
+        <content type="html"><![CDATA[(korea.googleblog.com)]]></content>
     </entry>
 </feed>
