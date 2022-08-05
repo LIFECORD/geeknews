@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-05T15:20:25.044Z</updated>
+    <updated>2022-08-05T16:27:59.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[(blog.blether.chat)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
+        <id>https://github.com/android/ndk/issues/1742</id>
+        <link href="https://github.com/android/ndk/issues/1742"/>
+        <updated>2022-08-04T23:17:33.147Z</updated>
+        <content type="html"><![CDATA[(github.com/android)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Go 1.19 릴리즈]]></title>
         <id>https://go.dev/doc/go1.19</id>
         <link href="https://go.dev/doc/go1.19"/>
@@ -32,13 +39,6 @@
         <link href="https://help.twitch.tv/s/article/p2p-faq?language=ko"/>
         <updated>2022-08-05T01:46:54.083Z</updated>
         <content type="html"><![CDATA[(help.twitch.tv)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android NDK의 Rust 지원 "계획" 발표]]></title>
-        <id>https://github.com/android/ndk/issues/1742</id>
-        <link href="https://github.com/android/ndk/issues/1742"/>
-        <updated>2022-08-04T23:17:33.147Z</updated>
-        <content type="html"><![CDATA[(github.com/android)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Django 4.1 릴리즈]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(jordanc.notion.site)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Textual - 파이썬용 TUI 프레임워크]]></title>
-        <id>https://github.com/Textualize/textual</id>
-        <link href="https://github.com/Textualize/textual"/>
-        <updated>2022-08-04T01:45:39.533Z</updated>
-        <content type="html"><![CDATA[(github.com/Textualize)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
         <id>https://codecatalog.org/</id>
         <link href="https://codecatalog.org/"/>
         <updated>2022-08-02T02:04:15.978Z</updated>
         <content type="html"><![CDATA[(codecatalog.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Textual - 파이썬용 TUI 프레임워크]]></title>
+        <id>https://github.com/Textualize/textual</id>
+        <link href="https://github.com/Textualize/textual"/>
+        <updated>2022-08-04T01:45:39.533Z</updated>
+        <content type="html"><![CDATA[(github.com/Textualize)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
