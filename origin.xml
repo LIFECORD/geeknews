@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-07T01:50:13.073Z</updated>
+    <updated>2022-08-07T03:24:08.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[GitLab은 직원 노트북에 Microsoft Windows 사용을 금지하고 있음]]></title>
-        <id>https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations</id>
-        <link href="https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations"/>
-        <updated>2022-08-07T01:49:37.875Z</updated>
-        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[TensorDock - 저렴한 GPU 클라우드 ($0.29/hr)]]></title>
         <id>https://www.tensordock.com/</id>
         <link href="https://www.tensordock.com/"/>
         <updated>2022-08-07T01:49:37.875Z</updated>
         <content type="html"><![CDATA[(tensordock.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab은 직원 노트북에 Microsoft Windows 사용을 금지하고 있음]]></title>
+        <id>https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations</id>
+        <link href="https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-configurations"/>
+        <updated>2022-08-07T01:49:37.875Z</updated>
+        <content type="html"><![CDATA[(about.gitlab.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DreamWorks, 최첨단 MCRT 렌더러 MoonRay를 오픈소스로 공개 예정]]></title>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(github.com/wandb)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어려운 한글 웹폰트 최적화, 꼼수로 해결하기]]></title>
-        <id>https://velog.io/@filekiwi/optimization-web-font-hangul-part-2</id>
-        <link href="https://velog.io/@filekiwi/optimization-web-font-hangul-part-2"/>
-        <updated>2022-08-05T05:32:28.704Z</updated>
-        <content type="html"><![CDATA[(velog.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[예제로 배우는 GDPR - 개발자용]]></title>
         <id>https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/</id>
         <link href="https://blog.blether.chat/2022/08/03/gdpr-for-developers-by-example/"/>
         <updated>2022-08-05T01:46:54.080Z</updated>
         <content type="html"><![CDATA[(blog.blether.chat)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어려운 한글 웹폰트 최적화, 꼼수로 해결하기]]></title>
+        <id>https://velog.io/@filekiwi/optimization-web-font-hangul-part-2</id>
+        <link href="https://velog.io/@filekiwi/optimization-web-font-hangul-part-2"/>
+        <updated>2022-08-05T05:32:28.704Z</updated>
+        <content type="html"><![CDATA[(velog.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tree.fm - 숲속의 소리 듣기]]></title>
@@ -69,11 +69,11 @@
         <content type="html"><![CDATA[(tree.fm)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASUS Zenbook 17 Fold OLED 발표]]></title>
-        <id>https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/</id>
-        <link href="https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/"/>
-        <updated>2022-08-06T01:42:08.161Z</updated>
-        <content type="html"><![CDATA[(asus.com)]]></content>
+        <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
+        <id>https://codecatalog.org/</id>
+        <link href="https://codecatalog.org/"/>
+        <updated>2022-08-02T02:04:15.978Z</updated>
+        <content type="html"><![CDATA[(codecatalog.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Go 1.19 릴리즈]]></title>
@@ -83,11 +83,11 @@
         <content type="html"><![CDATA[(go.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Code Catalog - 오픈소스로 코딩 배우기]]></title>
-        <id>https://codecatalog.org/</id>
-        <link href="https://codecatalog.org/"/>
-        <updated>2022-08-02T02:04:15.978Z</updated>
-        <content type="html"><![CDATA[(codecatalog.org)]]></content>
+        <title type="html"><![CDATA[ASUS Zenbook 17 Fold OLED 발표]]></title>
+        <id>https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/</id>
+        <link href="https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-17-Fold-OLED-UX9702/"/>
+        <updated>2022-08-06T01:42:08.161Z</updated>
+        <content type="html"><![CDATA[(asus.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[(github.com/android)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
+        <id>https://github.com/tabler/tabler</id>
+        <link href="https://github.com/tabler/tabler"/>
+        <updated>2022-08-03T01:49:34.746Z</updated>
+        <content type="html"><![CDATA[(github.com/tabler)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Django 4.1 릴리즈]]></title>
         <id>https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/</id>
         <link href="https://www.djangoproject.com/weblog/2022/aug/03/django-41-released/"/>
@@ -137,12 +144,5 @@
         <link href="https://trino.io/blog/2022/08/02/leaving-facebook-meta-best-for-trino.html"/>
         <updated>2022-08-05T01:46:54.084Z</updated>
         <content type="html"><![CDATA[(trino.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
-        <id>https://github.com/tabler/tabler</id>
-        <link href="https://github.com/tabler/tabler"/>
-        <updated>2022-08-03T01:49:34.746Z</updated>
-        <content type="html"><![CDATA[(github.com/tabler)]]></content>
     </entry>
 </feed>
