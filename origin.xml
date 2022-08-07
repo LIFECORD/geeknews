@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-07T04:26:25.446Z</updated>
+    <updated>2022-08-07T05:16:19.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(djangoproject.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Textual - 파이썬용 TUI 프레임워크]]></title>
+        <id>https://github.com/Textualize/textual</id>
+        <link href="https://github.com/Textualize/textual"/>
+        <updated>2022-08-07T05:15:45.078Z</updated>
+        <content type="html"><![CDATA[(github.com/Textualize)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Twitch, 한국에서 P2P 기술 테스트 시작.]]></title>
         <id>https://help.twitch.tv/s/article/p2p-faq?language=ko</id>
         <link href="https://help.twitch.tv/s/article/p2p-faq?language=ko"/>
         <updated>2022-08-05T01:46:54.083Z</updated>
         <content type="html"><![CDATA[(help.twitch.tv)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페북/메타를 떠나는 것이 Trino 커뮤니티에 최선이었던 이유]]></title>
-        <id>https://trino.io/blog/2022/08/02/leaving-facebook-meta-best-for-trino.html</id>
-        <link href="https://trino.io/blog/2022/08/02/leaving-facebook-meta-best-for-trino.html"/>
-        <updated>2022-08-05T01:46:54.084Z</updated>
-        <content type="html"><![CDATA[(trino.io)]]></content>
     </entry>
 </feed>
