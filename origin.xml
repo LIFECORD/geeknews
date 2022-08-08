@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-08T08:27:07.129Z</updated>
+    <updated>2022-08-08T09:18:31.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(codecatalog.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DreamWorks, 최첨단 MCRT 렌더러 MoonRay를 오픈소스로 공개 예정]]></title>
-        <id>https://openmoonray.org/</id>
-        <link href="https://openmoonray.org/"/>
-        <updated>2022-08-07T01:49:37.888Z</updated>
-        <content type="html"><![CDATA[(openmoonray.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[간단한 자동화 기능을 제공해서 매월 백~천만원 버는 Micro SaaS들]]></title>
         <id>https://microsaasidea.substack.com/p/micro-saas-products-simple-automations</id>
         <link href="https://microsaasidea.substack.com/p/micro-saas-products-simple-automations"/>
         <updated>2022-08-01T01:59:42.642Z</updated>
         <content type="html"><![CDATA[(microsaasidea.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DreamWorks, 최첨단 MCRT 렌더러 MoonRay를 오픈소스로 공개 예정]]></title>
+        <id>https://openmoonray.org/</id>
+        <link href="https://openmoonray.org/"/>
+        <updated>2022-08-07T01:49:37.888Z</updated>
+        <content type="html"><![CDATA[(openmoonray.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tree.fm - 숲속의 소리 듣기]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(jordanc.notion.site)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tabler - 오픈소스 HTML 대시보드 UI 킷]]></title>
-        <id>https://github.com/tabler/tabler</id>
-        <link href="https://github.com/tabler/tabler"/>
-        <updated>2022-08-08T08:26:33.129Z</updated>
-        <content type="html"><![CDATA[(github.com/tabler)]]></content>
+        <title type="html"><![CDATA[좋은 개발자 경험]]></title>
+        <id>https://developerexperience.io/practices/good-developer-experience</id>
+        <link href="https://developerexperience.io/practices/good-developer-experience"/>
+        <updated>2022-08-08T09:17:58.018Z</updated>
+        <content type="html"><![CDATA[(developerexperience.io)]]></content>
     </entry>
 </feed>
