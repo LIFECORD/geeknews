@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-08-09T09:19:48.550Z</updated>
+    <updated>2022-08-09T10:22:49.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -108,6 +108,12 @@
         <updated>2022-07-01T19:15:00.176Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 6월)]]></title>
+        <id>https://news.hada.io/topic?id=6696</id>
+        <link href="https://news.hada.io/topic?id=6696"/>
+        <updated>2022-06-07T03:19:06.198Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 오픈 스타트업에 대해 어떻게 생각하세요?]]></title>
         <id>https://news.hada.io/topic?id=6873</id>
         <link href="https://news.hada.io/topic?id=6873"/>
@@ -118,11 +124,5 @@
         <id>https://news.hada.io/topic?id=6760</id>
         <link href="https://news.hada.io/topic?id=6760"/>
         <updated>2022-06-15T08:25:14.412Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 6월)]]></title>
-        <id>https://news.hada.io/topic?id=6696</id>
-        <link href="https://news.hada.io/topic?id=6696"/>
-        <updated>2022-06-07T03:19:06.198Z</updated>
     </entry>
 </feed>
