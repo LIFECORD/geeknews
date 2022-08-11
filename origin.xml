@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-11T01:41:27.328Z</updated>
+    <updated>2022-08-11T03:19:56.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(grafbase.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[블로그의 모든 썸네일을 DALL·E 2가 그린 것으로 $45에 바꿨어요]]></title>
-        <id>https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/</id>
-        <link href="https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/"/>
-        <updated>2022-08-10T01:38:33.431Z</updated>
-        <content type="html"><![CDATA[(deephaven.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[pls - Prettier & Powerful 'ls']]></title>
         <id>https://github.com/dhruvkb/pls</id>
         <link href="https://github.com/dhruvkb/pls"/>
@@ -41,11 +34,11 @@
         <content type="html"><![CDATA[(buf.build)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON5를 만들면서 배운 것 : 혐오자들을 무시하세요]]></title>
-        <id>https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5</id>
-        <link href="https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5"/>
-        <updated>2022-08-10T01:38:33.405Z</updated>
-        <content type="html"><![CDATA[(aseemk.substack.com)]]></content>
+        <title type="html"><![CDATA[블로그의 모든 썸네일을 DALL·E 2가 그린 것으로 $45에 바꿨어요]]></title>
+        <id>https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/</id>
+        <link href="https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/"/>
+        <updated>2022-08-10T01:38:33.431Z</updated>
+        <content type="html"><![CDATA[(deephaven.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유명 팟캐스트의 출연료는 약 $50,000(6500만원)]]></title>
@@ -53,6 +46,13 @@
         <link href="https://www.bloomberg.com/news/articles/2022-08-03/podcast-guests-can-pay-big-money-to-be-on-top-shows#xj4y7vzkg"/>
         <updated>2022-08-11T01:40:52.653Z</updated>
         <content type="html"><![CDATA[(bloomberg.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON5를 만들면서 배운 것 : 혐오자들을 무시하세요]]></title>
+        <id>https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5</id>
+        <link href="https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5"/>
+        <updated>2022-08-10T01:38:33.405Z</updated>
+        <content type="html"><![CDATA[(aseemk.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플 코드 서명 및 공증의 완전한 오픈소스 구현체 완성]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(midjourney.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저물어가는 소셜 네트워크의 시대 (번역)]]></title>
-        <id>https://ebadak.news/2022/08/05/sunset-social-network-facebook-tiktok/</id>
-        <link href="https://ebadak.news/2022/08/05/sunset-social-network-facebook-tiktok/"/>
-        <updated>2022-08-09T06:24:46.135Z</updated>
-        <content type="html"><![CDATA[(ebadak.news)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 10만 전자: 쿠팡에서 10만원 넘는 전자제품 가격을 추적합니다.]]></title>
         <id>https://news.hada.io/topic?id=7142</id>
         <link href="https://news.hada.io/topic?id=7142"/>
         <updated>2022-08-08T12:36:13.968Z</updated>
         <content type="html"><![CDATA[(junja10.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저물어가는 소셜 네트워크의 시대 (번역)]]></title>
+        <id>https://ebadak.news/2022/08/05/sunset-social-network-facebook-tiktok/</id>
+        <link href="https://ebadak.news/2022/08/05/sunset-social-network-facebook-tiktok/"/>
+        <updated>2022-08-09T06:24:46.135Z</updated>
+        <content type="html"><![CDATA[(ebadak.news)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Product Market Fit은 어떤 느낌일까?]]></title>
