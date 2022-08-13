@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-13T06:22:18.465Z</updated>
+    <updated>2022-08-13T07:17:55.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(grafbase.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 코드 서명 및 공증의 완전한 오픈소스 구현체 완성]]></title>
-        <id>https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/</id>
-        <link href="https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/"/>
-        <updated>2022-08-10T01:38:33.406Z</updated>
-        <content type="html"><![CDATA[(gregoryszorc.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[당신은 아마도 잘못된 사전을 사용하고 있을 겁니다]]></title>
         <id>http://jsomers.net/blog/dictionary</id>
         <link href="http://jsomers.net/blog/dictionary"/>
         <updated>2022-08-08T01:42:10.863Z</updated>
         <content type="html"><![CDATA[(jsomers.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 코드 서명 및 공증의 완전한 오픈소스 구현체 완성]]></title>
+        <id>https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/</id>
+        <link href="https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/"/>
+        <updated>2022-08-10T01:38:33.406Z</updated>
+        <content type="html"><![CDATA[(gregoryszorc.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 애플에게 RCS를 수용하라는 "Get The Message" 광고 캠페인 시작]]></title>
