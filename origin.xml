@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-14T06:23:05.105Z</updated>
+    <updated>2022-08-14T07:17:12.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(reddit.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ruck - Deno용 Buildless React 웹 프레임워크]]></title>
-        <id>https://ruck.tech/</id>
-        <link href="https://ruck.tech/"/>
-        <updated>2022-08-14T01:51:28.202Z</updated>
-        <content type="html"><![CDATA[(ruck.tech)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[eInk 기기를 위한 VNC 클라이언트]]></title>
         <id>https://zmarshall.nl/static/eink-vnc.html</id>
         <link href="https://zmarshall.nl/static/eink-vnc.html"/>
         <updated>2022-08-14T01:51:28.202Z</updated>
         <content type="html"><![CDATA[(zmarshall.nl)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruck - Deno용 Buildless React 웹 프레임워크]]></title>
+        <id>https://ruck.tech/</id>
+        <link href="https://ruck.tech/"/>
+        <updated>2022-08-14T01:51:28.202Z</updated>
+        <content type="html"><![CDATA[(ruck.tech)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft, Fluent Emoji 1538개를 오픈소스로 공개]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[(aseemk.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pls - Prettier & Powerful 'ls']]></title>
-        <id>https://github.com/dhruvkb/pls</id>
-        <link href="https://github.com/dhruvkb/pls"/>
-        <updated>2022-08-11T01:40:52.647Z</updated>
-        <content type="html"><![CDATA[(github.com/dhruvkb)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[당신은 아마도 잘못된 사전을 사용하고 있을 겁니다]]></title>
         <id>http://jsomers.net/blog/dictionary</id>
         <link href="http://jsomers.net/blog/dictionary"/>
         <updated>2022-08-08T01:42:10.863Z</updated>
         <content type="html"><![CDATA[(jsomers.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pls - Prettier & Powerful 'ls']]></title>
+        <id>https://github.com/dhruvkb/pls</id>
+        <link href="https://github.com/dhruvkb/pls"/>
+        <updated>2022-08-11T01:40:52.647Z</updated>
+        <content type="html"><![CDATA[(github.com/dhruvkb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Connect-Web : 브라우저에서 RPC 호출하는 TypeScript 라이브러리]]></title>
