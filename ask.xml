@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-08-14T23:17:58.523Z</updated>
+    <updated>2022-08-15T01:54:45.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -102,16 +102,16 @@
         <updated>2022-07-01T19:15:00.176Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=6937</id>
-        <link href="https://news.hada.io/topic?id=6937"/>
-        <updated>2022-07-08T06:23:35.311Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: VS Code에서 다른 편집기로 갈아타고 싶습니다. 뭐가 좋을까요?]]></title>
         <id>https://news.hada.io/topic?id=6760</id>
         <link href="https://news.hada.io/topic?id=6760"/>
         <updated>2022-06-15T08:25:14.412Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=6937</id>
+        <link href="https://news.hada.io/topic?id=6937"/>
+        <updated>2022-07-08T06:23:35.311Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
