@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews</title>
-    <updated>2022-08-16T04:42:03.983Z</updated>
+    <updated>2022-08-16T05:20:37.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -21,10 +21,17 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
+        <id>https://news.hada.io/topic?id=7182</id>
+        <link href="https://news.hada.io/topic?id=7182"/>
+        <updated>2022-08-15T01:54:01.238Z</updated>
+        <content type="html"><![CDATA[<span id="tp7182">32</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote7182"></span> | <a href="topic?id=7182" class="u">댓글 3개</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xguru]]></title>
         <id>https://news.hada.io/topic?id=7189</id>
         <link href="https://news.hada.io/topic?id=7189"/>
         <updated>2022-08-16T01:54:51.731Z</updated>
-        <content type="html"><![CDATA[<span id="tp7189">5</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote7189"></span> | <a href="topic?id=7189" class="u">댓글 4개</a>]]></content>
+        <content type="html"><![CDATA[<span id="tp7189">5</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote7189"></span> | <a href="topic?id=7189" class="u">댓글 4개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
@@ -38,21 +45,14 @@
         <id>https://news.hada.io/topic?id=7191</id>
         <link href="https://news.hada.io/topic?id=7191"/>
         <updated>2022-08-16T01:54:51.738Z</updated>
-        <content type="html"><![CDATA[<span id="tp7191">4</span> points by <a href="/user?id=ganadist">ganadist</a> 4시간전<span id="unvote7191"></span> | <a href="topic?id=7191" class="u">댓글 2개</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xguru]]></title>
-        <id>https://news.hada.io/topic?id=7182</id>
-        <link href="https://news.hada.io/topic?id=7182"/>
-        <updated>2022-08-15T01:54:01.238Z</updated>
-        <content type="html"><![CDATA[<span id="tp7182">32</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote7182"></span> | <a href="topic?id=7182" class="u">댓글 3개</a>]]></content>
+        <content type="html"><![CDATA[<span id="tp7191">4</span> points by <a href="/user?id=ganadist">ganadist</a> 5시간전<span id="unvote7191"></span> | <a href="topic?id=7191" class="u">댓글 2개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
         <id>https://news.hada.io/topic?id=7190</id>
         <link href="https://news.hada.io/topic?id=7190"/>
         <updated>2022-08-16T01:54:51.743Z</updated>
-        <content type="html"><![CDATA[<span id="tp7190">4</span> points by <a href="/user?id=xguru">xguru</a> 4시간전<span id="unvote7190"></span> | <a href="topic?id=7190" class="u">댓글 1개</a>]]></content>
+        <content type="html"><![CDATA[<span id="tp7190">4</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote7190"></span> | <a href="topic?id=7190" class="u">댓글 1개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
@@ -73,7 +73,7 @@
         <id>https://news.hada.io/topic?id=7187</id>
         <link href="https://news.hada.io/topic?id=7187"/>
         <updated>2022-08-15T07:17:10.497Z</updated>
-        <content type="html"><![CDATA[<span id="tp7187">16</span> points by <a href="/user?id=luckydaun">luckydaun</a> 22시간전<span id="unvote7187"></span> | <a href="topic?id=7187" class="u">댓글과 토론</a>]]></content>
+        <content type="html"><![CDATA[<span id="tp7187">16</span> points by <a href="/user?id=luckydaun">luckydaun</a> 23시간전<span id="unvote7187"></span> | <a href="topic?id=7187" class="u">댓글과 토론</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[xguru]]></title>
