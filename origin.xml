@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-16T22:19:37.579Z</updated>
+    <updated>2022-08-16T23:17:56.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(github.com/CompVis)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tour de Source - 오픈소스 코드를 설명하는 뉴스레터]]></title>
-        <id>https://tourdesource.substack.com/</id>
-        <link href="https://tourdesource.substack.com/"/>
-        <updated>2022-08-15T01:54:07.218Z</updated>
-        <content type="html"><![CDATA[(tourdesource.substack.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Deno 큰 변화 예정]]></title>
         <id>https://deno.com/blog/changes</id>
         <link href="https://deno.com/blog/changes"/>
         <updated>2022-08-16T01:54:57.063Z</updated>
         <content type="html"><![CDATA[(deno.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tour de Source - 오픈소스 코드를 설명하는 뉴스레터]]></title>
+        <id>https://tourdesource.substack.com/</id>
+        <link href="https://tourdesource.substack.com/"/>
+        <updated>2022-08-15T01:54:07.218Z</updated>
+        <content type="html"><![CDATA[(tourdesource.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Android 13 출시]]></title>
