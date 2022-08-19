@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-19T17:25:55.312Z</updated>
+    <updated>2022-08-19T18:26:23.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="http://lunamoth.com/2206"/>
         <updated>2022-08-19T08:23:02.019Z</updated>
         <content type="html"><![CDATA[(lunamoth.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-word : 일반적인 단어 3000여개를 구글플레이에서 검색해본다면.]]></title>
-        <id>https://k-word.web.app/</id>
-        <link href="https://k-word.web.app/"/>
-        <updated>2022-08-19T09:19:12.252Z</updated>
-        <content type="html"><![CDATA[(k-word.web.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음악을 재생하면 구형 노트북 HDD가 파괴되는 취약점: CVE-2022-38392]]></title>
@@ -34,6 +27,13 @@
         <content type="html"><![CDATA[(hpjansson.org)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[K-word : 일반적인 단어 3000여개를 구글플레이에서 검색해본다면.]]></title>
+        <id>https://k-word.web.app/</id>
+        <link href="https://k-word.web.app/"/>
+        <updated>2022-08-19T09:19:12.252Z</updated>
+        <content type="html"><![CDATA[(k-word.web.app)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Electronic Materials Office® - Altar I 무선 기계식 키보드]]></title>
         <id>https://electronicmaterialsoffice.com/</id>
         <link href="https://electronicmaterialsoffice.com/"/>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[(theverge.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신의 완벽한 하루는 어떤 하루인가요? - 완벽한 하루 방법론]]></title>
-        <id>https://bium.io/posts/perfect-day-method</id>
-        <link href="https://bium.io/posts/perfect-day-method"/>
-        <updated>2022-08-19T12:35:22.510Z</updated>
-        <content type="html"><![CDATA[(bium.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애니메이션으로 배워보는 Raft Consensus]]></title>
         <id>https://thesecretlivesofdata.com/raft/</id>
         <link href="https://thesecretlivesofdata.com/raft/"/>
         <updated>2022-08-18T01:58:32.580Z</updated>
         <content type="html"><![CDATA[(thesecretlivesofdata.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신의 완벽한 하루는 어떤 하루인가요? - 완벽한 하루 방법론]]></title>
+        <id>https://bium.io/posts/perfect-day-method</id>
+        <link href="https://bium.io/posts/perfect-day-method"/>
+        <updated>2022-08-19T12:35:22.510Z</updated>
+        <content type="html"><![CDATA[(bium.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AB Test & Permutation From scratch]]></title>
@@ -139,9 +139,10 @@
         <content type="html"><![CDATA[(vibilagare.se)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=7209</id>
-        <link href="https://news.hada.io/topic?id=7209"/>
-        <updated>2022-08-19T01:52:41.334Z</updated>
+        <title type="html"><![CDATA[2022년 현재, 최고의 웹 스크래핑 도구는 무엇인가요?]]></title>
+        <id>https://news.ycombinator.com/item?id=32409632</id>
+        <link href="https://news.ycombinator.com/item?id=32409632"/>
+        <updated>2022-08-19T18:25:49.264Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
 </feed>
