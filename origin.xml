@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-19T15:22:02.568Z</updated>
+    <updated>2022-08-19T16:29:10.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(bium.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AB Test & Permutation From scratch]]></title>
-        <id>https://ugong2san.tistory.com/4555</id>
-        <link href="https://ugong2san.tistory.com/4555"/>
-        <updated>2022-08-19T06:26:43.538Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애니메이션으로 배워보는 Raft Consensus]]></title>
         <id>https://thesecretlivesofdata.com/raft/</id>
         <link href="https://thesecretlivesofdata.com/raft/"/>
         <updated>2022-08-18T01:58:32.580Z</updated>
         <content type="html"><![CDATA[(thesecretlivesofdata.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AB Test & Permutation From scratch]]></title>
+        <id>https://ugong2san.tistory.com/4555</id>
+        <link href="https://ugong2san.tistory.com/4555"/>
+        <updated>2022-08-19T06:26:43.538Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gen Z는 베이비붐 세대의 20대 시절보다 구매력이 86% 낮음]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(discord.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[VSCode, Markdown Language Server 공개]]></title>
+        <id>https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server</id>
+        <link href="https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server"/>
+        <updated>2022-08-18T01:58:32.567Z</updated>
+        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[애플, 베트남에서 애플워치/맥북 생산을 검토중]]></title>
         <id>https://asia.nikkei.com/Business/Technology/Vietnam-to-make-Apple-Watch-and-MacBook-for-first-time-ever</id>
         <link href="https://asia.nikkei.com/Business/Technology/Vietnam-to-make-Apple-Watch-and-MacBook-for-first-time-ever"/>
@@ -102,13 +109,6 @@
         <link href="https://www.theverge.com/2022/8/15/23306101/tiktok-ai-greenscreen-filter-text-to-image-mainstream"/>
         <updated>2022-08-19T01:52:41.334Z</updated>
         <content type="html"><![CDATA[(theverge.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VSCode, Markdown Language Server 공개]]></title>
-        <id>https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server</id>
-        <link href="https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server"/>
-        <updated>2022-08-18T01:58:32.567Z</updated>
-        <content type="html"><![CDATA[(code.visualstudio.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아직 소수의 사람들만 얘기하는 Next Big Thing은 뭘까요?]]></title>
@@ -125,6 +125,13 @@
         <content type="html"><![CDATA[(patterns.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[StemRoller - 노래에서 보컬과 악기를 분리해주는 무료 앱 오픈소스]]></title>
+        <id>https://github.com/stemrollerapp/stemroller</id>
+        <link href="https://github.com/stemrollerapp/stemroller"/>
+        <updated>2022-08-16T01:54:57.063Z</updated>
+        <content type="html"><![CDATA[(github.com/stemrollerapp)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
         <id>https://news.hada.io/topic?id=7209</id>
         <link href="https://news.hada.io/topic?id=7209"/>
@@ -136,12 +143,5 @@
         <link href="https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/"/>
         <updated>2022-08-19T01:52:41.334Z</updated>
         <content type="html"><![CDATA[(pewresearch.org)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StemRoller - 노래에서 보컬과 악기를 분리해주는 무료 앱 오픈소스]]></title>
-        <id>https://github.com/stemrollerapp/stemroller</id>
-        <link href="https://github.com/stemrollerapp/stemroller"/>
-        <updated>2022-08-16T01:54:57.063Z</updated>
-        <content type="html"><![CDATA[(github.com/stemrollerapp)]]></content>
     </entry>
 </feed>
