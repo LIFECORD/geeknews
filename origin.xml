@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-19T06:27:21.588Z</updated>
+    <updated>2022-08-19T07:17:42.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://hpjansson.org/blag/2022/08/16/adventure-game-graphics-with-dall-e-2/"/>
         <updated>2022-08-19T01:52:41.334Z</updated>
         <content type="html"><![CDATA[(hpjansson.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AB Test & Permutation From scratch]]></title>
+        <id>https://ugong2san.tistory.com/4555</id>
+        <link href="https://ugong2san.tistory.com/4555"/>
+        <updated>2022-08-19T06:26:43.538Z</updated>
+        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Electronic Materials Office® - Altar I 무선 기계식 키보드]]></title>
@@ -39,13 +46,6 @@
         <link href="https://thesecretlivesofdata.com/raft/"/>
         <updated>2022-08-18T01:58:32.580Z</updated>
         <content type="html"><![CDATA[(thesecretlivesofdata.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB Test & Permutation From scratch]]></title>
-        <id>https://ugong2san.tistory.com/4555</id>
-        <link href="https://ugong2san.tistory.com/4555"/>
-        <updated>2022-08-19T06:26:43.538Z</updated>
-        <content type="html"><![CDATA[(ugong2san.tistory.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gen Z는 베이비붐 세대의 20대 시절보다 구매력이 86% 낮음]]></title>
@@ -96,13 +96,6 @@
         <content type="html"><![CDATA[(discord.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플 macOS 12.5.1, iOS 15.6.1 제로데이 패치 공개]]></title>
-        <id>https://support.apple.com/ko-kr/HT213413</id>
-        <link href="https://support.apple.com/ko-kr/HT213413"/>
-        <updated>2022-08-19T03:51:54.542Z</updated>
-        <content type="html"><![CDATA[(support.apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아직 소수의 사람들만 얘기하는 Next Big Thing은 뭘까요?]]></title>
         <id>https://news.ycombinator.com/item?id=32378695</id>
         <link href="https://news.ycombinator.com/item?id=32378695"/>
@@ -115,6 +108,13 @@
         <link href="https://www.vibilagare.se/nyheter/physical-buttons-outperform-touchscreens-new-cars-test-finds"/>
         <updated>2022-08-18T01:58:32.580Z</updated>
         <content type="html"><![CDATA[(vibilagare.se)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플 macOS 12.5.1, iOS 15.6.1 제로데이 패치 공개]]></title>
+        <id>https://support.apple.com/ko-kr/HT213413</id>
+        <link href="https://support.apple.com/ko-kr/HT213413"/>
+        <updated>2022-08-19T03:51:54.542Z</updated>
+        <content type="html"><![CDATA[(support.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Learning Patterns - 웹 앱 설계를 위한 패턴들]]></title>
