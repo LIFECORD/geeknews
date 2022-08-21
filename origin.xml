@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-21T06:23:02.074Z</updated>
+    <updated>2022-08-21T07:17:27.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[(boomsupersonic.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대단한 사람은 대가리가 단단한 사람.]]></title>
-        <id>https://nyanye.com/daun/2022/08/20/%EB%8C%80%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%8C%80%EA%B0%80%EB%A6%AC%EA%B0%80-%EB%8B%A8%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C/</id>
-        <link href="https://nyanye.com/daun/2022/08/20/%EB%8C%80%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%8C%80%EA%B0%80%EB%A6%AC%EA%B0%80-%EB%8B%A8%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C/"/>
-        <updated>2022-08-20T12:31:54.620Z</updated>
-        <content type="html"><![CDATA[(nyanye.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Discord가 네트웍 디스크의 지연시간을 최소화한 방법]]></title>
         <id>https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency</id>
         <link href="https://discord.com/blog/how-discord-supercharges-network-disks-for-extreme-low-latency"/>
@@ -144,5 +137,12 @@
         <link href="https://www.consumeraffairs.com/finance/comparing-the-costs-of-generations.html"/>
         <updated>2022-08-18T01:58:32.580Z</updated>
         <content type="html"><![CDATA[(consumeraffairs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대단한 사람은 대가리가 단단한 사람.]]></title>
+        <id>https://nyanye.com/daun/2022/08/20/%EB%8C%80%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%8C%80%EA%B0%80%EB%A6%AC%EA%B0%80-%EB%8B%A8%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C/</id>
+        <link href="https://nyanye.com/daun/2022/08/20/%EB%8C%80%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C%EC%9D%80-%EB%8C%80%EA%B0%80%EB%A6%AC%EA%B0%80-%EB%8B%A8%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%9E%8C/"/>
+        <updated>2022-08-20T12:31:54.620Z</updated>
+        <content type="html"><![CDATA[(nyanye.com)]]></content>
     </entry>
 </feed>
