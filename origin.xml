@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-21T10:19:47.455Z</updated>
+    <updated>2022-08-21T11:16:12.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
-        <id>https://twitter.com/adrianco/status/1560854827810361345</id>
-        <link href="https://twitter.com/adrianco/status/1560854827810361345"/>
-        <updated>2022-08-21T01:46:32.256Z</updated>
-        <content type="html"><![CDATA[(twitter.com/adrianco)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes에서 수천개의 CRD를 사용하도록 확장하기]]></title>
         <id>https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/</id>
         <link href="https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/"/>
         <updated>2022-08-21T03:42:20.294Z</updated>
         <content type="html"><![CDATA[(blog.upbound.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
+        <id>https://twitter.com/adrianco/status/1560854827810361345</id>
+        <link href="https://twitter.com/adrianco/status/1560854827810361345"/>
+        <updated>2022-08-21T01:46:32.256Z</updated>
+        <content type="html"><![CDATA[(twitter.com/adrianco)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iOS 프라이버시: 인앱브라우저에 어떤 JavaScript가 주입되는지 볼 수 있는 InAppBrowser.com 발표]]></title>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[(ravynos.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Supabase Realtime - Multiplayer 기능 GA로 공개]]></title>
-        <id>https://supabase.com/blog/supabase-realtime-multiplayer-general-availability</id>
-        <link href="https://supabase.com/blog/supabase-realtime-multiplayer-general-availability"/>
-        <updated>2022-08-20T01:49:03.682Z</updated>
-        <content type="html"><![CDATA[(supabase.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[K-word : 일반적인 단어 3000여개를 구글플레이에서 검색해본다면.]]></title>
         <id>https://k-word.web.app/</id>
         <link href="https://k-word.web.app/"/>
@@ -76,11 +69,11 @@
         <content type="html"><![CDATA[(k-word.web.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL-E 2로 어드벤처 게임 그래픽을 만든 후기]]></title>
-        <id>https://hpjansson.org/blag/2022/08/16/adventure-game-graphics-with-dall-e-2/</id>
-        <link href="https://hpjansson.org/blag/2022/08/16/adventure-game-graphics-with-dall-e-2/"/>
-        <updated>2022-08-19T01:52:41.334Z</updated>
-        <content type="html"><![CDATA[(hpjansson.org)]]></content>
+        <title type="html"><![CDATA[Supabase Realtime - Multiplayer 기능 GA로 공개]]></title>
+        <id>https://supabase.com/blog/supabase-realtime-multiplayer-general-availability</id>
+        <link href="https://supabase.com/blog/supabase-realtime-multiplayer-general-availability"/>
+        <updated>2022-08-20T01:49:03.682Z</updated>
+        <content type="html"><![CDATA[(supabase.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[컴퓨터/윈도우를 정리/관리하는 방법 Ver 5.7 (2022-08-14 업데이트)]]></title>
@@ -88,6 +81,13 @@
         <link href="http://lunamoth.com/2206"/>
         <updated>2022-08-19T08:23:02.019Z</updated>
         <content type="html"><![CDATA[(lunamoth.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL-E 2로 어드벤처 게임 그래픽을 만든 후기]]></title>
+        <id>https://hpjansson.org/blag/2022/08/16/adventure-game-graphics-with-dall-e-2/</id>
+        <link href="https://hpjansson.org/blag/2022/08/16/adventure-game-graphics-with-dall-e-2/"/>
+        <updated>2022-08-19T01:52:41.334Z</updated>
+        <content type="html"><![CDATA[(hpjansson.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음악을 재생하면 구형 노트북 HDD가 파괴되는 취약점: CVE-2022-38392]]></title>
