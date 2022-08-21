@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-21T05:20:46.253Z</updated>
+    <updated>2022-08-21T06:23:02.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
-        <id>https://twitter.com/adrianco/status/1560854827810361345</id>
-        <link href="https://twitter.com/adrianco/status/1560854827810361345"/>
-        <updated>2022-08-21T01:46:32.256Z</updated>
-        <content type="html"><![CDATA[(twitter.com/adrianco)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes에서 수천개의 CRD를 사용하도록 확장하기]]></title>
         <id>https://blog.upbound.io/scaling-kubernetes-to-thousands-of-crds/</id>
@@ -25,6 +18,13 @@
         <link href="https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser"/>
         <updated>2022-08-21T01:46:32.256Z</updated>
         <content type="html"><![CDATA[(krausefx.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
+        <id>https://twitter.com/adrianco/status/1560854827810361345</id>
+        <link href="https://twitter.com/adrianco/status/1560854827810361345"/>
+        <updated>2022-08-21T01:46:32.256Z</updated>
+        <content type="html"><![CDATA[(twitter.com/adrianco)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DataDog의 Serverless 상태 보고서]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(lunamoth.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 리그오브레전드 전적 알림 앱]]></title>
-        <id>https://news.hada.io/topic?id=7223</id>
-        <link href="https://news.hada.io/topic?id=7223"/>
-        <updated>2022-08-20T08:23:37.787Z</updated>
-        <content type="html"><![CDATA[(apps.apple.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애니메이션으로 배워보는 Raft Consensus]]></title>
         <id>https://thesecretlivesofdata.com/raft/</id>
         <link href="https://thesecretlivesofdata.com/raft/"/>
         <updated>2022-08-18T01:58:32.580Z</updated>
         <content type="html"><![CDATA[(thesecretlivesofdata.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 리그오브레전드 전적 알림 앱]]></title>
+        <id>https://news.hada.io/topic?id=7223</id>
+        <link href="https://news.hada.io/topic?id=7223"/>
+        <updated>2022-08-20T08:23:37.787Z</updated>
+        <content type="html"><![CDATA[(apps.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제임스 웹 우주망원경의 통합과학기기모듈은 2003년에 나온 자바스크립트 엔진으로 작동함]]></title>
