@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-23T01:58:59.977Z</updated>
+    <updated>2022-08-23T04:18:02.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Maps.earth - 셀프 호스트 가능한 오픈소스 지도]]></title>
-        <id>https://about.maps.earth/</id>
-        <link href="https://about.maps.earth/"/>
-        <updated>2022-08-23T01:58:22.160Z</updated>
-        <content type="html"><![CDATA[(about.maps.earth)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Tauri vs. Electron - 실제 어플리케이션으로 비교하기]]></title>
         <id>https://www.levminer.com/blog/tauri-vs-electron</id>
         <link href="https://www.levminer.com/blog/tauri-vs-electron"/>
         <updated>2022-08-23T01:58:22.164Z</updated>
         <content type="html"><![CDATA[(levminer.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maps.earth - 셀프 호스트 가능한 오픈소스 지도]]></title>
+        <id>https://about.maps.earth/</id>
+        <link href="https://about.maps.earth/"/>
+        <updated>2022-08-23T01:58:22.160Z</updated>
+        <content type="html"><![CDATA[(about.maps.earth)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[QEMU Internals]]></title>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(airbus-seclab.github.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[방망이 깎는 노인, 아니 특허를 깎는 구글: dropout 특허는 10년째 진행중]]></title>
+        <id>https://piip.co.kr/ko/blog/google-dropout-patent</id>
+        <link href="https://piip.co.kr/ko/blog/google-dropout-patent"/>
+        <updated>2022-08-23T01:58:22.185Z</updated>
+        <content type="html"><![CDATA[(piip.co.kr)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[기술 분야의 성공을 이끄는 11가지 법칙 [67p PDF]]]></title>
         <id>https://www.cbinsights.com/research/report/tech-laws-success-failure/</id>
         <link href="https://www.cbinsights.com/research/report/tech-laws-success-failure/"/>
@@ -34,11 +41,18 @@
         <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애플, 자가 수리 서비스를 맥북으로 확장]]></title>
-        <id>https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/</id>
-        <link href="https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/"/>
-        <updated>2022-08-23T01:58:22.180Z</updated>
-        <content type="html"><![CDATA[(apple.com)]]></content>
+        <title type="html"><![CDATA[ClipStudio, 2023년 부터 2.0 버전 출시하며, 1.0은 올해로 업데이트 중단예정]]></title>
+        <id>https://www.clipstudio.net/kr/news/202208/22_01/</id>
+        <link href="https://www.clipstudio.net/kr/news/202208/22_01/"/>
+        <updated>2022-08-23T04:17:28.739Z</updated>
+        <content type="html"><![CDATA[(clipstudio.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일론 머스크는 화성에서 트위터를 할 수 있을까요?]]></title>
+        <id>https://maily.so/productlab/posts/1c16b50f</id>
+        <link href="https://maily.so/productlab/posts/1c16b50f"/>
+        <updated>2022-08-23T01:58:22.183Z</updated>
+        <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cosmopolitan v2.0 릴리즈]]></title>
@@ -48,32 +62,18 @@
         <content type="html"><![CDATA[(github.com/jart)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[애플, 자가 수리 서비스를 맥북으로 확장]]></title>
+        <id>https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/</id>
+        <link href="https://www.apple.com/newsroom/2022/08/apple-expands-self-service-repair-to-mac-notebooks/"/>
+        <updated>2022-08-23T01:58:22.180Z</updated>
+        <content type="html"><![CDATA[(apple.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[mvSQLite - SQLite 호환 분산 Database]]></title>
         <id>https://github.com/losfair/mvsqlite</id>
         <link href="https://github.com/losfair/mvsqlite"/>
         <updated>2022-08-22T01:50:50.523Z</updated>
         <content type="html"><![CDATA[(github.com/losfair)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 일론 머스크는 화성에서 트위터를 할 수 있을까요?]]></title>
-        <id>https://maily.so/productlab/posts/1c16b50f</id>
-        <link href="https://maily.so/productlab/posts/1c16b50f"/>
-        <updated>2022-08-23T01:58:22.183Z</updated>
-        <content type="html"><![CDATA[(maily.so)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방망이 깎는 노인, 아니 특허를 깎는 구글: dropout 특허는 10년째 진행중]]></title>
-        <id>https://piip.co.kr/ko/blog/google-dropout-patent</id>
-        <link href="https://piip.co.kr/ko/blog/google-dropout-patent"/>
-        <updated>2022-08-23T01:58:22.185Z</updated>
-        <content type="html"><![CDATA[(piip.co.kr)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SurrealDB - 분산 Document-Graph 데이터베이스]]></title>
-        <id>https://github.com/surrealdb/surrealdb</id>
-        <link href="https://github.com/surrealdb/surrealdb"/>
-        <updated>2022-08-23T01:58:22.186Z</updated>
-        <content type="html"><![CDATA[(github.com/surrealdb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아픈 아기의 환부 사진을 찍은 아빠를 구글이 범죄자로 지목]]></title>
@@ -88,6 +88,13 @@
         <link href="https://twitter.com/adrianco/status/1560854827810361345"/>
         <updated>2022-08-21T01:46:32.256Z</updated>
         <content type="html"><![CDATA[(twitter.com/adrianco)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SurrealDB - 분산 Document-Graph 데이터베이스]]></title>
+        <id>https://github.com/surrealdb/surrealdb</id>
+        <link href="https://github.com/surrealdb/surrealdb"/>
+        <updated>2022-08-23T01:58:22.186Z</updated>
+        <content type="html"><![CDATA[(github.com/surrealdb)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iOS 프라이버시: 인앱브라우저에 어떤 JavaScript가 주입되는지 볼 수 있는 InAppBrowser.com 발표]]></title>
@@ -125,13 +132,6 @@
         <content type="html"><![CDATA[(blog.upbound.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ravynOS - macOS의 섬세함을 FreeBSD위에서 구현한 OS]]></title>
-        <id>https://ravynos.com/</id>
-        <link href="https://ravynos.com/"/>
-        <updated>2022-08-20T01:49:03.673Z</updated>
-        <content type="html"><![CDATA[(ravynos.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[K-word : 일반적인 단어 3000여개를 구글플레이에서 검색해본다면.]]></title>
         <id>https://k-word.web.app/</id>
         <link href="https://k-word.web.app/"/>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(k-word.web.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[컴퓨터/윈도우를 정리/관리하는 방법 Ver 5.7 (2022-08-14 업데이트)]]></title>
-        <id>http://lunamoth.com/2206</id>
-        <link href="http://lunamoth.com/2206"/>
-        <updated>2022-08-19T08:23:02.019Z</updated>
-        <content type="html"><![CDATA[(lunamoth.com)]]></content>
+        <title type="html"><![CDATA[ravynOS - macOS의 섬세함을 FreeBSD위에서 구현한 OS]]></title>
+        <id>https://ravynos.com/</id>
+        <link href="https://ravynos.com/"/>
+        <updated>2022-08-20T01:49:03.673Z</updated>
+        <content type="html"><![CDATA[(ravynos.com)]]></content>
     </entry>
 </feed>
