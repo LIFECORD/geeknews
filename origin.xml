@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-23T12:36:36.735Z</updated>
+    <updated>2022-08-23T13:39:12.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(nytimes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ClipStudio, 2023년 부터 2.0 버전 출시하며, 1.0은 올해로 업데이트 중단예정]]></title>
-        <id>https://www.clipstudio.net/kr/news/202208/22_01/</id>
-        <link href="https://www.clipstudio.net/kr/news/202208/22_01/"/>
-        <updated>2022-08-23T04:17:28.739Z</updated>
-        <content type="html"><![CDATA[(clipstudio.net)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
         <id>https://twitter.com/adrianco/status/1560854827810361345</id>
         <link href="https://twitter.com/adrianco/status/1560854827810361345"/>
         <updated>2022-08-21T01:46:32.256Z</updated>
         <content type="html"><![CDATA[(twitter.com/adrianco)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClipStudio, 2023년 부터 2.0 버전 출시하며, 1.0은 올해로 업데이트 중단예정]]></title>
+        <id>https://www.clipstudio.net/kr/news/202208/22_01/</id>
+        <link href="https://www.clipstudio.net/kr/news/202208/22_01/"/>
+        <updated>2022-08-23T04:17:28.739Z</updated>
+        <content type="html"><![CDATA[(clipstudio.net)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, 자가 수리 서비스를 맥북으로 확장]]></title>
