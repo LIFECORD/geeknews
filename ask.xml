@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-08-23T23:19:03.077Z</updated>
+    <updated>2022-08-24T01:56:40.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -18,16 +18,16 @@
         <updated>2022-08-01T05:53:46.154Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=7173</id>
-        <link href="https://news.hada.io/topic?id=7173"/>
-        <updated>2022-08-12T03:35:49.239Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 초장거리 출퇴근을 하시는 분이 계실까요?]]></title>
         <id>https://news.hada.io/topic?id=7147</id>
         <link href="https://news.hada.io/topic?id=7147"/>
         <updated>2022-08-09T01:52:29.087Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7173</id>
+        <link href="https://news.hada.io/topic?id=7173"/>
+        <updated>2022-08-12T03:35:49.239Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이달의 구직 - 같이 일할 팀을 찾습니다 (2022년 8월)]]></title>
@@ -60,16 +60,16 @@
         <updated>2022-07-22T01:51:12.249Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: GeekNews 외에 어디서 개발 관련 소식을 얻으시나요?]]></title>
-        <id>https://news.hada.io/topic?id=7019</id>
-        <link href="https://news.hada.io/topic?id=7019"/>
-        <updated>2022-07-21T15:21:37.181Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 나만 안 쓰는 제품이나 서비스가 있나요?]]></title>
         <id>https://news.hada.io/topic?id=6946</id>
         <link href="https://news.hada.io/topic?id=6946"/>
         <updated>2022-07-10T12:31:55.792Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: GeekNews 외에 어디서 개발 관련 소식을 얻으시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7019</id>
+        <link href="https://news.hada.io/topic?id=7019"/>
+        <updated>2022-07-21T15:21:37.181Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 감동을 주는 소프트웨어가 있나요?]]></title>
