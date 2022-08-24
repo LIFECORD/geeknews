@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-24T15:20:12.420Z</updated>
+    <updated>2022-08-24T16:26:26.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[(github.com/losfair)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: BakingSheet - Unity/C# 게임 기획 데이터를 위한 스프레드시트 스키마 작성 및 포맷 변환 도구]]></title>
-        <id>https://news.hada.io/topic?id=7245</id>
-        <link href="https://news.hada.io/topic?id=7245"/>
-        <updated>2022-08-23T06:32:09.609Z</updated>
-        <content type="html"><![CDATA[(github.com/cathei)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AWS는 S3의 압축을 gzip에서 zstd로 바꿔서 30% 정도 크기를 줄였음]]></title>
         <id>https://twitter.com/adrianco/status/1560854827810361345</id>
         <link href="https://twitter.com/adrianco/status/1560854827810361345"/>
@@ -104,11 +97,11 @@
         <content type="html"><![CDATA[(twitter.com/adrianco)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방망이 깎는 노인, 아니 특허를 깎는 구글: dropout 특허는 10년째 진행중]]></title>
-        <id>https://piip.co.kr/ko/blog/google-dropout-patent</id>
-        <link href="https://piip.co.kr/ko/blog/google-dropout-patent"/>
-        <updated>2022-08-23T01:58:22.185Z</updated>
-        <content type="html"><![CDATA[(piip.co.kr)]]></content>
+        <title type="html"><![CDATA[Show GN: BakingSheet - Unity/C# 게임 기획 데이터를 위한 스프레드시트 스키마 작성 및 포맷 변환 도구]]></title>
+        <id>https://news.hada.io/topic?id=7245</id>
+        <link href="https://news.hada.io/topic?id=7245"/>
+        <updated>2022-08-23T06:32:09.609Z</updated>
+        <content type="html"><![CDATA[(github.com/cathei)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아픈 아기의 환부 사진을 찍은 아빠를 구글이 범죄자로 지목]]></title>
@@ -116,6 +109,13 @@
         <link href="https://www.nytimes.com/2022/08/21/technology/google-surveillance-toddler-photo.html"/>
         <updated>2022-08-22T01:50:50.523Z</updated>
         <content type="html"><![CDATA[(nytimes.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방망이 깎는 노인, 아니 특허를 깎는 구글: dropout 특허는 10년째 진행중]]></title>
+        <id>https://piip.co.kr/ko/blog/google-dropout-patent</id>
+        <link href="https://piip.co.kr/ko/blog/google-dropout-patent"/>
+        <updated>2022-08-23T01:58:22.185Z</updated>
+        <content type="html"><![CDATA[(piip.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SurrealDB - 분산 Document-Graph 데이터베이스]]></title>
