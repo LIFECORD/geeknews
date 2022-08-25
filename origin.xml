@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-25T02:00:29.925Z</updated>
+    <updated>2022-08-25T04:15:55.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Developer Imposter Syndrome]]></title>
+        <id>https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8</id>
+        <link href="https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8"/>
+        <updated>2022-08-25T01:59:55.977Z</updated>
+        <content type="html"><![CDATA[(medium.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원격 근무 가능한 스타트업이 최고의 인재를 확보하는 전쟁에서 승리할 것]]></title>
         <id>https://future.com/remote-startups-hire-top-talent/</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[(future.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Developer Imposter Syndrome]]></title>
-        <id>https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8</id>
-        <link href="https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8"/>
-        <updated>2022-08-25T01:59:55.977Z</updated>
-        <content type="html"><![CDATA[(medium.com)]]></content>
+        <title type="html"><![CDATA[나는 애플이 RCS를 절대 채택하지 않기를 바랍니다]]></title>
+        <id>https://blog.mogery.me/rcs-is-stupid/</id>
+        <link href="https://blog.mogery.me/rcs-is-stupid/"/>
+        <updated>2022-08-25T01:59:55.983Z</updated>
+        <content type="html"><![CDATA[(blog.mogery.me)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Crawlee - 웹스크래핑 & 브라우저 자동화 라이브러리]]></title>
@@ -48,11 +55,11 @@
         <content type="html"><![CDATA[(neal.fun)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 애플이 RCS를 절대 채택하지 않기를 바랍니다]]></title>
-        <id>https://blog.mogery.me/rcs-is-stupid/</id>
-        <link href="https://blog.mogery.me/rcs-is-stupid/"/>
-        <updated>2022-08-25T01:59:55.983Z</updated>
-        <content type="html"><![CDATA[(blog.mogery.me)]]></content>
+        <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
+        <id>https://webhooks.fyi/</id>
+        <link href="https://webhooks.fyi/"/>
+        <updated>2022-08-24T01:56:01.943Z</updated>
+        <content type="html"><![CDATA[(webhooks.fyi)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[M2 맥북에어가 더 비싼 델 XPS Plus 노트북보다 윈도우 11을 더 빠르게 실행]]></title>
@@ -60,13 +67,6 @@
         <link href="https://www.cultofmac.com/788405/m2-macbook-air-runs-windows-11-faster-than-pricier-dell-laptop/"/>
         <updated>2022-08-25T01:59:55.983Z</updated>
         <content type="html"><![CDATA[(cultofmac.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
-        <id>https://webhooks.fyi/</id>
-        <link href="https://webhooks.fyi/"/>
-        <updated>2022-08-24T01:56:01.943Z</updated>
-        <content type="html"><![CDATA[(webhooks.fyi)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주4일 근무하시는 분?]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[(d2.naver.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI, 9/1부터 GPT-3 API 가격 인하]]></title>
-        <id>https://openai.com/api/pricing/</id>
-        <link href="https://openai.com/api/pricing/"/>
-        <updated>2022-08-24T01:56:01.949Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[QEMU Internals]]></title>
         <id>https://airbus-seclab.github.io/qemu_blog/</id>
         <link href="https://airbus-seclab.github.io/qemu_blog/"/>
         <updated>2022-08-23T01:58:22.164Z</updated>
         <content type="html"><![CDATA[(airbus-seclab.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI, 9/1부터 GPT-3 API 가격 인하]]></title>
+        <id>https://openai.com/api/pricing/</id>
+        <link href="https://openai.com/api/pricing/"/>
+        <updated>2022-08-24T01:56:01.949Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cosmopolitan v2.0 릴리즈]]></title>
