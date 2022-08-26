@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-26T13:37:15.756Z</updated>
+    <updated>2022-08-26T14:18:02.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[(sethmlarson.dev)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Oven - Company behind Bun]]></title>
+        <id>https://oven.sh/</id>
+        <link href="https://oven.sh/"/>
+        <updated>2022-08-26T02:01:14.838Z</updated>
+        <content type="html"><![CDATA[(oven.sh)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[원격 근무 가능한 스타트업이 최고의 인재를 확보하는 전쟁에서 승리할 것]]></title>
         <id>https://future.com/remote-startups-hire-top-talent/</id>
         <link href="https://future.com/remote-startups-hire-top-talent/"/>
@@ -55,11 +62,11 @@
         <content type="html"><![CDATA[(the-algorithms.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oven - Company behind Bun]]></title>
-        <id>https://oven.sh/</id>
-        <link href="https://oven.sh/"/>
-        <updated>2022-08-26T02:01:14.838Z</updated>
-        <content type="html"><![CDATA[(oven.sh)]]></content>
+        <title type="html"><![CDATA[나는 애플이 RCS를 절대 채택하지 않기를 바랍니다]]></title>
+        <id>https://blog.mogery.me/rcs-is-stupid/</id>
+        <link href="https://blog.mogery.me/rcs-is-stupid/"/>
+        <updated>2022-08-25T01:59:55.983Z</updated>
+        <content type="html"><![CDATA[(blog.mogery.me)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
@@ -69,11 +76,11 @@
         <content type="html"><![CDATA[(github.com/itchyny)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 애플이 RCS를 절대 채택하지 않기를 바랍니다]]></title>
-        <id>https://blog.mogery.me/rcs-is-stupid/</id>
-        <link href="https://blog.mogery.me/rcs-is-stupid/"/>
-        <updated>2022-08-25T01:59:55.983Z</updated>
-        <content type="html"><![CDATA[(blog.mogery.me)]]></content>
+        <title type="html"><![CDATA[Crawlee - 웹스크래핑 & 브라우저 자동화 라이브러리]]></title>
+        <id>https://crawlee.dev/</id>
+        <link href="https://crawlee.dev/"/>
+        <updated>2022-08-25T01:59:55.980Z</updated>
+        <content type="html"><![CDATA[(crawlee.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Slack 기반 AWS Support 앱 출시]]></title>
@@ -83,11 +90,11 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Crawlee - 웹스크래핑 & 브라우저 자동화 라이브러리]]></title>
-        <id>https://crawlee.dev/</id>
-        <link href="https://crawlee.dev/"/>
-        <updated>2022-08-25T01:59:55.980Z</updated>
-        <content type="html"><![CDATA[(crawlee.dev)]]></content>
+        <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
+        <id>https://webhooks.fyi/</id>
+        <link href="https://webhooks.fyi/"/>
+        <updated>2022-08-24T01:56:01.943Z</updated>
+        <content type="html"><![CDATA[(webhooks.fyi)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, 9/7일(한국시간 9/8일 2am) 새 제품 발표 이벤트 개최 : 'Far Out']]></title>
@@ -95,13 +102,6 @@
         <link href="https://developer.apple.com/news/?id=o5cryh1p"/>
         <updated>2022-08-26T02:01:14.836Z</updated>
         <content type="html"><![CDATA[(developer.apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
-        <id>https://webhooks.fyi/</id>
-        <link href="https://webhooks.fyi/"/>
-        <updated>2022-08-24T01:56:01.943Z</updated>
-        <content type="html"><![CDATA[(webhooks.fyi)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tauri vs. Electron - 실제 어플리케이션으로 비교하기]]></title>
