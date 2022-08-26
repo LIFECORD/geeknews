@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-26T20:20:16.212Z</updated>
+    <updated>2022-08-26T21:16:36.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(help.heroku.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
-        <id>https://the-algorithms.com/</id>
-        <link href="https://the-algorithms.com/"/>
-        <updated>2022-08-24T01:56:01.934Z</updated>
-        <content type="html"><![CDATA[(the-algorithms.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[원격 근무 가능한 스타트업이 최고의 인재를 확보하는 전쟁에서 승리할 것]]></title>
         <id>https://future.com/remote-startups-hire-top-talent/</id>
         <link href="https://future.com/remote-startups-hire-top-talent/"/>
         <updated>2022-08-25T01:59:55.977Z</updated>
         <content type="html"><![CDATA[(future.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
+        <id>https://the-algorithms.com/</id>
+        <link href="https://the-algorithms.com/"/>
+        <updated>2022-08-24T01:56:01.934Z</updated>
+        <content type="html"><![CDATA[(the-algorithms.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oven - Company behind Bun]]></title>
