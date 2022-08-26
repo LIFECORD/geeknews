@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-26T04:47:38.198Z</updated>
+    <updated>2022-08-26T05:59:22.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,27 @@
         <content type="html"><![CDATA[(help.heroku.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Oven - Company behind Bun]]></title>
+        <id>https://oven.sh/</id>
+        <link href="https://oven.sh/"/>
+        <updated>2022-08-26T02:01:14.838Z</updated>
+        <content type="html"><![CDATA[(oven.sh)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈소스가 자금지원을 받기 위해 준비해야할 것들]]></title>
+        <id>https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding</id>
+        <link href="https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding"/>
+        <updated>2022-08-26T02:01:14.836Z</updated>
+        <content type="html"><![CDATA[(sethmlarson.dev)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
+        <id>https://github.com/itchyny/gojq</id>
+        <link href="https://github.com/itchyny/gojq"/>
+        <updated>2022-08-26T02:01:14.838Z</updated>
+        <content type="html"><![CDATA[(github.com/itchyny)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[원격 근무 가능한 스타트업이 최고의 인재를 확보하는 전쟁에서 승리할 것]]></title>
         <id>https://future.com/remote-startups-hire-top-talent/</id>
         <link href="https://future.com/remote-startups-hire-top-talent/"/>
@@ -41,18 +62,11 @@
         <content type="html"><![CDATA[(aws.amazon.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오픈소스가 자금지원을 받기 위해 준비해야할 것들]]></title>
-        <id>https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding</id>
-        <link href="https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding"/>
+        <title type="html"><![CDATA[애플, 9/7일(한국시간 9/8일 2am) 새 제품 발표 이벤트 개최 : 'Far Out']]></title>
+        <id>https://developer.apple.com/news/?id=o5cryh1p</id>
+        <link href="https://developer.apple.com/news/?id=o5cryh1p"/>
         <updated>2022-08-26T02:01:14.836Z</updated>
-        <content type="html"><![CDATA[(sethmlarson.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 애플이 RCS를 절대 채택하지 않기를 바랍니다]]></title>
-        <id>https://blog.mogery.me/rcs-is-stupid/</id>
-        <link href="https://blog.mogery.me/rcs-is-stupid/"/>
-        <updated>2022-08-25T01:59:55.983Z</updated>
-        <content type="html"><![CDATA[(blog.mogery.me)]]></content>
+        <content type="html"><![CDATA[(developer.apple.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
@@ -62,32 +76,18 @@
         <content type="html"><![CDATA[(the-algorithms.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나는 애플이 RCS를 절대 채택하지 않기를 바랍니다]]></title>
+        <id>https://blog.mogery.me/rcs-is-stupid/</id>
+        <link href="https://blog.mogery.me/rcs-is-stupid/"/>
+        <updated>2022-08-25T01:59:55.983Z</updated>
+        <content type="html"><![CDATA[(blog.mogery.me)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Crawlee - 웹스크래핑 & 브라우저 자동화 라이브러리]]></title>
         <id>https://crawlee.dev/</id>
         <link href="https://crawlee.dev/"/>
         <updated>2022-08-25T01:59:55.980Z</updated>
         <content type="html"><![CDATA[(crawlee.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, 9/7일(한국시간 9/8일 2am) 새 제품 발표 이벤트 개최 : 'Far Out']]></title>
-        <id>https://developer.apple.com/news/?id=o5cryh1p</id>
-        <link href="https://developer.apple.com/news/?id=o5cryh1p"/>
-        <updated>2022-08-26T02:01:14.836Z</updated>
-        <content type="html"><![CDATA[(developer.apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oven - Company behind Bun]]></title>
-        <id>https://oven.sh/</id>
-        <link href="https://oven.sh/"/>
-        <updated>2022-08-26T02:01:14.838Z</updated>
-        <content type="html"><![CDATA[(oven.sh)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoJq - 순수 Go 코드로 구현한 jq]]></title>
-        <id>https://github.com/itchyny/gojq</id>
-        <link href="https://github.com/itchyny/gojq"/>
-        <updated>2022-08-26T02:01:14.838Z</updated>
-        <content type="html"><![CDATA[(github.com/itchyny)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Webhooks FYI - 웹훅 구현 및 사용을 위한 가이드]]></title>
@@ -111,11 +111,11 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차세대 아이폰 디자인 해보기]]></title>
-        <id>https://neal.fun/design-the-next-iphone/</id>
-        <link href="https://neal.fun/design-the-next-iphone/"/>
-        <updated>2022-08-25T01:59:55.982Z</updated>
-        <content type="html"><![CDATA[(neal.fun)]]></content>
+        <title type="html"><![CDATA[기술 분야의 성공을 이끄는 11가지 법칙 [67p PDF]]]></title>
+        <id>https://www.cbinsights.com/research/report/tech-laws-success-failure/</id>
+        <link href="https://www.cbinsights.com/research/report/tech-laws-success-failure/"/>
+        <updated>2022-08-22T04:00:37.362Z</updated>
+        <content type="html"><![CDATA[(cbinsights.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1년차 개발자의 골드만삭스 → 스타트업 이직 후기]]></title>
@@ -125,11 +125,11 @@
         <content type="html"><![CDATA[(noninertialframe.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기술 분야의 성공을 이끄는 11가지 법칙 [67p PDF]]]></title>
-        <id>https://www.cbinsights.com/research/report/tech-laws-success-failure/</id>
-        <link href="https://www.cbinsights.com/research/report/tech-laws-success-failure/"/>
-        <updated>2022-08-22T04:00:37.362Z</updated>
-        <content type="html"><![CDATA[(cbinsights.com)]]></content>
+        <title type="html"><![CDATA[차세대 아이폰 디자인 해보기]]></title>
+        <id>https://neal.fun/design-the-next-iphone/</id>
+        <link href="https://neal.fun/design-the-next-iphone/"/>
+        <updated>2022-08-25T01:59:55.982Z</updated>
+        <content type="html"><![CDATA[(neal.fun)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google Play 게임을 PC에서 할 수 있는 'Google Play Games for PC' 오픈 베타 출시]]></title>
