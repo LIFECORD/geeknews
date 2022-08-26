@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-26T12:36:50.106Z</updated>
+    <updated>2022-08-26T13:37:15.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.nginx.com/blog/future-of-nginx-getting-back-to-open-source-roots/"/>
         <updated>2022-08-26T02:01:14.832Z</updated>
         <content type="html"><![CDATA[(nginx.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상에서 색이 점점 사라져 가고 있다]]></title>
+        <id>https://tumblr.macleodsawyer.com/post/691054353059053568/color-has-been-disappearing-from-the-world</id>
+        <link href="https://tumblr.macleodsawyer.com/post/691054353059053568/color-has-been-disappearing-from-the-world"/>
+        <updated>2022-08-26T12:36:16.040Z</updated>
+        <content type="html"><![CDATA[(tumblr.macleodsawyer.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Developer Imposter Syndrome]]></title>
@@ -27,13 +34,6 @@
         <content type="html"><![CDATA[(help.heroku.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세상에서 색이 점점 사라져 가고 있다]]></title>
-        <id>https://tumblr.macleodsawyer.com/post/691054353059053568/color-has-been-disappearing-from-the-world</id>
-        <link href="https://tumblr.macleodsawyer.com/post/691054353059053568/color-has-been-disappearing-from-the-world"/>
-        <updated>2022-08-26T12:36:16.040Z</updated>
-        <content type="html"><![CDATA[(tumblr.macleodsawyer.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오픈소스가 자금지원을 받기 위해 준비해야할 것들]]></title>
         <id>https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding</id>
         <link href="https://sethmlarson.dev/blog/preparing-for-the-wave-of-open-source-funding"/>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[(future.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
+        <id>https://the-algorithms.com/</id>
+        <link href="https://the-algorithms.com/"/>
+        <updated>2022-08-24T01:56:01.934Z</updated>
+        <content type="html"><![CDATA[(the-algorithms.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Oven - Company behind Bun]]></title>
         <id>https://oven.sh/</id>
         <link href="https://oven.sh/"/>
@@ -60,13 +67,6 @@
         <link href="https://github.com/itchyny/gojq"/>
         <updated>2022-08-26T02:01:14.838Z</updated>
         <content type="html"><![CDATA[(github.com/itchyny)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
-        <id>https://the-algorithms.com/</id>
-        <link href="https://the-algorithms.com/"/>
-        <updated>2022-08-24T01:56:01.934Z</updated>
-        <content type="html"><![CDATA[(the-algorithms.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나는 애플이 RCS를 절대 채택하지 않기를 바랍니다]]></title>
