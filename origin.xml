@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-29T12:37:31.423Z</updated>
+    <updated>2022-08-29T13:41:20.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[(blog.zulip.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI로 재활용품 분리수거, 음식물 쓰레기 인식·측정, 물 사용 현황 관찰·누수 탐지하는 방식]]></title>
-        <id>https://blog.naver.com/saltluxmarketing/222857790111</id>
-        <link href="https://blog.naver.com/saltluxmarketing/222857790111"/>
-        <updated>2022-08-29T06:07:23.347Z</updated>
-        <content type="html"><![CDATA[(blog.naver.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Developer Imposter Syndrome]]></title>
         <id>https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8</id>
         <link href="https://medium.com/lemonbase/developer-imposter-syndrome-153f4d94c5d8"/>
@@ -83,18 +76,18 @@
         <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI로 재활용품 분리수거, 음식물 쓰레기 인식·측정, 물 사용 현황 관찰·누수 탐지하는 방식]]></title>
+        <id>https://blog.naver.com/saltluxmarketing/222857790111</id>
+        <link href="https://blog.naver.com/saltluxmarketing/222857790111"/>
+        <updated>2022-08-29T06:07:23.347Z</updated>
+        <content type="html"><![CDATA[(blog.naver.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[z-index:10000 를 대체하는 top layer]]></title>
         <id>https://developer.chrome.com/blog/what-is-the-top-layer/</id>
         <link href="https://developer.chrome.com/blog/what-is-the-top-layer/"/>
         <updated>2022-08-27T01:57:47.294Z</updated>
         <content type="html"><![CDATA[(developer.chrome.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[듄 애널리틱스(Dune Analytics) - 온체인 데이터 분석 플랫폼]]></title>
-        <id>https://dune.com/</id>
-        <link href="https://dune.com/"/>
-        <updated>2022-08-29T02:05:40.760Z</updated>
-        <content type="html"><![CDATA[(dune.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
@@ -109,6 +102,13 @@
         <link href="https://heroicons.com/"/>
         <updated>2022-08-27T01:57:47.293Z</updated>
         <content type="html"><![CDATA[(heroicons.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[듄 애널리틱스(Dune Analytics) - 온체인 데이터 분석 플랫폼]]></title>
+        <id>https://dune.com/</id>
+        <link href="https://dune.com/"/>
+        <updated>2022-08-29T02:05:40.760Z</updated>
+        <content type="html"><![CDATA[(dune.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드 골핑 팁 : JavaScript 코드 Minify 하는 법]]></title>
