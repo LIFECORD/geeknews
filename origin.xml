@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-30T16:28:44.032Z</updated>
+    <updated>2022-08-30T17:24:55.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(theregister.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 안드로이드용 Cross Device SDK 공개]]></title>
-        <id>https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html</id>
-        <link href="https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html"/>
-        <updated>2022-08-30T02:08:47.215Z</updated>
-        <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vercel 의 Edge Computing 에서도 WebAssembly 실행가능]]></title>
         <id>https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge</id>
         <link href="https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge"/>
         <updated>2022-08-29T02:05:40.754Z</updated>
         <content type="html"><![CDATA[(vercel.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 안드로이드용 Cross Device SDK 공개]]></title>
+        <id>https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html</id>
+        <link href="https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html"/>
+        <updated>2022-08-30T02:08:47.215Z</updated>
+        <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TTOSA - 오픈소스 대체제가 나오는 데까지 걸리는 시간]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(medium.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
-        <id>https://the-algorithms.com/</id>
-        <link href="https://the-algorithms.com/"/>
-        <updated>2022-08-24T01:56:01.934Z</updated>
-        <content type="html"><![CDATA[(the-algorithms.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[z-index:10000 를 대체하는 top layer]]></title>
         <id>https://developer.chrome.com/blog/what-is-the-top-layer/</id>
         <link href="https://developer.chrome.com/blog/what-is-the-top-layer/"/>
         <updated>2022-08-27T01:57:47.294Z</updated>
         <content type="html"><![CDATA[(developer.chrome.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언어별로 구현해본 알고리듬 모음]]></title>
+        <id>https://the-algorithms.com/</id>
+        <link href="https://the-algorithms.com/"/>
+        <updated>2022-08-24T01:56:01.934Z</updated>
+        <content type="html"><![CDATA[(the-algorithms.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Diffusers - Pytorch를 이용한 이미지/오디오 생성 모델]]></title>
