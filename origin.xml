@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-30T04:51:02.954Z</updated>
+    <updated>2022-08-30T06:12:36.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
-        <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
-        <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
-        <updated>2022-08-30T02:08:47.200Z</updated>
-        <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
         <id>https://news.ycombinator.com/item?id=32467957</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
-        <id>https://jsonvisio.com/</id>
-        <link href="https://jsonvisio.com/"/>
-        <updated>2022-08-30T02:08:47.203Z</updated>
-        <content type="html"><![CDATA[(jsonvisio.com)]]></content>
+        <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
+        <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
+        <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
+        <updated>2022-08-30T02:08:47.200Z</updated>
+        <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소프트웨어 엔지니어에 대한 OnCall 보상]]></title>
@@ -34,11 +27,11 @@
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soketi - 간단하고 빠른 오픈소스 웹소켓 서버]]></title>
-        <id>https://soketi.app/</id>
-        <link href="https://soketi.app/"/>
-        <updated>2022-08-30T02:08:47.208Z</updated>
-        <content type="html"><![CDATA[(soketi.app)]]></content>
+        <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
+        <id>https://jsonvisio.com/</id>
+        <link href="https://jsonvisio.com/"/>
+        <updated>2022-08-30T02:08:47.203Z</updated>
+        <content type="html"><![CDATA[(jsonvisio.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[fRPC - 빠르고 유연한 RPC 프레임워크]]></title>
@@ -46,6 +39,13 @@
         <link href="https://frpc.io/"/>
         <updated>2022-08-30T02:08:47.208Z</updated>
         <content type="html"><![CDATA[(frpc.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soketi - 간단하고 빠른 오픈소스 웹소켓 서버]]></title>
+        <id>https://soketi.app/</id>
+        <link href="https://soketi.app/"/>
+        <updated>2022-08-30T02:08:47.208Z</updated>
+        <content type="html"><![CDATA[(soketi.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[존 카맥이 산만함을 피하는 방법]]></title>
