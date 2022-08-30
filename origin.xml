@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-30T20:22:45.379Z</updated>
+    <updated>2022-08-30T21:18:38.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(theregister.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글, 안드로이드용 Cross Device SDK 공개]]></title>
-        <id>https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html</id>
-        <link href="https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html"/>
-        <updated>2022-08-30T02:08:47.215Z</updated>
-        <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gradientify - 웹기반 그래디언트 제작 도구]]></title>
         <id>https://gradientify.com/</id>
         <link href="https://gradientify.com/"/>
         <updated>2022-08-28T02:06:09.030Z</updated>
         <content type="html"><![CDATA[(gradientify.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 안드로이드용 Cross Device SDK 공개]]></title>
+        <id>https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html</id>
+        <link href="https://android-developers.googleblog.com/2022/07/announcing-cross-device-SDK-Developer-Preview-for-Android.html"/>
+        <updated>2022-08-30T02:08:47.215Z</updated>
+        <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lexica - 5백만장 이상의 Stable Diffusion 생성 이미지 검색]]></title>
