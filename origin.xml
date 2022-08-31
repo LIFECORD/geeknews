@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-31T20:21:03.769Z</updated>
+    <updated>2022-08-31T21:17:36.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
-        <id>https://acorn.io/</id>
-        <link href="https://acorn.io/"/>
-        <updated>2022-08-31T02:17:58.011Z</updated>
-        <content type="html"><![CDATA[(acorn.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[fRPC - 빠르고 유연한 RPC 프레임워크]]></title>
         <id>https://frpc.io/</id>
         <link href="https://frpc.io/"/>
         <updated>2022-08-30T02:08:47.208Z</updated>
         <content type="html"><![CDATA[(frpc.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acorn - 쿠버네티스용 어플리케이션 배포 프레임워크 오픈소스]]></title>
+        <id>https://acorn.io/</id>
+        <link href="https://acorn.io/"/>
+        <updated>2022-08-31T02:17:58.011Z</updated>
+        <content type="html"><![CDATA[(acorn.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Soketi - 간단하고 빠른 오픈소스 웹소켓 서버]]></title>
