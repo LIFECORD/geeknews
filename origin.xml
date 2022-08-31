@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-31T08:23:56.949Z</updated>
+    <updated>2022-08-31T09:19:58.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(android-developers.googleblog.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LastPass 소스코드 유출]]></title>
-        <id>https://www.theregister.com/2022/08/25/lastpass_security/</id>
-        <link href="https://www.theregister.com/2022/08/25/lastpass_security/"/>
-        <updated>2022-08-31T06:25:35.857Z</updated>
-        <content type="html"><![CDATA[(theregister.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vercel 의 Edge Computing 에서도 WebAssembly 실행가능]]></title>
         <id>https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge</id>
         <link href="https://vercel.com/blog/introducing-support-for-webassembly-at-the-edge"/>
         <updated>2022-08-29T02:05:40.754Z</updated>
         <content type="html"><![CDATA[(vercel.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LastPass 소스코드 유출]]></title>
+        <id>https://www.theregister.com/2022/08/25/lastpass_security/</id>
+        <link href="https://www.theregister.com/2022/08/25/lastpass_security/"/>
+        <updated>2022-08-31T06:25:35.857Z</updated>
+        <content type="html"><![CDATA[(theregister.com)]]></content>
     </entry>
 </feed>
