@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-08-31T14:19:30.308Z</updated>
+    <updated>2022-08-31T15:20:24.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[(twitter.com/ID_AA_Carmack)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Template Engine을 활용한 Programmable Webhook System 개발]]></title>
-        <id>https://engineering.ab180.co/stories/programmable-realtime-webhook-system</id>
-        <link href="https://engineering.ab180.co/stories/programmable-realtime-webhook-system"/>
-        <updated>2022-08-31T07:36:56.895Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년에 가장 중요한 14가지 기술 동향]]></title>
         <id>https://maily.so/productlab/posts/abcf769c</id>
         <link href="https://maily.so/productlab/posts/abcf769c"/>
         <updated>2022-08-30T08:25:23.193Z</updated>
         <content type="html"><![CDATA[(maily.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Template Engine을 활용한 Programmable Webhook System 개발]]></title>
+        <id>https://engineering.ab180.co/stories/programmable-realtime-webhook-system</id>
+        <link href="https://engineering.ab180.co/stories/programmable-realtime-webhook-system"/>
+        <updated>2022-08-31T07:36:56.895Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Devbox - 격리 쉘/컨테이너를 쉽게 만들어주는 CLI도구]]></title>
