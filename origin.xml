@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-01T14:18:35.399Z</updated>
+    <updated>2022-09-01T15:23:34.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[(andys.page)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
+        <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
+        <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
+        <updated>2022-08-30T02:08:47.200Z</updated>
+        <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stable Diffusion 출시 1주일 동안 벌어진 일들]]></title>
         <id>https://multimodal.art/news/1-week-of-stable-diffusion</id>
         <link href="https://multimodal.art/news/1-week-of-stable-diffusion"/>
@@ -109,13 +116,6 @@
         <link href="https://github.com/divkit/divkit"/>
         <updated>2022-08-31T02:17:58.009Z</updated>
         <content type="html"><![CDATA[(github.com/divkit)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
-        <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
-        <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
-        <updated>2022-08-30T02:08:47.200Z</updated>
-        <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Big [Censored] Theory]]></title>
