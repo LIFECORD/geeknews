@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-01T06:31:08.425Z</updated>
+    <updated>2022-09-01T07:21:06.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[만화로 보는 gpl-violations.org  이야기]]></title>
+        <id>https://joone.net/2022/08/31/46-gpl-violations-org/</id>
+        <link href="https://joone.net/2022/08/31/46-gpl-violations-org/"/>
+        <updated>2022-09-01T07:20:27.226Z</updated>
+        <content type="html"><![CDATA[(joone.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Midjourney AI가 생성한 그림으로 미술대회 우승]]></title>
         <id>https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/</id>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[(open.nytimes.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL·E : Outpainting 기능 지원 시작]]></title>
-        <id>https://openai.com/blog/dall-e-introducing-outpainting/</id>
-        <link href="https://openai.com/blog/dall-e-introducing-outpainting/"/>
-        <updated>2022-09-01T04:08:19.468Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI Grant - AI스타트업에 25만불을 지원해주는 프로그램]]></title>
         <id>https://aigrant.org/</id>
         <link href="https://aigrant.org/"/>
         <updated>2022-09-01T01:52:19.651Z</updated>
         <content type="html"><![CDATA[(aigrant.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E : Outpainting 기능 지원 시작]]></title>
+        <id>https://openai.com/blog/dall-e-introducing-outpainting/</id>
+        <link href="https://openai.com/blog/dall-e-introducing-outpainting/"/>
+        <updated>2022-09-01T04:08:19.468Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넉넉한 프리티어를 가진 Heroku 대체제들]]></title>
@@ -118,13 +125,6 @@
         <content type="html"><![CDATA[(acorn.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미디엄에 대한 흥미로운 사실들.]]></title>
-        <id>https://maily.so/productlab/posts/ac98cead</id>
-        <link href="https://maily.so/productlab/posts/ac98cead"/>
-        <updated>2022-09-01T04:08:19.473Z</updated>
-        <content type="html"><![CDATA[(maily.so)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JSON Visio - JSON 데이터를 그래프로 시각화]]></title>
         <id>https://jsonvisio.com/</id>
         <link href="https://jsonvisio.com/"/>
@@ -132,17 +132,17 @@
         <content type="html"><![CDATA[(jsonvisio.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[미디엄에 대한 흥미로운 사실들.]]></title>
+        <id>https://maily.so/productlab/posts/ac98cead</id>
+        <link href="https://maily.so/productlab/posts/ac98cead"/>
+        <updated>2022-09-01T04:08:19.473Z</updated>
+        <content type="html"><![CDATA[(maily.so)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[fRPC - 빠르고 유연한 RPC 프레임워크]]></title>
         <id>https://frpc.io/</id>
         <link href="https://frpc.io/"/>
         <updated>2022-08-30T02:08:47.208Z</updated>
         <content type="html"><![CDATA[(frpc.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소프트웨어 엔지니어에 대한 OnCall 보상]]></title>
-        <id>https://blog.pragmaticengineer.com/oncall-compensation/</id>
-        <link href="https://blog.pragmaticengineer.com/oncall-compensation/"/>
-        <updated>2022-09-01T06:30:34.627Z</updated>
-        <content type="html"><![CDATA[(blog.pragmaticengineer.com)]]></content>
     </entry>
 </feed>
