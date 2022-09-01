@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-01T22:19:54.427Z</updated>
+    <updated>2022-09-01T23:21:03.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Midjourney AI가 생성한 그림으로 미술대회 우승]]></title>
-        <id>https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/</id>
-        <link href="https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/"/>
-        <updated>2022-09-01T01:52:19.640Z</updated>
-        <content type="html"><![CDATA[(arstechnica.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[High-order Virtual Machine (HVM) - GC가 없는 순수 함수형 런타임]]></title>
         <id>https://github.com/Kindelia/HVM</id>
         <link href="https://github.com/Kindelia/HVM"/>
@@ -27,11 +20,11 @@
         <content type="html"><![CDATA[(github.com/Kindelia)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PromptBase - 프롬프트 마켓플레이스]]></title>
-        <id>https://promptbase.com/marketplace</id>
-        <link href="https://promptbase.com/marketplace"/>
-        <updated>2022-09-01T01:52:19.638Z</updated>
-        <content type="html"><![CDATA[(promptbase.com)]]></content>
+        <title type="html"><![CDATA[Midjourney AI가 생성한 그림으로 미술대회 우승]]></title>
+        <id>https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/</id>
+        <link href="https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/"/>
+        <updated>2022-09-01T01:52:19.640Z</updated>
+        <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넉넉한 프리티어를 가진 Heroku 대체제들]]></title>
@@ -39,6 +32,13 @@
         <link href="https://news.ycombinator.com/item?id=32599398"/>
         <updated>2022-08-31T02:17:57.998Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PromptBase - 프롬프트 마켓플레이스]]></title>
+        <id>https://promptbase.com/marketplace</id>
+        <link href="https://promptbase.com/marketplace"/>
+        <updated>2022-09-01T01:52:19.638Z</updated>
+        <content type="html"><![CDATA[(promptbase.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕타임스가 머신러닝으로 Paywall을 똑똑하게 만든 방법]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[COYO-700M - 카카오브레인이 공개한 7억 4천만개 이미지-텍스트 쌍 데이터셋]]></title>
-        <id>https://github.com/kakaobrain/coyo-dataset</id>
-        <link href="https://github.com/kakaobrain/coyo-dataset"/>
-        <updated>2022-09-01T01:52:19.641Z</updated>
-        <content type="html"><![CDATA[(github.com/kakaobrain)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4.2 Gigabytes, or: How to Draw Anything]]></title>
         <id>https://andys.page/posts/how-to-draw/</id>
         <link href="https://andys.page/posts/how-to-draw/"/>
         <updated>2022-08-31T02:17:58.017Z</updated>
         <content type="html"><![CDATA[(andys.page)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COYO-700M - 카카오브레인이 공개한 7억 4천만개 이미지-텍스트 쌍 데이터셋]]></title>
+        <id>https://github.com/kakaobrain/coyo-dataset</id>
+        <link href="https://github.com/kakaobrain/coyo-dataset"/>
+        <updated>2022-09-01T01:52:19.641Z</updated>
+        <content type="html"><![CDATA[(github.com/kakaobrain)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(youtube.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DALL·E : Outpainting 기능 지원 시작]]></title>
-        <id>https://openai.com/blog/dall-e-introducing-outpainting/</id>
-        <link href="https://openai.com/blog/dall-e-introducing-outpainting/"/>
-        <updated>2022-09-01T04:08:19.468Z</updated>
-        <content type="html"><![CDATA[(openai.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DivKit - 오픈소스 Server-Driven UI 프레임워크]]></title>
         <id>https://github.com/divkit/divkit</id>
         <link href="https://github.com/divkit/divkit"/>
         <updated>2022-08-31T02:17:58.009Z</updated>
         <content type="html"><![CDATA[(github.com/divkit)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL·E : Outpainting 기능 지원 시작]]></title>
+        <id>https://openai.com/blog/dall-e-introducing-outpainting/</id>
+        <link href="https://openai.com/blog/dall-e-introducing-outpainting/"/>
+        <updated>2022-09-01T04:08:19.468Z</updated>
+        <content type="html"><![CDATA[(openai.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stable Diffusion 출시 1주일 동안 벌어진 일들]]></title>
