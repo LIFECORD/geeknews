@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-02T10:21:42.414Z</updated>
+    <updated>2022-09-02T11:17:56.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(film-net.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Trending이 9월 30일부터 사라집니다]]></title>
-        <id>https://github.com/community/community/discussions/31643</id>
-        <link href="https://github.com/community/community/discussions/31643"/>
-        <updated>2022-09-02T08:24:26.661Z</updated>
-        <content type="html"><![CDATA[(github.com/community)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Velox - Meta의 오픈소스 Unified Execution Engine]]></title>
         <id>https://engineering.fb.com/2022/08/31/open-source/velox/</id>
         <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
         <updated>2022-09-02T01:59:06.489Z</updated>
         <content type="html"><![CDATA[(engineering.fb.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Trending이 9월 30일부터 사라집니다]]></title>
+        <id>https://github.com/community/community/discussions/31643</id>
+        <link href="https://github.com/community/community/discussions/31643"/>
+        <updated>2022-09-02T08:24:26.661Z</updated>
+        <content type="html"><![CDATA[(github.com/community)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리나라 비밀결사 조직에서 만들었다는 암호체계]]></title>
