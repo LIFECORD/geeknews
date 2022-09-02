@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-02T21:16:32.687Z</updated>
+    <updated>2022-09-02T22:20:01.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(github.com/Kindelia)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Velox - Meta의 오픈소스 Unified Execution Engine]]></title>
-        <id>https://engineering.fb.com/2022/08/31/open-source/velox/</id>
-        <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
-        <updated>2022-09-02T01:59:06.489Z</updated>
-        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[만화로 보는 gpl-violations.org  이야기]]></title>
         <id>https://joone.net/2022/08/31/46-gpl-violations-org/</id>
         <link href="https://joone.net/2022/08/31/46-gpl-violations-org/"/>
         <updated>2022-09-01T07:20:27.226Z</updated>
         <content type="html"><![CDATA[(joone.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Velox - Meta의 오픈소스 Unified Execution Engine]]></title>
+        <id>https://engineering.fb.com/2022/08/31/open-source/velox/</id>
+        <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
+        <updated>2022-09-02T01:59:06.489Z</updated>
+        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넉넉한 프리티어를 가진 Heroku 대체제들]]></title>
@@ -60,13 +60,6 @@
         <link href="https://dreambooth.github.io/"/>
         <updated>2022-09-02T01:59:06.504Z</updated>
         <content type="html"><![CDATA[(dreambooth.github.io)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Trending이 9월 30일부터 사라집니다]]></title>
-        <id>https://github.com/community/community/discussions/31643</id>
-        <link href="https://github.com/community/community/discussions/31643"/>
-        <updated>2022-09-02T08:24:26.661Z</updated>
-        <content type="html"><![CDATA[(github.com/community)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
@@ -90,6 +83,13 @@
         <content type="html"><![CDATA[(promptbase.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitHub Trending이 9월 30일부터 사라집니다]]></title>
+        <id>https://github.com/community/community/discussions/31643</id>
+        <link href="https://github.com/community/community/discussions/31643"/>
+        <updated>2022-09-02T08:24:26.661Z</updated>
+        <content type="html"><![CDATA[(github.com/community)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
         <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
         <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리나라 비밀결사 조직에서 만들었다는 암호체계]]></title>
-        <id>https://www.hani.co.kr/arti/society/society_general/1057247.html</id>
-        <link href="https://www.hani.co.kr/arti/society/society_general/1057247.html"/>
-        <updated>2022-09-02T07:25:03.390Z</updated>
-        <content type="html"><![CDATA[(hani.co.kr)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
         <id>https://github.com/nayafia/lemonade-stand</id>
         <link href="https://github.com/nayafia/lemonade-stand"/>
         <updated>2022-08-31T02:17:58.012Z</updated>
         <content type="html"><![CDATA[(github.com/nayafia)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라 비밀결사 조직에서 만들었다는 암호체계]]></title>
+        <id>https://www.hani.co.kr/arti/society/society_general/1057247.html</id>
+        <link href="https://www.hani.co.kr/arti/society/society_general/1057247.html"/>
+        <updated>2022-09-02T07:25:03.390Z</updated>
+        <content type="html"><![CDATA[(hani.co.kr)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4.2 Gigabytes, or: How to Draw Anything]]></title>
