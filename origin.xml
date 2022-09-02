@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-02T22:20:01.060Z</updated>
+    <updated>2022-09-02T23:19:53.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Velox - Meta의 오픈소스 Unified Execution Engine]]></title>
-        <id>https://engineering.fb.com/2022/08/31/open-source/velox/</id>
-        <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
-        <updated>2022-09-02T01:59:06.489Z</updated>
-        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[넉넉한 프리티어를 가진 Heroku 대체제들]]></title>
         <id>https://news.ycombinator.com/item?id=32599398</id>
         <link href="https://news.ycombinator.com/item?id=32599398"/>
@@ -62,11 +55,11 @@
         <content type="html"><![CDATA[(dreambooth.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
-        <id>https://news.ycombinator.com/item?id=32467957</id>
-        <link href="https://news.ycombinator.com/item?id=32467957"/>
-        <updated>2022-08-30T02:08:47.208Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+        <title type="html"><![CDATA[Velox - Meta의 오픈소스 Unified Execution Engine]]></title>
+        <id>https://engineering.fb.com/2022/08/31/open-source/velox/</id>
+        <link href="https://engineering.fb.com/2022/08/31/open-source/velox/"/>
+        <updated>2022-09-02T01:59:06.489Z</updated>
+        <content type="html"><![CDATA[(engineering.fb.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Midjourney AI가 생성한 그림으로 미술대회 우승]]></title>
@@ -76,6 +69,13 @@
         <content type="html"><![CDATA[(arstechnica.com)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[당신만의 스크립트를 보여주세요]]></title>
+        <id>https://news.ycombinator.com/item?id=32467957</id>
+        <link href="https://news.ycombinator.com/item?id=32467957"/>
+        <updated>2022-08-30T02:08:47.208Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PromptBase - 프롬프트 마켓플레이스]]></title>
         <id>https://promptbase.com/marketplace</id>
         <link href="https://promptbase.com/marketplace"/>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(promptbase.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub Trending이 9월 30일부터 사라집니다]]></title>
-        <id>https://github.com/community/community/discussions/31643</id>
-        <link href="https://github.com/community/community/discussions/31643"/>
-        <updated>2022-09-02T08:24:26.661Z</updated>
-        <content type="html"><![CDATA[(github.com/community)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델임]]></title>
         <id>https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important</id>
         <link href="https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important"/>
         <updated>2022-08-30T02:08:47.200Z</updated>
         <content type="html"><![CDATA[(thealgorithmicbridge.substack.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Trending이 9월 30일부터 사라집니다]]></title>
+        <id>https://github.com/community/community/discussions/31643</id>
+        <link href="https://github.com/community/community/discussions/31643"/>
+        <updated>2022-09-02T08:24:26.661Z</updated>
+        <content type="html"><![CDATA[(github.com/community)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오픈소스가 재정적 후원받는 방법과 장점/단점/사례 정리]]></title>
