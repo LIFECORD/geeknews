@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-09-02T17:23:40.745Z</updated>
+    <updated>2022-09-02T18:24:05.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -72,16 +72,16 @@
         <updated>2022-07-22T01:51:12.249Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: GeekNews 외에 어디서 개발 관련 소식을 얻으시나요?]]></title>
-        <id>https://news.hada.io/topic?id=7019</id>
-        <link href="https://news.hada.io/topic?id=7019"/>
-        <updated>2022-07-21T15:21:37.181Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask GN: 이맥스 20년 쓰다가 Vimmer로 전향했습니다.]]></title>
         <id>https://news.hada.io/topic?id=6758</id>
         <link href="https://news.hada.io/topic?id=6758"/>
         <updated>2022-06-15T03:40:34.429Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: GeekNews 외에 어디서 개발 관련 소식을 얻으시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7019</id>
+        <link href="https://news.hada.io/topic?id=7019"/>
+        <updated>2022-07-21T15:21:37.181Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
