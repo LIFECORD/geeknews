@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-05T18:24:32.069Z</updated>
+    <updated>2022-09-05T19:16:08.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(github.com/nayafia)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FILM: Frame Interpolation for Large Motion]]></title>
-        <id>https://film-net.github.io/</id>
-        <link href="https://film-net.github.io/"/>
-        <updated>2022-09-05T10:20:42.003Z</updated>
-        <content type="html"><![CDATA[(film-net.github.io)]]></content>
+        <title type="html"><![CDATA[만화로 보는 gpl-violations.org  이야기]]></title>
+        <id>https://joone.net/2022/08/31/46-gpl-violations-org/</id>
+        <link href="https://joone.net/2022/08/31/46-gpl-violations-org/"/>
+        <updated>2022-09-05T19:15:26.615Z</updated>
+        <content type="html"><![CDATA[(joone.net)]]></content>
     </entry>
 </feed>
