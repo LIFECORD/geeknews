@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-05T16:26:56.049Z</updated>
+    <updated>2022-09-05T17:24:00.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(vldb.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare, Kiwifarms 차단]]></title>
-        <id>https://blog.cloudflare.com/kiwifarms-blocked/</id>
-        <link href="https://blog.cloudflare.com/kiwifarms-blocked/"/>
-        <updated>2022-09-05T02:06:46.239Z</updated>
-        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[pico.js - 200줄 JS로 만든 얼굴 감지 라이브러리]]></title>
         <id>https://nenadmarkus.com/p/picojs-intro/</id>
         <link href="https://nenadmarkus.com/p/picojs-intro/"/>
         <updated>2022-09-04T01:56:52.823Z</updated>
         <content type="html"><![CDATA[(nenadmarkus.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare, Kiwifarms 차단]]></title>
+        <id>https://blog.cloudflare.com/kiwifarms-blocked/</id>
+        <link href="https://blog.cloudflare.com/kiwifarms-blocked/"/>
+        <updated>2022-09-05T02:06:46.239Z</updated>
+        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Upscayl - 오픈소스 AI 이미지 업스케일러]]></title>
