@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-06T22:20:32.237Z</updated>
+    <updated>2022-09-06T23:21:30.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -104,13 +104,6 @@
         <content type="html"><![CDATA[(optica.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare, Kiwifarms 차단]]></title>
-        <id>https://blog.cloudflare.com/kiwifarms-blocked/</id>
-        <link href="https://blog.cloudflare.com/kiwifarms-blocked/"/>
-        <updated>2022-09-05T02:06:46.239Z</updated>
-        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[90년대 Cursor 효과들]]></title>
         <id>https://tholman.com/cursor-effects/</id>
         <link href="https://tholman.com/cursor-effects/"/>
@@ -118,11 +111,11 @@
         <content type="html"><![CDATA[(tholman.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내적 동기부여를 통한 번아웃 극복하기]]></title>
-        <id>https://growingryan.tistory.com/7</id>
-        <link href="https://growingryan.tistory.com/7"/>
-        <updated>2022-09-05T04:47:16.643Z</updated>
-        <content type="html"><![CDATA[(growingryan.tistory.com)]]></content>
+        <title type="html"><![CDATA[Cloudflare, Kiwifarms 차단]]></title>
+        <id>https://blog.cloudflare.com/kiwifarms-blocked/</id>
+        <link href="https://blog.cloudflare.com/kiwifarms-blocked/"/>
+        <updated>2022-09-05T02:06:46.239Z</updated>
+        <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Same Energy : 비쥬얼 이미지 검색 엔진]]></title>
@@ -132,6 +125,13 @@
         <content type="html"><![CDATA[(same.energy)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[내적 동기부여를 통한 번아웃 극복하기]]></title>
+        <id>https://growingryan.tistory.com/7</id>
+        <link href="https://growingryan.tistory.com/7"/>
+        <updated>2022-09-05T04:47:16.643Z</updated>
+        <content type="html"><![CDATA[(growingryan.tistory.com)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stable Diffusion Dream Script]]></title>
         <id>https://github.com/lstein/stable-diffusion</id>
         <link href="https://github.com/lstein/stable-diffusion"/>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[(github.com/lstein)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[메이플스토리와 인플레이션]]></title>
-        <id>https://twitter.com/subinium/status/1566806512193785856</id>
-        <link href="https://twitter.com/subinium/status/1566806512193785856"/>
-        <updated>2022-09-06T06:15:54.724Z</updated>
-        <content type="html"><![CDATA[(twitter.com/subinium)]]></content>
+        <title type="html"><![CDATA[넉넉한 프리티어를 가진 Heroku 대체제들]]></title>
+        <id>https://news.ycombinator.com/item?id=32599398</id>
+        <link href="https://news.ycombinator.com/item?id=32599398"/>
+        <updated>2022-09-06T23:20:56.380Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
 </feed>
