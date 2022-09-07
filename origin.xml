@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-07T09:20:09.580Z</updated>
+    <updated>2022-09-07T10:23:59.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Unreal Rust 공개]]></title>
-        <id>https://maikklein.github.io/unreal-rust-1/</id>
-        <link href="https://maikklein.github.io/unreal-rust-1/"/>
-        <updated>2022-09-07T02:05:17.449Z</updated>
-        <content type="html"><![CDATA[(maikklein.github.io)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뉴스레터는 진짜 동작하나요? 왜 웹사이트들이 엄청 푸시하나요?]]></title>
         <id>https://news.ycombinator.com/item?id=32304011</id>
         <link href="https://news.ycombinator.com/item?id=32304011"/>
         <updated>2022-09-07T02:05:17.449Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreal Rust 공개]]></title>
+        <id>https://maikklein.github.io/unreal-rust-1/</id>
+        <link href="https://maikklein.github.io/unreal-rust-1/"/>
+        <updated>2022-09-07T02:05:17.449Z</updated>
+        <content type="html"><![CDATA[(maikklein.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Richard Stallman, GNU C Language Intro 및 Reference Manual 발표]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(github.com/kdeldycke)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[예전 어드벤처 게임에 Stable Diffusion img2img 적용해본 결과]]></title>
-        <id>https://sciprogramming.com/community/index.php?topic=2081.0</id>
-        <link href="https://sciprogramming.com/community/index.php?topic=2081.0"/>
-        <updated>2022-09-07T02:05:17.461Z</updated>
-        <content type="html"><![CDATA[(sciprogramming.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SEO가 결과를 보여주는데 얼마나 걸릴까?]]></title>
         <id>https://ahrefs.com/blog/how-long-does-seo-take/</id>
         <link href="https://ahrefs.com/blog/how-long-does-seo-take/"/>
         <updated>2022-09-06T02:10:39.079Z</updated>
         <content type="html"><![CDATA[(ahrefs.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예전 어드벤처 게임에 Stable Diffusion img2img 적용해본 결과]]></title>
+        <id>https://sciprogramming.com/community/index.php?topic=2081.0</id>
+        <link href="https://sciprogramming.com/community/index.php?topic=2081.0"/>
+        <updated>2022-09-07T02:05:17.461Z</updated>
+        <content type="html"><![CDATA[(sciprogramming.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NASA가 앞으로 우주선 고성능 컴퓨터에 RISC-V CPU를 사용하기로 결정]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(bitwarden.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프로그래머가 이메일에 대해 믿는 거짓들]]></title>
-        <id>https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email</id>
-        <link href="https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email"/>
-        <updated>2022-09-05T02:06:46.255Z</updated>
-        <content type="html"><![CDATA[(beesbuzz.biz)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[왜 A4일까? - 종이 크기의 수학적 아름다움]]></title>
         <id>https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/</id>
         <link href="https://scilogs.spektrum.de/hlf/why-a4-the-mathematical-beauty-of-paper-size/"/>
         <updated>2022-09-06T02:10:39.079Z</updated>
         <content type="html"><![CDATA[(scilogs.spektrum.de)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로그래머가 이메일에 대해 믿는 거짓들]]></title>
+        <id>https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email</id>
+        <link href="https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email"/>
+        <updated>2022-09-05T02:06:46.255Z</updated>
+        <content type="html"><![CDATA[(beesbuzz.biz)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BRouter - OpenStreetMap 기반 최단 경로 찾기]]></title>
