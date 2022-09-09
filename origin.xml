@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-09T16:28:40.542Z</updated>
+    <updated>2022-09-09T17:26:45.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(github.com/jeremyckahn)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FUSE-T - macOS용 Userspace FUSE]]></title>
-        <id>https://www.fuse-t.org/</id>
-        <link href="https://www.fuse-t.org/"/>
-        <updated>2022-09-09T02:07:36.045Z</updated>
-        <content type="html"><![CDATA[(fuse-t.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Github Copilot이 개발자의 생산성과 행복에 미치는 영향]]></title>
         <id>https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/</id>
         <link href="https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/"/>
         <updated>2022-09-08T02:01:02.970Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUSE-T - macOS용 Userspace FUSE]]></title>
+        <id>https://www.fuse-t.org/</id>
+        <link href="https://www.fuse-t.org/"/>
+        <updated>2022-09-09T02:07:36.045Z</updated>
+        <content type="html"><![CDATA[(fuse-t.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웹사이트 크기가 14kB 미만이어야 하는 이유]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Akka, Apache 2.0에서 BSL 로 라이센스 변경]]></title>
-        <id>https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka</id>
-        <link href="https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka"/>
-        <updated>2022-09-08T02:01:02.971Z</updated>
-        <content type="html"><![CDATA[(lightbend.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Richard Stallman, GNU C Language Intro 및 Reference Manual 발표]]></title>
         <id>https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html</id>
         <link href="https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html"/>
         <updated>2022-09-07T02:05:17.449Z</updated>
         <content type="html"><![CDATA[(lists.gnu.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akka, Apache 2.0에서 BSL 로 라이센스 변경]]></title>
+        <id>https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka</id>
+        <link href="https://www.lightbend.com/blog/why-we-are-changing-the-license-for-akka"/>
+        <updated>2022-09-08T02:01:02.971Z</updated>
+        <content type="html"><![CDATA[(lightbend.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SEO가 결과를 보여주는데 얼마나 걸릴까?]]></title>
