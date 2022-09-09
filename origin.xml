@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-09T13:50:02.683Z</updated>
+    <updated>2022-09-09T14:24:05.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[(github.com/MyOwnClone)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뉴스레터는 진짜 동작하나요? 왜 웹사이트들이 엄청 푸시하나요?]]></title>
-        <id>https://news.ycombinator.com/item?id=32304011</id>
-        <link href="https://news.ycombinator.com/item?id=32304011"/>
-        <updated>2022-09-07T02:05:17.449Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ruff - 10-100x 빠른 Python 린터]]></title>
         <id>https://github.com/charliermarsh/ruff</id>
         <link href="https://github.com/charliermarsh/ruff"/>
         <updated>2022-09-08T06:01:57.269Z</updated>
         <content type="html"><![CDATA[(github.com/charliermarsh)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴스레터는 진짜 동작하나요? 왜 웹사이트들이 엄청 푸시하나요?]]></title>
+        <id>https://news.ycombinator.com/item?id=32304011</id>
+        <link href="https://news.ycombinator.com/item?id=32304011"/>
+        <updated>2022-09-07T02:05:17.449Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lusift - 제품 투어 작성용 JS라이브러리]]></title>
