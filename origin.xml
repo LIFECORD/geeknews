@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-13T08:26:44.798Z</updated>
+    <updated>2022-09-13T09:22:16.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(github.com/divamgupta)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ladybird - 새로운 크로스플랫폼 브라우저 프로젝트]]></title>
-        <id>https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/</id>
-        <link href="https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"/>
-        <updated>2022-09-13T02:06:11.984Z</updated>
-        <content type="html"><![CDATA[(awesomekling.github.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10년간 가장 저렴하게 이용할수 있는 도메인은?]]></title>
         <id>https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/</id>
         <link href="https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/"/>
         <updated>2022-09-13T02:06:11.984Z</updated>
         <content type="html"><![CDATA[(shkspr.mobi)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ladybird - 새로운 크로스플랫폼 브라우저 프로젝트]]></title>
+        <id>https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/</id>
+        <link href="https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"/>
+        <updated>2022-09-13T02:06:11.984Z</updated>
+        <content type="html"><![CDATA[(awesomekling.github.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로그래밍 무료 학습 자료 모음]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(github.com/leon-ai)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글은 검색엔진 1등을 유지하기 위해 엄청난 액수를 지불한다고 미국 법무부가 주장]]></title>
-        <id>https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says</id>
-        <link href="https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says"/>
-        <updated>2022-09-12T02:10:09.997Z</updated>
-        <content type="html"><![CDATA[(bloomberg.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Draw Anything - 간단한 Stable Diffusion Playground]]></title>
         <id>https://www.drawanything.app/</id>
         <link href="https://www.drawanything.app/"/>
         <updated>2022-09-11T02:02:02.309Z</updated>
         <content type="html"><![CDATA[(drawanything.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글은 검색엔진 1등을 유지하기 위해 엄청난 액수를 지불한다고 미국 법무부가 주장]]></title>
+        <id>https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says</id>
+        <link href="https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says"/>
+        <updated>2022-09-12T02:10:09.997Z</updated>
+        <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chitchatter - 오픈소스, 서버리스, 탈중앙화 P2P 채팅앱]]></title>
