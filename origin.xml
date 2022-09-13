@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-13T02:06:45.707Z</updated>
+    <updated>2022-09-13T04:49:06.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[10년간 가장 저렴하게 이용할수 있는 도메인은?]]></title>
-        <id>https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/</id>
-        <link href="https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/"/>
-        <updated>2022-09-13T02:06:11.984Z</updated>
-        <content type="html"><![CDATA[(shkspr.mobi)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[DiffusionBee - M1/M2 맥을 위한 Stable Diffusion GUI 앱]]></title>
         <id>https://github.com/divamgupta/diffusionbee-stable-diffusion-ui</id>
         <link href="https://github.com/divamgupta/diffusionbee-stable-diffusion-ui"/>
         <updated>2022-09-13T02:06:11.984Z</updated>
         <content type="html"><![CDATA[(github.com/divamgupta)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10년간 가장 저렴하게 이용할수 있는 도메인은?]]></title>
+        <id>https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/</id>
+        <link href="https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/"/>
+        <updated>2022-09-13T02:06:11.984Z</updated>
+        <content type="html"><![CDATA[(shkspr.mobi)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ladybird - 새로운 크로스플랫폼 브라우저 프로젝트]]></title>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[(github.com/EbookFoundation)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온라인 아트 커뮤니티들이 AI가 생성한 이미지를 금지하기 시작]]></title>
-        <id>https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/</id>
-        <link href="https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/"/>
-        <updated>2022-09-13T02:06:11.985Z</updated>
-        <content type="html"><![CDATA[(waxy.org)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[미국 의회 API 베타 공개]]></title>
         <id>https://api.congress.gov/</id>
         <link href="https://api.congress.gov/"/>
@@ -55,11 +48,11 @@
         <content type="html"><![CDATA[(api.congress.gov)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[90년대의 기발한 마우스 커서 효과들]]></title>
-        <id>https://maily.so/productlab/posts/fb5a7abe</id>
-        <link href="https://maily.so/productlab/posts/fb5a7abe"/>
-        <updated>2022-09-13T02:06:11.989Z</updated>
-        <content type="html"><![CDATA[(maily.so)]]></content>
+        <title type="html"><![CDATA[온라인 아트 커뮤니티들이 AI가 생성한 이미지를 금지하기 시작]]></title>
+        <id>https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/</id>
+        <link href="https://waxy.org/2022/09/online-art-communities-begin-banning-ai-generated-images/"/>
+        <updated>2022-09-13T02:06:11.985Z</updated>
+        <content type="html"><![CDATA[(waxy.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ContainerSSH - 컨테이너를 생성해서 접속시켜주는 SSH Server]]></title>
@@ -83,18 +76,18 @@
         <content type="html"><![CDATA[(github.com/sd-webui)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구글은 검색엔진 1등을 유지하기 위해 엄청난 액수를 지불한다고 미국 법무부가 주장]]></title>
-        <id>https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says</id>
-        <link href="https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says"/>
-        <updated>2022-09-12T02:10:09.997Z</updated>
-        <content type="html"><![CDATA[(bloomberg.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[YouTube, 학습을 위한 새로운 기능들 공개]]></title>
         <id>https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/</id>
         <link href="https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/"/>
         <updated>2022-09-11T02:02:02.309Z</updated>
         <content type="html"><![CDATA[(blog.youtube)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글은 검색엔진 1등을 유지하기 위해 엄청난 액수를 지불한다고 미국 법무부가 주장]]></title>
+        <id>https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says</id>
+        <link href="https://www.bloomberg.com/news/articles/2022-09-08/google-pays-enormous-sums-to-maintain-its-dominance-doj-says"/>
+        <updated>2022-09-12T02:10:09.997Z</updated>
+        <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Patreon, 보안팀 전체를 정리해고]]></title>
@@ -104,18 +97,18 @@
         <content type="html"><![CDATA[(twitter.com/wbm312)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Draw Anything - 간단한 Stable Diffusion Playground]]></title>
-        <id>https://www.drawanything.app/</id>
-        <link href="https://www.drawanything.app/"/>
-        <updated>2022-09-11T02:02:02.309Z</updated>
-        <content type="html"><![CDATA[(drawanything.app)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Leon - 음성합성/인식을 이용한 AI 개인 비서 오픈소스]]></title>
         <id>https://github.com/leon-ai/leon</id>
         <link href="https://github.com/leon-ai/leon"/>
         <updated>2022-09-10T02:04:20.012Z</updated>
         <content type="html"><![CDATA[(github.com/leon-ai)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Draw Anything - 간단한 Stable Diffusion Playground]]></title>
+        <id>https://www.drawanything.app/</id>
+        <link href="https://www.drawanything.app/"/>
+        <updated>2022-09-11T02:02:02.309Z</updated>
+        <content type="html"><![CDATA[(drawanything.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chitchatter - 오픈소스, 서버리스, 탈중앙화 P2P 채팅앱]]></title>
@@ -144,5 +137,12 @@
         <link href="https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/"/>
         <updated>2022-09-08T02:01:02.970Z</updated>
         <content type="html"><![CDATA[(github.blog)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어느 40년 차 프로그래머의 회고]]></title>
+        <id>https://maily.so/productlab/posts/5319c103</id>
+        <link href="https://maily.so/productlab/posts/5319c103"/>
+        <updated>2022-09-13T04:48:30.425Z</updated>
+        <content type="html"><![CDATA[(maily.so)]]></content>
     </entry>
 </feed>
