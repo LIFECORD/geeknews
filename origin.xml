@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-13T19:16:51.604Z</updated>
+    <updated>2022-09-13T20:22:37.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[(awesomekling.github.io)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[10년간 가장 저렴하게 이용할수 있는 도메인은?]]></title>
+        <id>https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/</id>
+        <link href="https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/"/>
+        <updated>2022-09-13T02:06:11.984Z</updated>
+        <content type="html"><![CDATA[(shkspr.mobi)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미국 의회 API 베타 공개]]></title>
         <id>https://api.congress.gov/</id>
         <link href="https://api.congress.gov/"/>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[(api.congress.gov)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10년간 가장 저렴하게 이용할수 있는 도메인은?]]></title>
-        <id>https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/</id>
-        <link href="https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/"/>
-        <updated>2022-09-13T02:06:11.984Z</updated>
-        <content type="html"><![CDATA[(shkspr.mobi)]]></content>
+        <title type="html"><![CDATA[Show GN: J40: JPEG XL 디코더]]></title>
+        <id>https://news.hada.io/topic?id=7389</id>
+        <link href="https://news.hada.io/topic?id=7389"/>
+        <updated>2022-09-13T20:22:00.260Z</updated>
+        <content type="html"><![CDATA[(github.com/lifthrasiir)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Youtube-dl, 870라인 파이썬으로 만든 JS 인터프리터 코드 내장]]></title>
@@ -137,12 +144,5 @@
         <link href="https://twitter.com/wbm312/status/1567974063578185728"/>
         <updated>2022-09-12T07:39:23.471Z</updated>
         <content type="html"><![CDATA[(twitter.com/wbm312)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴스레터는 진짜 동작하나요? 왜 웹사이트들이 엄청 푸시하나요?]]></title>
-        <id>https://news.ycombinator.com/item?id=32304011</id>
-        <link href="https://news.ycombinator.com/item?id=32304011"/>
-        <updated>2022-09-13T15:21:55.341Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
 </feed>
