@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-13T04:49:06.545Z</updated>
+    <updated>2022-09-13T06:14:14.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(github.com/divamgupta)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10년간 가장 저렴하게 이용할수 있는 도메인은?]]></title>
-        <id>https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/</id>
-        <link href="https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/"/>
-        <updated>2022-09-13T02:06:11.984Z</updated>
-        <content type="html"><![CDATA[(shkspr.mobi)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ladybird - 새로운 크로스플랫폼 브라우저 프로젝트]]></title>
         <id>https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/</id>
         <link href="https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/"/>
         <updated>2022-09-13T02:06:11.984Z</updated>
         <content type="html"><![CDATA[(awesomekling.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10년간 가장 저렴하게 이용할수 있는 도메인은?]]></title>
+        <id>https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/</id>
+        <link href="https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/"/>
+        <updated>2022-09-13T02:06:11.984Z</updated>
+        <content type="html"><![CDATA[(shkspr.mobi)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Youtube-dl, 870라인 파이썬으로 만든 JS 인터프리터 코드 내장]]></title>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Patreon, 보안팀 전체를 정리해고]]></title>
-        <id>https://twitter.com/wbm312/status/1567974063578185728</id>
-        <link href="https://twitter.com/wbm312/status/1567974063578185728"/>
-        <updated>2022-09-12T07:39:23.471Z</updated>
-        <content type="html"><![CDATA[(twitter.com/wbm312)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Leon - 음성합성/인식을 이용한 AI 개인 비서 오픈소스]]></title>
         <id>https://github.com/leon-ai/leon</id>
         <link href="https://github.com/leon-ai/leon"/>
@@ -109,6 +102,13 @@
         <link href="https://www.drawanything.app/"/>
         <updated>2022-09-11T02:02:02.309Z</updated>
         <content type="html"><![CDATA[(drawanything.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patreon, 보안팀 전체를 정리해고]]></title>
+        <id>https://twitter.com/wbm312/status/1567974063578185728</id>
+        <link href="https://twitter.com/wbm312/status/1567974063578185728"/>
+        <updated>2022-09-12T07:39:23.471Z</updated>
+        <content type="html"><![CDATA[(twitter.com/wbm312)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chitchatter - 오픈소스, 서버리스, 탈중앙화 P2P 채팅앱]]></title>
