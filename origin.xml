@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-16T14:29:15.920Z</updated>
+    <updated>2022-09-16T15:21:44.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[goreplay - 라이브 트래픽을 기록하고 섀도잉, 부하 테스트, 모니터링 및 세부 분석에 사용할 수 있는 ...]]></title>
-        <id>https://github.com/buger/goreplay</id>
-        <link href="https://github.com/buger/goreplay"/>
-        <updated>2022-09-16T04:51:31.688Z</updated>
-        <content type="html"><![CDATA[(github.com/buger)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tipi - 모두를 위한 홈 서버]]></title>
         <id>https://github.com/meienberger/runtipi</id>
         <link href="https://github.com/meienberger/runtipi"/>
         <updated>2022-09-16T02:11:46.290Z</updated>
         <content type="html"><![CDATA[(github.com/meienberger)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[goreplay - 라이브 트래픽을 기록하고 섀도잉, 부하 테스트, 모니터링 및 세부 분석에 사용할 수 있는 ...]]></title>
+        <id>https://github.com/buger/goreplay</id>
+        <link href="https://github.com/buger/goreplay"/>
+        <updated>2022-09-16T04:51:31.688Z</updated>
+        <content type="html"><![CDATA[(github.com/buger)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[s3sqlite - S3에 저장된 SQLite쿼리하기]]></title>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[B-52는 호텔방에서 주말동안 설계되었음(그리고 100년동안 날아다닐 예정)]]></title>
-        <id>https://www.sandboxx.us/blog/the-b-52-was-designed-in-a-hotel-room-over-one-weekend-and-will-probably-fly-for-100-years/</id>
-        <link href="https://www.sandboxx.us/blog/the-b-52-was-designed-in-a-hotel-room-over-one-weekend-and-will-probably-fly-for-100-years/"/>
-        <updated>2022-09-16T02:11:46.290Z</updated>
-        <content type="html"><![CDATA[(sandboxx.us)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[cloudflare가 nginx를 걷어내고 Rust로 HTTP Proxy(Pingora)를 만들어서 사용]]></title>
         <id>https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/</id>
         <link href="https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/"/>
@@ -62,11 +55,11 @@
         <content type="html"><![CDATA[(blog.cloudflare.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라라벨 부트캠프 페이지 오픈]]></title>
-        <id>https://laravel-news.com/laravel-bootcamp</id>
-        <link href="https://laravel-news.com/laravel-bootcamp"/>
-        <updated>2022-09-16T06:06:16.815Z</updated>
-        <content type="html"><![CDATA[(laravel-news.com)]]></content>
+        <title type="html"><![CDATA[B-52는 호텔방에서 주말동안 설계되었음(그리고 100년동안 날아다닐 예정)]]></title>
+        <id>https://www.sandboxx.us/blog/the-b-52-was-designed-in-a-hotel-room-over-one-weekend-and-will-probably-fly-for-100-years/</id>
+        <link href="https://www.sandboxx.us/blog/the-b-52-was-designed-in-a-hotel-room-over-one-weekend-and-will-probably-fly-for-100-years/"/>
+        <updated>2022-09-16T02:11:46.290Z</updated>
+        <content type="html"><![CDATA[(sandboxx.us)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빅테크 들은 어떻게 돈을 벌고 있나]]></title>
@@ -74,6 +67,13 @@
         <link href="https://www.visualcapitalist.com/cp/big-tech-revenue-profit-by-company/"/>
         <updated>2022-09-15T02:09:14.290Z</updated>
         <content type="html"><![CDATA[(visualcapitalist.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라라벨 부트캠프 페이지 오픈]]></title>
+        <id>https://laravel-news.com/laravel-bootcamp</id>
+        <link href="https://laravel-news.com/laravel-bootcamp"/>
+        <updated>2022-09-16T06:06:16.815Z</updated>
+        <content type="html"><![CDATA[(laravel-news.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[읽어본 것 중 최고의 소스코드는?]]></title>
