@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-16T04:52:10.523Z</updated>
+    <updated>2022-09-16T06:06:55.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://news.ycombinator.com/item?id=32790064"/>
         <updated>2022-09-16T02:11:46.290Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[goreplay - 라이브 트래픽을 기록하고 섀도잉, 부하 테스트, 모니터링 및 세부 분석에 사용할 수 있는 ...]]></title>
+        <id>https://github.com/buger/goreplay</id>
+        <link href="https://github.com/buger/goreplay"/>
+        <updated>2022-09-16T04:51:31.688Z</updated>
+        <content type="html"><![CDATA[(github.com/buger)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[s3sqlite - S3에 저장된 SQLite쿼리하기]]></title>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[(stackaid.us)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adobe가 Figma를 $20B(28조원)에 인수 예정]]></title>
-        <id>https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma</id>
-        <link href="https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma"/>
-        <updated>2022-09-16T02:11:46.299Z</updated>
-        <content type="html"><![CDATA[(bloomberg.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[B-52는 호텔방에서 주말동안 설계되었음(그리고 100년동안 날아다닐 예정)]]></title>
         <id>https://www.sandboxx.us/blog/the-b-52-was-designed-in-a-hotel-room-over-one-weekend-and-will-probably-fly-for-100-years/</id>
         <link href="https://www.sandboxx.us/blog/the-b-52-was-designed-in-a-hotel-room-over-one-weekend-and-will-probably-fly-for-100-years/"/>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[(sandboxx.us)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[goreplay - 라이브 트래픽을 기록하고 섀도잉, 부하 테스트, 모니터링 및 세부 분석에 사용할 수 있는 ...]]></title>
-        <id>https://github.com/buger/goreplay</id>
-        <link href="https://github.com/buger/goreplay"/>
-        <updated>2022-09-16T04:51:31.688Z</updated>
-        <content type="html"><![CDATA[(github.com/buger)]]></content>
+        <title type="html"><![CDATA[Adobe가 Figma를 $20B(28조원)에 인수 예정]]></title>
+        <id>https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma</id>
+        <link href="https://www.bloomberg.com/news/articles/2022-09-15/adobe-is-said-to-near-deal-to-buy-online-design-startup-figma"/>
+        <updated>2022-09-16T02:11:46.299Z</updated>
+        <content type="html"><![CDATA[(bloomberg.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[cloudflare가 nginx를 걷어내고 Rust로 HTTP Proxy(Pingora)를 만들어서 사용]]></title>
@@ -67,6 +67,13 @@
         <link href="https://www.visualcapitalist.com/cp/big-tech-revenue-profit-by-company/"/>
         <updated>2022-09-15T02:09:14.290Z</updated>
         <content type="html"><![CDATA[(visualcapitalist.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라라벨 부트캠프 페이지 오픈]]></title>
+        <id>https://laravel-news.com/laravel-bootcamp</id>
+        <link href="https://laravel-news.com/laravel-bootcamp"/>
+        <updated>2022-09-16T06:06:16.815Z</updated>
+        <content type="html"><![CDATA[(laravel-news.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[읽어본 것 중 최고의 소스코드는?]]></title>
@@ -104,6 +111,13 @@
         <content type="html"><![CDATA[(github.com/lifthrasiir)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[satisfies: 안전한 업캐스팅 (TypeScript 4.9)]]></title>
+        <id>https://engineering.ab180.co/stories/satisfies-safe-upcasting</id>
+        <link href="https://engineering.ab180.co/stories/satisfies-safe-upcasting"/>
+        <updated>2022-09-14T04:20:47.801Z</updated>
+        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[컨슈머 오디오 비즈니스의 "비밀"]]></title>
         <id>https://www.audiosciencereview.com/forum/index.php?threads/secrets-about-the-consumer-audio-business-you-may-find-interesting.37344/</id>
         <link href="https://www.audiosciencereview.com/forum/index.php?threads/secrets-about-the-consumer-audio-business-you-may-find-interesting.37344/"/>
@@ -116,20 +130,6 @@
         <link href="https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/"/>
         <updated>2022-09-15T02:09:14.293Z</updated>
         <content type="html"><![CDATA[(w4games.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[satisfies: 안전한 업캐스팅 (TypeScript 4.9)]]></title>
-        <id>https://engineering.ab180.co/stories/satisfies-safe-upcasting</id>
-        <link href="https://engineering.ab180.co/stories/satisfies-safe-upcasting"/>
-        <updated>2022-09-14T04:20:47.801Z</updated>
-        <content type="html"><![CDATA[(engineering.ab180.co)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Follower - 오픈 카메라와 AI를 이용하여 인스타그램 사진이 찍힌 과정 보기]]></title>
-        <id>https://driesdepoorter.be/thefollower/</id>
-        <link href="https://driesdepoorter.be/thefollower/"/>
-        <updated>2022-09-14T02:01:12.350Z</updated>
-        <content type="html"><![CDATA[(driesdepoorter.be)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DiffusionBee - M1/M2 맥을 위한 Stable Diffusion GUI 앱]]></title>
