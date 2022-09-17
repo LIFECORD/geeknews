@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-17T05:38:11.250Z</updated>
+    <updated>2022-09-17T06:25:40.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HBIOS-SYS - 한글 MS-DOS의 시스템 글꼴을 복각하는 프로젝트]]></title>
-        <id>https://hbios.quiple.dev/</id>
-        <link href="https://hbios.quiple.dev/"/>
-        <updated>2022-09-17T01:55:20.538Z</updated>
-        <content type="html"><![CDATA[(hbios.quiple.dev)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[애플, 차단(락다운) 모드]]></title>
         <id>https://support.apple.com/ko-kr/HT212650</id>
         <link href="https://support.apple.com/ko-kr/HT212650"/>
         <updated>2022-09-17T01:55:20.538Z</updated>
         <content type="html"><![CDATA[(support.apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HBIOS-SYS - 한글 MS-DOS의 시스템 글꼴을 복각하는 프로젝트]]></title>
+        <id>https://hbios.quiple.dev/</id>
+        <link href="https://hbios.quiple.dev/"/>
+        <updated>2022-09-17T01:55:20.538Z</updated>
+        <content type="html"><![CDATA[(hbios.quiple.dev)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tipi - 모두를 위한 홈 서버]]></title>
