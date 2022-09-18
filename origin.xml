@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-18T02:21:59.405Z</updated>
+    <updated>2022-09-18T04:38:33.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[FLAC 1.4.0 릴리즈]]></title>
-        <id>https://xiph.org/flac/2022/09/09/flac-1-4-0-released.html</id>
-        <link href="https://xiph.org/flac/2022/09/09/flac-1-4-0-released.html"/>
-        <updated>2022-09-18T02:21:23.633Z</updated>
-        <content type="html"><![CDATA[(xiph.org)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Exif Looter - 폴더의 모든 이미지의 위치정보 가져오기]]></title>
         <id>https://github.com/aydinnyunus/exifLooter</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[(github.com/aydinnyunus)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cachegrand - 최신 하드웨어에 잘 맞는 오픈소스 키-밸류 스토어]]></title>
-        <id>https://github.com/danielealbano/cachegrand</id>
-        <link href="https://github.com/danielealbano/cachegrand"/>
-        <updated>2022-09-18T02:21:23.636Z</updated>
-        <content type="html"><![CDATA[(github.com/danielealbano)]]></content>
+        <title type="html"><![CDATA[FLAC 1.4.0 릴리즈]]></title>
+        <id>https://xiph.org/flac/2022/09/09/flac-1-4-0-released.html</id>
+        <link href="https://xiph.org/flac/2022/09/09/flac-1-4-0-released.html"/>
+        <updated>2022-09-18T02:21:23.633Z</updated>
+        <content type="html"><![CDATA[(xiph.org)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신의 업무/학습 분야에서 어떤 책이 진정한 보물인가요?]]></title>
@@ -32,6 +25,13 @@
         <link href="https://news.ycombinator.com/item?id=32790064"/>
         <updated>2022-09-16T02:11:46.290Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cachegrand - 최신 하드웨어에 잘 맞는 오픈소스 키-밸류 스토어]]></title>
+        <id>https://github.com/danielealbano/cachegrand</id>
+        <link href="https://github.com/danielealbano/cachegrand"/>
+        <updated>2022-09-18T02:21:23.636Z</updated>
+        <content type="html"><![CDATA[(github.com/danielealbano)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HBIOS-SYS - 한글 MS-DOS의 시스템 글꼴을 복각하는 프로젝트]]></title>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[(visualcapitalist.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[s3sqlite - S3에 저장된 SQLite쿼리하기]]></title>
-        <id>https://github.com/litements/s3sqlite</id>
-        <link href="https://github.com/litements/s3sqlite"/>
-        <updated>2022-09-16T02:11:46.299Z</updated>
-        <content type="html"><![CDATA[(github.com/litements)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[읽어본 것 중 최고의 소스코드는?]]></title>
         <id>https://news.ycombinator.com/item?id=32793534</id>
         <link href="https://news.ycombinator.com/item?id=32793534"/>
         <updated>2022-09-14T02:01:12.348Z</updated>
         <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[s3sqlite - S3에 저장된 SQLite쿼리하기]]></title>
+        <id>https://github.com/litements/s3sqlite</id>
+        <link href="https://github.com/litements/s3sqlite"/>
+        <updated>2022-09-16T02:11:46.299Z</updated>
+        <content type="html"><![CDATA[(github.com/litements)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애플, 차단(락다운) 모드]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[(sandboxx.us)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여러분은 새로운 음악을 어떻게 발견하나요?]]></title>
-        <id>https://news.ycombinator.com/item?id=32835559</id>
-        <link href="https://news.ycombinator.com/item?id=32835559"/>
-        <updated>2022-09-17T01:55:20.538Z</updated>
-        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Atkinson Hyperlegible Font - 저시력자를 위해 가독성을 높인 폰트]]></title>
         <id>https://brailleinstitute.org/freefont</id>
         <link href="https://brailleinstitute.org/freefont"/>
         <updated>2022-09-14T02:01:12.332Z</updated>
         <content type="html"><![CDATA[(brailleinstitute.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여러분은 새로운 음악을 어떻게 발견하나요?]]></title>
+        <id>https://news.ycombinator.com/item?id=32835559</id>
+        <link href="https://news.ycombinator.com/item?id=32835559"/>
+        <updated>2022-09-17T01:55:20.538Z</updated>
+        <content type="html"><![CDATA[(news.ycombinator.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: J40: JPEG XL 디코더]]></title>
