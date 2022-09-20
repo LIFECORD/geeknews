@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-20T07:28:54.583Z</updated>
+    <updated>2022-09-20T08:31:05.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(usbip.sourceforge.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[faster cpython, 4년 안에 5배 빨라짐]]></title>
-        <id>https://github.com/faster-cpython</id>
-        <link href="https://github.com/faster-cpython"/>
-        <updated>2022-09-20T04:48:12.042Z</updated>
-        <content type="html"><![CDATA[(github.com/faster-cpython)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Virtual FIDO - 2FA/WebAuthN을 위한 가상 Yubikey 디바이스]]></title>
         <id>https://github.com/bulwarkid/virtual-fido</id>
         <link href="https://github.com/bulwarkid/virtual-fido"/>
@@ -39,6 +32,13 @@
         <link href="https://tinybase.org/"/>
         <updated>2022-09-20T02:02:52.837Z</updated>
         <content type="html"><![CDATA[(tinybase.org)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[faster cpython, 4년 안에 5배 빨라짐]]></title>
+        <id>https://github.com/faster-cpython</id>
+        <link href="https://github.com/faster-cpython"/>
+        <updated>2022-09-20T04:48:12.042Z</updated>
+        <content type="html"><![CDATA[(github.com/faster-cpython)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Terraform 입문자를 위한 실습 문서 - Hands on Terraform with GCP]]></title>
