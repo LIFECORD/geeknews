@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/</id>
     <title>GeekNews ─ 원문</title>
-    <updated>2022-09-20T14:30:09.590Z</updated>
+    <updated>2022-09-20T15:23:14.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(tinybase.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Virtual FIDO - 2FA/WebAuthN을 위한 가상 Yubikey 디바이스]]></title>
-        <id>https://github.com/bulwarkid/virtual-fido</id>
-        <link href="https://github.com/bulwarkid/virtual-fido"/>
-        <updated>2022-09-20T02:02:52.836Z</updated>
-        <content type="html"><![CDATA[(github.com/bulwarkid)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[faster cpython, 4년 안에 5배 빨라짐]]></title>
         <id>https://github.com/faster-cpython</id>
         <link href="https://github.com/faster-cpython"/>
         <updated>2022-09-20T04:48:12.042Z</updated>
         <content type="html"><![CDATA[(github.com/faster-cpython)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual FIDO - 2FA/WebAuthN을 위한 가상 Yubikey 디바이스]]></title>
+        <id>https://github.com/bulwarkid/virtual-fido</id>
+        <link href="https://github.com/bulwarkid/virtual-fido"/>
+        <updated>2022-09-20T02:02:52.836Z</updated>
+        <content type="html"><![CDATA[(github.com/bulwarkid)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iFixit: 아이폰 14는 수리하기 쉽게 완전히 재설계 되었다]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[(heumsi.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['슈퍼 앱'이 신흥 시장에서 확산되는 이유]]></title>
-        <id>https://afridigest.com/super-apps-in-emerging-markets/</id>
-        <link href="https://afridigest.com/super-apps-in-emerging-markets/"/>
-        <updated>2022-09-19T02:09:35.509Z</updated>
-        <content type="html"><![CDATA[(afridigest.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Next Normal - 맥킨지의 2030년 생활상 예상해 보기]]></title>
         <id>https://www.mckinsey.com/featured-insights/the-next-normal/2030s</id>
         <link href="https://www.mckinsey.com/featured-insights/the-next-normal/2030s"/>
         <updated>2022-09-20T04:48:12.043Z</updated>
         <content type="html"><![CDATA[(mckinsey.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['슈퍼 앱'이 신흥 시장에서 확산되는 이유]]></title>
+        <id>https://afridigest.com/super-apps-in-emerging-markets/</id>
+        <link href="https://afridigest.com/super-apps-in-emerging-markets/"/>
+        <updated>2022-09-19T02:09:35.509Z</updated>
+        <content type="html"><![CDATA[(afridigest.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 20대들은 모두 자막(Closed Captions)을 켜고 볼까?]]></title>
