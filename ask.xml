@@ -2,7 +2,127 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/ask</id>
     <title>GeekNews Ask</title>
-    <updated>2022-10-07T14:36:48.588Z</updated>
+    <updated>2022-10-07T15:44:09.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7558</id>
+        <link href="https://news.hada.io/topic?id=7558"/>
+        <updated>2022-10-07T15:39:32.179Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 10월)]]></title>
+        <id>https://news.hada.io/topic?id=7538</id>
+        <link href="https://news.hada.io/topic?id=7538"/>
+        <updated>2022-10-07T15:39:32.615Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구직 - 같이 일할 팀을 찾습니다 (2022년 10월)]]></title>
+        <id>https://news.hada.io/topic?id=7537</id>
+        <link href="https://news.hada.io/topic?id=7537"/>
+        <updated>2022-10-07T15:39:32.684Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7516</id>
+        <link href="https://news.hada.io/topic?id=7516"/>
+        <updated>2022-10-07T15:39:32.784Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 개발자 밈을 어디서 찾으시나요]]></title>
+        <id>https://news.hada.io/topic?id=7479</id>
+        <link href="https://news.hada.io/topic?id=7479"/>
+        <updated>2022-10-07T15:39:32.794Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7466</id>
+        <link href="https://news.hada.io/topic?id=7466"/>
+        <updated>2022-10-07T15:39:32.796Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7413</id>
+        <link href="https://news.hada.io/topic?id=7413"/>
+        <updated>2022-10-07T15:39:32.797Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 9월)]]></title>
+        <id>https://news.hada.io/topic?id=7347</id>
+        <link href="https://news.hada.io/topic?id=7347"/>
+        <updated>2022-10-07T15:39:32.799Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7369</id>
+        <link href="https://news.hada.io/topic?id=7369"/>
+        <updated>2022-10-07T15:39:32.799Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7317</id>
+        <link href="https://news.hada.io/topic?id=7317"/>
+        <updated>2022-10-07T15:39:33.224Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구직 - 같이 일할 팀을 찾습니다 (2022년 9월)]]></title>
+        <id>https://news.hada.io/topic?id=7346</id>
+        <link href="https://news.hada.io/topic?id=7346"/>
+        <updated>2022-10-07T15:39:33.248Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구인 - 멤버를 찾고 계신가요 ? (2022년 8월)]]></title>
+        <id>https://news.hada.io/topic?id=7089</id>
+        <link href="https://news.hada.io/topic?id=7089"/>
+        <updated>2022-10-07T15:39:33.257Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7268</id>
+        <link href="https://news.hada.io/topic?id=7268"/>
+        <updated>2022-10-07T15:39:33.271Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 초장거리 출퇴근을 하시는 분이 계실까요?]]></title>
+        <id>https://news.hada.io/topic?id=7147</id>
+        <link href="https://news.hada.io/topic?id=7147"/>
+        <updated>2022-10-07T15:39:33.480Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7209</id>
+        <link href="https://news.hada.io/topic?id=7209"/>
+        <updated>2022-10-07T15:39:33.525Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 어떨 때 성장을 느끼셨나요?]]></title>
+        <id>https://news.hada.io/topic?id=7041</id>
+        <link href="https://news.hada.io/topic?id=7041"/>
+        <updated>2022-10-07T15:39:33.927Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이달의 구직 - 같이 일할 팀을 찾습니다 (2022년 8월)]]></title>
+        <id>https://news.hada.io/topic?id=7090</id>
+        <link href="https://news.hada.io/topic?id=7090"/>
+        <updated>2022-10-07T15:39:33.927Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7173</id>
+        <link href="https://news.hada.io/topic?id=7173"/>
+        <updated>2022-10-07T15:39:33.928Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7024</id>
+        <link href="https://news.hada.io/topic?id=7024"/>
+        <updated>2022-10-07T15:39:33.941Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: GeekNews 외에 어디서 개발 관련 소식을 얻으시나요?]]></title>
+        <id>https://news.hada.io/topic?id=7019</id>
+        <link href="https://news.hada.io/topic?id=7019"/>
+        <updated>2022-10-07T15:39:33.942Z</updated>
+    </entry>
 </feed>
